@@ -4,20 +4,19 @@ description:
 date: 2016-08-18
 tags:
   - Åke
+  - Skola
 author: pelle
 photo: 
 layout: layouts/post.njk
----
-[Original](http://kroons.se/familj/2016/08/18/akes-forsta-skoldag/)
-		
+---		
 Så blev det äntligen dags för Åke att börja skolan! Han hade full koll på exakt när det skulle ske och tyckte nog inte att det var något märkvärdigt egentligen. Det var bara något helt naturligt.
 <figure>
-    <img class="wp-image-17 size-full" src="http://kroons.se/familj/wp-content/uploads/sites/2/2016/09/acc8akes-focc88rsta-skoldag-perk8070.jpg">
+    <img class="wp-image-17 size-full" src="../../img/2016/09/acc8akes-focc88rsta-skoldag-perk8070.jpg">
     <figcaption>Åke ser fram emot skolstarten.</figcaption>
 </figure>
 
 <figure>
-    <img class="wp-image-4 size-full" src="http://kroons.se/familj/wp-content/uploads/sites/2/2016/09/acc8akes-focc88rsta-skoldag-perk8195.jpg" alt="Åke utanför porten, med den nya väskan.">
+    <img class="wp-image-4 size-full" src="../../img/2016/09/acc8akes-focc88rsta-skoldag-perk8195.jpg" alt="Åke utanför porten, med den nya väskan.">
     <figcaption>Åke utanför porten, med den nya väskan.</figcaption>
 </figure>
 
@@ -46,3 +45,5 @@ Under sommaren hade skolgården rustats upp. Alla klasserna samlades ute på sko
 </figure>
 
 Åkes klass heter Tellus och är en fjärde förskoleklass på Högalidsskolan. De andra tre förskoleklasserna är på bottenvåningen, men Åkes klass är två trappor upp, i korridoren bredvid Tage.
+
+[Original](http://kroons.se/familj/2016/08/18/akes-forsta-skoldag/)

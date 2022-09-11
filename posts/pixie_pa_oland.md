@@ -5,15 +5,13 @@ date: 2020-08-08
 tags:
   - Öland
   - Pixie
-author: pelle
+author: Åke
 photo: ../../img/2020/08/img_5268.jpg
 layout: layouts/post.njk
 ---
-
-
 Under vår Ölandsvecka den här sommaren fick vi fint besök: farmor och farfar kom och hälsade på – med Pixie! De passar Pixie åt oss hela sommaren, så nu när de kom till Öland fick Pixie följa med.
 
-Han fick hålla sig inne i den lilla stugan, men vi var också ute enkel del med honom. Han hade aldrig varit ute så mycket tidigare som han var den här gången. Det fanns gott om fjärilar och flugor att jaga, men han såg också kor och en orm. Det kom en stor schäfer förbi en gång och då blev han lite rädd och jamade, men annars var det bara kul!
+Han fick hålla sig inne i den lilla stugan, men vi var också ute en del med honom. Han hade aldrig varit ute så mycket tidigare som han var den här gången. Det fanns gott om fjärilar och flugor att jaga, men han såg också kor och en orm. Det kom en stor schäfer förbi en gång och då blev han lite rädd och jamade, men annars var det bara kul!
 
 
 <figure>

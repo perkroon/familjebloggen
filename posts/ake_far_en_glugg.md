@@ -12,7 +12,7 @@ Framtänderna har varit lösa hela sommaren och vi har gått och väntat på att
 
 <figure>
     <img class="size-full wp-image-30" src="../../img/2016/10/raw-perk8693.jpg" alt="Adjö vänster framtand!">
-    <figcapture>Adjö vänster framtand!</figcapture>
+    <figcaption>Adjö vänster framtand!</figcaption>
 </figure>
 
 [Original](http://kroons.se/familj/2016/09/17/ake-far-en-glugg/)

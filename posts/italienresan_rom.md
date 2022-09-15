@@ -18,7 +18,6 @@ Vi reste till Italien den här sommaren. Lovisa jobbade in i det sista och hoppa
     </figcaption>
 </figure>
 
-
 Nästa dag åt vi frukost och bytte till vårt gemensamma rum med fyra sängar – mycket bättre! Det var fortfarande ordentligt varmt, men som tur var så var det mulet hela dagen, så vi slapp solens heta strålar. Bra för oss som kom från kalla Norden och inte hunnit vänja oss än! Vi gick till Colosseum, och det kändes som att det tog hela förmiddagen. (Fast vi hann med att äta glass också, och att se en dam som kramade duvor i parken). På Colosseum hade vi förbeställt biljetter och kom in utan någon kötid att tala om. Det hade varit jobbit för barnen att gå genom staden, men väl på Colosseum verkade de kvickna till och gilla att titta runt. Lovisa och jag var på Colosseum på vår första utlandssemester ihop, så vi kunde tänka tillbaka på den gången också.
 
 <img class="breakout alignnone wp-image-197 size-full" src="../../img/2017/07/italien-rom-perk5277-20170630.jpg">

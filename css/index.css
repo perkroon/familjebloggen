@@ -17,20 +17,21 @@
   --text-color-link-visited: #17050F;
 }
 
+/*
 @media (prefers-color-scheme: dark) {
   :root {
     --color-gray-20: #e0e0e0;
     --color-gray-50: #C0C0C0;
     --color-gray-90: #dad8d8;
 
-    /* --text-color is assigned to --color-gray-_ above */
+    // --text-color is assigned to --color-gray-_ above //
     --text-color-link: #1493fb;
     --text-color-link-visited: #a6a6f8;
 
     --background-color: #15202b;
   }
 }
-
+*/
 
 /* Global stylesheet */
 * {
@@ -40,7 +41,6 @@
 html,
 body {
   padding: 0;
-  margin: 0;
   font-family: var(--font-family);
   color: var(--text-color);
   background-color: var(--background-color);
@@ -52,11 +52,22 @@ p:last-child {
 p,
 .tmpl-post li,
 img {
-  max-width: 37.5em; /* 600px /16 */
+  max-width: 60em; /* 600px /10 */
 }
 p,
 .tmpl-post li {
   line-height: 1.45;
+  margin: 0 auto;
+}
+
+figure {
+  max-width: 60em;
+  margin: 0 auto;
+  padding-bottom: 3em;
+}
+
+figcaption {
+  font-style: italic;
 }
 
 a[href] {

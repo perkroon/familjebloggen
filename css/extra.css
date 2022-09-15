@@ -1,0 +1,25 @@
+/* Extra */
+.featured-photo {
+    left: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    max-width: 100vw;
+    position: relative;
+    right: 50%;
+    width: 100vw;
+  }
+
+/* Image captures, d.v.s. bildtexter. Alla * direkt efter en bild tolkas som bildtexter */
+img + em {
+  font-size: 0.8em;
+  line-height: 0.6em;;
+}
+
+h1 {
+      font-family: 'Abril Fatface', serif;
+      font-size: 3.5em;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      font-weight: 400;
+      text-align: center;
+}

@@ -1,8 +1,8 @@
 {
-  "title": "Your Blog Name",
+  "title": "Familjeblogg",
   "url": "https://example.com/",
-  "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "language": "sv",
+  "description": "Några berättelser från familjen.",
   "feed": {
     "subtitle": "I am writing about my experiences as a naval navel-gazer.",
     "filename": "feed.xml",
@@ -14,7 +14,7 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
+    "name": "Per Kroon",
     "email": "youremailaddress@example.com",
     "url": "https://example.com/about-me/"
   }

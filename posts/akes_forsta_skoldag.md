@@ -6,7 +6,7 @@ tags:
   - Åke
   - Skola
 author: pelle
-photo: 
+photo: ../../img/2016/09/acc8akes-focc88rsta-skoldag-perk8195.jpg
 layout: layouts/post.njk
 ---		
 Så blev det äntligen dags för Åke att börja skolan! Han hade full koll på exakt när det skulle ske och tyckte nog inte att det var något märkvärdigt egentligen. Det var bara något helt naturligt.

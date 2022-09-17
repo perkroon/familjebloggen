@@ -6,7 +6,7 @@ tags:
   - Resa
   - Kroatien
 author: pelle
-photo: ./../img/2018/07/kroatienresa-perk5355-20180616.jpg
+photo: ../../img/2018/07/kroatienresa-perk5355-20180616.jpg
 layout: layouts/post.njk
 ---
 

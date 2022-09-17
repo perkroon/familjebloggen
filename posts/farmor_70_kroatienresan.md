@@ -6,7 +6,7 @@ tags:
   - Resa
   - Kroatien
 author: pelle
-photo: ../../img/2018/07/img_0350.jpg"
+photo: ../../img/2018/07/img_0350.jpg
 layout: layouts/post.njk
 ---
 Farmor fyllde 70 år och bjöd med oss på en resa till Mlini söder om Dubrovnik i Kroatien. Skolavslutningen var på fredagen, och redan tidigt på söndag morgon åkte vi från Arlanda. Vi hade lite otur på resan: en av de två väskorna vi lämnade in kom inte fram till Kroatien med vårt plan, så vi fick vänta på den några dagar. Som väl var fanns badkläderna i den väskan som faktiskt kom fram.

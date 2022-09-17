@@ -1,0 +1,27 @@
+<ol reversed class="postlist" style="counter-reset: start-from {{ (postslistCounter or postslist.length) + 1 }}">
+{% for post in postslist | reverse %}
+
+  <li class="{% if post.url == url %} postlist-item-active{% endif %}">
+    <a href="{{ post.url | url }}" class="postlist-link">
+      <div class="centric" >
+        <img src="{{ post.url }}{{ post.data.photo }}">
+        <div class="titlepanel">
+          {% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}
+        </div>
+      </div>
+      </a>
+      <div class="centric" style="text-align:center;">
+        <time class="postlist2-date" datetime="{{ post.date | htmlDateString }}">{{ post.date.toLocaleDateString() }}</time>
+        {% for tag in post.data.tags | filterTagList %}
+          {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+          <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
+        {% endfor %}
+      </div>
+  </li>
+{% endfor %}
+<!--
+  Kvar att fixa:
+  1. Om det inte finns någon bild till inlägget: visa enbart rubriken, plus datum och taggar.
+  2. Om bilden inte är full bredd: se till att panelen är lika bred som bilden. Centrera bilden.
+  -->
+</ol>

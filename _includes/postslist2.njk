@@ -1,0 +1,21 @@
+<div class="postscontainer">
+
+{% for post in postslist | reverse %}
+  <div class="postlistitem2">
+    <a href="{{ post.url | url }}">
+        {% if post.data.photo %}
+          <img src="{{ post.url }}{{ post.data.photo }}">
+        {% else %}
+          <div class="noimage"/>
+        {% endif %}
+        <div class="titlepanel">
+          <time datetime="{{ post.date | htmlDateString }}">{{ post.date.toLocaleString('sv-SE', 
+            {dateStyle: "long"})  }}</time>
+          {% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}
+        </div>
+        </a>
+
+  </div>
+{% endfor %}
+
+</div>

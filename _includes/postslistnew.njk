@@ -8,10 +8,11 @@
         <div class="titlepanel">
           {% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}
         </div>
+        <time class="posttime" datetime="{{ post.date | htmlDateString }}">{{ post.date.toLocaleDateString() }}</time>
       </div>
       </a>
       <div class="centric" style="text-align:center;">
-        <time class="postlist2-date" datetime="{{ post.date | htmlDateString }}">{{ post.date.toLocaleDateString() }}</time>
+        
         {% for tag in post.data.tags | filterTagList %}
           {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
           <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>

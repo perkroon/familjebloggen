@@ -24,7 +24,8 @@ h1 {
   text-align: center;
 }
 
-.postlist2-date {
+.posttime {
+  display: block;
   font-family: 'Abril Fatface', serif;
   font-size: 1em;
   font-weight: 400;
@@ -39,11 +40,15 @@ h1 {
 .centric {
   margin: 0 auto;
   max-width: 60em;
+  display: inline-block; /* Not wider than content */
+}
+
+img ~ .titlepanel {
+  top: -150px;
 }
 
 .titlepanel {
   position: relative;
-  top: -150px;
   margin-bottom: -150px;
   background-color: rgba(1,1,1,0.3);
   height: 145px; /* ? */
@@ -56,10 +61,37 @@ h1 {
   text-align: center;
 }
 
+.titlepanel > time {
+  font-size: 0.4em;
+  display: block;
+  font-family: var(--font-family);
+  padding-top: 0.5em;
+  margin-bottom: 1.5em;
+}
+
+.noimage {
+  height:150px;
+}
+
 a:link {
   text-decoration: none;
 }
 
 a:hover {
   text-decoration-style: bold;
+}
+
+/* ---------------------------- */
+
+.postscontainer {
+  display: flex;
+  flex-direction:column;
+  margin: 0 auto;
+  max-width: 60em;
+}
+
+.postlistitem2 {  
+  margin: 0 auto;
+  max-width: 60em;
+  width: fit-content;
 }

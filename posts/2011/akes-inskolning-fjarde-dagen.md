@@ -13,4 +13,3 @@ Nu visste nog Åke vad som väntade när vi gick ivåg i morse. Först lämnade 
  <tr><td style="text-align: center;"><img src="../../../../img/Inskolning+fo%25CC%2588r+A%25CC%258Ake-_MG_8403.jpg" width="640"></td></tr>
  <tr><td class="tr-caption" style="text-align: center;"><i>Åke gillar rödbetsrisotto.</i></td></tr>
  </tbody></table>Imorgon ska han för första gången sova på förskolan också.
-<!-- no comments on this post -->

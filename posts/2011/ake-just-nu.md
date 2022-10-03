@@ -31,4 +31,3 @@ Vad händer med Åke just nu? Förändringarna sker ju i små små steg så ibla
  <li>Toalettpapper (riva sönder i så små bitar som möjligt och stoppa på oväntade ställen)</li>
  <li>Mikrovågsugnen (sätta på och lyssna hur den brummar) </li>
  </ul>
-<!-- no comments on this post -->

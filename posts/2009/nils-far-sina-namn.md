@@ -10,7 +10,34 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2009/07/nils-far-sina-namn.html
 ---
 
-<div style="text-align: left;"><span style="font-size:100%;">(Vi har varit iväg på semester i några veckor och låtsats att Internet inte finns utanför Stockholm. Därför har det varit tyst här på bloggen en tid, men nu är vi tillbaka och har ingen ursäkt längre. Här kommer det första inlägget på länge!</span>)<br></div><br>För precis en månad sedan, den 27 juni, var vi bjudna till Tages kompis Nils namngivning. Det var en strålande vacker sommardag i Stockholms skärgård när Nils fick sina namn.<br><br><div style="text-align: center;"><img src="../../../../img/_MG_6216_print_matte.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Nils poserar med föräldrarna.</span></span><br></div><br><br><div style="text-align: center;"><img src="../../../../img/_MG_6084_print_matte.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Förutom Nils heter Nils också Herman vilket framgår av tröjan.</span></span><br></div><br><br><div style="text-align: center;"><img src="../../../../img/_MG_6138_print_matte.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Matpaus på språng.</span></span><br></div><br>Tage hade väldigt många mer eller mindre jämnåriga att leka med den här dagen, t.ex. killen på bilden ovan. Men han gillar även att umgås med vuxna. Nedan spexar Nils faster med Tage vilket han uppskattade rejält.<br><br><br><div style="text-align: center;"><img src="../../../../img/_MG_6223_1024pix.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Nils faster charmar Tage...</span><br></span></div><br><br><div style="text-align: center;"><img src="../../../../img/_MG_6224_1024pix.jpg"><span style="font-size:85%;"><span style="font-style: italic;">...vilket gör stor succé!</span></span><br></div><br><br><div style="text-align: center;"><img src="../../../../img/_MG_6225_1024pix.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Ett kul kalas det här!</span></span><br></div><br>Tack för en fin fest Nils!
+<div style="text-align: left;"><span style="font-size:100%;">(Vi har varit iväg på semester i några veckor och låtsats att Internet inte finns utanför Stockholm. Därför har det varit tyst här på bloggen en tid, men nu är vi tillbaka och har ingen ursäkt längre. Här kommer det första inlägget på länge!</span>)<br></div><br>För precis en månad sedan, den 27 juni, var vi bjudna till Tages kompis Nils namngivning. Det var en strålande vacker sommardag i Stockholms skärgård när Nils fick sina namn.
+
+<figure>
+	<img src="../../../../img/_MG_6216_print_matte.jpg">
+	<figcaption>Nils poserar med föräldrarna.</span></span><br></div>
+
+<figure>
+	<img src="../../../../img/_MG_6084_print_matte.jpg">
+	<figcaption>Förutom Nils heter Nils också Herman vilket framgår av tröjan.</span></span><br></div>
+
+<figure>
+	<img src="../../../../img/_MG_6138_print_matte.jpg">
+	<figcaption>Matpaus på språng.</figcaption>
+</figure>Tage hade väldigt många mer eller mindre jämnåriga att leka med den här dagen, t.ex. killen på bilden ovan. Men han gillar även att umgås med vuxna. Nedan spexar Nils faster med Tage vilket han uppskattade rejält.<br>
+
+<figure>
+	<img src="../../../../img/_MG_6223_1024pix.jpg">
+	<figcaption>Nils faster charmar Tage...</figcaption>
+</figure>
+
+<figure>
+	<img src="../../../../img/_MG_6224_1024pix.jpg">
+	<figcaption>...vilket gör stor succé!</span></span><br></div>
+
+<figure>
+	<img src="../../../../img/_MG_6225_1024pix.jpg">
+	<figcaption>Ett kul kalas det här!</figcaption>
+</figure>Tack för en fin fest Nils!
 
 <div class="comments">
 	<div class="comments-header"><h2>1 Comment</h2></div>

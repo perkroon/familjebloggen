@@ -9,7 +9,11 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2008/07/tage-gr-nya-framsteg.html
 ---
 
-Vad har Tage lärt sig på sistone? En sak som märks tydligt är att hans motorik har förbättrats avsevärt. Han kan nu sikta in sig på något, till exempel en bitring, och ta tag i den med händerna och sedan föra den stadigt till munnen. Eller om vi börjar snurra på någon rolig grej på babygymmet, då för han genast händerna dit för att snurra på den han också. Det känns som om han börjar förstå hur världen fungerar. Visst, han kanske ännu inte har förstått sambandet mellan oljepriset och den pågående urbaniseringen i världen, men vem har väl gjort det?<br><br><div style="text-align: center;"><img src="../../../../img/_MG_4816_1024pix.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Tage har greppat mycket på sista tiden.</span></span><br></div>
+Vad har Tage lärt sig på sistone? En sak som märks tydligt är att hans motorik har förbättrats avsevärt. Han kan nu sikta in sig på något, till exempel en bitring, och ta tag i den med händerna och sedan föra den stadigt till munnen. Eller om vi börjar snurra på någon rolig grej på babygymmet, då för han genast händerna dit för att snurra på den han också. Det känns som om han börjar förstå hur världen fungerar. Visst, han kanske ännu inte har förstått sambandet mellan oljepriset och den pågående urbaniseringen i världen, men vem har väl gjort det?
+
+<figure>
+	<img src="../../../../img/_MG_4816_1024pix.jpg">
+	<figcaption>Tage har greppat mycket på sista tiden.</span></span><br></div>
 
 <div class="comments">
 	<div class="comments-header"><h2>1 Comment</h2></div>

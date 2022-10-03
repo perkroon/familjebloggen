@@ -8,4 +8,3 @@ originalUrl: https://nejtupp.blogspot.com/2008/12/god-jul-och-gott-nytt-r.html
 ---
 
 <img src="../../images/_MG_9335.jpg">
-<!-- no comments on this post -->

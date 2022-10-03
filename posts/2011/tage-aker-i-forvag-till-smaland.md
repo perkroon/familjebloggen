@@ -35,4 +35,3 @@ originalUrl: https://nejtupp.blogspot.com/2011/06/tage-aker-i-forvag-till-smalan
  <tr><td style="text-align: center;"><img src="../../../../img/Majsemester-_MG_9164.jpg" width="640"></td></tr>
  <tr><td class="tr-caption" style="text-align: center;"><i>Farfar leker tittut med Åke som gungar i den nya gungställningen.</i></td></tr>
  </tbody></table>
-<!-- no comments on this post -->

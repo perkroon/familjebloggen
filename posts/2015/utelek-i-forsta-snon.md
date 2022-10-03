@@ -35,4 +35,3 @@ originalUrl:	https://nejtupp.blogspot.com/2015/12/utelek-i-forsta-snon.html
 </div><div style="text-align: center;"><br></div><div style="text-align: center;"><br>
 </div><div style="text-align: center;"><br>
 </div><div style="text-align: center;"><br></div></div></div>
-<!-- no comments on this post -->

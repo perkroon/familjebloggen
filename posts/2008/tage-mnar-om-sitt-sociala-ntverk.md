@@ -13,7 +13,12 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2008/04/tage-mnar-om-sitt-sociala-ntverk.html
 ---
 
-I helgen fick Tage träffa massor av nya bekanta. Hela familjen Barck-Holst (moster Josses familj) kom och hälsade på och morbror Kalle hade med cigarrer för att fira Tages ankomst. Tage fick prova kusin Lyckes hårslingor så nu vet vi hur han kommer se ut när han gör tonårsrevolt.<br><br><img src="../../../../img/_MG_0864_1024pix.jpg"><br><br><div style="text-align: center;"><img src="../../../../img/_MG_0870_1024pix.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Tage träffar sin äldsta kusin<br> Lycke som är 10 år</span></span><br></div><br>På söndagen var Tage bjuden på brunch till tant Ulle som hade gjort smarrig blåbärspannkakstårta (som den numera glupska mamman mumsat på i dagarna tre eftersom hon fick med sig resterna hem). Där träffade han också Cajsa, Helena, Carro och Ina. Tage fick manikyr av tant Ulle som var mycket duktigare på att fila bebisnaglar än mamman och pappan. Efteråt gick vi en mälarstrandspromenad i vårsolen och tant Ulle körde barnvagnen hela vägen. I helgen hann Tage även få besök av tant Kari och tant Sara med lilla Stella. Det var kul.
+I helgen fick Tage träffa massor av nya bekanta. Hela familjen Barck-Holst (moster Josses familj) kom och hälsade på och morbror Kalle hade med cigarrer för att fira Tages ankomst. Tage fick prova kusin Lyckes hårslingor så nu vet vi hur han kommer se ut när han gör tonårsrevolt.<br><br><img src="../../../../img/_MG_0864_1024pix.jpg">
+
+<figure>
+	<img src="../../../../img/_MG_0870_1024pix.jpg">
+	<figcaption>Tage träffar sin äldsta kusin<br> Lycke som är 10 år</figcaption>
+</figure>På söndagen var Tage bjuden på brunch till tant Ulle som hade gjort smarrig blåbärspannkakstårta (som den numera glupska mamman mumsat på i dagarna tre eftersom hon fick med sig resterna hem). Där träffade han också Cajsa, Helena, Carro och Ina. Tage fick manikyr av tant Ulle som var mycket duktigare på att fila bebisnaglar än mamman och pappan. Efteråt gick vi en mälarstrandspromenad i vårsolen och tant Ulle körde barnvagnen hela vägen. I helgen hann Tage även få besök av tant Kari och tant Sara med lilla Stella. Det var kul.
 
 <div class="comments">
 	<div class="comments-header"><h2>1 Comment</h2></div>

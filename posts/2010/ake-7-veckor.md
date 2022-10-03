@@ -7,7 +7,18 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2010/05/ake-7-veckor.html
 ---
 
-<img src="../../../../img/Mer+bad-_MG_1194.jpg"><img src="../../../../img/Mer+bad-_MG_1204.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Åke tycker om att bada och att bli omsvept i ett badlakan efter badet.</span><br></span></div><br><br><br><img src="../../../../img/Hemmakring-_MG_1147.jpg"><br>Några enstaka nätter har Åke sovit i vaggan. Oftast sover han dock hela nätterna i vår säng eftersom jag somnar när jag ammar honom och då alltså inte kan bära tillbaka honom till vaggan. Hittills har Åke sovit väldigt bra både dag och nattetid. Ungefär var tredje timme på natten blir han hungrig och börjar då grymta och fäkta lite med benen och armarna, men han skriker aldrig på natten så vi får sova förvånansvärt bra.<br><br><br><div style="text-align: center;"><img src="../../../../img/Vid+badet-_MG_1091.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Gosigos med mamma</span><br></span></div><br><br><div style="text-align: center;"><img src="../../../../img/Hemmakring-_MG_1150.jpg"><span style="font-size:85%;"><span style="font-style: italic;"></span>Gosigos med pappa och storebror</span><br></div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://3.bp.blogspot.com/_AnfpXCBUffo/S91-VnolMsI/AAAAAAAAApc/8wlynUmkj0E/s1600/Hemmakring-_MG_1150.jpg"><br></a>
+<img src="../../../../img/Mer+bad-_MG_1194.jpg"><img src="../../../../img/Mer+bad-_MG_1204.jpg">
+	<figcaption>Åke tycker om att bada och att bli omsvept i ett badlakan efter badet.</figcaption>
+</figure><br><br><br><img src="../../../../img/Hemmakring-_MG_1147.jpg"><br>Några enstaka nätter har Åke sovit i vaggan. Oftast sover han dock hela nätterna i vår säng eftersom jag somnar när jag ammar honom och då alltså inte kan bära tillbaka honom till vaggan. Hittills har Åke sovit väldigt bra både dag och nattetid. Ungefär var tredje timme på natten blir han hungrig och börjar då grymta och fäkta lite med benen och armarna, men han skriker aldrig på natten så vi får sova förvånansvärt bra.<br>
+
+<figure>
+	<img src="../../../../img/Vid+badet-_MG_1091.jpg">
+	<figcaption>Gosigos med mamma</figcaption>
+</figure>
+
+<figure>
+	<img src="../../../../img/Hemmakring-_MG_1150.jpg">
+	<figcaption></span>Gosigos med pappa och storebror</span><br></div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://3.bp.blogspot.com/_AnfpXCBUffo/S91-VnolMsI/AAAAAAAAApc/8wlynUmkj0E/s1600/Hemmakring-_MG_1150.jpg"><br></a>
 
 <div class="comments">
 	<div class="comments-header"><h2>1 Comment</h2></div>

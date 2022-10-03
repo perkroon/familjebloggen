@@ -10,7 +10,15 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2008/11/grattis-tage-8-mnader.html
 ---
 
-<img src="../../../../img/Nov+2008+031.jpg"><br>Idag fyllde Tage 8 månader. Dagen började med ett bad, något som brukar göra Tage överlycklig. Men idag var det annorlunda och det berodde på en ny liten filur som dök upp i badbaljan - en badanka som Tage fick av polaren Malte igår. Tage blev så oerhört exalterad av denna lilla nya sak så att det blev svårt att hantera känslomässigt. Han ville både suga, bita, klämma, plaska och kasta runt ankan på samma gång och det gjorde honom så enormt frustrerad att han inte kunde få till det så som han ville. Han fick liksom inte nog, och detta gjorde honom jättearg på ankan. Till slut fick ankan hoppa ur badet. Då blevt det lugnt och skoj som vanligt.<br><br><div style="text-align: center;"><img src="../../../../img/Nov+2008+028.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Tage och ankan badar.<br><br></span></span></div><img src="../../../../img/Nov+2008+038.jpg"><br>Efter badet mötte vi upp Anna och lilla Miriam som fyllde 3 månader idag, och vi promenerade till Nordiska muséet och tittade på film- och fotoutställningen "Underbarn" som handlade om svårt handikappade barn på Island. Mycket bra var den och Tage tycktes också väldigt intresserad av de stora fotona och filmen. Sen gick vi hem och åt hallontårta som farmor hade bakat till Pelle igår när han fyllde år.<br><br><div style="text-align: center;"><img src="../../../../img/Nov+2008+007.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Tage står mycket stadigt nu och går utmed möblerna.<br>Den här pallen skjuter han framför sig som en gåstol.</span></span><br></div>
+<img src="../../../../img/Nov+2008+031.jpg"><br>Idag fyllde Tage 8 månader. Dagen började med ett bad, något som brukar göra Tage överlycklig. Men idag var det annorlunda och det berodde på en ny liten filur som dök upp i badbaljan - en badanka som Tage fick av polaren Malte igår. Tage blev så oerhört exalterad av denna lilla nya sak så att det blev svårt att hantera känslomässigt. Han ville både suga, bita, klämma, plaska och kasta runt ankan på samma gång och det gjorde honom så enormt frustrerad att han inte kunde få till det så som han ville. Han fick liksom inte nog, och detta gjorde honom jättearg på ankan. Till slut fick ankan hoppa ur badet. Då blevt det lugnt och skoj som vanligt.
+
+<figure>
+	<img src="../../../../img/Nov+2008+028.jpg">
+	<figcaption>Tage och ankan badar.<br><br></span></span></div><img src="../../../../img/Nov+2008+038.jpg"><br>Efter badet mötte vi upp Anna och lilla Miriam som fyllde 3 månader idag, och vi promenerade till Nordiska muséet och tittade på film- och fotoutställningen "Underbarn" som handlade om svårt handikappade barn på Island. Mycket bra var den och Tage tycktes också väldigt intresserad av de stora fotona och filmen. Sen gick vi hem och åt hallontårta som farmor hade bakat till Pelle igår när han fyllde år.
+
+<figure>
+	<img src="../../../../img/Nov+2008+007.jpg">
+	<figcaption>Tage står mycket stadigt nu och går utmed möblerna.<br>Den här pallen skjuter han framför sig som en gåstol.</span></span><br></div>
 
 <div class="comments">
 	<div class="comments-header"><h2>2 Comments</h2></div>

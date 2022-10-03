@@ -7,7 +7,17 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2009/02/tage-gar-pa-cafe.html
 ---
 
-<img src="../../../../img/_MG_0748_1024pix.jpg"><br>Tage är en van cafébesökare. Och precis som sin pappa så tycker han att det är gott med enkel espresso. Idag var det ovanligt grått och dimmigt i stan så vi skippade långpromenaden och hängde på färgglada Copacabana istället. Det tyckte Tage var kul.<br><br><br><div style="text-align: center;"><img src="../../../../img/_MG_0765_1024pix.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Igår jobbade jag min sista dag på AT.<br>Nu ska jag vara ledig en månad och mysa en hel del med lill-gos.</span><br></span></div><br><br><div style="text-align: center;"><img src="../../../../img/_MG_0779_1024pix.jpg"><span style="font-size:85%;"><span style="font-style: italic;">-Titta vad fin jag blev i pappas keps. En sån vill jag också ha!</span><br></span></div>
+<img src="../../../../img/_MG_0748_1024pix.jpg"><br>Tage är en van cafébesökare. Och precis som sin pappa så tycker han att det är gott med enkel espresso. Idag var det ovanligt grått och dimmigt i stan så vi skippade långpromenaden och hängde på färgglada Copacabana istället. Det tyckte Tage var kul.<br>
+
+<figure>
+	<img src="../../../../img/_MG_0765_1024pix.jpg">
+	<figcaption>Igår jobbade jag min sista dag på AT.<br>Nu ska jag vara ledig en månad och mysa en hel del med lill-gos.</figcaption>
+</figure>
+
+<figure>
+	<img src="../../../../img/_MG_0779_1024pix.jpg">
+	<figcaption>-Titta vad fin jag blev i pappas keps. En sån vill jag också ha!</figcaption>
+</figure>
 
 <div class="comments">
 	<div class="comments-header"><h2>6 Comments</h2></div>

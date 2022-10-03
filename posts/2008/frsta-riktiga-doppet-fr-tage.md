@@ -1,0 +1,10 @@
+---
+title:		"Första riktiga doppet för Tage"
+date:		2008-07-14 15:58:00
+updated:	2008-11-13 08:16:33
+tags: 	
+originalUrl:	https://nejtupp.blogspot.com/2008/07/frsta-riktiga-doppet-fr-tage.html
+---
+
+I fredags tog vi Sjögullsfärjan till Peter och Erikas härliga sommarställe Sjövik, som ligger i Stockholms norra skärgård. Vi hade en fantastiskt skön helg med bad från bryggan, god mat och avkopplande vila på den stora altanen. Tage tog sitt första riktiga dopp i havet. Det var lite kallt tyckte han, men ganska mysigt och spännande ändå.<br><br><div style="text-align: center;"><img src="../../../../img/_MG_5044_1024pix.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Tage och Erika. Tage sitter ovanpå sin blivande kompis.<br>Nästa sommar har han en lekkamrat på Sjövik.<br><br></span></span></div><br><div style="text-align: center;"><img src="../../../../img/_MG_5032_1024pix.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Allt är gott att suga på.<br>-"Titta, jag hittade en jätte-smaskig tå".<br><br></span></span></div><br><div style="text-align: center;"><img src="../../../../img/_MG_5020_1024pix.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Tage chillar på altanen.</span></span><br></div>
+<!-- no comments on this post -->

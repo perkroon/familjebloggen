@@ -1,12 +1,13 @@
 ---
-title:		"Det går framåt!"
-date:		2009-01-29 22:24:00
-updated:	2009-01-29 22:29:11
+title: Det går framåt!
+date: 2009-01-29
 tags: 
   - gå
   - steg
   - utveckling	
-originalUrl:	https://nejtupp.blogspot.com/2009/01/det-gar-framat.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2009/01/det-gar-framat.html
 ---
 
 Visst har vi sett Tage ta några steg då och då, men igår tycktes det lossna. Vi var hemma hos farmor och farfar när han plötsligt tog många steg i följd – vi räknade till tio som mest. Idag hade jag bestämt mig för att försöka fånga det på video. Hur det gick? Se filmen själv!<br><br><object id="BLOG_video-c5b364f09ff825f5" class="BLOG_video_class" contentid="c5b364f09ff825f5" height="266" width="320"></object>

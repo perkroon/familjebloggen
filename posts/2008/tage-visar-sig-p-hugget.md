@@ -1,10 +1,11 @@
 ---
-title:		"Tage visar sig på hugget"
-date:		2008-09-02 09:16:00
-updated:	2008-09-02 10:58:16
+title: Tage visar sig på hugget
+date: 2008-09-02
 tags: 
   - tänder	
-originalUrl:	https://nejtupp.blogspot.com/2008/09/tage-visar-sig-p-hugget.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2008/09/tage-visar-sig-p-hugget.html
 ---
 
 Jag fick ett MMS från Tage imorse:<br><br><div style="text-align: center;"><img src="../../../../img/Tages+f%C3%B6rsta+tand.jpeg"><span style="font-size:130%;"><span style="font-family:courier new;"><span style="font-size:85%;">Hej pappa!<br>Vi måste köpa en tandborste till<br>mig. Jag har fått en tand inatt!!<br>Puss Tage</span><br></span></span><div style="text-align: left;"><span style="font-size:100%;"><br>Det känns som om mycket har hänt i Tages liv under den senaste veckan, när han varit på västkusten. Först lär han sig äta, och nu en tand!</span><br><span style="font-size:130%;"><span style="font-family:courier new;"></span></span></div></div>

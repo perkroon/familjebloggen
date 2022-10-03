@@ -1,7 +1,6 @@
 ---
-title:		"Vi går under Riddarfjärden"
-date:		2015-04-02 11:16:00
-updated:	2015-04-02 11:16:06
+title: Vi går under Riddarfjärden
+date: 2015-04-02
 tags: 	
 originalUrl:	https://nejtupp.blogspot.com/2015/04/vi-gar-under-riddarfjarden.html
 ---

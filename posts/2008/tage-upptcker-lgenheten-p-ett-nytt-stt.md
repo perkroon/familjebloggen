@@ -1,9 +1,10 @@
 ---
-title:		"Tage upptäcker lägenheten på ett nytt sätt"
-date:		2008-09-14 22:14:00
-updated:	2008-09-15 00:48:29
+title: Tage upptäcker lägenheten på ett nytt sätt
+date: 2008-09-14
 tags: 	
-originalUrl:	https://nejtupp.blogspot.com/2008/09/tage-upptcker-lgenheten-p-ett-nytt-stt.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2008/09/tage-upptcker-lgenheten-p-ett-nytt-stt.html
 ---
 
 <div style="text-align: center;"><img srcw/s1600-h/Mobil+6+007.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="../../../../img/Mobil+6+007.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Det verkar som att Pelle tycker att Tage har lärt sig krypa. Det är en fråga om terminologi. Jag skulle snarare kalla det snabb-åla. Tage är hursomhelst väldigt duktig på att snabbt ta sig fram i lägenheten.  Här har han hittat jättespännande saker i hallen när jag just trodde att han var bakom min rygg i köket där jag lämnade honom 2 sekunder tidigare.<br><br></span></span><img src="../../../../img/Juli-Sep+2008+115.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Igår tog Tage dock sina första riktiga krypsteg.<br>Det var i sängen där det är lättare att få fäste än på det hala trägolvet.</span></span><br><br><span style="font-size:85%;"><span style="font-style: italic;"><br></span></span></div><div style="text-align: center;"><img src="../../../../img/Juli-Sep+2008+075.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Tage har också lärt sig sitta!<br><br></span></span></div><br><div style="text-align: center;"><img src="../../../../img/Juli-Sep+2008+133.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Baby-gymet har åter blivit kul nu när man kan sitta och leka med det.<br><br><br></span></span></div><br><div style="text-align: center;"><img src="../../../../img/Juli-Sep+2008+088.jpg"><span style="font-style: italic;font-size:85%;">Tage har fått en egen stol i köket så nu kan han sitta med vid bordet när vi äter. Tyvärr har det dock gått dåligt med matintagen sista tiden. Tage vill inte ha något mer än mjölk och möjligen en pytteliten brödsmula att tugga på. Rotfrukter och gröt tappade han plötsligt sugen på efter en veckas framgångsrik matning. Vi tror att det beror på att han är förkyld och hoppas att det snart ska gå bättre igen.</span><br></div><br><br><div style="text-align: center;"><img src="../../../../img/Juli-Sep+2008+100.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Farmor har stickat en ny kofta till Tage. Den är stor och mysig.</span><br></span></div><br><br><div style="text-align: center;"><img src="../../../../img/Mobil+6+013.jpg"><span style="font-size:85%;"><span style="font-style: italic;">..och till sist en bild från när Tage och jag var i Halmstad häromveckan.<br>Vem ska bort?</span><br></span></div>

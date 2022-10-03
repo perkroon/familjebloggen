@@ -1,9 +1,10 @@
 ---
-title:		"GLAD PÅSK!"
-date:		2009-04-11 10:00:00
-updated:	2009-04-11 10:53:50
+title: GLAD PÅSK!
+date: 2009-04-11
 tags: 	
-originalUrl:	https://nejtupp.blogspot.com/2009/04/glad-pask.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2009/04/glad-pask.html
 ---
 
 <div style="text-align: center;"><img src="../../../../img/p%C3%A5sk2.jpg"><span style="font-size:85%;"><span style="font-style: italic;">- Titta vad stor jag har blivit på ett år! Jämför med bilden under!<br><br><br></span></span><div style="text-align: center;"><img src="../../../../img/Tage_p%C3%A5sk%C3%A4gg1.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Tage påsken 2008, 5 dagar gammal.</span></span><br><br></div><span style="font-size:85%;"><span style="font-style: italic;"><br></span></span></div><div style="text-align: center;"><img src="../../../../img/_MG_1892_1024pix.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Tage åker låda till Blåkulla.<br><br><br></span></span></div><div style="text-align: center;"><img src="../../../../img/_MG_1943_1024pix.jpg"><span style="font-size:85%;"><span style="font-style: italic;">- Tittut!</span> </span></div>

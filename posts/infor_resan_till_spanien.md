@@ -3,7 +3,7 @@ title: Inför resan till Spanien
 description: 
 date: 2016-10-28
 tags:
-  - Resa
+  - resa
 author: Åke
 photo: ../../img/2016/10/fil-2016-10-28-18-31-05-e1477672346210-1600x1600.jpeg
 layout: layouts/post.njk

@@ -1,7 +1,6 @@
 ---
-title:		"God Jul och Gott Nytt År!"
-date:		2015-12-24 15:00:00
-updated:	2015-12-29 21:55:06
+title: God Jul och Gott Nytt År!
+date: 2015-12-24
 tags: 	
 originalUrl:	https://nejtupp.blogspot.com/2015/12/god-jul-och-gott-nytt-ar.html
 ---

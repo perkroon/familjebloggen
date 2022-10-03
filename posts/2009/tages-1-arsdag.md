@@ -1,10 +1,11 @@
 ---
-title:		"Tages 1-årsdag"
-date:		2009-03-22 20:41:00
-updated:	2009-03-22 21:10:49
+title: Tages 1-årsdag
+date: 2009-03-22
 tags: 
   - 1-årskalas	
-originalUrl:	https://nejtupp.blogspot.com/2009/03/tages-1-arsdag.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2009/03/tages-1-arsdag.html
 ---
 
 <div style="text-align: center;"><img src="../../../../img/DSC01270_1024.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Hej, jag fyller 1 år idag!<br>Nu ska jag åka tåg till mormor och morfar i Halmstad.<br><br><br></span></span></div>När Tage vaknade på morgonen den 4 mars så såg han lite förvånad ut när både mamman och pappan kom in till honom och sjöng för fulla halsar och lämnade över en present. Det var kul med ballonger, presentpapper och snören. Eftersom Tage tycker att det är så ofantligt kul med våra mobiler så fick han en egen färgglad leksaksmobil som blinkar och låter. Tage tycker om den och leker ganska mycket med den, men den är tyvärr ändå inte hälften så intressant som en grå liten riktig mobil.<br><br>På födelsedagsmorgonen packade vi det sista inför resan mot Halmstad och Champoluc och sedan tog vi tåget ned till Halmstad där mormor, morfar, moster Josse och kusinerna Lycke, Axel och Ida mötte upp med 1-årskalas. Tage fick en docka av mormor och morfar och 2 roliga böcker av kusinerna. Även tant Ninnie kom förbi en sväng och hade med sig ett fint pussel till Tage. Det bjöds på Budapest-tårta. Tage provade tårta för första gången i sitt liv men verkade inte tycka att det var så jättesmaskigt. Men det var en fin födelsedag. Tack för de fina presenterna!

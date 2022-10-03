@@ -1,13 +1,14 @@
 ---
-title:		"Grannpojken Simon på besök"
-date:		2009-02-06 19:42:00
-updated:	2009-02-06 20:29:56
+title: Grannpojken Simon på besök
+date: 2009-02-06
 tags: 
   - Grannar
   - Simon
   - lek
   - tvättmaskin	
-originalUrl:	https://nejtupp.blogspot.com/2009/02/grannpojken-simon-pa-besok.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2009/02/grannpojken-simon-pa-besok.html
 ---
 
 Vi fick besök idag, Tage och jag. Det var grannarna som tittade in, Simon och hans pappa. Simon är nästan precis lika gammal som Tage. Först var Tage reserverad: han stod i hallen och klamrade sig fast i mina ben och tittade på besökarna. Senare blev han modigare, fast jag tyckte aldrig det lossnade helt, han var lite försiktigare än vanligt.<br><br>Simon och Tage är fortfarande för unga för att riktigt leka tillsammans, men de satt iallafall på golvet och studerade varandra och konkurrerade om någon leksak ibland.<br><br><div style="text-align: center;"><img src="../../../../img/_MG_0646_1024pix.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Tage (till höger) visar Simon hur man stoppar in leksaker i tvättmaskinen.</span></span><br></div>

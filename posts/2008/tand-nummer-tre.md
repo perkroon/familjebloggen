@@ -1,10 +1,11 @@
 ---
-title:		"Tand nummer tre"
-date:		2008-10-27 23:09:00
-updated:	2008-10-27 23:13:45
+title: Tand nummer tre
+date: 2008-10-27
 tags: 
   - tänder	
-originalUrl:	https://nejtupp.blogspot.com/2008/10/tand-nummer-tre.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2008/10/tand-nummer-tre.html
 ---
 
 <img src="../../../../img/_MG_7835_1024pix-pola02.jpg"><br>Se upp för bett! Tage har fått en tredje tand. Den här gången i överkäken, så att han kan bitas bättre.

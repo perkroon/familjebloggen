@@ -1,9 +1,10 @@
 ---
-title:		"Välkommen!"
-date:		2010-03-10 09:29:00
-updated:	2010-03-10 09:34:52
+title: Välkommen!
+date: 2010-03-10
 tags: 	
-originalUrl:	https://nejtupp.blogspot.com/2010/03/valkommen.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2010/03/valkommen.html
 ---
 
 <p class="mobile-photo"><img src="../../../../img/bild-795816.jpg" border="0"></p>Den 10 mars 2010 kl. 00.07 (cirka) föddes familjens yngste medlem hemma i vår hall. Det tog bara omkring 40 minuter från första värken tills allt var klart. Sedan åkte vi ambulans till SÖS, där vi nu vilar upp oss. Alla mår bra.<br><br>Vikt: 3540 gram<br>Längd: 51 cm

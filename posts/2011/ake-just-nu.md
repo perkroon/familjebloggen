@@ -1,10 +1,11 @@
 ---
-title:		"Åke just nu"
-date:		2011-06-07 23:25:00
-updated:	2011-08-15 22:19:51
+title: Åke just nu
+date: 2011-06-07
 tags: 
   - utveckling	
-originalUrl:	https://nejtupp.blogspot.com/2011/06/ake-just-nu.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2011/06/ake-just-nu.html
 ---
 
 Vad händer med Åke just nu? Förändringarna sker ju i små små steg så ibland glömmer man att sammantaget händer ju faktiskt en hel del.<br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>

@@ -1,12 +1,13 @@
 ---
-title:		"Ett skåp mellan oss och förlossningen"
-date:		2008-02-19 23:44:00
-updated:	2008-02-19 23:50:32
+title: Ett skåp mellan oss och förlossningen
+date: 2008-02-19
 tags: 
   - förlossning
   - perspektiv
   - redo	
-originalUrl:	https://nejtupp.blogspot.com/2008/02/ett-skp-mellan-oss-och-frlossningen.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2008/02/ett-skp-mellan-oss-och-frlossningen.html
 ---
 
 Vid middagsbordet ikväll frågade jag Lovisa:<br> 

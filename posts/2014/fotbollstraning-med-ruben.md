@@ -1,9 +1,10 @@
 ---
-title:		"Fotbollsträning med Ruben"
-date:		2014-05-21 20:25:00
-updated:	2014-08-21 21:26:41
+title: Fotbollsträning med Ruben
+date: 2014-05-21
 tags: 	
-originalUrl:	https://nejtupp.blogspot.com/2014/05/fotbollstraning-med-ruben.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2014/05/fotbollstraning-med-ruben.html
 ---
 
 På onsdagar tränar Tage fotboll, och det gör Ruben från förskolan också. Nästan alltid är det Lovisa som följer med och jag är kvar på jobbet, men den här gången gick hon på informationsmöte inför höstens förskoleklass, och jag fick följa med på träningen idag. Jag tog med mig kameran.<br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Fotbollstra%CC%88ning+med+Ruben-PERK6043.jpg" height="426" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Här ser vi Tage med ett farligt skott på mål. Han har allt som oftast tungan rätt i mun när han får bollkontakt.</i></td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Fotbollstra%CC%88ning+med+Ruben-PERK6055.jpg" height="426" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Ruben och Tage hamnade i olika grupper, men efter matchen kunde de söka upp varandra.</i></td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Fotbollstra%CC%88ning+med+Ruben-PERK6075.jpg" height="426" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Full fart framåt!</i></td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Fotbollstra%CC%88ning+med+Ruben-PERK6090.jpg" height="640" width="426"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Sista dagarna tillsammans på förskolan... <br>Snart hamnar pojkarna i olika skolor, tyvärr.</i></td></tr></tbody></table><br>

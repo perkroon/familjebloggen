@@ -3,8 +3,8 @@ title: Kvällsdopp i Frösakull
 description: 
 date: 2019-07-29
 tags:
-  - Resa
-  - Semester
+  - resa
+  - semester
 author: pelle
 photo: ../../img/2019/07/20190729-kvallsdopp-dscf2602-1600x1067.jpg
 layout: layouts/post.njk
@@ -13,6 +13,6 @@ Det var riktigt varmt idag, runt 32 grader. Vi hörde åskan mullra under efterm
 
 <figure class="wp-block-image alignfull">
   <img src="../../img/2019/07/20190729-kvallsdopp-dscf2602-1600x1067.jpg" class="wp-image-439"/>
-  </figure>
+</figure>
 
 [Original](http://kroons.se/familj/2019/07/29/__trashed/)

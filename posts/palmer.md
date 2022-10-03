@@ -3,7 +3,7 @@ title: Palmer
 description: 
 date: 2016-10-30
 tags:
-  - Resa
+  - resa
 author: Pelle
 photo: ../../img/2016/10/img_1340.jpg
 layout: layouts/post.njk

@@ -3,7 +3,7 @@ title: Otranto - vår semesterort
 description: 
 date: 2017-07-19
 tags:
-  - Resa
+  - resa
   - Italien
   - Otranto
 author: pelle

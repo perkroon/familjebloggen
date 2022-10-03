@@ -3,7 +3,7 @@ title: Skidresa till Österrike
 description: 
 date: 2017-03-31
 tags:
-  - Resa
+  - resa
   - Österrike
 author: pelle
 photo: ../../img/2017/03/skidresa-stubai-perk2266-20170303.jpg

@@ -3,7 +3,7 @@ title: Höstlov i Torredembarra
 description: 
 date: 2016-11-16
 tags:
-  - Resa
+  - resa
 author: Pelle
 photo: ../../img/2016/11/spanskt-hocc88stlov-mer-perk9702.jpg
 layout: layouts/post.njk

@@ -1,9 +1,10 @@
 ---
-title:		"Tage har fått en OK-stämpel på rumpan."
-date:		2008-11-23 23:33:00
-updated:	2008-11-24 12:31:00
+title: Tage har fått en OK-stämpel på rumpan.
+date: 2008-11-23
 tags: 	
-originalUrl:	https://nejtupp.blogspot.com/2008/11/tage-har-ftt-en-ok-stmpel-p-rumpan.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2008/11/tage-har-ftt-en-ok-stmpel-p-rumpan.html
 ---
 
 Sedan några veckor har Tage allt oftare börjat säga "mamamama" i situationer när han inte är riktigt nöjd, t ex när maten inte lassas in i munnen fort nog. Och idag, på självaste Mormors födelsedag, så han helt klart ett riktigt "mamma". Det hörde både Pelle och jag.<br><br>Idag har vi haft mycket kul. Först tog jag och Tage en morgonpromenad i soliga snöklädda Hornstull och hälsade på Tessan och Ingela medan Pelle städade i hemmet. Sen kom Ulle, Carro, Ingela och moster Johanna hem till oss och fikade. Även Farmor och Farfar tittade förbi en kort stund och Farmor hade med sig ett par nya underbara stickade gröna byxor till Tage. På kvällen tog vi oss ut i snöstormen för att hälsa på Peter och Erika på Kungsholmen. De satt och väntade på Tages lilla kompis och undrade varför han/hon inte kommer snart. De har väntat i 42 veckor nu. Vi tycker det är jättespännande. Snart snart får vi veta vad det blir för nån!<br><br><br><div style="text-align: center;"><img src="../../../../img/Nov+2008+069.jpg"><span style="font-size:85%;"><span style="font-style: italic;">"Hej Mamma! Nu ska jag gå in i det här roliga rummet och leka med mina<br>favoritsaker: soptunnan, badkarsavloppet, toaborsten och tvättmaskinen.<br>Kanske ska jag suga lite på toalettkanten också."</span> </span></div><br><br><div style="text-align: center;"><img src="../../../../img/Nov+2008+077.jpg"><span style="font-size:85%;"><span style="font-style: italic;">"Puss på Tage!"<br><br><br></span></span></div><img src="../../../../img/Nov+2008+058.jpg"><br><img src="../../../../img/Nov+2008+083.jpg">Tage tar sig runt gåendes i lägenheten, bara han hittar nån vägg eller sak att hålla sig i. Häromdagen var vi hemma hos Selma och Hanna Aili i grannhuset och de hade en "lära gå-vagn" som Tage provade och tyckte var jättekul. En sådan måste vi skaffa.

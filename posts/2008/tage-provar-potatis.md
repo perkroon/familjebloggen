@@ -1,11 +1,12 @@
 ---
-title:		"Tage provar potatis"
-date:		2008-07-21 20:13:00
-updated:	2008-07-21 20:26:35
+title: Tage provar potatis
+date: 2008-07-21
 tags: 
   - mat
   - potatis	
-originalUrl:	https://nejtupp.blogspot.com/2008/07/tage-provar-potatis.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2008/07/tage-provar-potatis.html
 ---
 
 Så här gick det första gången Tage fick smaka på vanlig mat: kokt och mosad potatis.<br><br><object id="BLOG_video-3b69675ddfc68343" class="BLOG_video_class" contentid="3b69675ddfc68343" height="266" width="320"></object><br><br>Ingen omedelbar succé...

@@ -1,7 +1,6 @@
 ---
-title:		"Tages och Fridas kalas för klassen"
-date:		2015-03-15 20:35:00
-updated:	2015-03-15 21:14:32
+title: Tages och Fridas kalas för klassen
+date: 2015-03-15
 tags: 	
 originalUrl:	https://nejtupp.blogspot.com/2015/03/tages-och-fridas-kalas-for-klassen.html
 ---

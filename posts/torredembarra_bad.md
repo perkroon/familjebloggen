@@ -3,7 +3,7 @@ title: Torredembarra - bad och annat
 description: 
 date: 2016-11-20
 tags:
-  - Resa
+  - resa
   - Spanien
   - Torredembarra
 author: pelle

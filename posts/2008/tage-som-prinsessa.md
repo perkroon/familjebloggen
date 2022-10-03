@@ -1,12 +1,13 @@
 ---
-title:		"Tage som prinsessa"
-date:		2008-10-11 12:20:00
-updated:	2008-10-11 12:25:11
+title: Tage som prinsessa
+date: 2008-10-11
 tags: 
   - diadem
   - kusiner
   - prinsessa	
-originalUrl:	https://nejtupp.blogspot.com/2008/10/tage-som-prinsessa.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2008/10/tage-som-prinsessa.html
 ---
 
 <div style="text-align: center;"><img src="../../../../img/Mobil+x+003.jpg"><span style="font-size:85%;">Igår åkte vi hem till moster Johanna och kusinerna Ingrid och Tore i Gamla<br>Enskede. Mamman fick håret klippt och Tage passade också på att snygga<br>till sig lite.<br></span></div><br><br><div style="text-align: center;"><img src="../../../../img/Mobil+x+002.jpg"><span style="font-size:85%;">Det visade sig dock att det inte var så roligt att vara fin särskilt länge.<br></span></div>

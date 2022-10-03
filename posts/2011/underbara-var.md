@@ -1,9 +1,10 @@
 ---
-title:		"Underbara vår!"
-date:		2011-04-25 21:42:00
-updated:	2011-04-25 22:15:55
+title: Underbara vår!
+date: 2011-04-25
 tags: 	
-originalUrl:	https://nejtupp.blogspot.com/2011/04/underbara-var.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2011/04/underbara-var.html
 ---
 
 <div style="text-align: center;"><img src="../../../../img/Pa%25CC%258Askdag%2Bpa%25CC%258A%2BDjurga%25CC%258Arden-_MG_8808.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Tage skriker vårskrik ut över vitsippsängarna på Djurgården.<br><br><br></span></span><div style="text-align: left;"><span style="font-size:100%;">Det var inte bara våren som plötsligt kom utan även sommaren.</span> Tre fantastiska härliga lediga dagar har vi haft.<br><span style="font-size:85%;"><span style="font-style: italic;"></span></span></div><div style="text-align: left;"><span style="font-size:85%;"><span style="font-style: italic;"></span></span><br><span style="font-size:85%;"><span style="font-style: italic;"></span></span></div></div><br><br><img src="../../../../img/Pa%25CC%258Askdag%2Bpa%25CC%258A%2BDjurga%25CC%258Arden-_MG_8864.jpg"><br><br><br><br><img src="../../../../img/Pa%25CC%258Askdag%2Bpa%25CC%258A%2BDjurga%25CC%258Arden-_MG_8877.jpg"><br><br><br><br><div style="text-align: center;"><img src="../../../../img/Pa%25CC%258Askdag%2Bpa%25CC%258A%2BDjurga%25CC%258Arden-_MG_8791.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Picknick i en av Djurgårdens ekbackar.<br><br><br><br><br></span></span><div style="text-align: center;"><img src="../../../../img/Pa%25CC%258Askdag%2Bpa%25CC%258A%2BDjurga%25CC%258Arden-_MG_8931.jpg"><span style="font-size:85%;"><span style="font-style: italic;">På Djurgårdsfärjan</span></span><br><br><br></div><span style="font-size:85%;"><span style="font-style: italic;"><br></span></span></div><div style="text-align: center;"><img src="../../../../img/Pa%25CC%258Askdag%2Bpa%25CC%258A%2BDjurga%25CC%258Arden-_MG_8940.jpg"><span style="font-size:85%;"><span style="font-style: italic;">På tunnelbanan<br><br><br><br></span></span></div><img src="../../../../img/Pa%25CC%258Askdag%2Bpa%25CC%258A%2BDjurga%25CC%258Arden-_MG_8948.jpg"><br><br><br><br><div style="text-align: center;"><img src="../../../../img/Pa%25CC%258Askdag%2Bpa%25CC%258A%2BDjurga%25CC%258Arden-_MG_8967.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Här kom Tage glatt nedspringande för trapporna. När han skulle putta upp dörren så fanns det inget glas så han flög med full fart rakt igenom med huvudet före. Det var förstås lite otäckt men som tur var gick det bra.</span><br></span></div>

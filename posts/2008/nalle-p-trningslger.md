@@ -1,11 +1,12 @@
 ---
-title:		"Nalle på träningsläger"
-date:		2008-03-02 23:19:00
-updated:	2008-11-13 08:16:49
+title: Nalle på träningsläger
+date: 2008-03-02
 tags: 
   - Nalle
   - skötbord	
-originalUrl:	https://nejtupp.blogspot.com/2008/03/nalle-p-trningslger.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2008/03/nalle-p-trningslger.html
 ---
 
 <img src="../../../../img/_MG_0196_1024pix.jpg"><br><br>När det gäller att byta blöjor är jag en riktig nybörjare. I brist på bebis får jag träna på till buds stående medel. Men jag tror att det är lite fusk att byta blöja på en nallebjörn, det blir nog lite svårare när det väl kommer till kritan...

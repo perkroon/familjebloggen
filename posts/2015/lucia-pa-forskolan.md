@@ -1,7 +1,6 @@
 ---
-title:		"Lucia på förskolan"
-date:		2015-12-16 20:58:00
-updated:	2015-12-16 20:58:10
+title: Lucia på förskolan
+date: 2015-12-16
 tags: 	
 originalUrl:	https://nejtupp.blogspot.com/2015/12/lucia-pa-forskolan.html
 ---

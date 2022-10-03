@@ -1,9 +1,10 @@
 ---
-title:		"Pulkakalas för 1-åringen"
-date:		2009-03-01 23:01:00
-updated:	2009-03-02 23:31:32
+title: Pulkakalas för 1-åringen
+date: 2009-03-01
 tags: 	
-originalUrl:	https://nejtupp.blogspot.com/2009/03/pulkakalas-for-1-aringen.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2009/03/pulkakalas-for-1-aringen.html
 ---
 
 <span style="text-decoration: underline;"></span><img src="../../../../img/_MG_1336_1024pix.jpg"><br>Idag var det dags för ännu ett tjuvstartskalas för Tage. Jag hade bjudit hit mina kompisar Pernilla och Sinnika och deras barn Mathilda, Tove och Alva. Tyvärr var dock lilla Alva sjuk så Sinnika och hon kom inte. Men vi andra hade mycket skoj. Pelle hade bakat bullar och jag hade köpt en vit chokladtårta. När vi hade ätit så gick vi ut i den vackra vintersolen och åkte stjärtlapp och pulka på Långholmen. Riktigt kul var det. Till och med Tage drog lite på smilbanden när han for utför med pulkan. De andra gångerna han har provat så har han inte riktigt förstått det roliga med pulkåkning, men idag när han såg hur roligt vi andra tyckte det var så skrattade han också.<br><br><span style="font-style: italic;"><span style="text-decoration: underline;"></span></span><img src="../../../../img/_MG_1417_1024pix.jpg"><br><img src="../../../../img/_MG_1384_1024pix.jpg"><br><img src="../../../../img/_MG_1394_1024pix.jpg">

@@ -1,7 +1,6 @@
 ---
-title:		"När kommer bebisen?"
-date:		2008-02-17 22:17:00
-updated:	2008-02-18 11:48:48
+title: När kommer bebisen?
+date: 2008-02-17
 tags: 
   - BP
   - förlossning
@@ -9,7 +8,9 @@ tags:
   - tanter
   - vadslagning
   - väska	
-originalUrl:	https://nejtupp.blogspot.com/2008/02/nr-kommer-bebisen.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2008/02/nr-kommer-bebisen.html
 ---
 
 Dagen D närmar sig. Magen blir större och större, idag går vi in i vecka 39 och de obligatoriska "har det hänt nåt?"-frågorna har börjat inleda varje inkommande telefonsamtal och mail från släkt och vänner. Men ännu är allt som vanligt. Magen förefaller helt klart bebodd. Möjligen har livmoderns sammandragningar, som kommer så fort man går några steg, blivit starkare.<br>

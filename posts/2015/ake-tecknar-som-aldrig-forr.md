@@ -1,8 +1,9 @@
 ---
-title:		"Åke tecknar som aldrig förr"
-date:		2015-12-17 17:10:00
-updated:	2015-12-17 17:10:04
-tags: 	
+title: Åke tecknar som aldrig förr
+date: 2015-12-17
+tags: 
+author: Pelle
+layout: layouts/post.njk 	
 originalUrl:	https://nejtupp.blogspot.com/2015/12/ake-tecknar-som-aldrig-forr.html
 ---
 

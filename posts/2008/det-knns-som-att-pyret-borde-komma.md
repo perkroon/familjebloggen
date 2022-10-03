@@ -1,14 +1,15 @@
 ---
-title:		"Kommer du snart??"
-date:		2008-02-27 22:10:00
-updated:	2008-02-28 18:04:22
+title: Kommer du snart??
+date: 2008-02-27
 tags: 
   - födelsedatum
   - förberedelser
   - mani
   - nyföddhet
   - väntan	
-originalUrl:	https://nejtupp.blogspot.com/2008/02/det-knns-som-att-pyret-borde-komma.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2008/02/det-knns-som-att-pyret-borde-komma.html
 ---
 
 Det känns som att Pyret borde komma snart. Det mesta (förutom BB-väskan) är fixat. Barnvagn och skötbord ordnat. Bebiskoftan är färdigstickad. Vaggan är bäddad. Blöjor finns på badrumshyllan. 5 godispåsar är inhandlade - och uppätna. Burkarna med Pelles utländska mynt är prydligt sorterade och så även böckerna i bokhyllorna, städskrubben och facken i verktygslådan. Jag har åkt på nån slags sorteringsmani. Kanske en föraning om vad som komma skall. Är det så att man aldrig mer hinner sortera något sen? Nu är jag iallafall redo för Pyrets ankomst.<br>

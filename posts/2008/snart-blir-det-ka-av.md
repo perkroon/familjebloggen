@@ -1,14 +1,15 @@
 ---
-title:		"Snart blir det åka av"
-date:		2008-02-23 20:19:00
-updated:	2008-02-24 00:04:52
+title: Snart blir det åka av
+date: 2008-02-23
 tags: 
   - Liseberg
   - dop
   - förlossning
   - förlossningsförberedelser
   - lustgas	
-originalUrl:	https://nejtupp.blogspot.com/2008/02/snart-blir-det-ka-av.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2008/02/snart-blir-det-ka-av.html
 ---
 
 Vid ett barndop idag fick vi stifta bekantskap med lilla Julia. Det var Olivia som döptes och stod i centrum, men Julia satt (eller snarare låg) vid vårt bord när vi åt smörgåstårta och drack cider i församlingshemmet efter ceremonin i kyrkan. Lustigt nog var Julia beräknad att komma till världen den 28 februari 2008 — alltså precis en dag innan Pyret är beräknad! Men Julia ville tydligen inte vänta så länge, så hon föddes istället den 25 januari, en månad för tidigt. Då vägde hon 2,5 kg, nu hade hon hunnit gå upp till 3,5 kg och hon hade växt till 52 centimeter. För oss var det lite fascinerande att se en bebis som var precis så stor som Pyret kan väntas vara.<br>

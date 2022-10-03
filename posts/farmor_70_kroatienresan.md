@@ -3,7 +3,7 @@ title: Farmor 70 år - Kroatienresan
 description: 
 date: 2018-06-18
 tags:
-  - Resa
+  - resa
   - Kroatien
 author: pelle
 photo: ../../img/2018/07/img_0350.jpg

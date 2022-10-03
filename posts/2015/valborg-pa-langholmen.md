@@ -1,7 +1,6 @@
 ---
-title:		"Valborg på Långholmen"
-date:		2015-05-01 23:12:00
-updated:	2015-05-01 23:12:03
+title: Valborg på Långholmen
+date: 2015-05-01
 tags: 	
 originalUrl:	https://nejtupp.blogspot.com/2015/05/valborg-pa-langholmen.html
 ---

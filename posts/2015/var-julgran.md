@@ -1,7 +1,6 @@
 ---
-title:		"Vår julgran"
-date:		2015-12-17 17:13:00
-updated:	2015-12-17 17:13:44
+title: Vår julgran
+date: 2015-12-17
 tags: 	
 originalUrl:	https://nejtupp.blogspot.com/2015/12/var-julgran.html
 ---

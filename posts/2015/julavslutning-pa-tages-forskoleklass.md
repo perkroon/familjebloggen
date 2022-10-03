@@ -1,7 +1,6 @@
 ---
-title:		"Julavslutning på Tages förskoleklass"
-date:		2015-01-10 22:44:00
-updated:	2015-01-10 22:44:46
+title: Julavslutning på Tages förskoleklass
+date: 2015-01-10
 tags: 	
 originalUrl:	https://nejtupp.blogspot.com/2015/01/julavslutning-pa-tages-forskoleklass.html
 ---

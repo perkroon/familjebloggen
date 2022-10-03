@@ -1,11 +1,12 @@
 ---
-title:		"Inskolning på förskolan: dag 4"
-date:		2009-08-20 12:54:00
-updated:	2009-08-20 13:05:04
+title: Inskolning på förskolan, dag 4
+date: 2009-08-20
 tags: 
   - förskola
   - inskolning	
-originalUrl:	https://nejtupp.blogspot.com/2009/08/inskolning-pa-forskolan-dag-4.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2009/08/inskolning-pa-forskolan-dag-4.html
 ---
 
 Det är den fjärde dagen som Tage och jag går till förskolan och jag tänker på vägen dit att det börjar kännas som vardag. Det brukar sägas att det tar tre månader att ändra en vana, så vi har väl en bit kvar antar jag.<br><br>När jag kommer dit lämnar jag Tage direkt. De är på väg till en lekpark och Tage får sitta i en dubbelvagn bredvid kompisen Simon. I förvirringen som uppstår när andra lämnar barn (varav en del gråter) och att olika saker ska lämnas inne på förskolan, glömmer jag att ta ett tydligt farväl av Tage. Men när jag ser honom rulla iväg i vagnen förstår jag också att han är på gott humör, så det gjorde nog inte så mycket.<br><br>Kvart över elva återkommer jag till förskolan och sitter en stund i hallen och väntar innan Tage kommer ut. Det har gått bra idag också, de kallar honom för "en solstråle" och jag blir stolt och glad. Sedan hör jag ordet jag gått och väntat på:<br><br> – Det gick jättebra idag, han har lekt med Simon igen och gjorde precis samma saker på lekplatsen. Men...<br><br>Det där lilla ordet "men"! Vad ska komma nu? Är det något som inte gått bra? Blev han ledsen? Jag skärper hörseln och lyssnar på fortsättningen.<br><br>– Men han åt ingenting.<br><br>OK. Inte så farligt. Barnen kom tydligen in efter lekparken, fick nya blöjor och skulle sedan äta lunch. Tage skakade på huvudet, sköt ifrån sig sked och tallrik och sade ett tydligt och bestämt nej. Han sköt till och med in stolen ordentligt till bordet som för att visa att här tänkte han inte sitta mer. Resten av måltiden fick han sitta i personalens knä.<br><br>Imorgon fortsätter inskolningen. Då ska han lämnas, leka på lekplatsen, komma in igen, äta lunch och sedan sova tillsammans med de övriga. Det blir spännande att se hur det går!

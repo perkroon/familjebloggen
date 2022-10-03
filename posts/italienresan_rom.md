@@ -3,7 +3,7 @@ title: Italienresan - Rom
 description: 
 date: 2017-06-30
 tags:
-  - Resa
+  - resa
   - Italien
 author: pelle
 photo: ../../img/2017/07/italien-rom-perk5241-20170629.jpg

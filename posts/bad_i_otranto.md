@@ -3,7 +3,7 @@ title: Bad i Otranto
 description: 
 date: 2017-07-30
 tags:
-  - Resa
+  - resa
   - Italien
 author: pelle
 photo: ../../img/2017/07/italien-otranto_perk6061.jpg

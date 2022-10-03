@@ -1,13 +1,14 @@
 ---
-title:		"Förberedelserna inför förlossningen går sådär"
-date:		2008-02-14 17:37:00
-updated:	2008-02-14 17:53:40
+title: Förberedelserna inför förlossningen går sådär
+date: 2008-02-14
 tags: 
   - förberedelser
   - förlossning
   - nervositet
   - taxi	
-originalUrl:	https://nejtupp.blogspot.com/2008/02/frberedelserna-infr-frlossningen-gr-sdr.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2008/02/frberedelserna-infr-frlossningen-gr-sdr.html
 ---
 
 Det finns många berättelser om hur det går till när man ska ta sig till förlossningen. På film är det oftast väldigt dramatiskt, med däckskrik i kurvorna och det tycks handla om sekunder. Så är det förstås ibland, men den föräldraundervisning vi fått gör klart att det inte går till så i de flesta fallen. Då har man oftast mer tid på sig, kan packa en väska i lugn och ro och sedan ringa efter en taxi. I helgen reste vi faktiskt med en taxichaufför som berättade att hans fru hade gått till Södersjukhuset när hon skulle föda sitt tredje barn.<br>

@@ -1,9 +1,10 @@
 ---
-title:		"Tage åker i förväg till Småland"
-date:		2011-06-02 22:25:00
-updated:	2011-08-15 22:21:02
+title: Tage åker i förväg till Småland
+date: 2011-06-02
 tags: 	
-originalUrl:	https://nejtupp.blogspot.com/2011/06/tage-aker-i-forvag-till-smaland.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2011/06/tage-aker-i-forvag-till-smaland.html
 ---
 
 <div class="separator" style="clear: both; text-align: center;"></div>Tage har blivit stor - så stor att han nu gjort sin första längre  resa utan oss! Det var för precis två veckor sedan som jag hämtade honom  tidigt från förskolan och mötte farmor. Sen åkte vi tillsammans till  Centralen, där tåget från Stockholm till Alvesta skulle avgå. Farmor  hade fått förhandsbesked om lite problem: p.g.a. spårfel skulle det bli  buss mellan Nyköping och Norrköping. När tåget gick stod jag och Åke och  vinkade på perrongen, farmor och Tage var på väg till Småland!<br><br>I  normala fall skulle resan tagit tre timmar, plus en timme med bil, men  nu blev den besvärligare och tog sex timmar, plus bilresan. Det hade  varit väntan på bussar och ingen information om vart man skulle gå  eller vilket tåg man skulle hoppa på, och när de väl kom ombord på rätt  tåg så var det överfullt och Tage fick sitta i farmors knä i flera  timmar. Men fram kom de, och farmor sa att Tage varit så snäll, så  snäll...<br><br>Resten av barnfamiljen åkte ner till farmor  och farfar i Småland på lördagen, och fick träffa Tage igen efter två  dygn ifrån varandra. Vi fick fint väder och hade det kul med farmor och farfar innan vi åkte vidare till Öland på måndagen.<br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>

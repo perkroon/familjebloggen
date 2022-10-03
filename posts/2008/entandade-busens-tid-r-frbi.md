@@ -1,10 +1,11 @@
 ---
-title:		"Entandade busens tid är förbi"
-date:		2008-09-30 20:29:00
-updated:	2008-09-30 20:34:43
+title: Entandade busens tid är förbi
+date: 2008-09-30
 tags: 
   - tänder	
-originalUrl:	https://nejtupp.blogspot.com/2008/09/entandade-busens-tid-r-frbi.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2008/09/entandade-busens-tid-r-frbi.html
 ---
 
 <img src="../../../../img/Mobil.jpg"><br>Idag kläcktes tand nummer 2. Det var skoj. Här ser ni bildbeviset. Nu dröjer det kanske 90 år tills Tage blir entandad igen. Iallafall om han följer gamla gammelmormor Guckes mönster.

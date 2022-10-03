@@ -1,7 +1,6 @@
 ---
-title:		"Tage fyller sju!"
-date:		2015-03-05 22:41:00
-updated:	2015-03-11 12:21:10
+title: Tage fyller sju!
+date: 2015-03-05
 tags: 	
 originalUrl:	https://nejtupp.blogspot.com/2015/03/tage-fyller-sju.html
 ---

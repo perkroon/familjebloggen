@@ -1,7 +1,6 @@
 ---
-title:		"Dan före dan före dopparedan"
-date:		2008-12-22 12:20:00
-updated:	2008-12-22 16:14:12
+title: Dan före dan före dopparedan
+date: 2008-12-22
 tags: 
   - Småland
   - bad
@@ -9,7 +8,9 @@ tags:
   - farmor
   - jul
   - tomte	
-originalUrl:	https://nejtupp.blogspot.com/2008/12/dan-fre-dan-fre-dopparedan.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2008/12/dan-fre-dan-fre-dopparedan.html
 ---
 
 <div align="left">Det lackar mot Tages första jul och barnfamiljen har rest söderut till Småländska höglandet. Tyvärr finns det ingen snö här heller, men vacker frost och mycket solsken har vi blivit bjudna på.<br>

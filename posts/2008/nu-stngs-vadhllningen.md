@@ -1,12 +1,13 @@
 ---
-title:		"Nu stängs vadhållningen"
-date:		2008-03-03 19:16:00
-updated:	2008-03-03 19:26:01
+title: Nu stängs vadhållningen
+date: 2008-03-03
 tags: 
   - förlossning
   - nervositet
   - värkar	
-originalUrl:	https://nejtupp.blogspot.com/2008/03/nu-stngs-vadhllningen.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2008/03/nu-stngs-vadhllningen.html
 ---
 
 Nu har vi fått lite signaler. Väskan åker fram och placeras i hallen, men vi försöker vara coola och intala oss att så här kan det pågå i tre dagar innan vi måste åka in. Samtidigt tänker jag själv att "Vi kanske måste åka om någon timme redan! Allt måste vara klart!"<br><br>2008-03-04, låter det bra? Det är min nya gissning.

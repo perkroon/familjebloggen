@@ -1,11 +1,12 @@
 ---
-title:		"Pulkapremiär"
-date:		2009-01-07 22:52:00
-updated:	2009-01-08 10:19:01
+title: Pulkapremiär
+date: 2009-01-07
 tags: 
   - pulka
   - vinter	
-originalUrl:	https://nejtupp.blogspot.com/2009/01/pulkapremir.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2009/01/pulkapremir.html
 ---
 
 Det är inte alla saker man gillar att göra första gången man provar, eller hur? Tage verkade inte riktigt förstå tjusningen med att åka pulka. Snön har lagt sig igen över Stockholm och eftersom vi fått en pulka av farmor och farfar ville vi passa på att åka lite – i den här stan kan man aldrig vara säker på att snön ligger kvar nästa dag.<br><br><br><img src="../../../../img/Tages_pulkapremi%C3%A4r_1024pix.jpg"><br>Nej, Tage satt mest snällt i pulkan och såg ut att undra vad som egentligen pågick. Vart var vi på väg? Varför körde vi omkring i cirklar hela tiden? Och varför kunde han inte få sitta i vagnen, som vanligt?<br><br>Kanske blir det roligare nästa gång.

@@ -3,7 +3,7 @@ title: Vi skaffar oss ett akvarium
 description: 
 date: 2016-10-01
 tags:
-  - Djur
+  - djur
 author: pelle
 photo: ../../img/2016/10/akvariet-perk8719.jpg
 layout: layouts/post.njk

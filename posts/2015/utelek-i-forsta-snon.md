@@ -1,7 +1,6 @@
 ---
-title:		"Utelek i första snön"
-date:		2015-12-29 21:51:00
-updated:	2015-12-29 21:51:44
+title: Utelek i första snön
+date: 2015-12-29
 tags: 	
 originalUrl:	https://nejtupp.blogspot.com/2015/12/utelek-i-forsta-snon.html
 ---

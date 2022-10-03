@@ -1,12 +1,13 @@
 ---
-title:		"Hallå? Är det någon hemma?"
-date:		2008-11-13 15:57:00
-updated:	2008-11-13 16:08:59
+title: Hallå? Är det någon hemma?
+date: 2008-11-13
 tags: 
   - jobb
   - kravla
   - leende	
-originalUrl:	https://nejtupp.blogspot.com/2008/11/hall-r-det-ngon-hemma.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2008/11/hall-r-det-ngon-hemma.html
 ---
 
 Det har mest varit Mamman som bloggat på sistone, men så får hon ju träffa vår lille son så mycket mer än jag. Men en sak gör jag som hon aldrig gjort sedan Tage kom till: jag kommer-hem-från-jobbet. Det har blivit riktigt roligt att komma hem sedan Tage började röra sig nästan obehindrat i lägenheten. Jag öppnar dörren och kliver in på hallmattan. "Ho-ho?" ropar jag för att kolla om någon är hemma. Oftast hör jag Tage och Mamman i köket. Mamman börjar fråga Tage: "Var det någon som kom hem? Vem var det som kom hem?". Jag ropar igen: "Ho-ho?". Sedan hör jag ljudet av små, små armar och ben som snabbt kravlar iväg mot hallen. När han kommer runt dörrposten tittar han upp och får syn på mig och så får jag världens härligaste leende!<br><br>Det kommer jag att sakna när jag blir pappaledig om två veckor. Men då är det Mammans tur att få uppleva det.

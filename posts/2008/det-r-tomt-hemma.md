@@ -1,9 +1,10 @@
 ---
-title:		"Det är tomt hemma"
-date:		2008-06-28 10:04:00
-updated:	2008-06-28 10:07:32
+title: Det är tomt hemma
+date: 2008-06-28
 tags: 	
-originalUrl:	https://nejtupp.blogspot.com/2008/06/det-r-tomt-hemma.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2008/06/det-r-tomt-hemma.html
 ---
 
 Idag är Tage och Mamman lite ledsna. Pappan har åkt till Hongkong och vi får inte se honom igen förrän om 9 dygn. Vi kommer sakna honom mycket.

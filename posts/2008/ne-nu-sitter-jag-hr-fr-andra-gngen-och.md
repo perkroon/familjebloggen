@@ -1,13 +1,14 @@
 ---
-title:		"Sysselsättning i väntans tider"
-date:		2008-02-20 20:08:00
-updated:	2008-02-20 20:42:47
+title: Sysselsättning i väntans tider
+date: 2008-02-20
 tags: 
   - café dello sport
   - förlossningsförberedelser
   - ordningssinne
   - pica	
-originalUrl:	https://nejtupp.blogspot.com/2008/02/ne-nu-sitter-jag-hr-fr-andra-gngen-och.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2008/02/ne-nu-sitter-jag-hr-fr-andra-gngen-och.html
 ---
 
 Näe, nu sitter jag här för andra gången och äter upp godiset som jag inhandlat till förlossningsväskan. Det går ju inte att köpa godis i förtid, det borde jag ha förstått. Pelle har packat ned en frukt&mandel-chokladkaka  -  så listigt eftersom det är en smak jag bara skulle äta vid värsta nödfallschokladsuget. Jag får nog skippa det där med att ha godis i väskan och koncentrera mig på alla de andra nödvändiga förberedelserna inför förlossningen. Som att organisera hemmet.. När vi flyttade hit till Hornstull i november så tryckte vi in alla saker huller om buller i skåp och garderober för att bli av med flyttkartongerna. Och de som känner mig förstår ju såklart att detta stör mitt ordningssinne betydligt, så detta ska nu alltså åtgärdas. Tyvärr går det dock i slow motion för jag blir svimfärdig av andfåddhet bara av att klättra upp 2 steg på stegen eller ta mig från rum till rum. Så för närvarande ligger det massor av bråte utspritt på golvet i hela lägenheten i väntan på att sorteras in nånstans. Jaja, det ordnar sig nog.<br>

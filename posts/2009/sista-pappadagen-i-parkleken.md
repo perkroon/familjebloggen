@@ -1,7 +1,6 @@
 ---
-title:		"Sista pappadagen i parkleken"
-date:		2009-08-16 22:31:00
-updated:	2009-08-16 23:29:11
+title: Sista pappadagen i parkleken
+date: 2009-08-16
 tags: 
   - gunga
   - lek
@@ -9,7 +8,9 @@ tags:
   - sandlåda
   - springa
   - trehjuling	
-originalUrl:	https://nejtupp.blogspot.com/2009/08/sista-pappadagen-i-parkleken.html
+author: Pelle
+layout: layouts/post.njk
+originalUrl: https://nejtupp.blogspot.com/2009/08/sista-pappadagen-i-parkleken.html
 ---
 
 När min pappaledighet började i december kändes det som en oändlig tid vi hade framför oss tillsammans Tage och jag.Men nu är den snart slut. Imorgon börjar inskolningen av Tage på dagis.<br><br>En av de sista riktiga pappadagarna gick vi som vanligt till parkleken här i Högalid. Den här gången hade jag med mig kameran och fotograferade lite, vilket jag annars inte brukar göra. Här är några bilder.<br><br><br><div style="text-align: center;"><img src="../../../../img/_MG_8140_1024pix.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Att gunga är viktigt när man kommer till parkleken. Utan gungning<br>räknas det inte på riktigt. Helst vill Tage gunga i 20 minuter och även<br>om han kan se uttråkad ut får man </span>inte<span style="font-style: italic;"> sluta.</span><br></span></div><br><br><div style="text-align: center;"><img src="../../../../img/_MG_8148_1024pix-2.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Så småningom finner han dock det för lämpligt att göra något annat.</span></span><br></div><br><br><div style="text-align: center;"><img src="../../../../img/_MG_8162_1024pix.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Vanligtvis åker han rutschkana en stund tillsammans med andra barn.</span></span><br></div><br><br><div style="text-align: center;"><img src="../../../../img/_MG_8168_1024pix.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Ibland måste man tänka efter för att komma på vad man ska göra näst.<br>Leka i det lilla huset? Åka karusell? Rida på hönsen? Gräva i sandlådan?</span></span><br></div><br><br><div style="text-align: center;"><img src="../../../../img/_MG_8173_1024pix.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Sandlådan är alltid kul. Allra bäst så klart om man har en hink och spade.</span></span><br></div><br><br><div style="text-align: center;"><img src="../../../../img/_MG_8176_1024pix.jpg"><span style="font-size:85%;"><span style="font-style: italic;">En del sand följer alltid med hem i lägenheten, det är oundvikligt.</span></span><br></div><br><span style="text-decoration: underline;"><br></span><div style="text-align: center;"><img src="../../../../img/_MG_8218_1024pix.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Bakom baracken finns det roliga gupp att springa eller åka över.</span></span><br></div><br><br><div style="text-align: center;"><img src="../../../../img/_MG_8217_1024pix.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Tage redo på trehjulingen.</span></span><br></div><br><br><div style="text-align: center;"><img src="../../../../img/_MG_8219_1024pix.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Nu kör vi pappa! (Det betyder att jag ska putta på).</span></span><br></div><br><br><div style="text-align: center;"><img src="../../../../img/_MG_8220_1024pix.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Det går fortare utan trehjuling än med.<br>Tage springer riktigt fort numera.</span></span><br></div><br><br><div style="text-align: center;"><img src="../../../../img/_MG_8244_1024pix.jpg"><span style="font-size:85%;"><span style="font-style: italic;">Den här trehjulingen är alldeles för stor för Tage,<br>men han har fått in en rätt snygg moppe-pose.</span></span><br></div>

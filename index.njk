@@ -4,11 +4,13 @@ eleventyNavigation:
   key: Hem
   order: 1
 ---
-{% set maxPosts = collections.posts.length | min(3) %}
-<h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
-
-{% set postslist = collections.posts | head(-3) %}
-{% set postslistCounter = collections.posts | length %}
-{% include "postslist.njk" %}
-
-<p>Alla inlägg hittas i <a href="{{ '/posts/' | url }}">arkivet</a>.</p>
+{% set maxPosts = collections.posts.length | min(20) %}
+<h1>Senaste {% if maxPosts == 1 %}inlägget{% else %}{{ maxPosts }} inläggen{% endif %}</h1>
+Alla inlägg finns i arkivet.
+{% set postslist = collections.posts | head(-20) %}
+{% include "postslist2.njk" %}
+<br>
+<br>
+<br>
+<br>
+(Borde erbjuda nästa sida här!)

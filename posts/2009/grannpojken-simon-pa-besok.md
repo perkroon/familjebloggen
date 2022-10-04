@@ -15,7 +15,7 @@ Vi fick besök idag, Tage och jag. Det var grannarna som tittade in, Simon och h
 
 <figure>
 	<img src="../../../../img/_MG_0646_1024pix.jpg">
-	<figcaption>Tage (till höger) visar Simon hur man stoppar in leksaker i tvättmaskinen.</span></span><br></div>
+	<figcaption>Tage (till höger) visar Simon hur man stoppar in leksaker i tvättmaskinen.</figcaption>
 
 <div class="comments">
 	<div class="comments-header"><h2>3 Comments</h2></div>

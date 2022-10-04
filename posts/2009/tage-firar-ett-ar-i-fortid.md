@@ -19,7 +19,7 @@ Om en vecka, när vi reser till Halland, fyller Tage ett år. Farmor och farfar 
 <figure>
 	<img src="../../../../img/_MG_1210_1024pix.jpg">
 	<figcaption> Ljuset var spännande, men semlan orkade Tage inte smaka på<br>efter den ordinarie lunchen.<br><br><br></span></span></div><div style="text-align: center;"><img src="../../../../img/_MG_1227_1024pix.jpg">
-	<figcaption>Tage hugger in på paketen.</span></span><br></div>
+	<figcaption>Tage hugger in på paketen.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_1285_1024pix.jpg">
@@ -27,7 +27,7 @@ Om en vecka, när vi reser till Halland, fyller Tage ett år. Farmor och farfar 
 
 <figure>
 	<img src="../../../../img/_MG_1282_1024pix.jpg">
-	<figcaption>Det blir fort stökigt på ettårskalas. På bilden ser<br>vi också Mamman  som har fått låna en av<br>Tages nya böcker.</span></span><br></div>
+	<figcaption>Det blir fort stökigt på ettårskalas. På bilden ser<br>vi också Mamman  som har fått låna en av<br>Tages nya böcker.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_1297_1024pix.jpg">
@@ -35,4 +35,4 @@ Om en vecka, när vi reser till Halland, fyller Tage ett år. Farmor och farfar 
 
 <figure>
 	<img src="../../../../img/_MG_1301_1024pix.jpg">
-	<figcaption>Även farmor och farfar lekte med ballongerna.</span></span><br></div></div>
+	<figcaption>Även farmor och farfar lekte med ballongerna.</figcaption></div>

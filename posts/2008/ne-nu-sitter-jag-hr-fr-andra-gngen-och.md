@@ -6,7 +6,7 @@ tags:
   - förlossningsförberedelser
   - ordningssinne
   - pica	
-author: Pelle
+author: Lovisa
 layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2008/02/ne-nu-sitter-jag-hr-fr-andra-gngen-och.html
 ---

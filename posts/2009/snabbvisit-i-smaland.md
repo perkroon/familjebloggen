@@ -15,7 +15,7 @@ Nu är det vardag igen och vår första semestervecka under sommaren 2009 ligger
 
 <figure>
 	<img src="../../../../img/_MG_4636_1024pix.jpg">
-	<figcaption>Hos farmor och farfar gör Tage lite som han vill. Han får till exempel<br>sitta mitt på bordet och leka med lampan – hur kul som helst!</span></span><br></div>
+	<figcaption>Hos farmor och farfar gör Tage lite som han vill. Han får till exempel<br>sitta mitt på bordet och leka med lampan – hur kul som helst!</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_4644_1024pix.jpg">
@@ -23,7 +23,7 @@ Nu är det vardag igen och vår första semestervecka under sommaren 2009 ligger
 	<figcaption>Senare hjälpte Tage farfar att vattna blommorna.</span></span><br><div style="text-align: center;">
 	<figcaption>Ingen planta får vara törstig!</span></span><br><br><br></div></div><div style="text-align: center;"><img src="../../../../img/_MG_4730_1024pix.jpg">
 	<figcaption>Sedan någon vecka hade Tage ätit ganska<br>dåligt, vilket jag bekymrade </span></span>
-	<figcaption>mig en del över.</span></span><br></div>
+	<figcaption>mig en del över.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_4683_1024pix.jpg">

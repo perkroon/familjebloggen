@@ -16,4 +16,4 @@ Vi har nu lämnat Stockholm och rest med tåg till farmor och farfar i Småland.
 
 <figure>
 	<img src="../../../../img/Kall%2Bvinterdag%2Bi%2BPyrtet_MG_6765.jpg"><br>
-	<figcaption>Det är djup snö i diket och när man leker håller man sig varm.</span></span><br></div>
+	<figcaption>Det är djup snö i diket och när man leker håller man sig varm.</figcaption>

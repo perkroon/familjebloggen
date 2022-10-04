@@ -10,7 +10,21 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2008/03/tage-p-nya-ventyr.html
 ---
 
-Häromdagen fick Tage sin första egna post. Snälla och fixiga tant Kari och farbror Per hade skickat en supersöt body med tryck. Tage blev jätteglad.<br><br><br><img src="../../../../img/_MG_0589_1024pix.jpg"><br><br>Igår var en aktiv dag. Tage hade 3 besök: BVC-sköterskan, tant Ina och tant Caroline. Ina följde med på en liten promenad.<br><br><br><img src="../../../../img/_MG_0572_1024pix.jpg"><br><br>Idag hade vi ovanligt nog inga besök alls så vi passade på att ta en långpromenad bort till Zinkensdamm för att handla lite saker i barnvagnsaffären. Där fick jag prova på att amma offentligt för första gången. Det gick bra. En första bussresa med vagn provade vi också på. Ikväll ska vi fira fredagskvällen med potatismos, sojakorv och rödvin. Fast Tage får bara mjölk. Han är mer än nöjd med det.<br><br>Tage är idag 10 dagar gammal och vi kan bara konstatera att det här går ju riktigt bra. Vi har det väldigt mysigt. Tage äter och sover hela tiden.
+Häromdagen fick Tage sin första egna post. Snälla och fixiga tant Kari och farbror Per hade skickat en supersöt body med tryck. Tage blev jätteglad.
+
+<figure>
+	<img src="../../../img/2008/03/_MG_0589_1024pix.jpg">
+</figure>
+
+Igår var en aktiv dag. Tage hade 3 besök: BVC-sköterskan, tant Ina och tant Caroline. Ina följde med på en liten promenad.
+
+<figure>
+	<img src="../../../img/2008/03/_MG_0572_1024pix.jpg">
+</figure>
+
+Idag hade vi ovanligt nog inga besök alls så vi passade på att ta en långpromenad bort till Zinkensdamm för att handla lite saker i barnvagnsaffären. Där fick jag prova på att amma offentligt för första gången. Det gick bra. En första bussresa med vagn provade vi också på. Ikväll ska vi fira fredagskvällen med potatismos, sojakorv och rödvin. Fast Tage får bara mjölk. Han är mer än nöjd med det.
+
+Tage är idag 10 dagar gammal och vi kan bara konstatera att det här går ju riktigt bra. Vi har det väldigt mysigt. Tage äter och sover hela tiden.
 
 <div class="comments">
 	<div class="comments-header"><h2>1 Comment</h2></div>

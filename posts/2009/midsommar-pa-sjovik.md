@@ -20,11 +20,11 @@ Midsommar 2009 firade barnfamiljen på en ö i Stockholms norra skärgård, till
 
 <figure>
 	<img src="../../../../img/_MG_5781_1024pix.jpg">
-	<figcaption>Tage klädd i regnbyxor förfriskar sig på verandan.</span></span><br></div>
+	<figcaption>Tage klädd i regnbyxor förfriskar sig på verandan.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_5826_1024pix.jpg">
-	<figcaption>Trots regnbyxor och stövlar blev Tage blöt på standen.</span></span><br></div>
+	<figcaption>Trots regnbyxor och stövlar blev Tage blöt på standen.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_5802_1024pix.jpg">
@@ -34,7 +34,7 @@ Midsommar 2009 firade barnfamiljen på en ö i Stockholms norra skärgård, till
 <figure>
 	<img src="../../../../img/_MG_5842_1024pix.jpg">
 	<figcaption>Gruppbild 1. Nils har fått ett bra grepp om Tages hår.<br><br></span></span></div><br><div style="text-align: center;"><img src="../../../../img/_MG_5843_1024pix.jpg">
-	<figcaption>Gruppbild 2. Efter luggningen. Notera Tages blick!<br>(Klicka på bilden för att se den i ett större format.)</span></span><br></div>
+	<figcaption>Gruppbild 2. Efter luggningen. Notera Tages blick!<br>(Klicka på bilden för att se den i ett större format.)</figcaption>
 
 <div class="comments">
 	<div class="comments-header"><h2>1 Comment</h2></div>

@@ -11,11 +11,11 @@ Sommaren kan ju vara ett riktigt äventyr, och då måste man bo i tält! Allts�
 
 <figure>
 	<img src="../../../../img/T%C3%A4lt-_MG_3108.jpg"><br>
-	<figcaption>Ett tremannatält redo att ta emot en familj om fyra personer.</span></span><br></div>
+	<figcaption>Ett tremannatält redo att ta emot en familj om fyra personer.</figcaption>
 
 <figure>
 	<img src="../../../../img/T%C3%A4lt-_MG_3122.jpg"><br>
-	<figcaption>Det var mjukt och skönt inne i tältet.</span></span><br></div>
+	<figcaption>Det var mjukt och skönt inne i tältet.</figcaption>
 
 <figure>
 	<img src="../../../../img/T%C3%A4lt-_MG_3127.jpg"><br>

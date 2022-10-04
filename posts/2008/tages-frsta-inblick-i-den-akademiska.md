@@ -19,4 +19,4 @@ På fredagen deltog Tage på sin första fest. Det var Mammans kusin som dispute
 
 <figure>
 	<img src="../../../../img/_MG_1062_1024pix.jpg">
-	<figcaption>När Tage blir äldre kanske han också gillar pajerna på Tant Brun.</span></span><br></div>
+	<figcaption>När Tage blir äldre kanske han också gillar pajerna på Tant Brun.</figcaption>

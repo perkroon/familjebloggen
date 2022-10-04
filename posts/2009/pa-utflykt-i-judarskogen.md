@@ -21,11 +21,11 @@ I helgen gjorde vi ett besök i ett av Stockholms naturreservat, <a href="http:/
 
 <figure>
 	<img src="../../../../img/_MG_2462_1024pix.jpg">
-	<figcaption>Tage promenerar på stigen och får hjälp med balansen när det var ojämnt.</span></span><br></div>
+	<figcaption>Tage promenerar på stigen och får hjälp med balansen när det var ojämnt.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_2456_1024pix.jpg">
-	<figcaption>– Titta! Ett grässtrå!</span></span><br></div>
+	<figcaption>– Titta! Ett grässtrå!</figcaption>
 
 <div class="comments">
 	<div class="comments-header"><h2>3 Comments</h2></div>

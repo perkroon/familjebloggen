@@ -13,4 +13,4 @@ Eftersom Tage har varit så förtjust i huvudbonader den senaste tiden tyckte ja
 
 <figure>
 	<img src="../../../../img/_MG_1748_1024pix.jpg">
-	<figcaption>Tage i gubbkeps.</span></span><br></div>
+	<figcaption>Tage i gubbkeps.</figcaption>

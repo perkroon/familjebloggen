@@ -25,4 +25,4 @@ När man fyllt tre år är det dags för det första tandläkarbesöket. Tage fi
 
 <figure>
 	<img src="../../../../img/Tandla%25CC%2588karpremia%25CC%2588r-_MG_8232.jpg"><br>
-	<figcaption>När vi kom hem berättade Tage för Mamman<br>att han först träffat en tandläkare och sedan<br>en "fiskman". Jag antar att det var just här<br>vi träffade fiskmannen...</span></span><br></div>
+	<figcaption>När vi kom hem berättade Tage för Mamman<br>att han först träffat en tandläkare och sedan<br>en "fiskman". Jag antar att det var just här<br>vi träffade fiskmannen...</figcaption>

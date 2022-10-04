@@ -14,11 +14,11 @@ originalUrl: https://nejtupp.blogspot.com/2009/07/nils-far-sina-namn.html
 
 <figure>
 	<img src="../../../../img/_MG_6216_print_matte.jpg">
-	<figcaption>Nils poserar med föräldrarna.</span></span><br></div>
+	<figcaption>Nils poserar med föräldrarna.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_6084_print_matte.jpg">
-	<figcaption>Förutom Nils heter Nils också Herman vilket framgår av tröjan.</span></span><br></div>
+	<figcaption>Förutom Nils heter Nils också Herman vilket framgår av tröjan.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_6138_print_matte.jpg">
@@ -32,7 +32,7 @@ originalUrl: https://nejtupp.blogspot.com/2009/07/nils-far-sina-namn.html
 
 <figure>
 	<img src="../../../../img/_MG_6224_1024pix.jpg">
-	<figcaption>...vilket gör stor succé!</span></span><br></div>
+	<figcaption>...vilket gör stor succé!</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_6225_1024pix.jpg">

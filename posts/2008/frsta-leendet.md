@@ -3,7 +3,7 @@ title: Första leendet!!
 date: 2008-03-28
 tags: 
   - Glädje	
-author: Pelle
+author: Lovisa
 layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2008/03/frsta-leendet.html
 ---
@@ -11,8 +11,9 @@ originalUrl: https://nejtupp.blogspot.com/2008/03/frsta-leendet.html
 Tage log idag! 2 gånger imorse fick jag ett ljuvligt svarsleende när vi pratade lite. Han såg ut som Pelle när han skrattar. Hur söt som helst!
 
 <figure>
-	<img src="../../../../img/_MG_0786_1024pix.jpg">
-	<figcaption>Förhoppningsvis ler Tage mot pappa<br> när han kommer hem ikväll</span></span><br></div>
+	<img src="../../../img/2008/03/_MG_0786_1024pix.jpg">
+	<figcaption>Förhoppningsvis ler Tage mot pappa när han kommer hem ikväll</figcaption>
+</figure>
 
 <div class="comments">
 	<div class="comments-header"><h2>1 Comment</h2></div>

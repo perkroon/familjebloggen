@@ -15,4 +15,4 @@ Vi har sagt det förr, och vi får säga det igen: Tage växer. Han är tung nu,
 
 <figure>
 	<img src="../../../../img/tage-anonym-kurva.jpg">
-	<figcaption>Den nedre kurvan visar vikten.<br>Klicka på bilden för att se den i full storlek.</span></span><br></div>
+	<figcaption>Den nedre kurvan visar vikten.<br>Klicka på bilden för att se den i full storlek.</figcaption>

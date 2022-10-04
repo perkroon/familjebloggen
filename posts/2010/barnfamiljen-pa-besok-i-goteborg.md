@@ -29,7 +29,7 @@ Det var hög tid för oss att besöka Göteborg och äntligen se hur faster Jenn
 
 <figure>
 	<img src="../../../../img/jpg-IMG_0191.jpg"><br></div><div style="text-align: center;">
-	<figcaption>Barnfamilj på restaurang? Det funkar.</span></span><br></div></div><br>Faster Jenny visade sig bo väldigt nära hotellet vi hamnat på, så hon kom och hälsade på oss på rummet redan på torsdagkvällen och stannade tills vi började läsa Tages godnattsaga.
+	<figcaption>Barnfamilj på restaurang? Det funkar.</figcaption></div><br>Faster Jenny visade sig bo väldigt nära hotellet vi hamnat på, så hon kom och hälsade på oss på rummet redan på torsdagkvällen och stannade tills vi började läsa Tages godnattsaga.
 
 <figure>
 	<img src="../../../../img/jpg-IMG_0200.jpg"><br>
@@ -54,7 +54,7 @@ Det var hög tid för oss att besöka Göteborg och äntligen se hur faster Jenn
 	<img src="../../../../img/jpg-IMG_0259.jpg"><br>
 	<figcaption>Att åka spårvagn gillade Tage skarpt. Pappan håller med.<br></figcaption>
 </figure><div style="text-align: center;"><div style="text-align: center;"><img src="../../../../img/jpg-IMG_0269.jpg"><br></div><div style="text-align: center;">
-	<figcaption>Åke och Tage sover gott på hotellet.</span></span><br></div></div><br>På lördagen tog Jenny och vi Älvsnabben in till stan tillsammans och mötte Cajsa och Jacob igen och åt lunch på ett kafé. Vi kände oss sedan redo för äventyr nummer två i Göteborg: Universeum. Tage kunde bara precis hålla sig vaken i spårvagnen på väg till Universeum, men när vi väl kom in så fanns det så mycket att se och göra att det inte längre var något problem. Vi tittade på fiskar, på regnskogen, jagade skor och kollade på polisbilen. Åke gillade fiskarna väldigt mycket, och spanade in faster Jennys fina armbandsur. Allt var jätteroligt, ända tills vi skulle gå. Då ville Tage inte sluta att springa ut och in på museet, trots att vi hade lämnat ifrån oss våra biljetter och när Pappan till slut sa ifrån brast det för honom och han blev jätteledsen. Men det gick över fort när han fick sitta i Mammans knä och äta ett kex. Våra snälla värdar i Göteborg hade oändligt med tålamod för den tid det tar för oss att klä på oss och byta från en aktivitet till en annan.
+	<figcaption>Åke och Tage sover gott på hotellet.</figcaption></div><br>På lördagen tog Jenny och vi Älvsnabben in till stan tillsammans och mötte Cajsa och Jacob igen och åt lunch på ett kafé. Vi kände oss sedan redo för äventyr nummer två i Göteborg: Universeum. Tage kunde bara precis hålla sig vaken i spårvagnen på väg till Universeum, men när vi väl kom in så fanns det så mycket att se och göra att det inte längre var något problem. Vi tittade på fiskar, på regnskogen, jagade skor och kollade på polisbilen. Åke gillade fiskarna väldigt mycket, och spanade in faster Jennys fina armbandsur. Allt var jätteroligt, ända tills vi skulle gå. Då ville Tage inte sluta att springa ut och in på museet, trots att vi hade lämnat ifrån oss våra biljetter och när Pappan till slut sa ifrån brast det för honom och han blev jätteledsen. Men det gick över fort när han fick sitta i Mammans knä och äta ett kex. Våra snälla värdar i Göteborg hade oändligt med tålamod för den tid det tar för oss att klä på oss och byta från en aktivitet till en annan.
 
 <figure>
 	<img src="../../../../img/jpg-IMG_0290.jpg"><br>
@@ -77,7 +77,7 @@ Det var hög tid för oss att besöka Göteborg och äntligen se hur faster Jenn
 <figure>
 	<img src="../../../../img/jpg-IMG_0363.jpg"><br></div><div style="text-align: center;">
 	<figcaption>Fotograf ombord på tåget: Tage</span><br></div><br><div style="text-align: center;"><img src="../../../../img/jpg-IMG_0380.jpg"><br>
-	<figcaption>Snart är vi hemma i Hornstull igen!</span></span><br></div>
+	<figcaption>Snart är vi hemma i Hornstull igen!</figcaption>
 
 <div class="comments">
 	<div class="comments-header"><h2>2 Comments</h2></div>

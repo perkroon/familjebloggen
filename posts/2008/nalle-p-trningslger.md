@@ -9,7 +9,11 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2008/03/nalle-p-trningslger.html
 ---
 
-<img src="../../../../img/_MG_0196_1024pix.jpg"><br><br>När det gäller att byta blöjor är jag en riktig nybörjare. I brist på bebis får jag träna på till buds stående medel. Men jag tror att det är lite fusk att byta blöja på en nallebjörn, det blir nog lite svårare när det väl kommer till kritan...
+<figure>
+	<img src="../../../img/2008/03/_MG_0196_1024pix.jpg">
+</figure>
+
+När det gäller att byta blöjor är jag en riktig nybörjare. I brist på bebis får jag träna på till buds stående medel. Men jag tror att det är lite fusk att byta blöja på en nallebjörn, det blir nog lite svårare när det väl kommer till kritan...
 
 <div class="comments">
 	<div class="comments-header"><h2>1 Comment</h2></div>

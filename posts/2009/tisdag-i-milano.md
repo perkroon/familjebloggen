@@ -69,4 +69,4 @@ Den första heldagen i Milano var tisdagen. Vi sov gott i dubbelsängen, som vi 
 	<img src="../../../../img/_MG_3814_1024pix.jpg">
 	<figcaption>Det är skönt att ta det lugnt på rummet en stund.</figcaption>
 </figure><div style="text-align: center;"><img src="../../../../img/_MG_3817_1024pix.jpg">
-	<figcaption>Drick pappa! Man måste tänka på vätskebalansen.</span></span><br></div>
+	<figcaption>Drick pappa! Man måste tänka på vätskebalansen.</figcaption>

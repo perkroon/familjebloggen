@@ -13,7 +13,7 @@ Förra helgen – vi ligger lite efter med bloggandet – gjorde vi en utflykt t
 
 <figure>
 	<img src="../../../../img/Utflykt+till+Nyckelviken-_MG_9820.jpg"><br>
-	<figcaption>Det står Tage på bollen,<br>men det är bäst att hålla i den hårt ändå.</span></span><br></div>
+	<figcaption>Det står Tage på bollen,<br>men det är bäst att hålla i den hårt ändå.</figcaption>
 
 <figure>
 	<img src="../../../../img/Utflykt+till+Nyckelviken-_MG_9826.jpg"><br>
@@ -36,4 +36,4 @@ Förra helgen – vi ligger lite efter med bloggandet – gjorde vi en utflykt t
 	<figcaption>Tage gillar vindruvor – om han får dem skalade.</span></span><br><br><br></div><div style="text-align: center;"><img src="../../../../img/Utflykt+till+Nyckelviken-_MG_9938.jpg">
 	<figcaption><br>Åke stannade i vagnen.</span><br></div><div style="text-align: center;"><br></div><br><div style="text-align: center;"><img src="../../../../img/Utflykt+till+Nyckelviken-_MG_9950.jpg"><br>
 	<figcaption>Att resa buss kan vara riktigt kul. Tage höll låda för hela bussen.</span></span><br><br><br><img src="../../../../img/Utflykt+till+Nyckelviken-_MG_9964.jpg">
-	<figcaption><br>Åke gillar sina tärningar.</span></span><br></div>
+	<figcaption><br>Åke gillar sina tärningar.</figcaption>

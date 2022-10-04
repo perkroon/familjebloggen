@@ -13,4 +13,4 @@ I fredags tog vi Sjögullsfärjan till Peter och Erikas härliga sommarställe S
 	<img src="../../../../img/_MG_5044_1024pix.jpg">
 	<figcaption>Tage och Erika. Tage sitter ovanpå sin blivande kompis.<br>Nästa sommar har han en lekkamrat på Sjövik.<br><br></span></span></div><br><div style="text-align: center;"><img src="../../../../img/_MG_5032_1024pix.jpg">
 	<figcaption>Allt är gott att suga på.<br>-"Titta, jag hittade en jätte-smaskig tå".<br><br></span></span></div><br><div style="text-align: center;"><img src="../../../../img/_MG_5020_1024pix.jpg">
-	<figcaption>Tage chillar på altanen.</span></span><br></div>
+	<figcaption>Tage chillar på altanen.</figcaption>

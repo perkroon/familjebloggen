@@ -16,4 +16,4 @@ Tage har partajat i helgen. Först var det kusin Axels 8-årskalas i Danderyd. T
 
 <figure>
 	<img src="../../../../img/2+Mobil+0097.jpg">
-	<figcaption>Polarna Tage & Malte</span></span><br></div>
+	<figcaption>Polarna Tage & Malte</figcaption>

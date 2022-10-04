@@ -22,38 +22,38 @@ När min pappaledighet började i december kändes det som en oändlig tid vi ha
 
 <figure>
 	<img src="../../../../img/_MG_8148_1024pix-2.jpg">
-	<figcaption>Så småningom finner han dock det för lämpligt att göra något annat.</span></span><br></div>
+	<figcaption>Så småningom finner han dock det för lämpligt att göra något annat.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_8162_1024pix.jpg">
-	<figcaption>Vanligtvis åker han rutschkana en stund tillsammans med andra barn.</span></span><br></div>
+	<figcaption>Vanligtvis åker han rutschkana en stund tillsammans med andra barn.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_8168_1024pix.jpg">
-	<figcaption>Ibland måste man tänka efter för att komma på vad man ska göra näst.<br>Leka i det lilla huset? Åka karusell? Rida på hönsen? Gräva i sandlådan?</span></span><br></div>
+	<figcaption>Ibland måste man tänka efter för att komma på vad man ska göra näst.<br>Leka i det lilla huset? Åka karusell? Rida på hönsen? Gräva i sandlådan?</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_8173_1024pix.jpg">
-	<figcaption>Sandlådan är alltid kul. Allra bäst så klart om man har en hink och spade.</span></span><br></div>
+	<figcaption>Sandlådan är alltid kul. Allra bäst så klart om man har en hink och spade.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_8176_1024pix.jpg">
 	<figcaption>En del sand följer alltid med hem i lägenheten, det är oundvikligt.</figcaption>
 </figure><span style="text-decoration: underline;"><br></span><div style="text-align: center;"><img src="../../../../img/_MG_8218_1024pix.jpg">
-	<figcaption>Bakom baracken finns det roliga gupp att springa eller åka över.</span></span><br></div>
+	<figcaption>Bakom baracken finns det roliga gupp att springa eller åka över.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_8217_1024pix.jpg">
-	<figcaption>Tage redo på trehjulingen.</span></span><br></div>
+	<figcaption>Tage redo på trehjulingen.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_8219_1024pix.jpg">
-	<figcaption>Nu kör vi pappa! (Det betyder att jag ska putta på).</span></span><br></div>
+	<figcaption>Nu kör vi pappa! (Det betyder att jag ska putta på).</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_8220_1024pix.jpg">
-	<figcaption>Det går fortare utan trehjuling än med.<br>Tage springer riktigt fort numera.</span></span><br></div>
+	<figcaption>Det går fortare utan trehjuling än med.<br>Tage springer riktigt fort numera.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_8244_1024pix.jpg">
-	<figcaption>Den här trehjulingen är alldeles för stor för Tage,<br>men han har fått in en rätt snygg moppe-pose.</span></span><br></div>
+	<figcaption>Den här trehjulingen är alldeles för stor för Tage,<br>men han har fått in en rätt snygg moppe-pose.</figcaption>

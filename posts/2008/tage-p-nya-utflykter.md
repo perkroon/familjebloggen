@@ -16,4 +16,4 @@ Idag har vi firat Tages 2-månadersdag med att äta frukost på Cinnamon, gå p�
 	<figcaption><br></span></span></div><div style="text-align: center;"><div style="text-align: center;"><img src="../../../../img/_MG_1108_1024pix.jpg">
 	<figcaption>Boo Trädgård i Orminge kan verkligen rekommenderas! Supermysigt<br>ställe med gott te och smarrig äppelkaka som man fick ovanligt mycket<br>vaniljsås till (men tyvärr inte riktigt tillräckligt ändå som vanligt).<br><br><br></span></span></div><br><img src="../../../../img/_MG_1118_1024pix.jpg">
 	<figcaption>Mamman och Tage bland japansk körsbärsblom i Kungsan.<br><br><br></span><br><img src="../../../../img/_MG_1205_1024pix.jpg">
-	<figcaption>Lill-Buddha och Pandan som kom flygande ända från<br>Kina för att bli Tages nya kompis.</span></span><br></div>
+	<figcaption>Lill-Buddha och Pandan som kom flygande ända från<br>Kina för att bli Tages nya kompis.</figcaption>

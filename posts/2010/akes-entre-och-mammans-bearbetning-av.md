@@ -15,7 +15,7 @@ originalUrl: https://nejtupp.blogspot.com/2010/03/akes-entre-och-mammans-bearbet
 
 <figure>
 	<img src="../../../../img/S%C3%B6dra+BB-_MG_0186.jpg">
-	<figcaption>Liten och skrynklig – men stark.</span></span><br></div>
+	<figcaption>Liten och skrynklig – men stark.</figcaption>
 
 <figure>
 	<img src="../../../../img/S%C3%B6dra+BB-_MG_0168.jpg">

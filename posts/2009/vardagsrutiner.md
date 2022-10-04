@@ -11,11 +11,11 @@ Den här veckan har vår höstvardag börjat. Mamman jobbar igen – men bara 80
 
 <figure>
 	<img src="../../../../img/_MG_8490_1024pix.jpg">
-	<figcaption>Tage leker på studsmattan med kusin Tore,<br>som är den kusin som är mest jämnårig med honom.</span></span><br></div>
+	<figcaption>Tage leker på studsmattan med kusin Tore,<br>som är den kusin som är mest jämnårig med honom.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_8551_1024pix.jpg">
-	<figcaption>Här är hela gänget från i söndags.</span></span><br></div>
+	<figcaption>Här är hela gänget från i söndags.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_8532_1024pix.jpg">

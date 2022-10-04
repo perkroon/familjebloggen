@@ -13,7 +13,7 @@ Härligt! En lördag i juni i Stockholm – vad ska man hitta på då? Många ba
 	<img src="../../../../img/_MG_5416_1024pix.jpg">
 	<figcaption>Tage på hängbron. Till höger simmar pirayor.</figcaption>
 </figure><div style="text-align: center;"><img src="../../../../img/_MG_5410_1024pix.jpg">
-	<figcaption>Upp för trappan, över hängbron, ner för<br>den andra trappan ...och upp igen!</span></span><br></div>
+	<figcaption>Upp för trappan, över hängbron, ner för<br>den andra trappan ...och upp igen!</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_5424_1024pix.jpg">
@@ -27,4 +27,4 @@ Härligt! En lördag i juni i Stockholm – vad ska man hitta på då? Många ba
 <figure>
 	<img src="../../../../img/_MG_5352_1024pix.jpg">
 	<figcaption>Elvis erbjuds lite pärlsocker från en kanelbulle.</span></span><br><br></div><br><div style="text-align: center;"><img src="../../../../img/_MG_5367_1024pix.jpg">
-	<figcaption>Här hittade Tage en groda. Elvis har hittat något annat.</span></span><br></div>
+	<figcaption>Här hittade Tage en groda. Elvis har hittat något annat.</figcaption>

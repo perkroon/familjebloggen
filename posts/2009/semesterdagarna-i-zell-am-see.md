@@ -19,7 +19,7 @@ Vi kom fram till Zell am See och hittade ett lämpligt litet hotell att bo på i
 
 <figure>
 	<img src="../../../../img/_MG_7079_1024pix.jpg">
-	<figcaption>Mamman planerar nästa etapp.</span></span><br></div>
+	<figcaption>Mamman planerar nästa etapp.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_7077_1024pix.jpg">
@@ -28,15 +28,15 @@ Vi kom fram till Zell am See och hittade ett lämpligt litet hotell att bo på i
 
 <figure>
 	<img src="../../../../img/_MG_7091_1024pix.jpg">
-	<figcaption>På väg uppåt.</span></span><br></div>
+	<figcaption>På väg uppåt.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_7129_1024pix.jpg">
-	<figcaption>På väg neråt, med Zellersjön i bakgrunden nere i dalen.<br>Tage sover fortfarande.</span></span><br></div>
+	<figcaption>På väg neråt, med Zellersjön i bakgrunden nere i dalen.<br>Tage sover fortfarande.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_7162_1024pix.jpg">
-	<figcaption>En nyvaken Tage pekar ut liftkabiner åt oss från en liten hydda han<br>hittade. Det var viktigt att peka ut alla kabiner så att vi inte missade<br>någon.</span></span><br></div>
+	<figcaption>En nyvaken Tage pekar ut liftkabiner åt oss från en liten hydda han<br>hittade. Det var viktigt att peka ut alla kabiner så att vi inte missade<br>någon.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_7172_1024pix.jpg">
@@ -47,7 +47,7 @@ Vi kom fram till Zell am See och hittade ett lämpligt litet hotell att bo på i
 
 <figure>
 	<img src="../../../../img/_MG_7204_1024pix.jpg">
-	<figcaption>Tage höjer blicken.</span></span><br></div>
+	<figcaption>Tage höjer blicken.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_7195_1024pix.jpg">
@@ -61,7 +61,7 @@ Vi kom fram till Zell am See och hittade ett lämpligt litet hotell att bo på i
 
 <figure>
 	<img src="../../../../img/_MG_7225_1024pix.jpg">
-	<figcaption>Tage fick en favorit i repris: Keisersmarrn!</span></span><br></div>
+	<figcaption>Tage fick en favorit i repris: Keisersmarrn!</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_7230_1024pix.jpg">
@@ -81,7 +81,7 @@ Vi kom fram till Zell am See och hittade ett lämpligt litet hotell att bo på i
 
 <figure>
 	<img src="../../../../img/_MG_7291_1024pix.jpg">
-	<figcaption>Det fanns många spännande flygplan och "traktorer" att spana på.<br>"Traktor" kallar han allt som inte är en vanlig bil.</span></span><br></div>
+	<figcaption>Det fanns många spännande flygplan och "traktorer" att spana på.<br>"Traktor" kallar han allt som inte är en vanlig bil.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_7299_1024pix.jpg">
@@ -95,4 +95,4 @@ Vi kom fram till Zell am See och hittade ett lämpligt litet hotell att bo på i
 
 <figure>
 	<img src="../../../../img/_MG_7309_1024pix.jpg">
-	<figcaption>Även på flygplatser kan man hitta småstenar att leka med.</span></span><br></div>
+	<figcaption>Även på flygplatser kan man hitta småstenar att leka med.</figcaption>

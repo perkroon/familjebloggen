@@ -14,27 +14,27 @@ Torsdagen bjöd på en lite längre utflykt. Vi, det vill säga Tage och Pappan,
 
 <figure>
 	<img src="../../../../img/_MG_1020_1024pix.jpg">
-	<figcaption>Eftersom tvillingarna sov när vi kom fram fick Tage lite egen tid i huset.<br>Där fanns många roliga leksaker!</span></span><br></div>
+	<figcaption>Eftersom tvillingarna sov när vi kom fram fick Tage lite egen tid i huset.<br>Där fanns många roliga leksaker!</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_1005_1024pix.jpg">
-	<figcaption>En av favoriterna var den här "mobiltelefonen".</span></span><br></div>
+	<figcaption>En av favoriterna var den här "mobiltelefonen".</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_1010_1024pix.jpg">
-	<figcaption>Till sist vaknade Leo och Victor. Deras storasyster var på förskola.</span></span><br></div>
+	<figcaption>Till sist vaknade Leo och Victor. Deras storasyster var på förskola.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_1019_1024pix.jpg">
-	<figcaption>Här serveras de mat – Tage hade redan hunnit äta sin första lunch.</span></span><br></div>
+	<figcaption>Här serveras de mat – Tage hade redan hunnit äta sin första lunch.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_1059_1024pix.jpg">
-	<figcaption>Efter Tage och tvillingarna var det Pappan och M:s tur att äta lunch.<br>Eftersom vardagsrummet förutom leksaker även innehöll<br>sådant som Tage enkelt kunde riva ner (krukväxter till<br>exempel) så valde vi att sätta upp en grind så att vi skulle få<br>lite lugn när vi åt. Tage såg besviken ut – gräset är alltid grönare<br>på andra sidan staketet.</span></span><br></div>
+	<figcaption>Efter Tage och tvillingarna var det Pappan och M:s tur att äta lunch.<br>Eftersom vardagsrummet förutom leksaker även innehöll<br>sådant som Tage enkelt kunde riva ner (krukväxter till<br>exempel) så valde vi att sätta upp en grind så att vi skulle få<br>lite lugn när vi åt. Tage såg besviken ut – gräset är alltid grönare<br>på andra sidan staketet.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_1055_1024pix.jpg">
-	<figcaption>Även köket var fullt av leksaker visade det sig.</span></span><br></div>
+	<figcaption>Även köket var fullt av leksaker visade det sig.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_1046_1024pix.jpg">
@@ -43,15 +43,15 @@ Torsdagen bjöd på en lite längre utflykt. Vi, det vill säga Tage och Pappan,
 
 <figure>
 	<img src="../../../../img/_MG_1062_1024pix-2.jpg">
-	<figcaption>Tage är två månader äldre och kan gå, vilket gav honom ett visst övertag.</span></span><br></div>
+	<figcaption>Tage är två månader äldre och kan gå, vilket gav honom ett visst övertag.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_1076_1024pix-2.jpg">
-	<figcaption>Ibland gick det vilt till...</span></span><br></div>
+	<figcaption>Ibland gick det vilt till...</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_1063_1024pix.jpg">
-	<figcaption>... men det bjussades på kramar också.</span></span><br></div>
+	<figcaption>... men det bjussades på kramar också.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_1087_1024pix.jpg">
@@ -59,9 +59,9 @@ Torsdagen bjöd på en lite längre utflykt. Vi, det vill säga Tage och Pappan,
 
 <figure>
 	<img src="../../../../img/_MG_1091_1024pix.jpg">
-	<figcaption>Alla tre blev mätta till slut.</span></span><br></div>
+	<figcaption>Alla tre blev mätta till slut.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_1094_1024pix.jpg">
 	<figcaption>Trebarnsmamman med en av tvillingarna i famnen,<br>på väg ut på promenad.</span></span><br><br><br><br></div><div style="text-align: center;"><img src="../../../../img/_MG_1111_1024pix.jpg">
-	<figcaption>Victor och Leo klädda för en vinterpromenad i vagnen.</span></span><br></div>
+	<figcaption>Victor och Leo klädda för en vinterpromenad i vagnen.</figcaption>

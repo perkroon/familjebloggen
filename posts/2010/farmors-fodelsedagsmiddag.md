@@ -19,4 +19,4 @@ Farmor fyllde år för några veckor sedan, den 29 maj, och vi blev bjudna på m
 	<figcaption>– Gott är det också!</span></span><br><br></div><br><div style="text-align: center;"><img src="../../../../img/Mammas+f%C3%B6delsedagsmiddag-_MG_0368.jpg"><br>
 	<figcaption>Åke ratade menyn och föredrog bröstmjölk.<br></figcaption>
 </figure><div style="text-align: center;"><img src="../../../../img/Mammas+f%C3%B6delsedagsmiddag-_MG_0400.jpg"><br>
-	<figcaption>Efteråt gick vi hem till farmor och farfar och åt tårta. </span><span style="font-style: italic;"><br>Tage var en gentleman och höll upp hissdörren.</span></span><br></div>
+	<figcaption>Efteråt gick vi hem till farmor och farfar och åt tårta. </span><span style="font-style: italic;"><br>Tage var en gentleman och höll upp hissdörren.</figcaption>

@@ -33,4 +33,4 @@ Tages farmor fyller 60 år och det firade vi några dagar i förväg genom att r
 
 <figure>
 	<img src="../../../../img/_MG_1798_1024pix.jpg">
-	<figcaption>Farbror Kaj låter Tage flyga helikopter. Tage tycktes tyst och koncentrerad.</span></span><br></div>
+	<figcaption>Farbror Kaj låter Tage flyga helikopter. Tage tycktes tyst och koncentrerad.</figcaption>

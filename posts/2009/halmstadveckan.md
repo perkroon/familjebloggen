@@ -20,11 +20,11 @@ I juli hade vi tre veckor ledigt tillsammans. Första veckan tog vi tåget ned t
 
 <figure>
 	<img src="../../../../img/_MG_6665_1024pix.jpg">
-	<figcaption>Vem gömmer sig bakom busken?</span></span><br></div>
+	<figcaption>Vem gömmer sig bakom busken?</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_6666_1024pix.jpg">
-	<figcaption>Å, det var ju Dustin som bor längre bort på gatan.</span></span><br></div>
+	<figcaption>Å, det var ju Dustin som bor längre bort på gatan.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_6667_1024pix.jpg">

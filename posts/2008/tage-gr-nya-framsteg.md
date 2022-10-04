@@ -13,7 +13,7 @@ Vad har Tage lärt sig på sistone? En sak som märks tydligt är att hans motor
 
 <figure>
 	<img src="../../../../img/_MG_4816_1024pix.jpg">
-	<figcaption>Tage har greppat mycket på sista tiden.</span></span><br></div>
+	<figcaption>Tage har greppat mycket på sista tiden.</figcaption>
 
 <div class="comments">
 	<div class="comments-header"><h2>1 Comment</h2></div>

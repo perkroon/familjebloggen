@@ -26,4 +26,4 @@ Plötsligt på tisdagen kom mormor på besök. Hon fick se hur duktigt Tage går
 
 <figure>
 	<img src="../../../../img/_MG_0849_1024pix.jpg">
-	<figcaption>Titta! Där stack sköterskan mig!</span></span><br></div>
+	<figcaption>Titta! Där stack sköterskan mig!</figcaption>

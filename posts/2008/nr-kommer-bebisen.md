@@ -13,8 +13,10 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2008/02/nr-kommer-bebisen.html
 ---
 
-Dagen D närmar sig. Magen blir större och större, idag går vi in i vecka 39 och de obligatoriska "har det hänt nåt?"-frågorna har börjat inleda varje inkommande telefonsamtal och mail från släkt och vänner. Men ännu är allt som vanligt. Magen förefaller helt klart bebodd. Möjligen har livmoderns sammandragningar, som kommer så fort man går några steg, blivit starkare.<br>
-I fredags var vi på kalas hos blivande moster Josse. Bland gästerna uppstod en vadslagning om när lilla Pyret kommer. 120 riksdaler ligger nu i potten. Vem som bli den lycklige vinnaren återstår att se..<br>
+Dagen D närmar sig. Magen blir större och större, idag går vi in i vecka 39 och de obligatoriska "har det hänt nåt?"-frågorna har börjat inleda varje inkommande telefonsamtal och mail från släkt och vänner. Men ännu är allt som vanligt. Magen förefaller helt klart bebodd. Möjligen har livmoderns sammandragningar, som kommer så fort man går några steg, blivit starkare.
+
+I fredags var vi på kalas hos blivande moster Josse. Bland gästerna uppstod en vadslagning om när lilla Pyret kommer. 120 riksdaler ligger nu i potten. Vem som bli den lycklige vinnaren återstår att se...
+
 21 feb Moster Josse<br>
 22 feb Mormor Charlotte<br>
 24 feb Tant Ingela<br>
@@ -24,9 +26,9 @@ I fredags var vi på kalas hos blivande moster Josse. Bland gästerna uppstod en
 28 feb Moster Sofia<br>
 29 feb Kusin Lycke<br>
 7 mars Moster Josses svägerska Carolina<br>
-<br>
+
 Med i vadslagningen är nu också Ulle 18 feb (imorgon!), Sinnika 1 mars och såklart Pappa Pelle som också tror på det beräknade datumet 29 feb. Blir det då så får Lycke och Pelle dela på kosingen.<br>
-<br>
+
 Nä nu måste jag nog gå och spana in den där väskan som Pelle tjatar om. Jag förstår bara inte hur jag ska kunna packa ned nåt redan nu. Aldrig tidigare i mitt liv har jag packat mer än 10 minuter innan avfärd. Jag avvaktar nog en stund till.
 
 <div class="comments">

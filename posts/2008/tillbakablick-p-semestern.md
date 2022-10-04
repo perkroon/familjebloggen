@@ -15,16 +15,16 @@ Det hände förstås en hel del under vår första semester tillsammans som barn
 
 <figure>
 	<img src="../../../../img/_MG_5950_1024pix.jpg">
-	<figcaption>I Halmstad hann vi med att träffa vänner till både pappa och mamma.<br>Här är vi ute och äter med sällskap i den ljumma sommarkvällen.<br>Tage tog det hela med ro.</span></span><br><br></div><div style="text-align: center;"><span style="font-weight: bold;"><span style="font-size:130%;">Småland</span></span><br></div><span style="font-weight: bold;"><br></span><div style="text-align: center;"><img src="../../../../img/_MG_5975_1024pix.jpg">
+	<figcaption>I Halmstad hann vi med att träffa vänner till både pappa och mamma.<br>Här är vi ute och äter med sällskap i den ljumma sommarkvällen.<br>Tage tog det hela med ro.</span></span><br><br></div><div style="text-align: center;"><span style="font-weight: bold;"><span style="font-size:130%;">Småland</figcaption><span style="font-weight: bold;"><br></span><div style="text-align: center;"><img src="../../../../img/_MG_5975_1024pix.jpg">
 	<figcaption>I Småland stod en hel flyttkartong med leksaker och väntade på Tage.<br>De fick han ta över från sina sysslingar Ellen och Olle, som växt ifrån dem. (Tack!)<br>Här på bilden ser vi vad som kanske är världens roligaste tvättlina?<br>Annars gillar Tage mest sådant som egentligen inte är leksaker: en tom<br>PET-flaska, plastpåsar, träskedar och allt han kan få grepp om som finns i närheten.</span> </span></div>
 
 <figure>
 	<img src="../../../../img/_MG_6208_1024pix.jpg">
-	<figcaption>Vi fortsatte att ge Tage små smakportioner.<br>Tage kunde hålla sig för skratt...</span></span><br></div>
+	<figcaption>Vi fortsatte att ge Tage små smakportioner.<br>Tage kunde hålla sig för skratt...</figcaption>
 
 <figure>
 	<span style="font-size:130%;"><span style="font-weight: bold;">Innsbruck</span></span> </div><br><div style="text-align: center;"><img src="../../../../img/_MG_6327_1024pix.jpg">
-	<figcaption>I Innsbruck ville vi upp och se bergen. Vi började vi vår vandring<br>nere vid floden Inn...</span></span><br></div>
+	<figcaption>I Innsbruck ville vi upp och se bergen. Vi började vi vår vandring<br>nere vid floden Inn...</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_6528_1024pix.jpg">
@@ -36,12 +36,12 @@ Det hände förstås en hel del under vår första semester tillsammans som barn
 
 <figure>
 	<span style="font-size:130%;"><span style="font-weight: bold;">Mayrhofen<br><br></span></span></div><div style="text-align: center;"><img src="../../../../img/_MG_6680_1024pix.jpg">
-	<figcaption>I Mayrhofen tog vi liften upp till Penken. Där blev en kossa nyfiken på Tage.<br>Syns det att mamman blev lite förskräckt?</span></span><br></div>
+	<figcaption>I Mayrhofen tog vi liften upp till Penken. Där blev en kossa nyfiken på Tage.<br>Syns det att mamman blev lite förskräckt?</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_6788_1024pix.jpg">
-	<figcaption>Backarna i Mayrhofen kände mamman väl till, fast hon är van att se dem<br>med snö i. Tage och jag hade alltså en egen bergsguide.</span></span><br></div><span style="font-size:85%;"><br><br></span><div style="text-align: center;"><img src="../../../../img/_MG_6870_1024pix.jpg">
-	<figcaption>Det var inte alltid Tage var så värst intresserad<br>av utsikten. Hans egna fötter var mer<br>spännande ibland.</span></span><br></div>
+	<figcaption>Backarna i Mayrhofen kände mamman väl till, fast hon är van att se dem<br>med snö i. Tage och jag hade alltså en egen bergsguide.</figcaption><span style="font-size:85%;"><br><br></span><div style="text-align: center;"><img src="../../../../img/_MG_6870_1024pix.jpg">
+	<figcaption>Det var inte alltid Tage var så värst intresserad<br>av utsikten. Hans egna fötter var mer<br>spännande ibland.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_6930_1024pix.jpg">
@@ -51,7 +51,7 @@ Det hände förstås en hel del under vår första semester tillsammans som barn
 
 <figure>
 	<img src="../../../../img/_MG_7086_1024pix.jpg">
-	<figcaption>Tittut!</span></span><br></div>
+	<figcaption>Tittut!</figcaption>
 	<figcaption><br></span></span><br><div style="text-align: center;"><span style="font-size:130%;"><span style="font-weight: bold;">Kräftskiva i Småland<br><br></span></span></div><div style="text-align: center;"><img src="../../../../img/_MG_7246_1024pix.jpg">
 	<figcaption>När vi kommit tillbaka från tågluffen var det släktträff</span></span><br>
 	<figcaption> och kräftskiva i Småland. Här är en bild på fyra generationer:<br>farmor,  farmors mor, Pappan och Tage.<br><br><br></span></span></div><div style="text-align: center;"><img src="../../../../img/Kr%C3%A4ftskiva+2008.jpg">

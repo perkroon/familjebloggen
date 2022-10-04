@@ -11,7 +11,7 @@ Imorgon bär det av ner till mormor och morfar i Halmstad. Här kommer några bi
 
 <figure>
 	<img src="../../../../img/_MG_5093_1024pix.jpg">
-	<figcaption>Tage åker tunnelbana till moster Sofias 30-årskalas.</span></span><br></div>
+	<figcaption>Tage åker tunnelbana till moster Sofias 30-årskalas.</figcaption>
 
 <figure>
 	<img src="../../../../img/HosKarin%26PG+019.jpg">
@@ -19,4 +19,4 @@ Imorgon bär det av ner till mormor och morfar i Halmstad. Här kommer några bi
 	<figcaption>Där fanns förutom den enormt roliga "toktanten" (som Karin själv<br>utnämnde sig till) också den ganska skojiga katten Lillan. Men det är<br>helt klart toktanten till höger om fotografen som Tage skrattar mest åt.<br><br><br></span></span><div style="text-align: center;"><img src="../../../../img/_MG_5128_1024pix.jpg">
 	<figcaption>När vi kom hem från skärgården mötte vi upp Pappan på restaurang Moldau.</figcaption>
 </figure><br></div><br><div style="text-align: center;"><img src="../../../../img/Tage%26Elvis.jpg">
-	<figcaption>Tage har besök av polaren Elvis som är 6 månader.<br>Hon kan redan krypa.</span></span><br></div>
+	<figcaption>Tage har besök av polaren Elvis som är 6 månader.<br>Hon kan redan krypa.</figcaption>

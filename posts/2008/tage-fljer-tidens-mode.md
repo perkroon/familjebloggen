@@ -15,7 +15,7 @@ I våras ställde Tage och mamman upp som fotomodeller till ett reportage i tidn
 <figure>
 	<img src="../../../../img/Okt+2008+072.jpg">
 	<figcaption>Farmor har stickat världens finaste pippitröja!<br><br><br></span></span></div><div style="text-align: center;"><img src="../../../../img/Okt+2008+057.jpg">
-	<figcaption>Som plockad ur en Elsa Beskow-saga. En liten ekollonbebis.<br>Tröja och mössa i mammans favoritfärg. Tänk vad farmor kan.</span></span><br></div>
+	<figcaption>Som plockad ur en Elsa Beskow-saga. En liten ekollonbebis.<br>Tröja och mössa i mammans favoritfärg. Tänk vad farmor kan.</figcaption>
 
 <figure>
 	<img src="../../../../img/Okt+2008+088.jpg">

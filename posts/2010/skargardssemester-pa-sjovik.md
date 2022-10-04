@@ -20,7 +20,7 @@ Vi är lyckligt lottade som har goda vänner med ett fint lantställe i Skärgå
 	<figcaption>Underbara Sjövik! Vilket läge precis vid vattnet,<br>med både sandstrand och brygga.</span><br><br><br><img src="../../../../img/Sj%C3%B6vik-_MG_1635.jpg"><br>
 	<figcaption>Sandstranden är som en gigantisk sandlåda.<br>Vattnet brydde sig Tage inte så värst mycket om.</span></span><br><br><br></div><div style="text-align: center;"><img src="../../../../img/Sj%C3%B6vik-_MG_1828.jpg"><br>
 	<figcaption>Men för all del, att doppa fötterna i vattnet var kul.</span></span><br><br><div style="text-align: left;">Ett spännande utflyktsmål lockade Nils med redan på andra dagen, och vi började traska. Tage ville gå större delen av vägen på egen hand och han var rätt målmedveten och pekade ut vart vi skulle gå. Skogen blev en djungel, men det fanns smultron längs vägkanten, precis som på en vanlig skärgårdsö. Slutligen kom vi fram till målet för vår utflykt: en hage med kor! Det blev ytterligare en utflykt till kossorna någon dag senare.<br><br></div></div><div style="text-align: center;"><img src="../../../../img/Sj%C3%B6vik-_MG_1610.jpg"><br>
-	<figcaption>– Där är djungeln, mamma!</span></span><br></div>
+	<figcaption>– Där är djungeln, mamma!</figcaption>
 
 <figure>
 	<img src="../../../../img/Sj%C3%B6vik-_MG_1618.jpg"><br>
@@ -43,9 +43,9 @@ Vi är lyckligt lottade som har goda vänner med ett fint lantställe i Skärgå
 	<img src="../../../../img/Sj%C3%B6vik-_MG_1719.jpg"><br>
 	<figcaption>Nils snart återbördad till hemmet igen.</span></span><br><br></div><br><div style="text-align: center;"><img src="../../../../img/Sj%C3%B6vik-_MG_1722.jpg"><br>
 	<figcaption>Tage i egna tankar.</span></span><br><br><div style="text-align: left;">Något som Nils också gillade var att köra barnvagn. Han kunde när som helst hugga tag i barnvagnen och föra den framåt. Styrningen var det sämre ställt med, så han kunde hamna bland tallarna i en uppförsbacke eller nerför trappan från verandan. Det var nära ögat några gånger, men det slutade alltid lyckligt. Tage tittade mest förundrat på.<br><br></div></div><div style="text-align: center;"><img src="../../../../img/Sj%C3%B6vik-_MG_1723.jpg"><br>
-	<figcaption>Vi tar en liten sväng med vagnen, bara. Du kan väl gå och<br>lägga dig Pappa, om du nu tjatar så mycket om det?<br><br></span></span><br></div><div style="text-align: center;"><img src="../../../../img/Sj%C3%B6vik-_MG_1652.jpg"><br>
+	<figcaption>Vi tar en liten sväng med vagnen, bara. Du kan väl gå och<br>lägga dig Pappa, om du nu tjatar så mycket om det?<br><br></figcaption><div style="text-align: center;"><img src="../../../../img/Sj%C3%B6vik-_MG_1652.jpg"><br>
 	<figcaption>På kvällen var det skönt med ett dopp, tyckte Nils.</span></span><br><br></div><br><div style="text-align: center;"><img src="../../../../img/Sj%C3%B6vik-_MG_1884.jpg"><br>
-	<figcaption>Tage var fascinerad av skummet på fingrarna.</span></span><br></div>
+	<figcaption>Tage var fascinerad av skummet på fingrarna.</figcaption>
 
 <figure>
 	<img src="../../../../img/Sj%C3%B6vik-_MG_1763.jpg"><br></div><div style="text-align: center; font-style: italic;"><span style="font-size:85%;">Nattningen närmar sig, och här får Nils en godnattkram av Tage.<br></span></div><br><br>Dessa dagar hade Tage väldigt svårt att somna på kvällarna. Han ville liksom aldrig sluta leka med rullgardinen, hoppa i sängen eller läsa böcker. I de flesta fall tröttnade Mamman och Pappan fortare än han och blev riktigt sömniga, men Tage höll igång ett tag till. Den som inte lade Tage fick försöka hjälpa Åke till sömns, vilket innebar att gå i cirklar kring huset med Åke i vagnen. Den sista kvällen hade vi till slut lyckats få både Tage och Åke till ro och kunde sätta oss allihopa på trappan ner till bryggan. Nu kunde vi koppla av!
@@ -57,7 +57,7 @@ Vi är lyckligt lottade som har goda vänner med ett fint lantställe i Skärgå
 
 <figure>
 	<img src="../../../../img/Sj%C3%B6vik-_MG_1896.jpg"><br>
-	<figcaption>Nähe, inte riktigt avklarad trots allt...</span></span><br></div>
+	<figcaption>Nähe, inte riktigt avklarad trots allt...</figcaption>
 
 <div class="comments">
 	<div class="comments-header"><h2>1 Comment</h2></div>

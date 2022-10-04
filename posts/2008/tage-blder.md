@@ -23,7 +23,7 @@ Vi hade varit ute i köket och ätit lunch Tage och jag. Jag höll på att städ
 
 <figure>
 	<img src="../../../../img/_MG_9244_1024pix.jpg">
-	<figcaption>Tage, nio månader idag!</span></span><br></div>
+	<figcaption>Tage, nio månader idag!</figcaption>
 
 <div class="comments">
 	<div class="comments-header"><h2>2 Comments</h2></div>

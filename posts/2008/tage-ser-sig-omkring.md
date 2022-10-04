@@ -14,4 +14,4 @@ originalUrl: https://nejtupp.blogspot.com/2008/05/tage-ser-sig-omkring.html
 
 <figure>
 	<img src="../../../../img/_MG_1174_1024pix.jpg">
-	<figcaption>Det är väl så här bebisarna ser ut på blöjreklamen?</span></span><br></div></div>
+	<figcaption>Det är väl så här bebisarna ser ut på blöjreklamen?</figcaption></div>

@@ -14,11 +14,11 @@ När man tittar i kalendern är det fortfarande bara oktober, men om man går ut
 
 <figure>
 	<img src="../../../../img/_MG_8803_1024pix.jpg">
-	<figcaption>Först provade han en fin mössa...</span></span><br></div>
+	<figcaption>Först provade han en fin mössa...</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_8798_1024pix.jpg">
-	<figcaption>...sedan svepte han en halsduk om sig...</span></span><br></div>
+	<figcaption>...sedan svepte han en halsduk om sig...</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_8814_1024pix.jpg">

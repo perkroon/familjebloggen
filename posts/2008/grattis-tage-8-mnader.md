@@ -18,7 +18,7 @@ originalUrl: https://nejtupp.blogspot.com/2008/11/grattis-tage-8-mnader.html
 
 <figure>
 	<img src="../../../../img/Nov+2008+007.jpg">
-	<figcaption>Tage står mycket stadigt nu och går utmed möblerna.<br>Den här pallen skjuter han framför sig som en gåstol.</span></span><br></div>
+	<figcaption>Tage står mycket stadigt nu och går utmed möblerna.<br>Den här pallen skjuter han framför sig som en gåstol.</figcaption>
 
 <div class="comments">
 	<div class="comments-header"><h2>2 Comments</h2></div>

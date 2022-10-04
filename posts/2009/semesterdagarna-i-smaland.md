@@ -19,7 +19,7 @@ I Småland hos farmor och farfar tog vi det väldigt lugnt. Vi plockade bär och
 
 <figure>
 	<img src="../../../../img/_MG_7494_1024pix.jpg">
-	<figcaption>Tage hittade man ofta vid vinbärsbusken.<br>Han stoppade in vinbären i munnen, bet på dem<br>och spottade sedan ut dem igen. </span></span><br></div>
+	<figcaption>Tage hittade man ofta vid vinbärsbusken.<br>Han stoppade in vinbären i munnen, bet på dem<br>och spottade sedan ut dem igen. </figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_7503_1024pix.jpg">
@@ -35,8 +35,8 @@ I Småland hos farmor och farfar tog vi det väldigt lugnt. Vi plockade bär och
 
 <figure>
 	<img src="../../../../img/_MG_7465_1024pix.jpg">
-	<figcaption>Tage varvar ner med en tidning på verandan.<br>Det var kul att kunna gunga vid bordet!</span></span><br></div>
+	<figcaption>Tage varvar ner med en tidning på verandan.<br>Det var kul att kunna gunga vid bordet!</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_7484_1024pix.jpg">
-	<figcaption>Pappas farmor Elin kom också på besök en dag,<br>så på bilden ovan är vi fyra generationer.</span></span><br></div>
+	<figcaption>Pappas farmor Elin kom också på besök en dag,<br>så på bilden ovan är vi fyra generationer.</figcaption>

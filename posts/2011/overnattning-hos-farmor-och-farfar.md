@@ -16,4 +16,4 @@ originalUrl: https://nejtupp.blogspot.com/2011/02/overnattning-hos-farmor-och-fa
 	<img src="../../../../img/P%25C3%25A5%2Bv%25C3%25A4g%2Btill%2BOdenplan-_MG_7722.jpg"><br>
 	<figcaption>Åke i barnvagnen på buss 4 mot Odenplan.</span></span><br><br><br></div><div style="text-align: center;"><img src="../../../../img/P%25C3%25A5%2Bv%25C3%25A4g%2Btill%2BOdenplan-_MG_7727.jpg"><br>
 	<figcaption>Tage i eget säte på buss 4 mot Odenplan.</span></span><br><br><br></div><div style="text-align: center;"><img src="../../../../img/P%25C3%25A5%2Bv%25C3%25A4g%2Btill%2BOdenplan-_MG_7732.jpg"><br>
-	<figcaption>Väl framme på Odenplan funderade vi på var vi kunde köpa den<br>traditionella fredagsglassen. Kanske är det därför Tage ser lite<br>bekymrad ut? Åke, med mössan på sniskan, spanar han också.</span></span><br></div>
+	<figcaption>Väl framme på Odenplan funderade vi på var vi kunde köpa den<br>traditionella fredagsglassen. Kanske är det därför Tage ser lite<br>bekymrad ut? Åke, med mössan på sniskan, spanar han också.</figcaption>

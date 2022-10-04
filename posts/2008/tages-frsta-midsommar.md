@@ -10,7 +10,7 @@ originalUrl: https://nejtupp.blogspot.com/2008/06/tages-frsta-midsommar.html
 <div style="text-align: center;"><div style="text-align: left;"><span style="font-size:100%;">Tages första midsommar firades hos Mormor och Morfar i Halmstad. Pelle, jag och Tage åkte tåg ned tillsammans. Först blev vi lite oroliga när vi såg att mannen vi delade 4-säte med plockade fram kudde och mörkläggningsbindel för ögonen och suckade när han fick syn på barnvagnen. Men resan gick hur bra som helst -  Tage sov nästan hela vägen och när han var vaken sjöng han en snutt för den förtjusta konduktören.<br><br></span></div><div style="text-align: center;"><img src="../../../../img/_MG_3719_1024pix.jpg">
 	<figcaption>I Ebbehill var det stor midsommarbaluns som vanligt. Det började kl 15<br> med traditionsenlig midsommardans på ängen och därefter fortsatte<br> musiken och partyt in på småtimmarna. </span><br></div>
 	<figcaption><br><br></span></div><div style="text-align: center;"><img src="../../../../img/_MG_3638_1024pix.jpg">
-	<figcaption>Morfar med klarinetten.</span></span><br></div>
+	<figcaption>Morfar med klarinetten.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_3764_1024pix.jpg">

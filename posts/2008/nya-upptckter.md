@@ -13,4 +13,4 @@ originalUrl: https://nejtupp.blogspot.com/2008/10/nya-upptckter.html
 
 <figure>
 	<img src="../../../../img/Okt+2008+119.jpg">
-	<figcaption>Tage har hittat en intressant låda.</span></span><br></div>
+	<figcaption>Tage har hittat en intressant låda.</figcaption>

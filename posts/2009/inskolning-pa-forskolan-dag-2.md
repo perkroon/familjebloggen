@@ -10,7 +10,7 @@ originalUrl: https://nejtupp.blogspot.com/2009/08/inskolning-pa-forskolan-dag-2.
 ---
 
 <div style="text-align: center;"><div style="text-align: left;">Så här såg schemat ut för Tages andra inskolningsdag på dagis:<br><ul><li>09.00: Vi kommer till förskolan. Pappan sitter i samma stol som dagen innan.</li><li>09.15: Pappan tar ett kort farväl av Tage och lämnar sedan lokalerna.</li><li>10.00: Pappan återvänder och hämtar Tage. Dag 2 är slut.</li></ul></div><br><br><img src="../../../../img/_MG_8311_1024pix.jpg">
-	<figcaption>Tage ser ut att tveka en sekund innan han börjar leka med de andra.</span></span><br></div>
+	<figcaption>Tage ser ut att tveka en sekund innan han börjar leka med de andra.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_8313_1024pix.jpg">
@@ -19,4 +19,4 @@ originalUrl: https://nejtupp.blogspot.com/2009/08/inskolning-pa-forskolan-dag-2.
 
 <figure>
 	<img src="../../../../img/_MG_8322_1024pix.jpg">
-	<figcaption>Tage har en egen låda i hallen.</span></span><br></div>
+	<figcaption>Tage har en egen låda i hallen.</figcaption>

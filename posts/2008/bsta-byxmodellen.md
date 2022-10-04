@@ -11,7 +11,7 @@ Häromveckan fick Tage ett postpaket. Det var Mormor som hade fått nys om att T
 
 <figure>
     <img src="../../../../img/vykort+till+Tage1.jpg">
-	<figcaption>Brevet från mormor.</span></span><br></div>
+	<figcaption>Brevet från mormor.</figcaption>
 </figure>
 
 <figure>

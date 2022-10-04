@@ -20,4 +20,4 @@ Imorgon kommer Mamman hem igen! Den här veckan har Tage och jag varit utan Mamm
 
 <figure>
 	<img src="../../../../img/_MG_8728_1024pix.jpg">
-	<figcaption>Detta foto och fotot ovan stoppade vi i hemlighet<br>ned i Mammans bagage, så att hon inte skulle<br>glömma bort oss helt  under veckan.</span></span><br></div>
+	<figcaption>Detta foto och fotot ovan stoppade vi i hemlighet<br>ned i Mammans bagage, så att hon inte skulle<br>glömma bort oss helt  under veckan.</figcaption>

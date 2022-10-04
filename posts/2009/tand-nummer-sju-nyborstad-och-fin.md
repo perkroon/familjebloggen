@@ -14,11 +14,11 @@ Det var ganska länge sedan vi rapporterade om Tages tänder. <a href="http://ba
 
 <figure>
 	<img src="../../../../img/_MG_0140_1024pix.jpg">
-	<figcaption>Tage borstar tänderna lite extra efter den föräldraledda borstningen.</span></span><br></div>
+	<figcaption>Tage borstar tänderna lite extra efter den föräldraledda borstningen.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_0143_1024pix.jpg">
-	<figcaption>När jag tittade på detta fotot i kameran insåg jag att jag av en slump<br>fångat ett av de ögonblick då Tage står själv utan att hålla i sig.<br>Kanske inte helt lämpligt att borsta tänderna samtidigt...</span></span><br></div>
+	<figcaption>När jag tittade på detta fotot i kameran insåg jag att jag av en slump<br>fångat ett av de ögonblick då Tage står själv utan att hålla i sig.<br>Kanske inte helt lämpligt att borsta tänderna samtidigt...</figcaption>
 
 <div class="comments">
 	<div class="comments-header"><h2>2 Comments</h2></div>

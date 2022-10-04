@@ -18,7 +18,7 @@ Trettondagen är passerad och det är hög tid att sammanfatta julen 2009. Vi ha
 
 <figure>
 	<img src="../../../../img/_MG_9673_1024pix.jpg"><br>
-	<figcaption>Tage släpper inte tomten med blicken.</span></span><br></div>
+	<figcaption>Tage släpper inte tomten med blicken.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_9679_1024pix.jpg"><br></div><div style="text-align: center; font-style: italic;"><span style="font-size:85%;">Tage har fått en julklapp och är på väg för att tacka tomten...<br></span></div>
@@ -38,18 +38,18 @@ Trettondagen är passerad och det är hög tid att sammanfatta julen 2009. Vi ha
 
 <figure>
 	<img src="../../../../img/_MG_9795_1024pix.jpg"><br></div><div style="text-align: center;">
-	<figcaption>Farmor och farfar lagade många läckerheter till Tage:<br></span> <span style="font-style: italic;">risgrynsgröt, blåbärspaj och tjocka pannkakor bland annat.</span></span><br></div>
+	<figcaption>Farmor och farfar lagade många läckerheter till Tage:<br></span> <span style="font-style: italic;">risgrynsgröt, blåbärspaj och tjocka pannkakor bland annat.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_9750_1024pix.jpg"><br><div style="text-align: center;">
-	<figcaption>Baljan vi tidigare använt för att bada Tage börjar nu kännas liten,<br>och det var endast efter en del övertalning som han gick med på<br>att bada den här kvällen.</span></span><br></div></div>
+	<figcaption>Baljan vi tidigare använt för att bada Tage börjar nu kännas liten,<br>och det var endast efter en del övertalning som han gick med på<br>att bada den här kvällen.</figcaption></div>
 
 <figure>
 	<img src="../../../../img/_MG_9848_1024pix.jpg"><span style="font-size:85%;"> </span></div><div style="text-align: center;">
 	<figcaption>Trots att det var ordentligt kallt ville vi passa på att njuta av snön. </span></span><br>
-	<figcaption>Tage var först ganska motvillig till att åka pulka...</span></span><br></div>
+	<figcaption>Tage var först ganska motvillig till att åka pulka...</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_9858_1024pix.jpg"><br>
 	<figcaption>... men till slut tycktes han faktiskt </span></span><br>
-	<figcaption>uppskatta det en smula!</span></span><br></div>
+	<figcaption>uppskatta det en smula!</figcaption>

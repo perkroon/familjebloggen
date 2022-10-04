@@ -11,7 +11,7 @@ Tage och Mamman har varit så busy senaste tiden så vi har inte hunnit blogga s
 
 <figure>
 	<img src="../../../../img/Tage%26Elvis700.jpg">
-	<figcaption>Tage leker med Elvis Nyman. Tage har också lekt en del med Malte, Alva, Ellen och Ture. Varken Mamman eller Tage har brist på kompisar så vi har hoppat av BVC&apos;s föräldragrupp. Istället för att lära känna ytterligare barnlediga mammor med bebisar vill vi hellre ta vår tid till att leka mer med Tages kompisar ovan och förhoppningsvis även hinna med Tages polare Elsa, Simon, Sigge och Judith.</span></span><br></div>
+	<figcaption>Tage leker med Elvis Nyman. Tage har också lekt en del med Malte, Alva, Ellen och Ture. Varken Mamman eller Tage har brist på kompisar så vi har hoppat av BVC&apos;s föräldragrupp. Istället för att lära känna ytterligare barnlediga mammor med bebisar vill vi hellre ta vår tid till att leka mer med Tages kompisar ovan och förhoppningsvis även hinna med Tages polare Elsa, Simon, Sigge och Judith.</figcaption>
 
 <figure>
 	<img src="../../../../img/Tagegungar700.jpg">

@@ -39,7 +39,7 @@ Idag var Tage och jag på Kulturhusets <span style="font-style: italic;">Rum fö
 
 <figure>
 	<img src="../../../../img/_MG_4070_1024pix.jpg">
-	<figcaption>– Titta!</span></span><br></div>
+	<figcaption>– Titta!</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_4087_1024pix.jpg">

@@ -31,7 +31,7 @@ Det blev en utlandssemester även den här sommaren – trots att nattågen söd
 
 <figure>
 	<img srcy-A/s1600-h/_MG_6915_1024pix.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px; height: 267px;" src="../../../../img/_MG_6915_1024pix.jpg">
-	<figcaption>På italienska restauranger hittar man lätt något till Tage.<br>Här äter han risotto, plus lite spaghetti.</span></span><br></div>
+	<figcaption>På italienska restauranger hittar man lätt något till Tage.<br>Här äter han risotto, plus lite spaghetti.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_6824_1024pix.jpg">
@@ -40,7 +40,7 @@ Det blev en utlandssemester även den här sommaren – trots att nattågen söd
 
 <figure>
 	<img src="../../../../img/_MG_6819_1024pix.jpg">
-	<figcaption>Tage busar med gardinen.</span></span><br></div>
+	<figcaption>Tage busar med gardinen.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_6806_1024pix.jpg">

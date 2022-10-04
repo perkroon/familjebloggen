@@ -20,8 +20,8 @@ Igår måndag var Tage fortsatt magsjuk. Han var väldigt varm och trött och so
 
 <figure>
 	<img src="../../../../img/_MG_2293_1024pix.jpg">
-	<figcaption>Vad gör man när man är sjuk? Man ligger i soffan och läser så klart!</span></span><br></div>
+	<figcaption>Vad gör man när man är sjuk? Man ligger i soffan och läser så klart!</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_2310_1024pix.jpg">
-	<figcaption>Stör mig inte, jag läser "Max boll"!</span></span><br></div>
+	<figcaption>Stör mig inte, jag läser "Max boll"!</figcaption>

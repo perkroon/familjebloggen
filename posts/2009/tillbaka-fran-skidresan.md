@@ -14,4 +14,4 @@ Vi är hemma igen efter en och en halv vecka på resande fot. Väskorna är fort
 
 <figure>
 	<img src="../../../../img/_MG_1607_1024pix.jpg">
-	<figcaption>– Titta pappa, jag hittade strumpor i väskan!</span></span><br></div>
+	<figcaption>– Titta pappa, jag hittade strumpor i väskan!</figcaption>

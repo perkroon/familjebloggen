@@ -17,4 +17,4 @@ Den 30 maj (sista söndagen i maj) var det loppis i Hornstull, för sjätte åre
 	<figcaption>Lunchen blev en picknick på den sköna gräsmattan på Reimersholme.<br>Ta</span></span>
 	<figcaption>ge gillade efterrätten, som var en muffin från Vurma.<br></span></span><br><br><img src="../../../../img/Loppisdag+i+Hornstull-_MG_0471.jpg"><br>
 	<figcaption>– Där pappa, där är den!<br><br></span></span><br><img src="../../../../img/Loppisdag+i+Hornstull-_MG_0467.jpg">
-	<figcaption><br>En liten andunge.</span></span><br></div>
+	<figcaption><br>En liten andunge.</figcaption>

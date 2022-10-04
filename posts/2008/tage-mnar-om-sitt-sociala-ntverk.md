@@ -16,11 +16,11 @@ originalUrl: https://nejtupp.blogspot.com/2008/04/tage-mnar-om-sitt-sociala-ntve
 I helgen fick Tage träffa massor av nya bekanta. Hela familjen Barck-Holst (moster Josses familj) kom och hälsade på och morbror Kalle hade med cigarrer för att fira Tages ankomst. Tage fick prova kusin Lyckes hårslingor så nu vet vi hur han kommer se ut när han gör tonårsrevolt.
 
 <figure>
-	<img src="../../../../img/_MG_0864_1024pix.jpg">
+	<img src="../../../img/2008/04/_MG_0864_1024pix.jpg">
 </figure>
 
 <figure>
-	<img src="../../../../img/_MG_0870_1024pix.jpg">
+	<img src="../../../img/2008/04/_MG_0870_1024pix.jpg">
 	<figcaption>Tage träffar sin äldsta kusin Lycke som är 10 år</figcaption>
 </figure>
 

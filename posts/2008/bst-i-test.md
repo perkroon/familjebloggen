@@ -12,6 +12,6 @@ Idag var det dags för Tages första läkarbesök på BVC. Farbror Doktorn tyckt
 Lilla 7-kilosklumpen skrek nästan hela vägen hem efter chockmötet med doktorn. Men sen hemma blev han snabbt på gott humör igen när han fick syn på sin egen spegelbild. Det var en oerhört skojig filur som uppenbarade sig framför honom.
 
 <figure>
-    <img src="../../../../img/DSC00628_1024px.jpg">
+    <img src="../../../img/2008/05/DSC00628_1024px.jpg">
     <figcaption>Tage har somnat sött efter dagens händelser.</figcaption>
 </figure>

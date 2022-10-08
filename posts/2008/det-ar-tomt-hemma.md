@@ -2,7 +2,7 @@
 title: Det är tomt hemma
 date: 2008-06-28
 tags: 	
-author: Pelle
+author: Lovisa
 layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2008/06/det-r-tomt-hemma.html
 ---

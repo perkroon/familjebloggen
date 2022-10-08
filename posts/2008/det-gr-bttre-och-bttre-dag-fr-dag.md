@@ -13,7 +13,7 @@ Det är omkring tre veckor sedan vi var på Öland, men Tage har utvecklats en h
 En annan skillnad är att han är så mycket mer observant på omvärlden nu. När vi var på Öland lade vi honom under "babygymmet" (det heter visst så), men han brydde sig inte särskilt mycket om det. Visst, han låg där och sparkade och viftade med armarna och ibland kom han åt någon av de sakerna som hänger ner över honom, men han brydde sig nästan inte alls om det. Just nu ligger han under gymmet igen, men nu ligger han och studerar varje detalj, noga. Han har dessutom kul när han gör det, för han skrattar och har sig. Egentligen ligger han rätt stilla nu, men då och då viftar han till med armen, troligen slumpvis, och sätter fart på någon leksak. Den börjar röra sig och han tittar mycket noga tills den stannat igen.
 
 <figure>
-	<img src="../../../../img/_MG_1861_1024pix.jpg">
+	<img src="../../../img/2008/06/_MG_1861_1024pix.jpg">
 	<figcaption>Tage under babygymmet på Öland.</figcaption>
 </figure>
 

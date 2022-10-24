@@ -7,9 +7,8 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2008/07/sommarmys.html
 ---
 
-
 <figure>
-	<img src="../../../../img/Tage%26Josse.jpg">
+	<img src="../../../img/2008/07/Tage_Josse.jpg">
 	<figcaption>Tage och moster Josse busar.</figcaption>
 </figure>
 

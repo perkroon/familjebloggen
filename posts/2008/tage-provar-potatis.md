@@ -9,7 +9,11 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2008/07/tage-provar-potatis.html
 ---
 
-Så här gick det första gången Tage fick smaka på vanlig mat: kokt och mosad potatis.<br><br><object id="BLOG_video-3b69675ddfc68343" class="BLOG_video_class" contentid="3b69675ddfc68343" height="266" width="320"></object><br><br>Ingen omedelbar succé...
+Så här gick det första gången Tage fick smaka på vanlig mat: kokt och mosad potatis.<br><br>
+
+<object id="BLOG_video-3b69675ddfc68343" class="BLOG_video_class" contentid="3b69675ddfc68343" height="266" width="320"></object>
+
+Ingen omedelbar succé...
 
 <div class="comments">
 	<div class="comments-header"><h2>1 Comment</h2></div>

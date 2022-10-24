@@ -11,19 +11,21 @@ Det hände förstås en hel del under vår första semester tillsammans som barn
 
 ## Halmstad
 
-<img src="../../../img/2008/08/_MG_5870_1024pix.jpg">
+<figure>
+	<img src="../../../img/2008/08/_MG_5870_1024pix.jpg">
 	<figcaption>När man är ute och reser får man improvisera lite. Vi lämnade naturligtvis badbaljan hemma i Stockholm, men det var lätt att hitta andra alternativ när Tage behövde bada.</figcaption>
 </figure>
 
 <figure>
 	<img src="../../../img/2008/08/_MG_5950_1024pix.jpg">
-	<figcaption>I Halmstad hann vi med att träffa vänner till både pappa och mamma.<br>Här är vi ute och äter med sällskap i den ljumma sommarkvällen.<br>Tage tog det hela med ro.</span></span>
-	
+	<figcaption>I Halmstad hann vi med att träffa vänner till både pappa och mamma. Här är vi ute och äter med sällskap i den ljumma sommarkvällen. Tage tog det hela med ro.
+</figure>
+
 ## Småland
 
 <figure>
 	<img src="../../../img/2008/08/_MG_5975_1024pix.jpg">
-	<figcaption>I Småland stod en hel flyttkartong med leksaker och väntade på Tage.<br>De fick han ta över från sina sysslingar Ellen och Olle, som växt ifrån dem. (Tack!)<br>Här på bilden ser vi vad som kanske är världens roligaste tvättlina?<br>Annars gillar Tage mest sådant som egentligen inte är leksaker: en tom<br>PET-flaska, plastpåsar, träskedar och allt han kan få grepp om som finns i närheten.
+	<figcaption>I Småland stod en hel flyttkartong med leksaker och väntade på Tage. De fick han ta över från sina sysslingar Ellen och Olle, som växt ifrån dem. (Tack!) Här på bilden ser vi vad som kanske är världens roligaste tvättlina? Annars gillar Tage mest sådant som egentligen inte är leksaker: en tom PET-flaska, plastpåsar, träskedar och allt han kan få grepp om som finns i närheten.
 	</figcaption>
 </figure>
 
@@ -54,12 +56,14 @@ Det hände förstås en hel del under vår första semester tillsammans som barn
 
 <figure>
 	<img src="../../../img/2008/08/_MG_6680_1024pix.jpg">
-	<figcaption>I Mayrhofen tog vi liften upp till Penken. Där blev en kossa nyfiken på Tage.<br>Syns det att mamman blev lite förskräckt?</figcaption>
+	<figcaption>I Mayrhofen tog vi liften upp till Penken. Där blev en kossa nyfiken på Tage. Syns det att mamman blev lite förskräckt?</figcaption>
 </figure>
 
 <figure>
 	<img src="../../../img/2008/08/_MG_6788_1024pix.jpg">
-	<figcaption>Backarna i Mayrhofen kände mamman väl till, fast hon är van att se dem<br>med snö i. Tage och jag hade alltså en egen bergsguide.</figcaption>
+	<figcaption>Backarna i Mayrhofen kände mamman väl till, fast hon är van att se dem med snö i. Tage och jag hade alltså en egen bergsguide.</figcaption>
+</figure>
+
 <figure>
 	<img src="../../../img/2008/08/_MG_6870_1024pix.jpg">
 	<figcaption>Det var inte alltid Tage var så värst intresserad av utsikten. Hans egna fötter var mer spännande ibland.</figcaption>
@@ -86,11 +90,12 @@ Det hände förstås en hel del under vår första semester tillsammans som barn
 
 <figure>
 	<img src="../../../img/2008/08/_MG_7246_1024pix.jpg">
-	<figcaption>När vi kommit tillbaka från tågluffen var det släktträffoch kräftskiva i Småland. Här är en bild på fyra generationer: farmor, farmors mor, Pappan och Tage.
-<figure>	
+	<figcaption>När vi kommit tillbaka från tågluffen var det släktträffoch kräftskiva i Småland. Här är en bild på fyra generationer: farmor, farmors mor, Pappan och Tage.</figcaption>
+</figure>	
+
 <figure>		
-	<img src="../../../img/2008/08/Kräftskiva+2008.jpg">
-	<figcaption>Här är hela tjocka släkten, på farmors sida.<br>(Klicka på bilden för en riktigt stor version.)</figcaption>
+	<img src="../../../img/2008/08/Kraftskiva_2008.jpg">
+	<figcaption>Här är hela tjocka släkten, på farmors sida. (Klicka på bilden för en riktigt stor version.)</figcaption>
 </figure>
 
 

@@ -15,7 +15,8 @@ I helgen gjorde vi en lång bilresa, till Göteborg på lördagen och sedan till
 	<img src="../../../../img/_MG_8390_1024pix.jpg">
 	<figcaption>Alex gillar att lösa räkneuppgifter. Här ser vi honom när </span></span>
 	<figcaption>han<br>sitter med räkneboken i knät. Till sin hjälp har han sin pappa Kajs<br>stora fingrar att räkna med. Farmor kontrollerar så att det blir rätt.</span></span><br><br><br></div><div style="text-align: center;"><img src="../../../../img/_MG_8435_1024pix.jpg">
-	<figcaption>Tage fick låna Kajs gymnastikskor, men det<br>visade sig att de var lite för stora.</span><br></div>
+	<figcaption>Tage fick låna Kajs gymnastikskor, men det<br>visade sig att de var lite för stora.</figcaption>
+</figure>
 
 <figure>
 	<img src="../../../../img/_MG_8442_1024pix.jpg">

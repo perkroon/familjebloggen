@@ -15,7 +15,8 @@ Alla pappalediga dagar tillsammans med Tage är olika, men efter två månader v
 
 <figure>
 	<img src="../../../../img/_MG_0357_1024pix.jpg">
-	<figcaption>Här sitter Tage och leker efter frukosten, i sitt eget rum.</span><br></div><div style="text-align: center;">
+	<figcaption>Här sitter Tage och leker efter frukosten, i sitt eget rum.</figcaption>
+</figure><div style="text-align: center;">
 	<figcaption>Han har fortfarande pyjamasen på sig.</span> </span></div><br><span style="font-weight: bold;">9.15 Pappan duschar</span><br>Det är bäst om Tage fått leka lite på golvet efter att ha ätit frukost i barnstolen innan han blir placerad där igen när jag ska duscha. Då lyfter jag nämligen in barnstolen i badrummet och sätter den precis utanför duschdraperiet. På handfatet laddar jag upp med ett berg med leksaker som Tage tycker är roliga just nu och sedan lyfter jag upp honom i stolen och börjar duscha. Ständigt kollar jag till honom så att han har det bra och är upptagen med någon leksak. Förr eller senare hamnar leksaken på badrumsgolvet och då gäller det att jag är beredd att räcka honom någon ny pryl. Här gäller det att hitta en bra balans mellan olika saker, och att ha något riktigt kul att bjuda på när jag ska skölja ur schampot ur håret eftersom jag då blundar som längst sammanhängande.<br><br><span style="font-weight: bold;">9.45 Bädda sängen och allmän lek</span><br>Nu infaller Tages främsta lekstund på förmiddagen. Själv följer jag efter honom och gör vad som passar i det rum han befinner sig i för stunden. Det kan handla om att bädda sängen när han är i sovrummet, att ta hand om frukostdisken när vi är i köket eller att läsa tidningen om han är i vardagsrummet.
 
 <figure>

@@ -14,11 +14,13 @@ Två av Tages favoriter har jag beskrivit tidigare: tvättmaskinen och mikrovåg
 
 <figure>
 	<img src="../../../../img/_MG_0094_1024pix.jpg">
-	<figcaption>När man stigit upp är det härligt att få leka en stund med klockradion.</span><br></div><br>Klockradion är kul för den har lysande siffror, precis som mikrovågsugnen. Dessutom är den ganska lätt att dra ner på golvet med en ljudlig smäll, även om det inte är så populärt hos föräldrarna.
+	<figcaption>När man stigit upp är det härligt att få leka en stund med klockradion.</figcaption>
+</figure><br>Klockradion är kul för den har lysande siffror, precis som mikrovågsugnen. Dessutom är den ganska lätt att dra ner på golvet med en ljudlig smäll, även om det inte är så populärt hos föräldrarna.
 
 <figure>
 	<img src="../../../../img/_MG_0109_1024pix.jpg">
-	<figcaption>Varde ljus!</span><br></div><br>Lampan är riktigt kul också, tycker Tage. Tidigare hade Mamman en likadan lampa, men den drog han ner i golvet så att den gick i tusen bitar. Man kan tända och släcka lampan genom att bara nudda den  – magiskt! Dessutom låter det väldigt kul att banka på lampskärmen – särskilt om man har något hårt i handen när man bankar. Men vi föräldrar kan inte riktigt koppla av när Tage leker vid lampan, så lekstunden vid nattduksbordet brukar bli ganska kort.
+	<figcaption>Varde ljus!</figcaption>
+</figure><br>Lampan är riktigt kul också, tycker Tage. Tidigare hade Mamman en likadan lampa, men den drog han ner i golvet så att den gick i tusen bitar. Man kan tända och släcka lampan genom att bara nudda den  – magiskt! Dessutom låter det väldigt kul att banka på lampskärmen – särskilt om man har något hårt i handen när man bankar. Men vi föräldrar kan inte riktigt koppla av när Tage leker vid lampan, så lekstunden vid nattduksbordet brukar bli ganska kort.
 
 <div class="comments">
 	<div class="comments-header"><h2>1 Comment</h2></div>

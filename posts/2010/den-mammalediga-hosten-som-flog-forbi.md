@@ -43,8 +43,10 @@ Den långa härliga mammalediga hösten bara flög iväg. Hur kunde det gå så 
 	<img src="../../../../img/Hemmakring-_MG_5029.jpg">
 	<figcaption>Åke Ål gör verkligen rätt för sitt namn. Han är<br>en riktig snabbålare.</span></span>
 	<figcaption> Här 7 månader.</span></span><br><br></div><img src="../../../../img/Hemmakring-_MG_5105.jpg">
-	<figcaption>Det allra roligaste som Åke vet är att borsta tänderna på<br>mamman eller pappan. Här är han 7 månader.</span> </span><br></div><br><br>På Tages förskola har det varit babyboom i år. Sex stycken blivande  kompisar har Åke fått: Jockum, Elsa, Majken, Cajsa, Judith och Pelle. En  dag bjöd jag hit dem och deras föräldralediga mammor på fika så att de  skulle få bekanta sig med varandra. Under hösten har vi också träffat  Åkes andra årskompisar: Bertil, Edgar, Tova, Linnea och Vilhelm. Men  allra mest har vi träffat tvillingarna Alva och Siri, dvs Tages kompis  Maltes tvillingsystrar som föddes i september. Å, de är så fina alla nya  tvåtusentior!<br><div style="text-align: left;"><br></div><br><div style="text-align: center;"><img src="../../../../img/Tvillingbes%25C3%25B6k-_MG_5447.jpg">
-	<figcaption>Karolina och Åke samtalar medan Alva och Siri tar sig varsin liten blund.</span> </span><br></div><br>
+	<figcaption>Det allra roligaste som Åke vet är att borsta tänderna på<br>mamman eller pappan. Här är han 7 månader.</span> </figcaption>
+</figure><br><br>På Tages förskola har det varit babyboom i år. Sex stycken blivande  kompisar har Åke fått: Jockum, Elsa, Majken, Cajsa, Judith och Pelle. En  dag bjöd jag hit dem och deras föräldralediga mammor på fika så att de  skulle få bekanta sig med varandra. Under hösten har vi också träffat  Åkes andra årskompisar: Bertil, Edgar, Tova, Linnea och Vilhelm. Men  allra mest har vi träffat tvillingarna Alva och Siri, dvs Tages kompis  Maltes tvillingsystrar som föddes i september. Å, de är så fina alla nya  tvåtusentior!<br><div style="text-align: left;"><br></div><br><div style="text-align: center;"><img src="../../../../img/Tvillingbes%25C3%25B6k-_MG_5447.jpg">
+	<figcaption>Karolina och Åke samtalar medan Alva och Siri tar sig varsin liten blund.</span> </figcaption>
+</figure><br>
 
 <figure>
 	<img src="../../../../img/Tvillingbes%25C3%25B6k-_MG_5461.jpg">

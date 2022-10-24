@@ -9,4 +9,5 @@ originalUrl: https://nejtupp.blogspot.com/2010/12/god-jul.html
 ---
 
 <div style="text-align: center;"><img src="../../../../img/Julfoto%2B2010.jpg"><br></div><div style="text-align: center;">
-	<figcaption>God Jul önskar barnfamiljen!</span><br></div>
+	<figcaption>God Jul önskar barnfamiljen!</figcaption>
+</figure>

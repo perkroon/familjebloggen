@@ -37,7 +37,8 @@ Vi är lyckligt lottade som har goda vänner med ett fint lantställe i Skärgå
 
 <figure>
 	<img src="../../../../img/Sj%C3%B6vik-_MG_1857.jpg"><br>
-	<figcaption>Jordgubbar kommer som god två på Åkes lista över god mat.</span><br></div><br>På kvällarna ville gärna Nils rymma, och Tage var inte sen att hänga på. Iklädd endast blöjor satte Nils av längs den lilla vägen och efter honom kom Tage, med Elefanten i ett stadigt grepp i handen. Sist kom Nils pappa, som sällan lyckades locka hem Nils utan blev tvungen att lyfta hem honom.
+	<figcaption>Jordgubbar kommer som god två på Åkes lista över god mat.</figcaption>
+</figure><br>På kvällarna ville gärna Nils rymma, och Tage var inte sen att hänga på. Iklädd endast blöjor satte Nils av längs den lilla vägen och efter honom kom Tage, med Elefanten i ett stadigt grepp i handen. Sist kom Nils pappa, som sällan lyckades locka hem Nils utan blev tvungen att lyfta hem honom.
 
 <figure>
 	<img src="../../../../img/Sj%C3%B6vik-_MG_1719.jpg"><br>

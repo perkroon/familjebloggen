@@ -23,7 +23,8 @@ Om en vecka, när vi reser till Halland, fyller Tage ett år. Farmor och farfar 
 
 <figure>
 	<img src="../../../../img/_MG_1285_1024pix.jpg">
-	<figcaption>Det prassliga presentpappret fungerade bra som leksak.</span><br></div>
+	<figcaption>Det prassliga presentpappret fungerade bra som leksak.</figcaption>
+</figure>
 
 <figure>
 	<img src="../../../../img/_MG_1282_1024pix.jpg">

@@ -14,4 +14,5 @@ Sedan i fredags har Tage insett att det finns klara fördelar med att gå: man k
 
 <figure>
 	<img src="http://runeberg.org/clarsson/cl0044.jpg" alt border="0">
-	<figcaption>Inte vår Tage.</span><br></div><br>Allra bäst gillade (vår) Tage de rörliga mobilerna av P O Ultvedt i den temporära utställningen: stolar och bord som åkte fram och tillbaka, träskor som bankade i borden och så vidare. Spännande!
+	<figcaption>Inte vår Tage.</figcaption>
+</figure><br>Allra bäst gillade (vår) Tage de rörliga mobilerna av P O Ultvedt i den temporära utställningen: stolar och bord som åkte fram och tillbaka, träskor som bankade i borden och så vidare. Spännande!

@@ -14,4 +14,5 @@ I köket finns det en hel del underhållning för Tage. Här är en favorit: mik
 
 <figure>
 	<img src="../../../../img/_MG_9565_1024pix.jpg">
-	<figcaption>Hallå, är min mat där inne?</span><br></div>
+	<figcaption>Hallå, är min mat där inne?</figcaption>
+</figure>

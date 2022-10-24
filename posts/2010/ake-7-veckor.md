@@ -18,7 +18,8 @@ originalUrl: https://nejtupp.blogspot.com/2010/05/ake-7-veckor.html
 
 <figure>
 	<img src="../../../../img/Hemmakring-_MG_1150.jpg">
-	<figcaption></span>Gosigos med pappa och storebror</span><br></div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://3.bp.blogspot.com/_AnfpXCBUffo/S91-VnolMsI/AAAAAAAAApc/8wlynUmkj0E/s1600/Hemmakring-_MG_1150.jpg"><br></a>
+	<figcaption></span>Gosigos med pappa och storebror</figcaption>
+</figure><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://3.bp.blogspot.com/_AnfpXCBUffo/S91-VnolMsI/AAAAAAAAApc/8wlynUmkj0E/s1600/Hemmakring-_MG_1150.jpg"><br></a>
 
 <div class="comments">
 	<div class="comments-header"><h2>1 Comment</h2></div>

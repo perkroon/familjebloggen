@@ -10,8 +10,10 @@ originalUrl: https://nejtupp.blogspot.com/2008/08/tillbakablick-p-semestern.html
 Det hände förstås en hel del under vår första semester tillsammans som barnfamilj, lite för mycket för att det ska gå att sammanfatta i ett inlägg här på bloggen. Men man säger ju ibland att en bild säger mer än tusen ord, så kanske kan vi försöka sammanfatta semestern genom att visa några fotografier?
 
 <figure>
-	<span style="font-weight: bold;font-size:130%;">Halmstad</span><br></div><br><div style="text-align: center;"><img src="../../../../img/_MG_5870_1024pix.jpg">
-	<figcaption>När man är ute och reser får man improvisera lite. Vi lämnade<br>naturligtvis  badbaljan hemma i Stockholm, men det var lätt att hitta<br>andra alternativ när Tage behövde bada.</span><br></div>
+	<span style="font-weight: bold;font-size:130%;">Halmstad</figcaption>
+</figure><br><div style="text-align: center;"><img src="../../../../img/_MG_5870_1024pix.jpg">
+	<figcaption>När man är ute och reser får man improvisera lite. Vi lämnade<br>naturligtvis  badbaljan hemma i Stockholm, men det var lätt att hitta<br>andra alternativ när Tage behövde bada.</figcaption>
+</figure>
 
 <figure>
 	<img src="../../../../img/_MG_5950_1024pix.jpg">
@@ -55,7 +57,8 @@ Det hände förstås en hel del under vår första semester tillsammans som barn
 	<figcaption><br></span></span><br><div style="text-align: center;"><span style="font-size:130%;"><span style="font-weight: bold;">Kräftskiva i Småland<br><br></span></span></div><div style="text-align: center;"><img src="../../../../img/_MG_7246_1024pix.jpg">
 	<figcaption>När vi kommit tillbaka från tågluffen var det släktträff</span></span><br>
 	<figcaption> och kräftskiva i Småland. Här är en bild på fyra generationer:<br>farmor,  farmors mor, Pappan och Tage.<br><br><br></span></span></div><div style="text-align: center;"><img src="../../../../img/Kr%C3%A4ftskiva+2008.jpg">
-	<figcaption>Här är hela tjocka släkten, på farmors sida.<br>(Klicka på bilden för en riktigt stor version.)</span><br></div>
+	<figcaption>Här är hela tjocka släkten, på farmors sida.<br>(Klicka på bilden för en riktigt stor version.)</figcaption>
+</figure>
 
 <div class="comments">
 	<div class="comments-header"><h2>1 Comment</h2></div>

@@ -12,7 +12,8 @@ Vi har nu lämnat Stockholm och rest med tåg till farmor och farfar i Småland.
 <figure>
 	<img src="../../../../img/Kall%2Bvinterdag%2Bi%2BPyrtet_MG_6671.jpg"><br>
 	<figcaption>Till det här huset hoppas vi att tomten kommer imorgon.<br><br><br></span></span></div><div style="text-align: center;"><img src="../../../../img/Kall%2Bvinterdag%2Bi%2BPyrtet_MG_6737.jpg"><br>
-	<figcaption>Det var perfekt pulkaföre på vägen utanför huset:<br>ingen asfalt, inget grus utan bara snö och is.</span><br></div>
+	<figcaption>Det var perfekt pulkaföre på vägen utanför huset:<br>ingen asfalt, inget grus utan bara snö och is.</figcaption>
+</figure>
 
 <figure>
 	<img src="../../../../img/Kall%2Bvinterdag%2Bi%2BPyrtet_MG_6765.jpg"><br>

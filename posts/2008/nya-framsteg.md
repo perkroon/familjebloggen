@@ -2,7 +2,7 @@
 title: Nya framsteg
 date: 2008-07-02
 tags: 	
-author: Pelle
+author: Lovisa
 layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2008/07/nya-framsteg.html
 ---

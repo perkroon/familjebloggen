@@ -18,7 +18,8 @@ Så blev det midsommar till slut! Vi tog tåget ner till Halmstad, utrustade med
 	<figcaption>Tage gillade blåsinstrument och hittade en egen<br>trumpet i trädgården. Han delade med sig<br>av hemligheten till sin syssling Denize...</span></span><br><br></div><br><div style="text-align: center;"><img src="../../../../img/Midsommarafton-_MG_1188.jpg"><br>
 	<figcaption>... och sedan fick Mamman<br>också hjälpa till att musicera.</span></span><br><br></div><br><div style="text-align: center;"><img src="../../../../img/Midsommarafton-_MG_1218.jpg"><br>
 	<figcaption>Mamman ger Åke en puss över buffebordet.</span></span><br><br></div><br><div style="text-align: center;"><img src="../../../../img/Midsommarafton-_MG_1229.jpg"><br>
-	<figcaption>Kusin Ida såg till att skålarna med jordgubbar var ordentligt tömda.</span><br></div><br>Det vackra vädret fortsatte efter midsommarafton och vi fick några sköna lata dagar innan vi reste hem. Vi hann ta en titt på Sofias kolonistuga, hänga på verandan, leka i trädgården, se på fotbolls-VM, äta grillat hos Josefines och en hel del annat.
+	<figcaption>Kusin Ida såg till att skålarna med jordgubbar var ordentligt tömda.</figcaption>
+</figure><br>Det vackra vädret fortsatte efter midsommarafton och vi fick några sköna lata dagar innan vi reste hem. Vi hann ta en titt på Sofias kolonistuga, hänga på verandan, leka i trädgården, se på fotbolls-VM, äta grillat hos Josefines och en hel del annat.
 
 <figure>
 	<img src="../../../../img/S%C3%B6ndag+i+Halmstad-_MG_1261.jpg"><br></a>

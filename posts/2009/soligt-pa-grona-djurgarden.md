@@ -16,7 +16,8 @@ Nu känns det som om sommaren är här! I måndags gjorde Tage och jag en utflyk
 
 <figure>
 	<img src="../../../../img/_MG_4507_1024pix.jpg">
-	<figcaption>Tage gillar sin keps. Han har nog upptäckt att den gör att han<br>slipper få solen i ögonen och det är han glad att slippa.</span><br></div><br><br><img src="../../../../img/_MG_4504_1024pix.jpg"><br>Det var lättare för Tage att gå på grusgången än i det höga gräset på ängen, så när han fick möjligheten satte han av åt något håll på gången.
+	<figcaption>Tage gillar sin keps. Han har nog upptäckt att den gör att han<br>slipper få solen i ögonen och det är han glad att slippa.</figcaption>
+</figure><br><br><img src="../../../../img/_MG_4504_1024pix.jpg"><br>Det var lättare för Tage att gå på grusgången än i det höga gräset på ängen, så när han fick möjligheten satte han av åt något håll på gången.
 
 <figure>
 	<img src="../../../../img/_MG_4528_1024pix.jpg">

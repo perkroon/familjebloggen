@@ -13,7 +13,8 @@ originalUrl: https://nejtupp.blogspot.com/2008/09/tage-upptcker-lgenheten-p-ett-
 	<figcaption><br></span></span></div><div style="text-align: center;"><img src="../../../../img/Juli-Sep+2008+075.jpg">
 	<figcaption>Tage har också lärt sig sitta!<br><br></span></span></div><br><div style="text-align: center;"><img src="../../../../img/Juli-Sep+2008+133.jpg">
 	<figcaption>Baby-gymet har åter blivit kul nu när man kan sitta och leka med det.<br><br><br></span></span></div><br><div style="text-align: center;"><img src="../../../../img/Juli-Sep+2008+088.jpg">
-	<figcaption>Tage har fått en egen stol i köket så nu kan han sitta med vid bordet när vi äter. Tyvärr har det dock gått dåligt med matintagen sista tiden. Tage vill inte ha något mer än mjölk och möjligen en pytteliten brödsmula att tugga på. Rotfrukter och gröt tappade han plötsligt sugen på efter en veckas framgångsrik matning. Vi tror att det beror på att han är förkyld och hoppas att det snart ska gå bättre igen.</span><br></div>
+	<figcaption>Tage har fått en egen stol i köket så nu kan han sitta med vid bordet när vi äter. Tyvärr har det dock gått dåligt med matintagen sista tiden. Tage vill inte ha något mer än mjölk och möjligen en pytteliten brödsmula att tugga på. Rotfrukter och gröt tappade han plötsligt sugen på efter en veckas framgångsrik matning. Vi tror att det beror på att han är förkyld och hoppas att det snart ska gå bättre igen.</figcaption>
+</figure>
 
 <figure>
 	<img src="../../../../img/Juli-Sep+2008+100.jpg">

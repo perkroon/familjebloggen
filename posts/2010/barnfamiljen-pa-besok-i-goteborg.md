@@ -42,7 +42,8 @@ Det var hög tid för oss att besöka Göteborg och äntligen se hur faster Jenn
 <figure>
 	<img src="../../../../img/jpg-IMG_0223.jpg"><br>
 	<figcaption>Tage gillade chokladmjölken. Åke sover i vagnen.</span></span><br><br><br><img src="../../../../img/jpg-IMG_0231.jpg"><br>
-	<figcaption>Bror och syster.</span><br></div>
+	<figcaption>Bror och syster.</figcaption>
+</figure>
 
 <figure>
 	<img src="../../../../img/jpg-IMG_0251.jpg"><br>
@@ -59,7 +60,8 @@ Det var hög tid för oss att besöka Göteborg och äntligen se hur faster Jenn
 <figure>
 	<img src="../../../../img/jpg-IMG_0290.jpg"><br>
 	<figcaption>Vi spanar in regnskogen och letar efter apor.</span></span><br><br></div><br><div style="text-align: center;"><img src="../../../../img/jpg-IMG_0295.jpg"><br>
-	<figcaption>Tage hade ganska bråttom igenom alltihopa,<br>för det fanns alltid mer att se runt hörnet.</span><br></div>
+	<figcaption>Tage hade ganska bråttom igenom alltihopa,<br>för det fanns alltid mer att se runt hörnet.</figcaption>
+</figure>
 
 <figure>
 	<img src="../../../../img/jpg-IMG_0306.jpg"><br>
@@ -76,7 +78,8 @@ Det var hög tid för oss att besöka Göteborg och äntligen se hur faster Jenn
 
 <figure>
 	<img src="../../../../img/jpg-IMG_0363.jpg"><br></div><div style="text-align: center;">
-	<figcaption>Fotograf ombord på tåget: Tage</span><br></div><br><div style="text-align: center;"><img src="../../../../img/jpg-IMG_0380.jpg"><br>
+	<figcaption>Fotograf ombord på tåget: Tage</figcaption>
+</figure><br><div style="text-align: center;"><img src="../../../../img/jpg-IMG_0380.jpg"><br>
 	<figcaption>Snart är vi hemma i Hornstull igen!</figcaption>
 
 <div class="comments">

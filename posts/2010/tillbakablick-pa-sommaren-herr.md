@@ -12,7 +12,8 @@ originalUrl: https://nejtupp.blogspot.com/2010/09/tillbakablick-pa-sommaren-herr
 </figure><br>
 
 <figure>
-	<img src="../../../../img/Svampplockning-_MG_3524.jpg"><span style="font-size:85%;">Jag jobbar med svamp, mamma!</span><br></div><br>
+	<img src="../../../../img/Svampplockning-_MG_3524.jpg"><span style="font-size:85%;">Jag jobbar med svamp, mamma!</figcaption>
+</figure><br>
 
 <figure>
 	<img src="../../../../img/Svampplockning-_MG_3533.jpg"><span style="font-size:85%;">Farmor jobbar också med svamp</span>.<br></div>

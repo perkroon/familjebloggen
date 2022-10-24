@@ -21,7 +21,8 @@ originalUrl: https://nejtupp.blogspot.com/2010/04/tvabarnsfamiljen-pa-begravning
 	<figcaption>-Titta mormor, ett K!</figcaption>
 </figure><img src="../../../../img/P%C3%A5sk+i+Halmstad-_MG_1022.jpg">
 	<figcaption>Det är roligt att vara hemma hos mormor och morfar.<br><br></span></span></div><br><div style="text-align: center;"><img src="../../../../img/P%C3%A5sk+i+Halmstad-_MG_1013.jpg">
-	<figcaption>Tage gillade innehållet i sitt påskägg.</span><br></div><br><br><img src="../../../../img/P%C3%A5sk+i+Halmstad-_MG_1032.jpg">
+	<figcaption>Tage gillade innehållet i sitt påskägg.</figcaption>
+</figure><br><br><img src="../../../../img/P%C3%A5sk+i+Halmstad-_MG_1032.jpg">
 	<figcaption>Under Halmstadvistelsen blev det ytterligare en begravning -</span></span><br>
 	<figcaption>  för den lilla talgoxen som flugit in i fönstret. Den begravningen var  också fin</span></span><br>
 	<figcaption>  och här sjunger vi "Härlig är jorden" och tar farväl.</figcaption><span style="font-size:85%;">   </span><br><br><br><br><img src="../../../../img/Farmor+p%C3%A5+bes%C3%B6k-_MG_1057.jpg">Åke fick till slut även träffa sin farmor och farfar som hade varit på långresa i Nya Zeeland och Australien när han föddes. Samma dag som vi tog tåget till Halmstad så landade de på Landvetter efter en lång lång hemresa. Det visade sig att vi skulle precis missa dem när vi bytte tåg i Göteborg mot Halmstad och de skulle ta tåget hem till Stockholm. Trots att de varit på hemväg under ofantligt många timmar så bokade de då om sina tågbiljetter så att de skulle hinna träffa oss i Göteborg. Tyvärr så blev ju vårt tåg dock 1,5 h försenat så vi hann bara träffa dem i 3 minuter innan vi var tvungna att springa vidare till nästa tåg vilket kändes lite snöpligt. Men nu har Åke och Tage under lugna förhållanden fått träffa dem igen i Stockholm.

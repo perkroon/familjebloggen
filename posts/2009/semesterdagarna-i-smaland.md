@@ -27,7 +27,8 @@ I Småland hos farmor och farfar tog vi det väldigt lugnt. Vi plockade bär och
 
 <figure>
 	<img src="../../../../img/_MG_7520_1024pix.jpg">
-	<figcaption>I början dög hela ärtskidan, men senare under veckan<br>upptäckte han att ärtorna inuti är allra godast.</span><br></div>
+	<figcaption>I början dög hela ärtskidan, men senare under veckan<br>upptäckte han att ärtorna inuti är allra godast.</figcaption>
+</figure>
 
 <figure>
 	<img src="../../../../img/_MG_7533_1024pix.jpg">

@@ -9,18 +9,18 @@ originalUrl: https://nejtupp.blogspot.com/2008/09/dags-fr-sittvagn.html
 ---
 
 <figure>
-	<img src="../../../../img/_MG_7823_1024pix.jpg">
+	<img src="../../../img/2008/09/_MG_7823_1024pix.jpg">
 </figure>
 
 Sista tiden har Tage legat mycket på mage i sin vagn. Han tycker det är jättekul att titta på allt som händer och kanten är god att suga på. Eftersom han sitter så bra nu tyckte vi dock att det var dags att byta till sittvagnsdelen nu. Igår var det premiär och det blev succé. Det kändes dock lite sorgligt att plocka undan ligginsatsen. Vad hände med vår lilla bebisgris? Har han redan blivit stor?
 
 <figure>
-	<img src="../../../../img/_MG_7818_1024pix.jpg">
+	<img src="../../../img/2008/09/_MG_7818_1024pix.jpg">
 	<figcaption>Tage är stor nu. När vi fikar på Vurma får han sitta i egen stol.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/_MG_7859_1024pix.jpg">
+	<img src="../../../img/2008/09/_MG_7859_1024pix.jpg">
 	<figcaption>Sittvagn är kul!</figcaption>
 </figure>
 

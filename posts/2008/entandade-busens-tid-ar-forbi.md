@@ -8,7 +8,12 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2008/09/entandade-busens-tid-r-frbi.html
 ---
 
-<img src="../../../../img/Mobil.jpg"><br>Idag kläcktes tand nummer 2. Det var skoj. Här ser ni bildbeviset. Nu dröjer det kanske 90 år tills Tage blir entandad igen. Iallafall om han följer gamla gammelmormor Guckes mönster.
+
+<figure>
+	<img src="../../../img/2008/09/Mobil.jpg">
+</figure>
+
+Idag kläcktes tand nummer 2. Det var skoj. Här ser ni bildbeviset. Nu dröjer det kanske 90 år tills Tage blir entandad igen. Iallafall om han följer gamla gammelmormor Guckes mönster.
 
 <div class="comments">
 	<div class="comments-header"><h2>2 Comments</h2></div>

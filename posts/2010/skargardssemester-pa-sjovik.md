@@ -18,8 +18,10 @@ Vi är lyckligt lottade som har goda vänner med ett fint lantställe i Skärgå
 <figure>
 	<img src="../../../../img/Sj%C3%B6vik-_MG_1839.jpg"><br></a>
 	<figcaption>Underbara Sjövik! Vilket läge precis vid vattnet,<br>med både sandstrand och brygga.</span><br><br><br><img src="../../../../img/Sj%C3%B6vik-_MG_1635.jpg"><br>
-	<figcaption>Sandstranden är som en gigantisk sandlåda.<br>Vattnet brydde sig Tage inte så värst mycket om.</span></span><br><br><br></div><div style="text-align: center;"><img src="../../../../img/Sj%C3%B6vik-_MG_1828.jpg"><br>
-	<figcaption>Men för all del, att doppa fötterna i vattnet var kul.</span></span><br><br><div style="text-align: left;">Ett spännande utflyktsmål lockade Nils med redan på andra dagen, och vi började traska. Tage ville gå större delen av vägen på egen hand och han var rätt målmedveten och pekade ut vart vi skulle gå. Skogen blev en djungel, men det fanns smultron längs vägkanten, precis som på en vanlig skärgårdsö. Slutligen kom vi fram till målet för vår utflykt: en hage med kor! Det blev ytterligare en utflykt till kossorna någon dag senare.<br><br></div></div><div style="text-align: center;"><img src="../../../../img/Sj%C3%B6vik-_MG_1610.jpg"><br>
+	<figcaption>Sandstranden är som en gigantisk sandlåda.<br>Vattnet brydde sig Tage inte så värst mycket om.</span></span><br><br><br></div><figure>
+	<img src="../../../../img/Sj%C3%B6vik-_MG_1828.jpg"><br>
+	<figcaption>Men för all del, att doppa fötterna i vattnet var kul.</span></span><br><br><div style="text-align: left;">Ett spännande utflyktsmål lockade Nils med redan på andra dagen, och vi började traska. Tage ville gå större delen av vägen på egen hand och han var rätt målmedveten och pekade ut vart vi skulle gå. Skogen blev en djungel, men det fanns smultron längs vägkanten, precis som på en vanlig skärgårdsö. Slutligen kom vi fram till målet för vår utflykt: en hage med kor! Det blev ytterligare en utflykt till kossorna någon dag senare.<br><br></div></div><figure>
+	<img src="../../../../img/Sj%C3%B6vik-_MG_1610.jpg"><br>
 	<figcaption>– Där är djungeln, mamma!</figcaption>
 
 <figure>
@@ -31,7 +33,8 @@ Vi är lyckligt lottade som har goda vänner med ett fint lantställe i Skärgå
 <figure>
 	<img src="../../../../img/Sj%C3%B6vik-_MG_1788.jpg"><br>
 	<figcaption>Tittut!</figcaption>
-</figure><div style="text-align: center;"><img src="../../../../img/Sj%C3%B6vik-_MG_1791.jpg"><br>
+</figure><figure>
+	<img src="../../../../img/Sj%C3%B6vik-_MG_1791.jpg"><br>
 	<figcaption>Mammans tur att spela saxofon en stund.</figcaption>
 </figure>Åke är så liten att han får hålla sig i skuggan. Han fick också prova en ny smak, hans andra efter blåbärssmoothien. Den här gången var det jordgubbar, och även det föll honom på läppen även om smoothie nog var snäppet godare.
 
@@ -42,10 +45,14 @@ Vi är lyckligt lottade som har goda vänner med ett fint lantställe i Skärgå
 
 <figure>
 	<img src="../../../../img/Sj%C3%B6vik-_MG_1719.jpg"><br>
-	<figcaption>Nils snart återbördad till hemmet igen.</span></span><br><br></div><br><div style="text-align: center;"><img src="../../../../img/Sj%C3%B6vik-_MG_1722.jpg"><br>
-	<figcaption>Tage i egna tankar.</span></span><br><br><div style="text-align: left;">Något som Nils också gillade var att köra barnvagn. Han kunde när som helst hugga tag i barnvagnen och föra den framåt. Styrningen var det sämre ställt med, så han kunde hamna bland tallarna i en uppförsbacke eller nerför trappan från verandan. Det var nära ögat några gånger, men det slutade alltid lyckligt. Tage tittade mest förundrat på.<br><br></div></div><div style="text-align: center;"><img src="../../../../img/Sj%C3%B6vik-_MG_1723.jpg"><br>
-	<figcaption>Vi tar en liten sväng med vagnen, bara. Du kan väl gå och<br>lägga dig Pappa, om du nu tjatar så mycket om det?<br><br></figcaption><div style="text-align: center;"><img src="../../../../img/Sj%C3%B6vik-_MG_1652.jpg"><br>
-	<figcaption>På kvällen var det skönt med ett dopp, tyckte Nils.</span></span><br><br></div><br><div style="text-align: center;"><img src="../../../../img/Sj%C3%B6vik-_MG_1884.jpg"><br>
+	<figcaption>Nils snart återbördad till hemmet igen.</span></span><br><br></div><br><figure>
+	<img src="../../../../img/Sj%C3%B6vik-_MG_1722.jpg"><br>
+	<figcaption>Tage i egna tankar.</span></span><br><br><div style="text-align: left;">Något som Nils också gillade var att köra barnvagn. Han kunde när som helst hugga tag i barnvagnen och föra den framåt. Styrningen var det sämre ställt med, så han kunde hamna bland tallarna i en uppförsbacke eller nerför trappan från verandan. Det var nära ögat några gånger, men det slutade alltid lyckligt. Tage tittade mest förundrat på.<br><br></div></div><figure>
+	<img src="../../../../img/Sj%C3%B6vik-_MG_1723.jpg"><br>
+	<figcaption>Vi tar en liten sväng med vagnen, bara. Du kan väl gå och<br>lägga dig Pappa, om du nu tjatar så mycket om det?<br><br></figcaption><figure>
+	<img src="../../../../img/Sj%C3%B6vik-_MG_1652.jpg"><br>
+	<figcaption>På kvällen var det skönt med ett dopp, tyckte Nils.</span></span><br><br></div><br><figure>
+	<img src="../../../../img/Sj%C3%B6vik-_MG_1884.jpg"><br>
 	<figcaption>Tage var fascinerad av skummet på fingrarna.</figcaption>
 
 <figure>

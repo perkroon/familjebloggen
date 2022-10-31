@@ -7,11 +7,15 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2009/04/glad-pask.html
 ---
 
-<div style="text-align: center;"><img src="../../../../img/p%C3%A5sk2.jpg">
-	<figcaption>- Titta vad stor jag har blivit på ett år! Jämför med bilden under!<br><br><br></span></span><div style="text-align: center;"><img src="../../../../img/Tage_p%C3%A5sk%C3%A4gg1.jpg">
+<figure>
+	<img src="../../../../img/p%C3%A5sk2.jpg">
+	<figcaption>- Titta vad stor jag har blivit på ett år! Jämför med bilden under!<br><br><br></span></span><figure>
+	<img src="../../../../img/Tage_p%C3%A5sk%C3%A4gg1.jpg">
 	<figcaption>Tage påsken 2008, 5 dagar gammal.</span></span><br><br></div>
-	<figcaption><br></span></span></div><div style="text-align: center;"><img src="../../../../img/_MG_1892_1024pix.jpg">
-	<figcaption>Tage åker låda till Blåkulla.<br><br><br></span></span></div><div style="text-align: center;"><img src="../../../../img/_MG_1943_1024pix.jpg">
+	<figcaption><br></span></span></div><figure>
+	<img src="../../../../img/_MG_1892_1024pix.jpg">
+	<figcaption>Tage åker låda till Blåkulla.<br><br><br></span></span></div><figure>
+	<img src="../../../../img/_MG_1943_1024pix.jpg">
 	<figcaption>- Tittut!</span> </span></div>
 
 <div class="comments">

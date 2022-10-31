@@ -15,5 +15,6 @@ Idag fyller Åke ett år – grattis! Jag vet att Mamman tänkt beskriva lite va
 <figure>
 	<img src="../../../../img/%25C3%2585kes%2Bf%25C3%25B6delsedag-_MG_8005.jpg"><br>
 	<figcaption>Åke stirrar nyvaket på födelsedagspresenten från Tage.</figcaption>
-</figure>På kvällen fortsatte firandet, det blev till exempel glass till efterrätt. Åke hade aldrig tidigare fått smaka glass, men nu tror vi att från och med nu blir det svårt för oss att äta glass utan att låta honom få smaka.<br></div><br><br></div><div style="text-align: center;"><img src="../../../../img/%25C3%2585kes%2Bf%25C3%25B6delsedag-_MG_8062.jpg"><br>
+</figure>På kvällen fortsatte firandet, det blev till exempel glass till efterrätt. Åke hade aldrig tidigare fått smaka glass, men nu tror vi att från och med nu blir det svårt för oss att äta glass utan att låta honom få smaka.<br></div><br><br></div><figure>
+	<img src="../../../../img/%25C3%2585kes%2Bf%25C3%25B6delsedag-_MG_8062.jpg"><br>
 	<figcaption>Glass var en ny spännande smak för Åke.</figcaption>

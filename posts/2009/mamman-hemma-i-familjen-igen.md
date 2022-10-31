@@ -11,6 +11,7 @@ Jag hade en fantastisk Jordanienresa med ökenvandring, heldagskamelritt, 2-daga
 
 <figure>
 	<img src="../../../../img/_MG_9055_1024pix.jpg">
-	<figcaption>Tage undersöker kamelen från Jordanien.<br><br></span></span></div><br><div style="text-align: center;"><img src="../../../../img/_MG_9051_1024pix.jpg">
+	<figcaption>Tage undersöker kamelen från Jordanien.<br><br></span></span></div><br><figure>
+	<img src="../../../../img/_MG_9051_1024pix.jpg">
 	<figcaption>Om man trycker på den så brölar den precis som en riktig kamel.</figcaption>
 </figure>

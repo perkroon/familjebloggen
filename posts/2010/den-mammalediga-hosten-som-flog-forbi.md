@@ -35,7 +35,8 @@ Den långa härliga mammalediga hösten bara flög iväg. Hur kunde det gå så 
 
 <figure>
 	<img src="../../../../img/%25C3%2585ke%2Bsitter-_MG_4834.jpg">
-	<figcaption>Åke, snart 7 månader, leker med brorsan.<br><br></span> </span></div><br><div style="text-align: center;"><span style="font-size:85%;"><br></span></div><br><div style="text-align: center;"><img src="../../../../img/Hemmakring-_MG_5097.jpg">
+	<figcaption>Åke, snart 7 månader, leker med brorsan.<br><br></span> </span></div><br><div style="text-align: center;"><span style="font-size:85%;"><br></span></div><br><figure>
+	<img src="../../../../img/Hemmakring-_MG_5097.jpg">
 	<figcaption>Åke tycker mycket om sin tandborste. De första två tänderna i underkäken<br>fick han en vecka före 7-månadersdagen och nu senaste veckan när han<br>fyllde 9 månader dök det upp två tänder i överkäken också.</span></span>
 	<figcaption><br></span><span style="font-style: italic;">Här är han på sin 7-månadersdag.<br><br></span></span><div style="text-align: center; font-style: italic;"> </div></div><br>
 
@@ -44,7 +45,8 @@ Den långa härliga mammalediga hösten bara flög iväg. Hur kunde det gå så 
 	<figcaption>Åke Ål gör verkligen rätt för sitt namn. Han är<br>en riktig snabbålare.</span></span>
 	<figcaption> Här 7 månader.</span></span><br><br></div><img src="../../../../img/Hemmakring-_MG_5105.jpg">
 	<figcaption>Det allra roligaste som Åke vet är att borsta tänderna på<br>mamman eller pappan. Här är han 7 månader.</span> </figcaption>
-</figure><br><br>På Tages förskola har det varit babyboom i år. Sex stycken blivande  kompisar har Åke fått: Jockum, Elsa, Majken, Cajsa, Judith och Pelle. En  dag bjöd jag hit dem och deras föräldralediga mammor på fika så att de  skulle få bekanta sig med varandra. Under hösten har vi också träffat  Åkes andra årskompisar: Bertil, Edgar, Tova, Linnea och Vilhelm. Men  allra mest har vi träffat tvillingarna Alva och Siri, dvs Tages kompis  Maltes tvillingsystrar som föddes i september. Å, de är så fina alla nya  tvåtusentior!<br><div style="text-align: left;"><br></div><br><div style="text-align: center;"><img src="../../../../img/Tvillingbes%25C3%25B6k-_MG_5447.jpg">
+</figure><br><br>På Tages förskola har det varit babyboom i år. Sex stycken blivande  kompisar har Åke fått: Jockum, Elsa, Majken, Cajsa, Judith och Pelle. En  dag bjöd jag hit dem och deras föräldralediga mammor på fika så att de  skulle få bekanta sig med varandra. Under hösten har vi också träffat  Åkes andra årskompisar: Bertil, Edgar, Tova, Linnea och Vilhelm. Men  allra mest har vi träffat tvillingarna Alva och Siri, dvs Tages kompis  Maltes tvillingsystrar som föddes i september. Å, de är så fina alla nya  tvåtusentior!<br><div style="text-align: left;"><br></div><br><figure>
+	<img src="../../../../img/Tvillingbes%25C3%25B6k-_MG_5447.jpg">
 	<figcaption>Karolina och Åke samtalar medan Alva och Siri tar sig varsin liten blund.</span> </figcaption>
 </figure><br>
 

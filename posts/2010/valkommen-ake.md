@@ -7,7 +7,8 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2010/06/valkommen-ake.html
 ---
 
-<div style="text-align: center;"><img src="../../../../img/Jenny+Kroons+foton-DSC_0086.jpg">
+<figure>
+	<img src="../../../../img/Jenny+Kroons+foton-DSC_0086.jpg">
 	<figcaption>Åke Holger Allan Kroon<br><br></span></span></div><br>Lördagen den 5 juni hölls Åkes första officiella fest, dvs hans  namngivnings- och välkomstfest. Vi var 36 personer som samlades kl.  14.00 på vår gård här vid huset: mormor och morfar, farmor och farfar,  faster, alla mostrar, en morbror, alla kusiner utom en, vänner till  föräldrarna och några släktingar till.<br><br>
 
 <figure>

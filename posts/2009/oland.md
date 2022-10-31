@@ -16,17 +16,21 @@ Efter 2 mysiga dagar i småländska Pyrtet for vi vidare mot stugan på norra Ö
 </figure>
 
 <figure>
-	<div style="text-align: center;"><img src="../../../../img/_MG_4773_1024pix.jpg">
+	<figure>
+	<img src="../../../../img/_MG_4773_1024pix.jpg">
 	<figcaption></span></span></div><div style="text-align: center;">
-	<figcaption>Titta, mamma!<br><br></span></span></div><br></div><div style="text-align: center;"><img src="../../../../img/_MG_4776_1024pix.jpg">
+	<figcaption>Titta, mamma!<br><br></span></span></div><br></div><figure>
+	<img src="../../../../img/_MG_4776_1024pix.jpg">
 	<figcaption>Tage tyckte att det var jättespännande med kossorna. Jag plockade lite gräs och matade dem. Tage observerade givetvis vad jag gjorde och sen ville han hoppa ned från min famn och göra precis samma sak. Det tyckte kossorna om.</span></span><br>
 	<figcaption></span></span></div>
-	<figcaption><br><br></span></span>  <div style="text-align: center;"><img src="../../../../img/_MG_4791_1024pix.jpg">
+	<figcaption><br><br></span></span>  <figure>
+	<img src="../../../../img/_MG_4791_1024pix.jpg">
 	<figcaption>Tage matar kossan med några strån som han har plockat.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_4813_1024pix.jpg">
-	<figcaption>Långpromenad mot fyren. Tage har somnat och missade tyvärr de här korna<br> och de små prickiga fågeläggen som låg i ett litet näste i gräset.<br><br><br></span></span></div><div style="text-align: center;"><img src="../../../../img/_MG_4843_1024pix.jpg">
+	<figcaption>Långpromenad mot fyren. Tage har somnat och missade tyvärr de här korna<br> och de små prickiga fågeläggen som låg i ett litet näste i gräset.<br><br><br></span></span></div><figure>
+	<img src="../../../../img/_MG_4843_1024pix.jpg">
 	<figcaption>Här gick vi lite vilse och kom ut på fel udde.</span> </span></div>
 
 <figure>
@@ -47,7 +51,8 @@ Efter 2 mysiga dagar i småländska Pyrtet for vi vidare mot stugan på norra Ö
 
 <figure>
 	<img src="../../../../img/_MG_5144_1024pix.jpg">
-	<figcaption>Tage undersöker de gamla gravarna runt Källa gamla kyrka.<br><br></span></span></div><br><div style="text-align: center;"><img src="../../../../img/_MG_5135_1024pix.jpg">
+	<figcaption>Tage undersöker de gamla gravarna runt Källa gamla kyrka.<br><br></span></span></div><br><figure>
+	<img src="../../../../img/_MG_5135_1024pix.jpg">
 	<figcaption>Tittut! </figcaption>
 
 <figure>

@@ -19,16 +19,20 @@ Nu är det vardag igen och vår första semestervecka under sommaren 2009 ligger
 
 <figure>
 	<img src="../../../../img/_MG_4644_1024pix.jpg">
-	<figcaption>Direkt efter frukosten ville Tage ut och springa i gräset.<br>Skönt att gå barfota!<br><br><br></span></span></div><div style="text-align: center;"><img src="../../../../img/_MG_4657_1024pix.jpg">
+	<figcaption>Direkt efter frukosten ville Tage ut och springa i gräset.<br>Skönt att gå barfota!<br><br><br></span></span></div><figure>
+	<img src="../../../../img/_MG_4657_1024pix.jpg">
 	<figcaption>Senare hjälpte Tage farfar att vattna blommorna.</span></span><br><div style="text-align: center;">
-	<figcaption>Ingen planta får vara törstig!</span></span><br><br><br></div></div><div style="text-align: center;"><img src="../../../../img/_MG_4730_1024pix.jpg">
+	<figcaption>Ingen planta får vara törstig!</span></span><br><br><br></div></div><figure>
+	<img src="../../../../img/_MG_4730_1024pix.jpg">
 	<figcaption>Sedan någon vecka hade Tage ätit ganska<br>dåligt, vilket jag bekymrade </span></span>
 	<figcaption>mig en del över.</figcaption>
 
 <figure>
 	<img src="../../../../img/_MG_4683_1024pix.jpg">
 	<figcaption> Han var klen i maten även i Småland – men våfflor gillade han!<br>Några dagar senare upptäckte vi att den första kindtanden tittat<br>upp och sedan började han äta normalt igen.<br></figcaption>
-</figure><div style="text-align: center;"><img src="../../../../img/_MG_4693_1024pix.jpg">
-	<figcaption>Tage luktar på de nyplockade liljekonvaljerna.<br>Han vill lukta på alla blommor nu.<br><br><br></span></span></div><div style="text-align: center;"><img src="../../../../img/_MG_4701_1024pix.jpg">
+</figure><figure>
+	<img src="../../../../img/_MG_4693_1024pix.jpg">
+	<figcaption>Tage luktar på de nyplockade liljekonvaljerna.<br>Han vill lukta på alla blommor nu.<br><br><br></span></span></div><figure>
+	<img src="../../../../img/_MG_4701_1024pix.jpg">
 	<figcaption>Se där, nu är jag på bordet igen!</figcaption>
 </figure>

@@ -23,6 +23,7 @@ originalUrl: https://nejtupp.blogspot.com/2009/04/barnvaktshelg.html
 
 <figure>
 	<img src="../../../../img/Barnvaktsdag+090426+016_1024.jpg">
-	<figcaption>Tage och farfar tittar på en gris. (Foto: farmor)<br><br><br></span></span></div><br><div style="text-align: center;"><img src="../../../../img/Barnvaktsdag+090426+025_1024.jpg">
+	<figcaption>Tage och farfar tittar på en gris. (Foto: farmor)<br><br><br></span></span></div><br><figure>
+	<img src="../../../../img/Barnvaktsdag+090426+025_1024.jpg">
 	<figcaption>Farmor bjuder på Storstrut.</span><span style="font-style: italic;"> (Foto: farfar)</figcaption>
 </figure>

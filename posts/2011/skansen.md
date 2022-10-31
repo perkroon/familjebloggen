@@ -19,6 +19,8 @@ originalUrl: https://nejtupp.blogspot.com/2011/04/skansen.html
 
 <figure>
 	<img src="../../../../img/Skansen%2Boch%2Bsen%2Bhem-_MG_8362.jpg">
-	<figcaption>Tage och kusin Tore åker flygplan.<br><br><br><br></span></span></div><br><div style="text-align: center;"><img src="../../../../img/Skansen%2Boch%2Bsen%2Bhem-_MG_8380.jpg">
-	<figcaption>Filip visar upp att han filmade Tage och Tore när de åkte flygplanskarusell.<br><br><br><br></span></span></div><br><div style="text-align: center;"><img src="../../../../img/Skansen%2Boch%2Bsen%2Bhem-_MG_8421.jpg">
+	<figcaption>Tage och kusin Tore åker flygplan.<br><br><br><br></span></span></div><br><figure>
+	<img src="../../../../img/Skansen%2Boch%2Bsen%2Bhem-_MG_8380.jpg">
+	<figcaption>Filip visar upp att han filmade Tage och Tore när de åkte flygplanskarusell.<br><br><br><br></span></span></div><br><figure>
+	<img src="../../../../img/Skansen%2Boch%2Bsen%2Bhem-_MG_8421.jpg">
 	<figcaption>På Skansen finns en minislänggunga.<br><br><br></span></span></div><img src="../../../../img/Skansen%2Boch%2Bsen%2Bhem-_MG_8402.jpg"><span style="font-size:85%;">Tage hade fullt sjå med att styra de båda rattarna som satt där bak.</span><br><br></div><span style="font-size:85%;"><br><br></span><br><img src="../../../../img/Skansen%2Boch%2Bsen%2Bhem-_MG_8489.jpg">Efter heldagen på Skansen var det dags för mormor att ta tåget hem till morfar i Halmstad igen och vi andra tog spårvagn och tunnelbana hem. Tage slocknade redan på spårvagnen så vi fick bära hem honom. Åke satt mest i vagnen hela dan och brydde sig inte särskilt mycket om några djur. Dagens höjdpunkt för honom var att springa omkring och busa i lunchrestaurangen. Att sitta fint och tyst och stilla och äta mat på restaurang är inte riktigt hans grej för tillfället.

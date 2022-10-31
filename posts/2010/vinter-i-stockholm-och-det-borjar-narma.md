@@ -7,7 +7,8 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2010/02/vinter-i-stockholm-och-det-borjar-narma.html
 ---
 
-<div style="text-align: center;"><img src="../../../../img/IMG_0228_1024pix.jpg">
+<figure>
+	<img src="../../../../img/IMG_0228_1024pix.jpg">
 	<figcaption>Tage och Pelle busar i snön på Långholmen</figcaption>
 </figure><br>Det är och har varit en fantastisk vinter i Sverige i år. Till och med mormor och morfar i Halmstad har snö. Tage tycker ibland att det är lite jobbigt att ta på sig alla vinterkläder men annars har han inget emot snö och kyla verkar det som. Förskolepersonalen säger att han aldrig klagar och det är skönt att höra. Några av barnen tycker inte alls om att vara ute i snön. Idag är det söndag och vi lyckades ta oss ut tidigt och gick omkring på härliga Långholmen, åkte pulka, gungade och busade i snön. Fågelkvitter hörde vi också, så någonstans känner man ändå att våren är på väg. Tage tycker att det är spännande med alla fågelholkarna som finns på Långholmen. Han pekar på dem och säger: "där bor Pippi Långstrump" och vid nästa: "där bor Pippi Långstrump också" osv. Pippi Långstrump-sången hör till hans största favoriter och han kan hela utantill. Men han tror nog att den handlar om en fågel, och det kan man ju förstå.<br><br><br><img src="../../../../img/IMG_0232_1024pix.jpg"><br><br><br><img src="../../../../img/IMG_0213_1024pix.jpg"><br>En fredag häromveckan var alla föräldrar inbjudna på korvgrillning och fika tillsammans med förskolebarnen och personalen. Det var kul att få se hur de har det och att mingla lite med de andra föräldrarna. Tage blev jätteglad när han fick se oss. Vi fick träffa flera mammor men Pelle den enda pappan som kom.
 

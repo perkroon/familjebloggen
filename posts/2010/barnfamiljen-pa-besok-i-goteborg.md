@@ -19,7 +19,8 @@ Det var hög tid för oss att besöka Göteborg och äntligen se hur faster Jenn
 <figure>
 	<img src="../../../../img/jpg-IMG_0356.jpg"><br>
 	<figcaption>– Jätteroligt!</figcaption>
-</figure><div style="text-align: center;"><img src="../../../../img/jpg-IMG_0179.jpg"><br>
+</figure><figure>
+	<img src="../../../../img/jpg-IMG_0179.jpg"><br>
 	<figcaption>Framme i Göteborg. Det här ska bli kul!</span></span><br><br></div><br>På kvällen höll vi oss i närområdet och åt på en liten italiensk restaurang. Åke fick gröt, Tage och Pappan åt pizza och Mamman åt pasta. Det var nog första gången som vi gick på restaurang med Åke sedan vi hade en mindre lyckad kväll i Växjö, när Åke var missnöjd med allt och absolut inte ville sova eller vara tyst. Den här gången gick det jättebra!
 
 <figure>
@@ -47,19 +48,22 @@ Det var hög tid för oss att besöka Göteborg och äntligen se hur faster Jenn
 
 <figure>
 	<img src="../../../../img/jpg-IMG_0251.jpg"><br>
-	<figcaption>Brasan värmde lite i kylan.</span></span><br><br></div><br><div style="text-align: center;"><img src="../../../../img/jpg-IMG_0245.jpg"><br>
+	<figcaption>Brasan värmde lite i kylan.</span></span><br><br></div><br><figure>
+	<img src="../../../../img/jpg-IMG_0245.jpg"><br>
 	<figcaption>Ponnykarusellen gick runt, runt, runt...</figcaption>
 </figure>Jenny jobbade på kvällen och vi tog en spårvagn till Linnégatan och mötte morbror Jacob, Cajsa och Henrik. För andra kvällen i rad gick vi på restaurang hela familjen. Nu var det fredag och klockan var sex-sju, så det var ganska fullt, men vi lyckades hitta ett bord där vi fick plats. På vägen hem från restaurangen somnade barnen i sina vagnar och snart sov alla sött hemma på hotellrummet.
 
 <figure>
 	<img src="../../../../img/jpg-IMG_0259.jpg"><br>
 	<figcaption>Att åka spårvagn gillade Tage skarpt. Pappan håller med.<br></figcaption>
-</figure><div style="text-align: center;"><div style="text-align: center;"><img src="../../../../img/jpg-IMG_0269.jpg"><br></div><div style="text-align: center;">
+</figure><div style="text-align: center;"><figure>
+	<img src="../../../../img/jpg-IMG_0269.jpg"><br></div><div style="text-align: center;">
 	<figcaption>Åke och Tage sover gott på hotellet.</figcaption></div><br>På lördagen tog Jenny och vi Älvsnabben in till stan tillsammans och mötte Cajsa och Jacob igen och åt lunch på ett kafé. Vi kände oss sedan redo för äventyr nummer två i Göteborg: Universeum. Tage kunde bara precis hålla sig vaken i spårvagnen på väg till Universeum, men när vi väl kom in så fanns det så mycket att se och göra att det inte längre var något problem. Vi tittade på fiskar, på regnskogen, jagade skor och kollade på polisbilen. Åke gillade fiskarna väldigt mycket, och spanade in faster Jennys fina armbandsur. Allt var jätteroligt, ända tills vi skulle gå. Då ville Tage inte sluta att springa ut och in på museet, trots att vi hade lämnat ifrån oss våra biljetter och när Pappan till slut sa ifrån brast det för honom och han blev jätteledsen. Men det gick över fort när han fick sitta i Mammans knä och äta ett kex. Våra snälla värdar i Göteborg hade oändligt med tålamod för den tid det tar för oss att klä på oss och byta från en aktivitet till en annan.
 
 <figure>
 	<img src="../../../../img/jpg-IMG_0290.jpg"><br>
-	<figcaption>Vi spanar in regnskogen och letar efter apor.</span></span><br><br></div><br><div style="text-align: center;"><img src="../../../../img/jpg-IMG_0295.jpg"><br>
+	<figcaption>Vi spanar in regnskogen och letar efter apor.</span></span><br><br></div><br><figure>
+	<img src="../../../../img/jpg-IMG_0295.jpg"><br>
 	<figcaption>Tage hade ganska bråttom igenom alltihopa,<br>för det fanns alltid mer att se runt hörnet.</figcaption>
 </figure>
 
@@ -79,7 +83,8 @@ Det var hög tid för oss att besöka Göteborg och äntligen se hur faster Jenn
 <figure>
 	<img src="../../../../img/jpg-IMG_0363.jpg"><br></div><div style="text-align: center;">
 	<figcaption>Fotograf ombord på tåget: Tage</figcaption>
-</figure><br><div style="text-align: center;"><img src="../../../../img/jpg-IMG_0380.jpg"><br>
+</figure><br><figure>
+	<img src="../../../../img/jpg-IMG_0380.jpg"><br>
 	<figcaption>Snart är vi hemma i Hornstull igen!</figcaption>
 
 <div class="comments">

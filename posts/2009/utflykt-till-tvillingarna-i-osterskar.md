@@ -63,5 +63,6 @@ Torsdagen bjöd på en lite längre utflykt. Vi, det vill säga Tage och Pappan,
 
 <figure>
 	<img src="../../../../img/_MG_1094_1024pix.jpg">
-	<figcaption>Trebarnsmamman med en av tvillingarna i famnen,<br>på väg ut på promenad.</span></span><br><br><br><br></div><div style="text-align: center;"><img src="../../../../img/_MG_1111_1024pix.jpg">
+	<figcaption>Trebarnsmamman med en av tvillingarna i famnen,<br>på väg ut på promenad.</span></span><br><br><br><br></div><figure>
+	<img src="../../../../img/_MG_1111_1024pix.jpg">
 	<figcaption>Victor och Leo klädda för en vinterpromenad i vagnen.</figcaption>

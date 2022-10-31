@@ -8,4 +8,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2008/10/skoj-p-lekplatsen.html
 ---
 
-<div style="text-align: center;"><img src="../../../../img/Mobil+x+007.jpg">Jag har glömt att berätta om Tages nya favoritsysselsättning: gunga!<br></div>
+<figure>
+	<img src="../../../img/2008/10/Mobil+x+007.jpg">
+  <figcaption>Jag har glömt att berätta om Tages nya favoritsysselsättning: gunga!</figcaption>
+</figure>

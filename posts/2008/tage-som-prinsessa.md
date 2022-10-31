@@ -10,10 +10,15 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2008/10/tage-som-prinsessa.html
 ---
 
-<div style="text-align: center;"><img src="../../../../img/Mobil+x+003.jpg"><span style="font-size:85%;">Igår åkte vi hem till moster Johanna och kusinerna Ingrid och Tore i Gamla<br>Enskede. Mamman fick håret klippt och Tage passade också på att snygga<br>till sig lite.<br></span></div>
+<figure>
+	<img src="../../../img/2008/10/Mobil+x+003.jpg">
+	<figcaption>Igår åkte vi hem till moster Johanna och kusinerna Ingrid och Tore i Gamla Enskede. Mamman fick håret klippt och Tage passade också på att snygga till sig lite.</figcaption>
+</figure>
 
 <figure>
-	<img src="../../../../img/Mobil+x+002.jpg"><span style="font-size:85%;">Det visade sig dock att det inte var så roligt att vara fin särskilt länge.<br></span></div>
+	<img src="../../../img/2008/10/Mobil+x+002.jpg">
+	<figcaption>Det visade sig dock att det inte var så roligt att vara fin särskilt länge.</figcaption>
+</figure>
 
 <div class="comments">
 	<div class="comments-header"><h2>3 Comments</h2></div>

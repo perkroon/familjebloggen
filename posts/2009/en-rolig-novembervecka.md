@@ -15,6 +15,7 @@ Det har varit en händelserik vecka med bemärkelsedagar och besök. Vi har fira
 
 <figure>
 	<img src="../../../../img/_MG_8968_1024pix.jpg">
-	<figcaption>Tage och jag leker Tages nya favoritlek; gå på promenad i lägenheten<br> med taxen och myran. Tage har själv tagit på sig sin nya fina<br> mössa och polohalsduk som farmor har stickat och<br> han ville inte ta av dem fast det var varmt inomhus.<br><br><br><br></span></span></div><div style="text-align: center;"><img src="../../../../img/_MG_8965_1024pix.jpg">
+	<figcaption>Tage och jag leker Tages nya favoritlek; gå på promenad i lägenheten<br> med taxen och myran. Tage har själv tagit på sig sin nya fina<br> mössa och polohalsduk som farmor har stickat och<br> han ville inte ta av dem fast det var varmt inomhus.<br><br><br><br></span></span></div><figure>
+	<img src="../../../../img/_MG_8965_1024pix.jpg">
 	<figcaption>En annan av Tages favoritsysselsättningar -<br>att hjälpa till att plocka ur diskmaskinen. </figcaption>
 </figure>

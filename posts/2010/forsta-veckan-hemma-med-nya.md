@@ -15,7 +15,9 @@ originalUrl: https://nejtupp.blogspot.com/2010/03/forsta-veckan-hemma-med-nya.ht
 
 <figure>
 	<img src="../../../../img/F%C3%B6rsta+veckan-_MG_0756.jpg">
-	<figcaption>Pappa och Åke<br><br><br></span></span><div style="text-align: center;"><img src="../../../../img/F%C3%B6rsta+veckan-_MG_0481.jpg">
-	<figcaption>Mamma och Åke<br><br><br></span></span></div></div><div style="text-align: center;"><img src="../../../../img/F%C3%B6rsta+veckan-_MG_0735.jpg">
+	<figcaption>Pappa och Åke<br><br><br></span></span><figure>
+	<img src="../../../../img/F%C3%B6rsta+veckan-_MG_0481.jpg">
+	<figcaption>Mamma och Åke<br><br><br></span></span></div></div><figure>
+	<img src="../../../../img/F%C3%B6rsta+veckan-_MG_0735.jpg">
 	<figcaption>Lite trött</figcaption>
 </figure><img src="../../../../img/F%C3%B6rsta+veckan-_MG_0517.jpg"><br>Åke har redan haft flera besök. Hittills har han fått besök av tant Ulle, tant Caroline, tant Ingela och farbror Peter med Tages kompis Nils. Tage och Åke längtar efter att träffa sina mor- och farföräldrar. Mormor och morfar är i Italien och åker skidor och farmor och farfar är i Australien. Men snart får vi träffa dem igen.

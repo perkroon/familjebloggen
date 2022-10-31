@@ -20,7 +20,8 @@ originalUrl: https://nejtupp.blogspot.com/2010/03/akes-entre-och-mammans-bearbet
 
 <figure>
 	<img src="../../../../img/S%C3%B6dra+BB-_MG_0168.jpg">
-	<figcaption>Lill-Åke har bytt huvudbonad från Pappas stora keps till en av<br>landstingets bebiskalsonger.<br><br></span></span></div><br><div style="text-align: center;"><img src="../../../../img/S%C3%B6dra+BB-_MG_0174.jpg">
+	<figcaption>Lill-Åke har bytt huvudbonad från Pappas stora keps till en av<br>landstingets bebiskalsonger.<br><br></span></span></div><br><figure>
+	<img src="../../../../img/S%C3%B6dra+BB-_MG_0174.jpg">
 	<figcaption>Friden har lagt sig.</span> </span></div><br>När personalen hade lämnat oss ringde vi Sofia för att höra att det var OK med henne. Hon var förstås också fortfarande klarvaken och uppe i varv. Hon mådde bra och Tage hade inte vaknat mer. Sofia berättade att hon i tumultet i väntan på ambulansen också ringt min mamma och pappa och sagt att jag fött en bebis i hallen så jag ringde upp dem också. De var också klarvakna och kunde inte sova och det kändes skönt att prata med dem också. Vi var ju fortfarande ganska mycket i chocktillstånd Pelle och jag. Pelle ringde även sina föräldrar som är på Nya Zeeland och berättade om den stora händelsen. Sedan somnade han och även lille Åke. Själv låg jag vaken nästan hela natten för jag var så uppe i varv och tankarna bara flög runt i huvudet. Men jag kände en oerhörd lycka. På morgonen låg vi bara och skrattade åt det galna händelseförloppet.<br>
 
 <figure>

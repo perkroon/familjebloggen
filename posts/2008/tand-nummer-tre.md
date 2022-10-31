@@ -8,7 +8,10 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2008/10/tand-nummer-tre.html
 ---
 
-<img src="../../../../img/_MG_7835_1024pix-pola02.jpg"><br>Se upp för bett! Tage har fått en tredje tand. Den här gången i överkäken, så att han kan bitas bättre.
+<figure>
+	<img src="../../../img/2008/10/_MG_7835_1024pix-pola02.jpg">
+	<figcaption>Se upp för bett! Tage har fått en tredje tand. Den här gången i överkäken, så att han kan bitas bättre.</figcaption>
+</figure>
 
 <div class="comments">
 	<div class="comments-header"><h2>4 Comments</h2></div>

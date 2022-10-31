@@ -10,7 +10,8 @@ originalUrl: https://nejtupp.blogspot.com/2009/05/barnfamiljen-ar-ute-och-cyklar
 Härom kvällen var vi hembjudna på middag hos Tages kompis Malte. Tage började besöket med att viktigt gå omkring i lägenheten och peka ut alla lampor för oss. Förutom Maltes alla roliga leksaker så fanns där också en ugn med festliga knappar, ett soffbord som Tage kunde krypa upp på och såpbubblor som Maltes mamma Karolina blåste. Det var så kul! Tage och Malte tycktes också ha roligt med varandra. Vid ett tillfälle gick de omkring hand i hand och var enormt söta förstås.
 
 <figure>
-	<div style="text-align: center;"><img src="../../../../img/_MG_4292_1024pix.jpg">
+	<figure>
+	<img src="../../../../img/_MG_4292_1024pix.jpg">
 	<figcaption>Malte & Tage 14 månader</figcaption>
 </figure><br><img src="../../../../img/_MG_4320_1024pix.jpg">
 	<figcaption>Sagostund med Tage & Malte</figcaption>

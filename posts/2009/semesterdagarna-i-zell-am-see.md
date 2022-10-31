@@ -70,7 +70,8 @@ Vi kom fram till Zell am See och hittade ett lämpligt litet hotell att bo på i
 
 <figure>
 	<img src="../../../../img/_MG_7250_1024pix.jpg">
-	<figcaption>Mamman spanar ner mot Zell am See.</span><br><br><br></div><div style="text-align: center;"><img src="../../../../img/_MG_7272_1024pix.jpg">
+	<figcaption>Mamman spanar ner mot Zell am See.</span><br><br><br></div><figure>
+	<img src="../../../../img/_MG_7272_1024pix.jpg">
 	<figcaption>Typiska Sound of Music-steg!</figcaption>
 </figure>Det blev ungefär två timmars vandring även denna dag, lagom för oss tyckte vi den här semestern. De nyinköpta kängorna fick med beröm godkänt. På kvällen packade vi väskorna för tidigt på morgonen efter började resan hem.<br><br>Det blev en lång hemresa. Vi gick från hotellet i Zell am See kl. 07.00 och tog tåget till flygplatsen i München. Det var tre byten: i Wörgl, i Rosenheim och i München Ost. Den sista sträcken trafikerades av pendeltåg och kanske kan det förklara att dörrarna endast var öppna så att Pappan han slinka in medan Mamman och Tage blev kvar på perrongen. Snopet. När nästa tåg till flygplatsen gick låg vi i startblocken och hann ombord allihopa.<br><br>Flygresorna gick bra. Vi blev som vanligt överraskade över hur dålig och dyr mat det finns på flygplatserna. Tage fick springa omkring och leka när det var möjligt eftersom han fick sitta still under flygningarna. Vi kom till Köpenhamn vid åttatiden på kvällen och tog tåget till Alvesta där farfar mötte oss strax innan midnatt. Den sista biten reste vi alltså med bil och vi kom fram halv ett ungefär. En lång resdag – men det var det värt, för det var en skön semester!
 

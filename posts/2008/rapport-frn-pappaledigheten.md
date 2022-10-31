@@ -26,7 +26,8 @@ originalUrl: https://nejtupp.blogspot.com/2008/12/rapport-frn-pappaledigheten.ht
 
 <figure>
 	<img src="../../../../img/_MG_9560_1024pix.jpg">
-	<figcaption>Den här luckan är helfestlig...</span></span><br><br></div><br><div style="text-align: center;"><div style="text-align: center;"><img src="../../../../img/_MG_9552_1024pix.jpg">
+	<figcaption>Den här luckan är helfestlig...</span></span><br><br></div><br><div style="text-align: center;"><figure>
+	<img src="../../../../img/_MG_9552_1024pix.jpg">
 	<figcaption>... och bakom luckan finns världens roligaste hål!</figcaption>
 </figure><br><img src="../../../../img/_MG_9557_1024pix.jpg">
 	<figcaption>Tittut!</figcaption>

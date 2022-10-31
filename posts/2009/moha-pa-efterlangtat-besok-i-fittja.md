@@ -26,8 +26,10 @@ originalUrl: https://nejtupp.blogspot.com/2009/01/moha-pa-efterlangtat-besok-i-f
 <figure>
 	<img src="../../../../img/_MG_0545_1024pix.jpg">
 	<figcaption>Emilce får en efterlängtad bamsekram av Tage. Det var hon som kom<br>på namnet Moha och hon frågar dagligen efter honom.</figcaption>
-</figure><br><div style="text-align: center;"><img src="../../../../img/_MG_0548_1024pix.jpg">
-	<figcaption>Gosi-gos. Mysiga Emilce och Tage gosar.<br><br></span></span></div><br><div style="text-align: center;"><img src="../../../../img/_MG_0491_1024pix.jpg">
+</figure><br><figure>
+	<img src="../../../../img/_MG_0548_1024pix.jpg">
+	<figcaption>Gosi-gos. Mysiga Emilce och Tage gosar.<br><br></span></span></div><br><figure>
+	<img src="../../../../img/_MG_0491_1024pix.jpg">
 	<figcaption>Tage har hittat nåt spännande i Gordanas ficka. Gordana är min<br>fantastiska handledare. Världens världens finaste människa!</figcaption>
 </figure>
 

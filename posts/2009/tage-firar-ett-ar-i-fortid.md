@@ -18,7 +18,8 @@ Om en vecka, när vi reser till Halland, fyller Tage ett år. Farmor och farfar 
 
 <figure>
 	<img src="../../../../img/_MG_1210_1024pix.jpg">
-	<figcaption> Ljuset var spännande, men semlan orkade Tage inte smaka på<br>efter den ordinarie lunchen.<br><br><br></span></span></div><div style="text-align: center;"><img src="../../../../img/_MG_1227_1024pix.jpg">
+	<figcaption> Ljuset var spännande, men semlan orkade Tage inte smaka på<br>efter den ordinarie lunchen.<br><br><br></span></span></div><figure>
+	<img src="../../../../img/_MG_1227_1024pix.jpg">
 	<figcaption>Tage hugger in på paketen.</figcaption>
 
 <figure>

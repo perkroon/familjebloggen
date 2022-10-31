@@ -39,7 +39,8 @@ När min pappaledighet började i december kändes det som en oändlig tid vi ha
 <figure>
 	<img src="../../../../img/_MG_8176_1024pix.jpg">
 	<figcaption>En del sand följer alltid med hem i lägenheten, det är oundvikligt.</figcaption>
-</figure><span style="text-decoration: underline;"><br></span><div style="text-align: center;"><img src="../../../../img/_MG_8218_1024pix.jpg">
+</figure><span style="text-decoration: underline;"><br></span><figure>
+	<img src="../../../../img/_MG_8218_1024pix.jpg">
 	<figcaption>Bakom baracken finns det roliga gupp att springa eller åka över.</figcaption>
 
 <figure>

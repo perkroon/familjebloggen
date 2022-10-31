@@ -12,7 +12,8 @@ originalUrl: https://nejtupp.blogspot.com/2010/03/aterblick-bb-och-hemkomsten.ht
 
 <figure>
 	<img src="../../../../img/Andra+dygnet-_MG_0324.jpg">
-	<figcaption>Åke klädd i farmors fina stickade outfit, redo för att lämna BB<br>och återvända till platsen där han föddes.<br><br></span></span></div><br><div style="text-align: center;"><img src="../../../../img/Andra+dygnet-_MG_0340.jpg">
+	<figcaption>Åke klädd i farmors fina stickade outfit, redo för att lämna BB<br>och återvända till platsen där han föddes.<br><br></span></span></div><br><figure>
+	<img src="../../../../img/Andra+dygnet-_MG_0340.jpg">
 	<figcaption>Den fina overallen fick Åke av moster Johannas familj.<br>Den är i minsta storleken (50-56) men Åke fyller inte riktigt ut den än. </figcaption>
 </figure><img src="../../../../img/Andra+dygnet-_MG_0357.jpg">
 	<figcaption>Åke är hemma igen.<br>Här bakom dörren föddes han ett och ett halvt dygn tidigare.</span> </span></div>

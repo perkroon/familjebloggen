@@ -21,7 +21,8 @@ Trettondagen är passerad och det är hög tid att sammanfatta julen 2009. Vi ha
 	<figcaption>Tage släpper inte tomten med blicken.</figcaption>
 
 <figure>
-	<img src="../../../../img/_MG_9679_1024pix.jpg"><br></div><div style="text-align: center; font-style: italic;"><span style="font-size:85%;">Tage har fått en julklapp och är på väg för att tacka tomten...<br></span></div>
+	<img src="../../../../img/_MG_9679_1024pix.jpg"><br></div>
+	<figcaption>Tage har fått en julklapp och är på väg för att tacka tomten...<br></span></div>
 
 <figure>
 	<img src="../../../../img/_MG_9682_1024pix.jpg"><br></div><div style="text-align: center;">
@@ -32,7 +33,8 @@ Trettondagen är passerad och det är hög tid att sammanfatta julen 2009. Vi ha
 
 <figure>
 	<img src="../../../../img/_MG_9713_1024pix.jpg"><br></div><div style="text-align: center;">
-	<figcaption>Det var väldigt noga att snögubben hade en ordentlig näsa, enligt Tage.</span></span><br><br></div><br><div style="text-align: center;"><img src="../../../../img/_MG_9717_1024pix.jpg"><br></div><div style="text-align: center;">
+	<figcaption>Det var väldigt noga att snögubben hade en ordentlig näsa, enligt Tage.</span></span><br><br></div><br><figure>
+	<img src="../../../../img/_MG_9717_1024pix.jpg"><br></div><div style="text-align: center;">
 	<figcaption>En snölykta utanför Pyrtet.</figcaption>
 </figure>Hos farmor och farfar vankades det fler julklappar. Tage fick bland annat en leksaksspis, mer träjärnvägar och en "talande papegoja", också uppskattade klappar. Tack!<br><br>Större delen av dagarna var vi inne i stugan, men vi gjorde också besök hos Pappans mormor och farmor och tittade på möbler i Lammhult. Tage blev väldigt förtjust i att gå upp och ned för en trappa på varuhuset och protesterade högljutt när vi skulle åka hem igen.
 

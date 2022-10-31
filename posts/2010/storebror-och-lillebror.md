@@ -10,7 +10,8 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2010/03/storebror-och-lillebror.html
 ---
 
-<div style="text-align: center;"><img src="../../../../img/S%C3%B6dra+BB-_MG_0216.jpg"><br></div><br>Den första natten, direkt efter att Åke var född, stannade vi alla tre på BB (och Tage sov ju fortfarande hemma). Under förmiddagen hann jag umgås lite med Åke på tu man hand, men när det blev eftermiddag lämnade jag BB och for till förskolan och hämtade Tage. Vi åkte direkt tillbaka till BB så att Tage skulle få träffa sin lillebror.
+<figure>
+	<img src="../../../../img/S%C3%B6dra+BB-_MG_0216.jpg"><br></div><br>Den första natten, direkt efter att Åke var född, stannade vi alla tre på BB (och Tage sov ju fortfarande hemma). Under förmiddagen hann jag umgås lite med Åke på tu man hand, men när det blev eftermiddag lämnade jag BB och for till förskolan och hämtade Tage. Vi åkte direkt tillbaka till BB så att Tage skulle få träffa sin lillebror.
 
 <figure>
 	<img src="../../../../img/S%C3%B6dra+BB-_MG_0230.jpg"><br>

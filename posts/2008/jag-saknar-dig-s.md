@@ -10,7 +10,8 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2008/12/jag-saknar-dig-s.html
 ---
 
-<div style="text-align: center;"><img src="../../../../img/_MG_9252_1024pix.jpg">
+<figure>
+	<img src="../../../../img/_MG_9252_1024pix.jpg">
 	<figcaption>- Hej Mamma. Varför kommer du aldrig hem? Du har varit borta</figcaption>
 </figure><div style="text-align: center;">
 	<figcaption>i 14 och en halv timme nu. Jag fyller faktiskt 9 månader idag.</figcaption>

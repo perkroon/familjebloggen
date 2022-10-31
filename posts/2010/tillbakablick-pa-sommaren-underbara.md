@@ -20,7 +20,8 @@ originalUrl: https://nejtupp.blogspot.com/2010/09/tillbakablick-pa-sommaren-unde
 
 <figure>
 	<img src="../../../../img/Bad+p%C3%A5+B%C3%B6da+Sand-_MG_4137.jpg">
-	<figcaption>Tage och Ida bygger sandslott på Böda Sand.<br><br><br><br></span></span></div><br><div style="text-align: center;"><img src="../../../../img/Vid+raukarna+i+Byrum-_MG_4029.jpg">
+	<figcaption>Tage och Ida bygger sandslott på Böda Sand.<br><br><br><br></span></span></div><br><figure>
+	<img src="../../../../img/Vid+raukarna+i+Byrum-_MG_4029.jpg">
 	<figcaption>Byrums raukar</figcaption>
 </figure><br>
 

@@ -33,7 +33,8 @@ Midsommar 2009 firade barnfamiljen på en ö i Stockholms norra skärgård, till
 
 <figure>
 	<img src="../../../../img/_MG_5842_1024pix.jpg">
-	<figcaption>Gruppbild 1. Nils har fått ett bra grepp om Tages hår.<br><br></span></span></div><br><div style="text-align: center;"><img src="../../../../img/_MG_5843_1024pix.jpg">
+	<figcaption>Gruppbild 1. Nils har fått ett bra grepp om Tages hår.<br><br></span></span></div><br><figure>
+	<img src="../../../../img/_MG_5843_1024pix.jpg">
 	<figcaption>Gruppbild 2. Efter luggningen. Notera Tages blick!<br>(Klicka på bilden för att se den i ett större format.)</figcaption>
 
 <div class="comments">

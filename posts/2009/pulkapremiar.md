@@ -9,7 +9,15 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2009/01/pulkapremir.html
 ---
 
-Det är inte alla saker man gillar att göra första gången man provar, eller hur? Tage verkade inte riktigt förstå tjusningen med att åka pulka. Snön har lagt sig igen över Stockholm och eftersom vi fått en pulka av farmor och farfar ville vi passa på att åka lite – i den här stan kan man aldrig vara säker på att snön ligger kvar nästa dag.<br><br><br><img src="../../../../img/Tages_pulkapremi%C3%A4r_1024pix.jpg"><br>Nej, Tage satt mest snällt i pulkan och såg ut att undra vad som egentligen pågick. Vart var vi på väg? Varför körde vi omkring i cirklar hela tiden? Och varför kunde han inte få sitta i vagnen, som vanligt?<br><br>Kanske blir det roligare nästa gång.
+Det är inte alla saker man gillar att göra första gången man provar, eller hur? Tage verkade inte riktigt förstå tjusningen med att åka pulka. Snön har lagt sig igen över Stockholm och eftersom vi fått en pulka av farmor och farfar ville vi passa på att åka lite – i den här stan kan man aldrig vara säker på att snön ligger kvar nästa dag.
+
+<figure>
+	<img src="../../../img/2009/01/Tages_pulkapremiar_1024pix.jpg">
+</figure>	
+
+Nej, Tage satt mest snällt i pulkan och såg ut att undra vad som egentligen pågick. Vart var vi på väg? Varför körde vi omkring i cirklar hela tiden? Och varför kunde han inte få sitta i vagnen, som vanligt?
+
+Kanske blir det roligare nästa gång.
 
 <div class="comments">
 	<div class="comments-header"><h2>4 Comments</h2></div>

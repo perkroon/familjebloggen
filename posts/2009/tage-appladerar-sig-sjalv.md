@@ -13,12 +13,16 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2009/01/tage-applderar-sig-sjlv.html
 ---
 
-<object id="BLOG_video-72a1ca10153d1198" class="BLOG_video_class" contentid="72a1ca10153d1198" height="266" width="320"></object><br><br>Det händer mycket i Tages värld. Plötsligt idag vid kvällsmaten började han applådera för första gången. Det var så kul så det fortsatte han att göra hela kvällen sen tills han somnade för en stund sen. Annars har favoritgrejen varit att vinka så fort han får tillfälle. Det var det absolut sista han gjorde innan han trött efter dagens aktiviteter blundade och somnade sött i sitt nya egna rum där han nu sover sedan igår. Tage har också lärt sig ett nytt ord. Farmor var den första som hörde det i torsdags när hon och Farfar var barnvakter medan Pelle och jag gick på bio. Tack tack, sa han. Och nu har vi också hört det. Då kan han alltså de två viktigaste orden nu. Mamma och tack. Vi får väl se om nästa ord blir Pappa, eller om det blir bulle eller nåt annat viktigt...<br>
+<object id="BLOG_video-72a1ca10153d1198" class="BLOG_video_class" contentid="72a1ca10153d1198" height="266" width="320"></object>
+<!-- FIXME: Video -->
+Det händer mycket i Tages värld. Plötsligt idag vid kvällsmaten började han applådera för första gången. Det var så kul så det fortsatte han att göra hela kvällen sen tills han somnade för en stund sen. Annars har favoritgrejen varit att vinka så fort han får tillfälle. Det var det absolut sista han gjorde innan han trött efter dagens aktiviteter blundade och somnade sött i sitt nya egna rum där han nu sover sedan igår. Tage har också lärt sig ett nytt ord. Farmor var den första som hörde det i torsdags när hon och Farfar var barnvakter medan Pelle och jag gick på bio. Tack tack, sa han. Och nu har vi också hört det. Då kan han alltså de två viktigaste orden nu. Mamma och tack. Vi får väl se om nästa ord blir Pappa, eller om det blir bulle eller nåt annat viktigt...
 
 <figure>
-	<img src="../../../../img/_MG_0229_1024pix.jpg">
+	<img src="../../../img/2009/01/_MG_0229_1024pix.jpg">
 	<figcaption>Tage och jag glider runt på Trekanten</figcaption>
-</figure><br>Idag tog vi en underbar solig vinterpromenad till Kari och Per i Aspudden via isen på sjön Trekanten och längs frostiga Vinterviken. Det är bara en månad till deras lilla bebis beräknas komma och Tage får ännu en liten kompis. Det är så spännande.
+</figure>
+
+Idag tog vi en underbar solig vinterpromenad till Kari och Per i Aspudden via isen på sjön Trekanten och längs frostiga Vinterviken. Det är bara en månad till deras lilla bebis beräknas komma och Tage får ännu en liten kompis. Det är så spännande.
 
 <div class="comments">
 	<div class="comments-header"><h2>2 Comments</h2></div>

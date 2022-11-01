@@ -13,12 +13,14 @@ originalUrl: https://nejtupp.blogspot.com/2009/01/tand-nummer-sju-nyborstad-och-
 Det var ganska länge sedan vi rapporterade om Tages tänder. <a href="http://barnfamiljen.blogspot.com/2008/09/tage-visar-sig-p-hugget.html">Den första</a> kom den 2 september, <a href="http://barnfamiljen.blogspot.com/2008/09/entandade-busens-tid-r-frbi.html">den andra</a> den 30 september och <a href="http://barnfamiljen.blogspot.com/2008/10/tand-nummer-tre.html">den tredje</a> den 27 oktober – sedan slutade vi rapportera om varje enskild tand. Vi tycker han har haft fyra tänder i överkäken och två i underkäken ganska länge nu, men igår upptäckte Mamman ytterligare en tand i underkäken så nu har han sju.<br><br>Tur att Tage gillar att borsta tänderna! När han varit duktig och gapat stort brukar han få leka en stund med tandborsten. Han har för resten fått en ny tandborste nu, en större modell som är grön.
 
 <figure>
-	<img src="../../../../img/_MG_0140_1024pix.jpg">
+	<img src="../../../img/2009/01/_MG_0140_1024pix.jpg">
 	<figcaption>Tage borstar tänderna lite extra efter den föräldraledda borstningen.</figcaption>
+</figure>
 
 <figure>
-	<img src="../../../../img/_MG_0143_1024pix.jpg">
-	<figcaption>När jag tittade på detta fotot i kameran insåg jag att jag av en slump<br>fångat ett av de ögonblick då Tage står själv utan att hålla i sig.<br>Kanske inte helt lämpligt att borsta tänderna samtidigt...</figcaption>
+	<img src="../../../img/2009/01/_MG_0143_1024pix.jpg">
+	<figcaption>När jag tittade på detta fotot i kameran insåg jag att jag av en slump fångat ett av de ögonblick då Tage står själv utan att hålla i sig. Kanske inte helt lämpligt att borsta tänderna samtidigt...</figcaption>
+</figure>
 
 <div class="comments">
 	<div class="comments-header"><h2>2 Comments</h2></div>

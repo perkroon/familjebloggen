@@ -7,4 +7,6 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2008/12/god-jul-och-gott-nytt-r.html
 ---
 
-<img src="../../images/_MG_9335.jpg">
+<figure>
+    <img src="../../../img/2008/12/_MG_9335.jpg">
+</figure>

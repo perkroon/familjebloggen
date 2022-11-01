@@ -12,10 +12,17 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2008/12/tages-framsteg.html
 ---
 
-Tage har lärt sig några nya trick som det är värt att rapportera om här:<br><ul><li>Han kan nu vinka, och gör det även på uppmaning. <span style="font-style: italic;">Vinka Tage!</span></li><li>Sträcker jag fram handen mot honom och säger <span style="font-style: italic;">Ge mig fem!</span> så slår han sin hand mot min och ser väldigt nöjd ut...</li><li>Vid några tillfällen har han stått själv, utan stöd. Som längst har det varit kanske fem sekunder.</li><li>Gåvagnen vi köpte till honom används flitigt. Han går gärna från vardagsrummet till sovrummet med en hand på vagnen och i den andra har han sin favoritleksak för stunden.</li></ul><figure>
-	<img src="../../../../img/_MG_9719_1024pix.jpg">
-	<figcaption>Här ser vi Tage på väg till sovrummet, med</span></span>
-	<figcaption> sin pingvin i vagnen.<br>Den fick han som en tidig julklapp när han träffade Emmy och Alex igår.</figcaption>
+Tage har lärt sig några nya trick som det är värt att rapportera om här:
+
+- Han kan nu vinka, och gör det även på uppmaning. *Vinka Tage!*
+- Sträcker jag fram handen mot honom och säger *Ge mig fem!* så slår han sin hand mot min och ser väldigt nöjd ut...
+- Vid några tillfällen har han stått själv, utan stöd. Som längst har det varit kanske fem sekunder.
+- Gåvagnen vi köpte till honom används flitigt. Han går gärna från vardagsrummet till sovrummet med en hand på vagnen och i den andra har han sin favoritleksak för stunden.
+
+<figure>
+	<img src="../../../img/2008/12/_MG_9719_1024pix.jpg">
+	<figcaption>Här ser vi Tage på väg till sovrummet, med sin pingvin i vagnen. Den fick han som en tidig julklapp när han träffade Emmy och Alex igår.</figcaption>
+</figure>
 
 <div class="comments">
 	<div class="comments-header"><h2>2 Comments</h2></div>

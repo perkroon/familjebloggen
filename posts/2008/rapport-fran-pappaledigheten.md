@@ -15,21 +15,28 @@ originalUrl: https://nejtupp.blogspot.com/2008/12/rapport-frn-pappaledigheten.ht
 "Hur går det att vara pappaledig"? Det är en fråga jag ofta får i dessa dagar. "Det går bra!" är svaret. Jag försöker hitta lite rutiner som funkar för Tage och mig. Visst saknar Tage sin mamma, det märker jag tydligt. När brevbäraren kom med posten idag befann vi oss i sovrummet, men Tage hörde att det lät i dörren och sade ett tydligt "Mamma!" och började krypa mot hallen...
 
 <figure>
-	<img src="../../../../img/_MG_9582_1024pix.jpg">
+	<img src="../../../img/2008/12/_MG_9582_1024pix.jpg">
 	<figcaption>Tage spanar in Pappan, med kameran som låter så roligt.</figcaption>
-</figure>Sedan jag blev pappaledig har Tage helt slutat att åla till förmån för att krypa, även på hala golv. Han har också lärt sig att öppna skåpen i vardagsrummet och i köket.
+</figure>
+
+Sedan jag blev pappaledig har Tage helt slutat att åla till förmån för att krypa, även på hala golv. Han har också lärt sig att öppna skåpen i vardagsrummet och i köket.
 
 <figure>
-	<img src="../../../../img/_MG_9561_1024pix.jpg">
+	<img src="../../../img/2008/12/_MG_9561_1024pix.jpg">
 	<figcaption>Skåpen öppnar helt nya möjligheter för Tage.</figcaption>
-</figure>Men allt är inte nytt: han har sina stadiga favoriter i varje rum och jag tänker presentera dessa i olika inlägg framöver.<br><br>Den första favoriten finns på toaletten: tvättmaskinen! När den är igång snurrar det roligt inuti den, när den inte används har den en rolig lucka och ett spännande hål. Det dröjer nog inte länge innan vi börjar hitta leksaker inne i maskinen...
+</figure>
+
+Men allt är inte nytt: han har sina stadiga favoriter i varje rum och jag tänker presentera dessa i olika inlägg framöver.
+
+<br><br>
+Den första favoriten finns på toaletten: tvättmaskinen! När den är igång snurrar det roligt inuti den, när den inte används har den en rolig lucka och ett spännande hål. Det dröjer nog inte länge innan vi börjar hitta leksaker inne i maskinen...
 
 <figure>
-	<img src="../../../../img/_MG_9560_1024pix.jpg">
+	<img src="../../../img/2008/12/_MG_9560_1024pix.jpg">
 	<figcaption>Den här luckan är helfestlig...</span></span><br><br></div><br><div style="text-align: center;"><figure>
-	<img src="../../../../img/_MG_9552_1024pix.jpg">
+	<img src="../../../img/2008/12/_MG_9552_1024pix.jpg">
 	<figcaption>... och bakom luckan finns världens roligaste hål!</figcaption>
-</figure><br><img src="../../../../img/_MG_9557_1024pix.jpg">
+</figure><br><img src="../../../img/2008/12/_MG_9557_1024pix.jpg">
 	<figcaption>Tittut!</figcaption>
 
 <div class="comments">

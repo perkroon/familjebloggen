@@ -18,7 +18,7 @@ Det lackar mot Tages första jul och barnfamiljen har rest söderut till Smålä
 Innan vi for hann Tage stifta bekantskap med en ny gestalt: en tomte. Den fick Mamman i julklapp någon gång i början av 80-talet och det var en av de bästa julklappar hon någonsin fått, säger hon.<br>
 
 <figure>
-  <img src="../../../../img/_MG_9743_1024pix.jpg"> 
+  <img src="../../../img/2008/12/_MG_9743_1024pix.jpg"> 
   <figcaption>Tage förbereder ett återupplivningsförsök på Mammans gamla tomte.</figcaption>
 </figure>
 
@@ -26,6 +26,6 @@ I Småland hos farmor och farfar finns det massor med nya saker att upptäcka. D
 
 
 <figure>
-  <img src="../../../../img/_MG_9790_1024pix.jpg">
+  <img src="../../../img/2008/12/_MG_9790_1024pix.jpg">
   <figcaption>Tage lögar sig inför den kommande storhelgen.</figcaption>
 </figure>

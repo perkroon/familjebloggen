@@ -7,7 +7,23 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2009/03/pulkakalas-for-1-aringen.html
 ---
 
-<span style="text-decoration: underline;"></span><img src="../../../../img/_MG_1336_1024pix.jpg"><br>Idag var det dags för ännu ett tjuvstartskalas för Tage. Jag hade bjudit hit mina kompisar Pernilla och Sinnika och deras barn Mathilda, Tove och Alva. Tyvärr var dock lilla Alva sjuk så Sinnika och hon kom inte. Men vi andra hade mycket skoj. Pelle hade bakat bullar och jag hade köpt en vit chokladtårta. När vi hade ätit så gick vi ut i den vackra vintersolen och åkte stjärtlapp och pulka på Långholmen. Riktigt kul var det. Till och med Tage drog lite på smilbanden när han for utför med pulkan. De andra gångerna han har provat så har han inte riktigt förstått det roliga med pulkåkning, men idag när han såg hur roligt vi andra tyckte det var så skrattade han också.<br><br><span style="font-style: italic;"><span style="text-decoration: underline;"></span></span><img src="../../../../img/_MG_1417_1024pix.jpg"><br><img src="../../../../img/_MG_1384_1024pix.jpg"><br><img src="../../../../img/_MG_1394_1024pix.jpg">
+<figure>
+	<img src="../../../img/2009/03//_MG_1336_1024pix.jpg">
+</figure>
+
+Idag var det dags för ännu ett tjuvstartskalas för Tage. Jag hade bjudit hit mina kompisar Pernilla och Sinnika och deras barn Mathilda, Tove och Alva. Tyvärr var dock lilla Alva sjuk så Sinnika och hon kom inte. Men vi andra hade mycket skoj. Pelle hade bakat bullar och jag hade köpt en vit chokladtårta. När vi hade ätit så gick vi ut i den vackra vintersolen och åkte stjärtlapp och pulka på Långholmen. Riktigt kul var det. Till och med Tage drog lite på smilbanden när han for utför med pulkan. De andra gångerna han har provat så har han inte riktigt förstått det roliga med pulkåkning, men idag när han såg hur roligt vi andra tyckte det var så skrattade han också.
+
+<figure>
+	<img src="../../../img/2009/03/_MG_1417_1024pix.jpg">
+</figure>
+
+<figure>
+	<img src="../../../img/2009/03/_MG_1384_1024pix.jpg">
+</figure>
+
+<figure>
+	<img src="../../../img/2009/03/_MG_1394_1024pix.jpg">
+</figure>
 
 <div class="comments">
 	<div class="comments-header"><h2>1 Comment</h2></div>

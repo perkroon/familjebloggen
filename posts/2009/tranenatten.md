@@ -11,10 +11,13 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2009/03/tranenatten.html
 ---
 
-Idag är det Marie Bebådelsedagen/Vårfrudagen/Våffeldagen, men också <a href="http://sv.wikipedia.org/wiki/Trandagen">Tranedagen</a>. Det är inte så många i Sverige som uppmärksammar det längre, men i den mörka skogen i Småland där pappan växte upp, där firade man Tranedagen  – eller kanske snarare Tranenatten, som är natten till Tranedagen.<br><br>På kvällen innan Tranenatten hänger barnen upp strumpor vid sina sängar och om man har tur så har tranan varit där under natten och lagt något i strumpan när man sov. Tage blev tipsad om detta av pappan och hängde upp en strumpa. (Sedan valde han dessutom att vare uppe och hålla utkik efter tranorna mellan klockan 02.30 och 04.30, men det var inte pappans idé). Hade tranorna lagt något i hans strumpa över natten? Jodå, det hade de! En hoppande gräshoppa hade de lämnat.
+Idag är det Marie Bebådelsedagen/Vårfrudagen/Våffeldagen, men också [Tranedage](http://sv.wikipedia.org/wiki/Trandagen). Det är inte så många i Sverige som uppmärksammar det längre, men i den mörka skogen i Småland där pappan växte upp, där firade man Tranedagen  – eller kanske snarare Tranenatten, som är natten till Tranedagen.
+<br><br>
+
+På kvällen innan Tranenatten hänger barnen upp strumpor vid sina sängar och om man har tur så har tranan varit där under natten och lagt något i strumpan när man sov. Tage blev tipsad om detta av pappan och hängde upp en strumpa. (Sedan valde han dessutom att vare uppe och hålla utkik efter tranorna mellan klockan 02.30 och 04.30, men det var inte pappans idé). Hade tranorna lagt något i hans strumpa över natten? Jodå, det hade de! En hoppande gräshoppa hade de lämnat.
 
 <figure>
-  <img src="../../../img/2009/03//_MG_1659_1024pix.jpg">
+  <img src="../../../img/2009/03/_MG_1659_1024pix.jpg">
 </figure>
 
 Andra notiser:
@@ -22,12 +25,12 @@ Andra notiser:
 - Det kan vara kul att klä på sig. Hittar han något mjukt på golvet (t.ex. mina kalsonger eller en strumpa) försöker han ofta ta på sig det som om det vore en mössa. Ibland balanserar han det på huvudet en stund innan det trillar av. Mockasinerna vill han helst sätta på sig själv också, men pappa måste alltid hjälpa till för att det ska lyckas.
 
 <figure>
-	<img src="../../../img/2009/03//_MG_1647_1024pix.jpg">
+	<img src="../../../img/2009/03/_MG_1647_1024pix.jpg">
 	<figcaption>Här har han hittat pappas strumpor...</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../img/2009/03//_MG_1709_1024pix.jpg">
+	<img src="../../../img/2009/03/_MG_1709_1024pix.jpg">
 	<figcaption>... och just som jag skrev det här inlägget upptäckte jag att han hittat en dammtrasa som han gick omkring med. Tjusigt!</figcaption>
 </figure>  
 

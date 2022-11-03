@@ -9,7 +9,7 @@ originalUrl: https://nejtupp.blogspot.com/2009/03/tages-1-arsdag.html
 ---
 
 <figure>
-	<img src="../../../img/2009/03//DSC01270_1024.jpg">
+	<img src="../../../img/2009/03/DSC01270_1024.jpg">
 	<figcaption>
 		Hej, jag fyller 1 år idag! Nu ska jag åka tåg till mormor och morfar i Halmstad.
 	</figcaption>

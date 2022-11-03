@@ -9,19 +9,28 @@ originalUrl: https://nejtupp.blogspot.com/2011/04/underbara-var.html
 
 <figure>
 	<img src="../../../../img/Pa%25CC%258Askdag%2Bpa%25CC%258A%2BDjurga%25CC%258Arden-_MG_8808.jpg">
-	<figcaption>Tage skriker vårskrik ut över vitsippsängarna på Djurgården.<br><br><br></span></span><div style="text-align: left;"><span style="font-size:100%;">Det var inte bara våren som plötsligt kom utan även sommaren.</span> Tre fantastiska härliga lediga dagar har vi haft.<br>
+	<figcaption>Tage skriker vårskrik ut över vitsippsängarna på Djurgården.<br></figcaption>
+</figure>
+
+Det var inte bara våren som plötsligt kom utan även sommaren.</span> Tre fantastiska härliga lediga dagar har vi haft.<br>
 	<figcaption></span></span></div><div style="text-align: left;">
 	<figcaption></span></span><br>
 	<figcaption></span></span></div></div><br><br><img src="../../../../img/Pa%25CC%258Askdag%2Bpa%25CC%258A%2BDjurga%25CC%258Arden-_MG_8864.jpg"><br><br><br><br><img src="../../../../img/Pa%25CC%258Askdag%2Bpa%25CC%258A%2BDjurga%25CC%258Arden-_MG_8877.jpg"><br><br>
 
 <figure>
 	<img src="../../../../img/Pa%25CC%258Askdag%2Bpa%25CC%258A%2BDjurga%25CC%258Arden-_MG_8791.jpg">
-	<figcaption>Picknick i en av Djurgårdens ekbackar.<br><br><br><br><br></span></span><figure>
+	<figcaption>Picknick i en av Djurgårdens ekbackar.<br><br></figcaption>
+</figure>
+
+<figure>
 	<img src="../../../../img/Pa%25CC%258Askdag%2Bpa%25CC%258A%2BDjurga%25CC%258Arden-_MG_8931.jpg">
 	<figcaption>På Djurgårdsfärjan</span></span><br><br><br></div>
 	<figcaption><br></span></span></div><figure>
 	<img src="../../../../img/Pa%25CC%258Askdag%2Bpa%25CC%258A%2BDjurga%25CC%258Arden-_MG_8940.jpg">
-	<figcaption>På tunnelbanan<br><br><br><br></span></span></div><img src="../../../../img/Pa%25CC%258Askdag%2Bpa%25CC%258A%2BDjurga%25CC%258Arden-_MG_8948.jpg"><br><br>
+	<figcaption>På tunnelbanan<br></figcaption>
+</figure>
+
+</div><img src="../../../../img/Pa%25CC%258Askdag%2Bpa%25CC%258A%2BDjurga%25CC%258Arden-_MG_8948.jpg"><br><br>
 
 <figure>
 	<img src="../../../../img/Pa%25CC%258Askdag%2Bpa%25CC%258A%2BDjurga%25CC%258Arden-_MG_8967.jpg">

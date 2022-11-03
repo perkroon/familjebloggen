@@ -15,9 +15,15 @@ Farmor fyllde år för några veckor sedan, den 29 maj, och vi blev bjudna på m
 
 <figure>
 	<img src="../../../../img/Mammas+f%C3%B6delsedagsmiddag-_MG_0383.jpg"><br></div><div style="text-align: center;">
-	<figcaption>– Det är roligt att äta på restaurang farmor!</span></span><br><br></div><br><figure>
+	<figcaption>– Det är roligt att äta på restaurang farmor!</figcaption>
+</figure>
+
+<br><figure>
 	<img src="../../../../img/Mammas+f%C3%B6delsedagsmiddag-_MG_0388.jpg"><br>
-	<figcaption>– Gott är det också!</span></span><br><br></div><br><figure>
+	<figcaption>– Gott är det också!</figcaption>
+</figure>
+
+<br><figure>
 	<img src="../../../../img/Mammas+f%C3%B6delsedagsmiddag-_MG_0368.jpg"><br>
 	<figcaption>Åke ratade menyn och föredrog bröstmjölk.<br></figcaption>
 </figure><figure>

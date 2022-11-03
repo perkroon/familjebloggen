@@ -22,4 +22,7 @@ originalUrl: https://nejtupp.blogspot.com/2010/03/tage-firas-i-forvag.html
 
 <figure>
 	<img src="../../../../img/Gravid-_MG_0065.jpg">
-	<figcaption>Climb every mountain...<br><br><br></span></span></div><img src="../../../../img/Tages+2-%C3%A5rskalas-_MG_0129.jpg">Tage tycker om att sitta på köksbordet. Han klättrar upp dit och sitter och tittar på oss när vi röjer i köket. Fast när vi lagar mat vill han stå på en stol bredvid och vara delaktig i själva matlagningen. Ofta står han också vid sin egen spis och lagar mat. Sen går han runt och bjuder på pasta direkt ur sin kastrull:  "nu e maten klar, mamma!"
+	<figcaption>Climb every mountain...</figcaption>
+</figure>
+
+</div><img src="../../../../img/Tages+2-%C3%A5rskalas-_MG_0129.jpg">Tage tycker om att sitta på köksbordet. Han klättrar upp dit och sitter och tittar på oss när vi röjer i köket. Fast när vi lagar mat vill han stå på en stol bredvid och vara delaktig i själva matlagningen. Ofta står han också vid sin egen spis och lagar mat. Sen går han runt och bjuder på pasta direkt ur sin kastrull:  "nu e maten klar, mamma!"

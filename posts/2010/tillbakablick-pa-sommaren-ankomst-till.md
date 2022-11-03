@@ -25,12 +25,18 @@ Nästa anhalt på vår Götalandsturné var Pyrtet i Småland, d.v.s farmor och 
 
 <figure>
 	<img src="../../../../img/Kring+Pyrtet-_MG_3645.jpg"><br>
-	<figcaption>Riktigt kul var det att åka flakmoppe! Det var skoj även på egen hand,<br></span><span style="font-style: italic;">men om Mamman eller Pappan åkte med på flaket så kunde Tage<br>slappna av och skratta mer.</span></span><br><br></div><br><figure>
+	<figcaption>Riktigt kul var det att åka flakmoppe! Det var skoj även på egen hand,<br></span><span style="font-style: italic;">men om Mamman eller Pappan åkte med på flaket så kunde Tage<br>slappna av och skratta mer.</figcaption>
+</figure>
+
+<br><figure>
 	<img src="../../../../img/Kring+Pyrtet-_MG_3643.jpg"><br>
 	<figcaption>– Jag vill åka mer flakmoppe!</figcaption>
 
 <figure>
 	<img src="../../../../img/Kring+Pyrtet-_MG_3556.jpg"><br>
-	<figcaption>Farfars åkgräsklippare var också spännande,<br>även om han inte skrattade lika mycket.</span></span><br><br></div><br><figure>
+	<figcaption>Farfars åkgräsklippare var också spännande,<br>även om han inte skrattade lika mycket.</figcaption>
+</figure>
+
+<br><figure>
 	<img src="../../../../img/Kring+Pyrtet-_MG_3790.jpg"><br>
 	<figcaption>Tage ville alltid leka med gräsklipparen,<br>så till slut körde farfar fram den och parkerade den<br>vid altanen så att den fanns lätt tillgänglig för lek.<br>Oftast fick vi noggranna instruktioner om hur och var<br>vi skulle sitta när vi lekte med honom.</figcaption>

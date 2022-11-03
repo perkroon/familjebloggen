@@ -21,7 +21,10 @@ originalUrl: https://nejtupp.blogspot.com/2010/06/valkommen-ake.html
 
 <figure>
 	<img src="../../../../img/%C3%85kes+namngivning-_MG_0501.jpg">
-	<figcaption>Så här såg det ut på gården uppe från vårt köksfönster.<br><br><br><br></span></span></div><img src="../../../../img/Jenny+Kroons+foton-DSC_0118.jpg"><br><br><img src="../../../../img/%C3%85kes+namngivning-_MG_0519.jpg"><br><br><img src="../../../../img/%C3%85kes+namngivning-_MG_0521.jpg"><br>
+	<figcaption>Så här såg det ut på gården uppe från vårt köksfönster.<br></figcaption>
+</figure>
+
+</div><img src="../../../../img/Jenny+Kroons+foton-DSC_0118.jpg"><br><br><img src="../../../../img/%C3%85kes+namngivning-_MG_0519.jpg"><br><br><img src="../../../../img/%C3%85kes+namngivning-_MG_0521.jpg"><br>
 
 <figure>
 	<img src="../../../../img/Jenny+Kroons+foton-DSC_0116.jpg">

@@ -13,7 +13,10 @@ originalUrl: https://nejtupp.blogspot.com/2011/06/oland.html
 
 <figure>
 	<img src="../../../../img/Majsemester-_MG_9358.jpg">
-	<figcaption>Åke var väldigt sugen på att bada men vi tyckte att det var lite för kallt.<br>När Åkes keps plötsligt for iväg med vinden och hamnade långt ut i vattnet<br>fick dock pappan sig ett snabbt uppfriskande bad.<br><br><br></span></span></div><img src="../../../../img/Majsemester-_MG_9525.jpg"><br>En dag när vi var ute och gick så hade vi en sådan tur. Plötsligt kom det en traktor med ett stort släp fullt med kvigor som skulle ut på betessläpp i hagen alldeles nära vår tomt. Vi fick alltså se det hela från första parkett. Det var verkligen kul. Men det allra bästa var ändå fåren och de små nyfikna lammen i hagen bredvid vår stuga. Vi gick in i hagen och klappade de ulliga små mjuka lammen. Åke  älskade det och han var inte det minsta rädd. Han förstod att de ville ha mat och plockade lite blad och strån och matade dem.<br><br><br><img src="../../../../img/Majsemester-_MG_9503.jpg"><br><img src="../../../../img/Majsemester-_MG_9536.jpg">
+	<figcaption>Åke var väldigt sugen på att bada men vi tyckte att det var lite för kallt.<br>När Åkes keps plötsligt for iväg med vinden och hamnade långt ut i vattnet<br>fick dock pappan sig ett snabbt uppfriskande bad.</figcaption>
+</figure>
+
+</div><img src="../../../../img/Majsemester-_MG_9525.jpg"><br>En dag när vi var ute och gick så hade vi en sådan tur. Plötsligt kom det en traktor med ett stort släp fullt med kvigor som skulle ut på betessläpp i hagen alldeles nära vår tomt. Vi fick alltså se det hela från första parkett. Det var verkligen kul. Men det allra bästa var ändå fåren och de små nyfikna lammen i hagen bredvid vår stuga. Vi gick in i hagen och klappade de ulliga små mjuka lammen. Åke  älskade det och han var inte det minsta rädd. Han förstod att de ville ha mat och plockade lite blad och strån och matade dem.<br><br><br><img src="../../../../img/Majsemester-_MG_9503.jpg"><br><img src="../../../../img/Majsemester-_MG_9536.jpg">
 	<figcaption>Tage tyckte förstås också att det var skoj.<br><br></span></span></div>
 
 <figure>

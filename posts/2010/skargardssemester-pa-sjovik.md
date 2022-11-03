@@ -20,13 +20,19 @@ Vi är lyckligt lottade som har goda vänner med ett fint lantställe i Skärgå
 	<figcaption>Underbara Sjövik! Vilket läge precis vid vattnet,<br>med både sandstrand och brygga.</span><br><br><br><img src="../../../../img/Sj%C3%B6vik-_MG_1635.jpg"><br>
 	<figcaption>Sandstranden är som en gigantisk sandlåda.<br>Vattnet brydde sig Tage inte så värst mycket om.</span></span><br><br><br></div><figure>
 	<img src="../../../../img/Sj%C3%B6vik-_MG_1828.jpg"><br>
-	<figcaption>Men för all del, att doppa fötterna i vattnet var kul.</span></span><br><br><div style="text-align: left;">Ett spännande utflyktsmål lockade Nils med redan på andra dagen, och vi började traska. Tage ville gå större delen av vägen på egen hand och han var rätt målmedveten och pekade ut vart vi skulle gå. Skogen blev en djungel, men det fanns smultron längs vägkanten, precis som på en vanlig skärgårdsö. Slutligen kom vi fram till målet för vår utflykt: en hage med kor! Det blev ytterligare en utflykt till kossorna någon dag senare.<br><br></div></div><figure>
+	<figcaption>Men för all del, att doppa fötterna i vattnet var kul.</figcaption>
+</figure>
+
+Ett spännande utflyktsmål lockade Nils med redan på andra dagen, och vi började traska. Tage ville gå större delen av vägen på egen hand och han var rätt målmedveten och pekade ut vart vi skulle gå. Skogen blev en djungel, men det fanns smultron längs vägkanten, precis som på en vanlig skärgårdsö. Slutligen kom vi fram till målet för vår utflykt: en hage med kor! Det blev ytterligare en utflykt till kossorna någon dag senare.<br><br></div></div><figure>
 	<img src="../../../../img/Sj%C3%B6vik-_MG_1610.jpg"><br>
 	<figcaption>– Där är djungeln, mamma!</figcaption>
 
 <figure>
 	<img src="../../../../img/Sj%C3%B6vik-_MG_1618.jpg"><br>
-	<figcaption>Där är alltså korna äntligen...</span></span><br><br><div style="text-align: left;">Det här var egentligen första gången som Nils och Tage fick tid att leka lite längre stunder tillsammans. Det gick riktigt bra, även om det hände att de råkade i luven på varandra om någon leksak ibland. Men pianot var stort nog att dela på.<br><br></div><img src="../../../../img/Sj%C3%B6vik-_MG_1768.jpg"><br>
+	<figcaption>Där är alltså korna äntligen...</figcaption>
+</figure>
+
+Det här var egentligen första gången som Nils och Tage fick tid att leka lite längre stunder tillsammans. Det gick riktigt bra, även om det hände att de råkade i luven på varandra om någon leksak ibland. Men pianot var stort nog att dela på.<br><br></div><img src="../../../../img/Sj%C3%B6vik-_MG_1768.jpg"><br>
 	<figcaption>Två musikintresserade unga herrar.</figcaption>
 </figure>En lekplats som Tage gjorde till sin alldeles egna var bastun nere på bryggan. "Litet hus" kallade han den och ville hela tiden ta med oss ner dit. Där skulle vi sitta på bänkarna och spela saxofon och klarinett med de stora träslevarna som fanns där. Att klättra omkring på bänkarna och titta ut genom fönstret var också kul. Även Mamman och Pappan uppskattade att vara i det lilla huset eftersom det var riktigt svalt där. Fönsterna var borttagna så det fläktade skönt och det var en skön skugga där inne.
 
@@ -45,13 +51,22 @@ Vi är lyckligt lottade som har goda vänner med ett fint lantställe i Skärgå
 
 <figure>
 	<img src="../../../../img/Sj%C3%B6vik-_MG_1719.jpg"><br>
-	<figcaption>Nils snart återbördad till hemmet igen.</span></span><br><br></div><br><figure>
+	<figcaption>Nils snart återbördad till hemmet igen.</figcaption>
+</figure>
+
+<br><figure>
 	<img src="../../../../img/Sj%C3%B6vik-_MG_1722.jpg"><br>
-	<figcaption>Tage i egna tankar.</span></span><br><br><div style="text-align: left;">Något som Nils också gillade var att köra barnvagn. Han kunde när som helst hugga tag i barnvagnen och föra den framåt. Styrningen var det sämre ställt med, så han kunde hamna bland tallarna i en uppförsbacke eller nerför trappan från verandan. Det var nära ögat några gånger, men det slutade alltid lyckligt. Tage tittade mest förundrat på.<br><br></div></div><figure>
+	<figcaption>Tage i egna tankar.</figcaption>
+</figure>
+
+Något som Nils också gillade var att köra barnvagn. Han kunde när som helst hugga tag i barnvagnen och föra den framåt. Styrningen var det sämre ställt med, så han kunde hamna bland tallarna i en uppförsbacke eller nerför trappan från verandan. Det var nära ögat några gånger, men det slutade alltid lyckligt. Tage tittade mest förundrat på.<br><br></div></div><figure>
 	<img src="../../../../img/Sj%C3%B6vik-_MG_1723.jpg"><br>
 	<figcaption>Vi tar en liten sväng med vagnen, bara. Du kan väl gå och<br>lägga dig Pappa, om du nu tjatar så mycket om det?<br><br></figcaption><figure>
 	<img src="../../../../img/Sj%C3%B6vik-_MG_1652.jpg"><br>
-	<figcaption>På kvällen var det skönt med ett dopp, tyckte Nils.</span></span><br><br></div><br><figure>
+	<figcaption>På kvällen var det skönt med ett dopp, tyckte Nils.</figcaption>
+</figure>
+
+<br><figure>
 	<img src="../../../../img/Sj%C3%B6vik-_MG_1884.jpg"><br>
 	<figcaption>Tage var fascinerad av skummet på fingrarna.</figcaption>
 

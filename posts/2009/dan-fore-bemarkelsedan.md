@@ -8,7 +8,7 @@ originalUrl: https://nejtupp.blogspot.com/2009/03/dan-fore-bemarkelsedan.html
 ---
 
 <figure>
-	<img src="../../../img/2009/03//_MG_1321_1024pix.jpg">
+	<img src="../../../img/2009/03/_MG_1321_1024pix.jpg">
 	<figcaption>Tage provåker sin nya resevagn.</figcaption>
 </figure>	
 

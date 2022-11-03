@@ -21,7 +21,10 @@ Det var hög tid för oss att besöka Göteborg och äntligen se hur faster Jenn
 	<figcaption>– Jätteroligt!</figcaption>
 </figure><figure>
 	<img src="../../../../img/jpg-IMG_0179.jpg"><br>
-	<figcaption>Framme i Göteborg. Det här ska bli kul!</span></span><br><br></div><br>På kvällen höll vi oss i närområdet och åt på en liten italiensk restaurang. Åke fick gröt, Tage och Pappan åt pizza och Mamman åt pasta. Det var nog första gången som vi gick på restaurang med Åke sedan vi hade en mindre lyckad kväll i Växjö, när Åke var missnöjd med allt och absolut inte ville sova eller vara tyst. Den här gången gick det jättebra!
+	<figcaption>Framme i Göteborg. Det här ska bli kul!</figcaption>
+</figure>
+
+<br>På kvällen höll vi oss i närområdet och åt på en liten italiensk restaurang. Åke fick gröt, Tage och Pappan åt pizza och Mamman åt pasta. Det var nog första gången som vi gick på restaurang med Åke sedan vi hade en mindre lyckad kväll i Växjö, när Åke var missnöjd med allt och absolut inte ville sova eller vara tyst. Den här gången gick det jättebra!
 
 <figure>
 	<img src="../../../../img/jpg-IMG_0182.jpg"><br>
@@ -48,7 +51,10 @@ Det var hög tid för oss att besöka Göteborg och äntligen se hur faster Jenn
 
 <figure>
 	<img src="../../../../img/jpg-IMG_0251.jpg"><br>
-	<figcaption>Brasan värmde lite i kylan.</span></span><br><br></div><br><figure>
+	<figcaption>Brasan värmde lite i kylan.</figcaption>
+</figure>
+
+<br><figure>
 	<img src="../../../../img/jpg-IMG_0245.jpg"><br>
 	<figcaption>Ponnykarusellen gick runt, runt, runt...</figcaption>
 </figure>Jenny jobbade på kvällen och vi tog en spårvagn till Linnégatan och mötte morbror Jacob, Cajsa och Henrik. För andra kvällen i rad gick vi på restaurang hela familjen. Nu var det fredag och klockan var sex-sju, så det var ganska fullt, men vi lyckades hitta ett bord där vi fick plats. På vägen hem från restaurangen somnade barnen i sina vagnar och snart sov alla sött hemma på hotellrummet.
@@ -62,7 +68,10 @@ Det var hög tid för oss att besöka Göteborg och äntligen se hur faster Jenn
 
 <figure>
 	<img src="../../../../img/jpg-IMG_0290.jpg"><br>
-	<figcaption>Vi spanar in regnskogen och letar efter apor.</span></span><br><br></div><br><figure>
+	<figcaption>Vi spanar in regnskogen och letar efter apor.</figcaption>
+</figure>
+
+<br><figure>
 	<img src="../../../../img/jpg-IMG_0295.jpg"><br>
 	<figcaption>Tage hade ganska bråttom igenom alltihopa,<br>för det fanns alltid mer att se runt hörnet.</figcaption>
 </figure>
@@ -76,9 +85,15 @@ Det var hög tid för oss att besöka Göteborg och äntligen se hur faster Jenn
 <figure>
 	<img src="../../../../img/jpg-IMG_0322.jpg"><br>
 	<figcaption>Morbror Jacob och Cajsa fixar<br>och donar i lägenheten.</span></span><br><br><br><img src="../../../../img/jpg-IMG_0338.jpg"><br>
-	<figcaption>– Fint va, mamma?<br><br><br></span></span><img src="../../../../img/jpg-IMG_0342.jpg"><br>
+	<figcaption>– Fint va, mamma?</figcaption>
+</figure>
+
+<img src="../../../../img/jpg-IMG_0342.jpg"><br>
 	<figcaption>– Ta ett kort på mig, mamma!<br><br></span><br><img src="../../../../img/jpg-IMG_0337.jpg"><br>
-	<figcaption>Bror och syster.</span></span><br><br></div><br>På söndagen återstod bara en sak att göra: att ta farväl av Göteborg och åka tillbaka till Hornstull. Vi hade blivit varnade om tågproblem på sträckan, men hade rätt okej tur och blev bara 35 minuter sena. Eftersom barnen somnade så sent igår så trodde vi att vi skulle få en lugn tågresa med sovande barn, men det gällde inte Tage som höll sig vaken hela tiden. Det märktes att hans tålamod inte riktigt var som det brukade, men han höll igång till klockan halv sju på kvällen då vi började natta honom. Istället för att hålla låda i ytterligare en timme efter att nattningen börjat somnade han denna kvällen direkt efter första boken, när jag böjde mig fram för att hämta bok nummer två.
+	<figcaption>Bror och syster.</figcaption>
+</figure>
+
+<br>På söndagen återstod bara en sak att göra: att ta farväl av Göteborg och åka tillbaka till Hornstull. Vi hade blivit varnade om tågproblem på sträckan, men hade rätt okej tur och blev bara 35 minuter sena. Eftersom barnen somnade så sent igår så trodde vi att vi skulle få en lugn tågresa med sovande barn, men det gällde inte Tage som höll sig vaken hela tiden. Det märktes att hans tålamod inte riktigt var som det brukade, men han höll igång till klockan halv sju på kvällen då vi började natta honom. Istället för att hålla låda i ytterligare en timme efter att nattningen börjat somnade han denna kvällen direkt efter första boken, när jag böjde mig fram för att hämta bok nummer två.
 
 <figure>
 	<img src="../../../../img/jpg-IMG_0363.jpg"><br></div><div style="text-align: center;">

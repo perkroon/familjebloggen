@@ -23,7 +23,10 @@ Den långa härliga mammalediga hösten bara flög iväg. Hur kunde det gå så 
 
 <figure>
 	<img src="../../../../img/Hemma%2Bi%2BL%25C3%25A4genheten-_MG_4289.jpg">
-	<figcaption>Tage och jag sjunger lite vid frukostbordet en septembermorgon.<br><br><br></span></span></div>
+	<figcaption>Tage och jag sjunger lite vid frukostbordet en septembermorgon.</figcaption>
+</figure>
+
+</div>
 
 <figure>
 	<img src="../../../../img/Barnvagnstur-_MG_4729.jpg">
@@ -43,7 +46,10 @@ Den långa härliga mammalediga hösten bara flög iväg. Hur kunde det gå så 
 <figure>
 	<img src="../../../../img/Hemmakring-_MG_5029.jpg">
 	<figcaption>Åke Ål gör verkligen rätt för sitt namn. Han är<br>en riktig snabbålare.</span></span>
-	<figcaption> Här 7 månader.</span></span><br><br></div><img src="../../../../img/Hemmakring-_MG_5105.jpg">
+	<figcaption> Här 7 månader.</figcaption>
+</figure>
+
+<img src="../../../../img/Hemmakring-_MG_5105.jpg">
 	<figcaption>Det allra roligaste som Åke vet är att borsta tänderna på<br>mamman eller pappan. Här är han 7 månader.</span> </figcaption>
 </figure><br><br>På Tages förskola har det varit babyboom i år. Sex stycken blivande  kompisar har Åke fått: Jockum, Elsa, Majken, Cajsa, Judith och Pelle. En  dag bjöd jag hit dem och deras föräldralediga mammor på fika så att de  skulle få bekanta sig med varandra. Under hösten har vi också träffat  Åkes andra årskompisar: Bertil, Edgar, Tova, Linnea och Vilhelm. Men  allra mest har vi träffat tvillingarna Alva och Siri, dvs Tages kompis  Maltes tvillingsystrar som föddes i september. Å, de är så fina alla nya  tvåtusentior!<br><div style="text-align: left;"><br></div><br><figure>
 	<img src="../../../../img/Tvillingbes%25C3%25B6k-_MG_5447.jpg">
@@ -56,5 +62,8 @@ Den långa härliga mammalediga hösten bara flög iväg. Hur kunde det gå så 
 
 <figure>
 	<img src="../../../../img/Hemmabilder-IMG_0029.jpg">
-	<figcaption>Tage busar i hallen och har tagit på sig mina kängor<br>och min mössa.</span><span style="font-style: italic;"> "Ska vi byta, mamma? Du får ta på<br>dig mina skor så tar jag dina!" November 2010.<br><br></span></span><div style="text-align: left;"><span style="font-size:100%;"><span>Tage är en riktig pratkvarn, han pratar i ett och är knappt tyst en sekund. Han är väldigt medveten om hur allt ska vara och noga med att allt sköts på rätt sätt. Häromveckan försökte Pelle stoppa en vanlig kniv i smörpaketet men då protesterade Tage direkt: "Nej, pappa, vi ska faktiskt ha en annan slags kniv där". När jag en dag satt och tittade trött framför mig sa han: "Mamma, vad gör du? Du ser lite ledsen ut." Han är omtänksam den lille parveln. Men också lite stöddig ibland. Häromdagen sa han till oss: "Ni är gamla. Ni är skräp."<br><br></span></span><span style="font-size:100%;"> </span></div></div><br><br><img src="../../../../img/Hemmabilder-_MG_6307.jpg">
+	<figcaption>Tage busar i hallen och har tagit på sig mina kängor<br>och min mössa.</span><span style="font-style: italic;"> "Ska vi byta, mamma? Du får ta på<br>dig mina skor så tar jag dina!" November 2010.</figcaption>
+</figure>
+
+<span>Tage är en riktig pratkvarn, han pratar i ett och är knappt tyst en sekund. Han är väldigt medveten om hur allt ska vara och noga med att allt sköts på rätt sätt. Häromveckan försökte Pelle stoppa en vanlig kniv i smörpaketet men då protesterade Tage direkt: "Nej, pappa, vi ska faktiskt ha en annan slags kniv där". När jag en dag satt och tittade trött framför mig sa han: "Mamma, vad gör du? Du ser lite ledsen ut." Han är omtänksam den lille parveln. Men också lite stöddig ibland. Häromdagen sa han till oss: "Ni är gamla. Ni är skräp."<br><br></span></span><span style="font-size:100%;"> </span></div></div><br><br><img src="../../../../img/Hemmabilder-_MG_6307.jpg">
 	<figcaption>Någon riktig krypning blev det aldrig för Åke Ål. Nu vill han<br>hellre gå. En av favoritsysselsättningarna för närvarande<br>är att riva ut böckerna i bokhyllan. Åke reste sig själv första<br>gången när han just fyllt 8 månader och 2 veckor senare<br>började han gå utmed möbler. Här är han snart 9 månader.<br><br></span> </span></div><br>Åke är inte riktigt så stor som Tage var i motsvarande ålder. Vid  8-månaderskontrollen var han knappt 72 cm, dvs precis medellängden för 8  månaders pojkar, och han vägde 9,8 kg (jmf med Tage 74 cm och 10,6 kg  vid samma ålder). Det tog lite tid för Åke att vänja sig vid att äta mat så det blev att  han helammade i nästan 7 månader. Nu äter Åke väldigt bra och vid 9-månadersdagen slutade jag helt med att amma.<br><br><br>Ja som sagt, det har varit en underbar mammaledighet. De allra första veckorna med två barn kändes tuffa när jag skulle få till det med förskolelämningen och hämtningen på egen hand, men efter ett tag när vi alla tre hade vant oss vid den situationen så gick det riktigt smidigt. Åke är (liksom Tage var) en mycket nöjd bebis som glatt hänger med och gillar att åka vagn, vilket är väldigt skönt. En vecka i november var Pelle bortrest och då blev det förstås lite körigt, men med hjälp från svärföräldrar, syster, bror och svägerska så gick även det väldigt smidigt. Jag är dock mycket tacksam och glad över att vi är två föräldrar i familjen.

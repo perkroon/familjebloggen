@@ -11,7 +11,10 @@ originalUrl: https://nejtupp.blogspot.com/2010/09/tillbakablick-pa-sommaren-unde
 
 <figure>
 	<img src="../../../../img/Kring+stugan+p%C3%A5+%C3%96land-_MG_4116.jpg">
-	<figcaption>Tage och Ida vid lekstugan.</span></span><br><br></div>
+	<figcaption>Tage och Ida vid lekstugan.</figcaption>
+</figure>
+
+
 
 <figure>
 	<img src="../../../../img/Bad+vid+Sandbybadet-_MG_4087.jpg">
@@ -20,7 +23,10 @@ originalUrl: https://nejtupp.blogspot.com/2010/09/tillbakablick-pa-sommaren-unde
 
 <figure>
 	<img src="../../../../img/Bad+p%C3%A5+B%C3%B6da+Sand-_MG_4137.jpg">
-	<figcaption>Tage och Ida bygger sandslott på Böda Sand.<br><br><br><br></span></span></div><br><figure>
+	<figcaption>Tage och Ida bygger sandslott på Böda Sand.<br></figcaption>
+</figure>
+
+</div><br><figure>
 	<img src="../../../../img/Vid+raukarna+i+Byrum-_MG_4029.jpg">
 	<figcaption>Byrums raukar</figcaption>
 </figure><br>

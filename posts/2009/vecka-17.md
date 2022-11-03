@@ -14,7 +14,7 @@ originalUrl: https://nejtupp.blogspot.com/2009/09/vecka-17.html
 	<figcaption>Smarrig äppelkaka med marsipan i.</figcaption>
 </figure>
 
-</div><br><figure>
+<figure>
 	<img src="../../../img/2009/09/_MG_8586_1024pix.jpg">
 	<figcaption>Tage och Caroline gosar. Tage fick en fin liten leksaksödla av snälla Caroline.</figcaption>
 </figure>
@@ -24,4 +24,6 @@ originalUrl: https://nejtupp.blogspot.com/2009/09/vecka-17.html
 	<figcaption>Skepp o hoj! I trädgården låg en kul båt nedgrävd i gräset.</figcaption>
 </figure>
 
-</div><br><img src="../../../img/2009/09/_MG_8602_1024pix.jpg">
+<figure>
+	<img src="../../../img/2009/09/_MG_8602_1024pix.jpg">
+</figure>

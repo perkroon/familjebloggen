@@ -12,7 +12,10 @@ originalUrl: https://nejtupp.blogspot.com/2010/03/akes-entre-och-mammans-bearbet
 
 <figure>
 	<img src="../../../../img/S%C3%B6dra+BB-_MG_0163.jpg">
-	<figcaption>Barnmorskan pysslar om lille Åke.</span> </span></div>
+	<figcaption>Barnmorskan pysslar om lille Åke.</figcaption>
+</figure>
+
+
 
 <figure>
 	<img src="../../../../img/S%C3%B6dra+BB-_MG_0186.jpg">
@@ -20,17 +23,29 @@ originalUrl: https://nejtupp.blogspot.com/2010/03/akes-entre-och-mammans-bearbet
 
 <figure>
 	<img src="../../../../img/S%C3%B6dra+BB-_MG_0168.jpg">
-	<figcaption>Lill-Åke har bytt huvudbonad från Pappas stora keps till en av<br>landstingets bebiskalsonger.<br><br></span></span></div><br><figure>
+	<figcaption>Lill-Åke har bytt huvudbonad från Pappas stora keps till en av<br>landstingets bebiskalsonger.</figcaption>
+</figure>
+
+<figure>
 	<img src="../../../../img/S%C3%B6dra+BB-_MG_0174.jpg">
-	<figcaption>Friden har lagt sig.</span> </span></div><br>När personalen hade lämnat oss ringde vi Sofia för att höra att det var OK med henne. Hon var förstås också fortfarande klarvaken och uppe i varv. Hon mådde bra och Tage hade inte vaknat mer. Sofia berättade att hon i tumultet i väntan på ambulansen också ringt min mamma och pappa och sagt att jag fött en bebis i hallen så jag ringde upp dem också. De var också klarvakna och kunde inte sova och det kändes skönt att prata med dem också. Vi var ju fortfarande ganska mycket i chocktillstånd Pelle och jag. Pelle ringde även sina föräldrar som är på Nya Zeeland och berättade om den stora händelsen. Sedan somnade han och även lille Åke. Själv låg jag vaken nästan hela natten för jag var så uppe i varv och tankarna bara flög runt i huvudet. Men jag kände en oerhörd lycka. På morgonen låg vi bara och skrattade åt det galna händelseförloppet.<br>
+	<figcaption>Friden har lagt sig.</figcaption>
+</figure>
+
+<br>När personalen hade lämnat oss ringde vi Sofia för att höra att det var OK med henne. Hon var förstås också fortfarande klarvaken och uppe i varv. Hon mådde bra och Tage hade inte vaknat mer. Sofia berättade att hon i tumultet i väntan på ambulansen också ringt min mamma och pappa och sagt att jag fött en bebis i hallen så jag ringde upp dem också. De var också klarvakna och kunde inte sova och det kändes skönt att prata med dem också. Vi var ju fortfarande ganska mycket i chocktillstånd Pelle och jag. Pelle ringde även sina föräldrar som är på Nya Zeeland och berättade om den stora händelsen. Sedan somnade han och även lille Åke. Själv låg jag vaken nästan hela natten för jag var så uppe i varv och tankarna bara flög runt i huvudet. Men jag kände en oerhörd lycka. På morgonen låg vi bara och skrattade åt det galna händelseförloppet.<br>
 
 <figure>
 	<img src="../../../../img/S%C3%B6dra+BB-_MG_0193.jpg">
-	<figcaption>Äntligen är det morgon så att vi kunde ringa Sofia igen!<br>Tage mådde bra enligt Sofia och satt glad och sjungande och<br>åt sin frukost och verkade inte minnas något av nattens händelser.</span> </span></div><br>Dagarna efter har vi känt ett starkt behov av att gå igenom hela händelseförloppet om och om igen för att kunna smälta det. Härom kvällen träffade vi Sofia igen och gick igenom händelserna igen och det kändes väldigt bra. Vi insåg att vi hade olika starka minnen av olika saker och kunde tillsammans fylla i hela händelseförloppet. Tidpunkterna för de olika händelserna och framför allt själva födseln fick vi fram genom att kolla på telefonen när vi hade ringt de olika samtalen. Själv har jag en total minneslucka från det att jag kände att huvudet var ute tills jag kastade mig fram mot Pelles telefon för att prata med 112-telefonisten. Själva födseln kan jag alltså inte minnas. Det var nog helt enkelt FÖR chockartat.<br>
+	<figcaption>Äntligen är det morgon så att vi kunde ringa Sofia igen!<br>Tage mådde bra enligt Sofia och satt glad och sjungande och<br>åt sin frukost och verkade inte minnas något av nattens händelser.</figcaption>
+</figure>
+
+<br>Dagarna efter har vi känt ett starkt behov av att gå igenom hela händelseförloppet om och om igen för att kunna smälta det. Härom kvällen träffade vi Sofia igen och gick igenom händelserna igen och det kändes väldigt bra. Vi insåg att vi hade olika starka minnen av olika saker och kunde tillsammans fylla i hela händelseförloppet. Tidpunkterna för de olika händelserna och framför allt själva födseln fick vi fram genom att kolla på telefonen när vi hade ringt de olika samtalen. Själv har jag en total minneslucka från det att jag kände att huvudet var ute tills jag kastade mig fram mot Pelles telefon för att prata med 112-telefonisten. Själva födseln kan jag alltså inte minnas. Det var nog helt enkelt FÖR chockartat.<br>
 
 <figure>
 	<img src="../../../../img/S%C3%B6dra+BB-_MG_0199.jpg">
-	<figcaption>Så fin var han, vår lille Åke.</span> </span></div>
+	<figcaption>Så fin var han, vår lille Åke.</figcaption>
+</figure>
+
+
 
 <div class="comments">
 	<div class="comments-header"><h2>2 Comments</h2></div>

@@ -16,11 +16,17 @@ originalUrl: https://nejtupp.blogspot.com/2010/06/sjatte-juni-picnic-pa-langholm
 
 <figure>
 	<img src="../../../../img/Picnic+p%C3%A5+L%C3%A5ngholmen-_MG_0599.jpg">
-	<figcaption>Morfar kollar in Åke som tar sig en lur.<br><br></span></span></div><br>
+	<figcaption>Morfar kollar in Åke som tar sig en lur.</figcaption>
+</figure>
+
+
 
 <figure>
 	<img src="../../../../img/Picnic+p%C3%A5+L%C3%A5ngholmen-_MG_0615.jpg">
-	<figcaption>Efter att ha legat ner kan det behövas hjälp för att komma upp.<br><br></span></span></div><br>
+	<figcaption>Efter att ha legat ner kan det behövas hjälp för att komma upp.</figcaption>
+</figure>
+
+
 
 <figure>
 	<img src="../../../../img/Picnic+p%C3%A5+L%C3%A5ngholmen-_MG_0634.jpg">

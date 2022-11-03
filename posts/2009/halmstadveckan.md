@@ -19,15 +19,17 @@ I juli hade vi tre veckor ledigt tillsammans. Första veckan tog vi tåget ned t
 	<figcaption>Tage busar med Claes i Sofias nya hus.</figcaption>
 </figure>
 
-</div><br>Vi bodde i Ebbelill. På morgonen sprang Tage ut i gräset iklädd pyjamas. Ofta fick han syn på en intressant filur som han följde efter:
+Vi bodde i Ebbelill. På morgonen sprang Tage ut i gräset iklädd pyjamas. Ofta fick han syn på en intressant filur som han följde efter:
 
 <figure>
 	<img src="../../../img/2009/07/_MG_6665_1024pix.jpg">
 	<figcaption>Vem gömmer sig bakom busken?</figcaption>
+</figure>
 
 <figure>
 	<img src="../../../img/2009/07/_MG_6666_1024pix.jpg">
 	<figcaption>Å, det var ju Dustin som bor längre bort på gatan.</figcaption>
+</figure>
 
 <figure>
 	<img src="../../../img/2009/07/_MG_6667_1024pix.jpg">

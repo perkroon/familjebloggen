@@ -34,7 +34,10 @@ Mamman har rest på semester till Jordanien. Vi funderade på att resa alla tre,
 
 <br><figure>
 	<img src="../../../img/2009/11/_MG_9027_1024pix.jpg">
-	<figcaption>– Aj, aj!<br><br></span> </span></div><br><figure>
+	<figcaption>– Aj, aj!<br><br></figcaption>
+</figure>
+
+<br><figure>
 	<img src="../../../img/2009/11/_MG_9007_1024pix.jpg">
 	<figcaption>Faster Jenny hade hår som var roligt att busa med.</span></span><br>
 

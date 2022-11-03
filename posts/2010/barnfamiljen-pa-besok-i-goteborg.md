@@ -28,7 +28,11 @@ Det var hög tid för oss att besöka Göteborg och äntligen se hur faster Jenn
 
 <figure>
 	<img src="../../../../img/jpg-IMG_0182.jpg"><br>
-	<figcaption>Åke äter kex på restaurang.</span></span><br><br><br><img src="../../../../img/jpg-IMG_0189.jpg"><br>
+	<figcaption>Åke äter kex på restaurang.</figcaption>
+</figure>
+
+<figure>
+<img src="../../../../img/jpg-IMG_0189.jpg"><br>
 	<figcaption>Tage äter pizza – utan bestick.</span></span>
 
 <figure>
@@ -45,7 +49,11 @@ Det var hög tid för oss att besöka Göteborg och äntligen se hur faster Jenn
 
 <figure>
 	<img src="../../../../img/jpg-IMG_0223.jpg"><br>
-	<figcaption>Tage gillade chokladmjölken. Åke sover i vagnen.</span></span><br><br><br><img src="../../../../img/jpg-IMG_0231.jpg"><br>
+	<figcaption>Tage gillade chokladmjölken. Åke sover i vagnen.</figcaption>
+</figure>
+
+<figure>
+<img src="../../../../img/jpg-IMG_0231.jpg"><br>
 	<figcaption>Bror och syster.</figcaption>
 </figure>
 
@@ -84,7 +92,11 @@ Det var hög tid för oss att besöka Göteborg och äntligen se hur faster Jenn
 
 <figure>
 	<img src="../../../../img/jpg-IMG_0322.jpg"><br>
-	<figcaption>Morbror Jacob och Cajsa fixar<br>och donar i lägenheten.</span></span><br><br><br><img src="../../../../img/jpg-IMG_0338.jpg"><br>
+	<figcaption>Morbror Jacob och Cajsa fixar<br>och donar i lägenheten.</figcaption>
+</figure>
+
+<figure>
+<img src="../../../../img/jpg-IMG_0338.jpg"><br>
 	<figcaption>– Fint va, mamma?</figcaption>
 </figure>
 

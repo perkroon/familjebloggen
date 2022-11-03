@@ -22,7 +22,10 @@ originalUrl: https://nejtupp.blogspot.com/2010/04/tvabarnsfamiljen-pa-begravning
 	<img src="../../../../img/P%C3%A5sk+i+Halmstad-_MG_1044.jpg">
 	<figcaption>-Titta mormor, ett K!</figcaption>
 </figure><img src="../../../../img/P%C3%A5sk+i+Halmstad-_MG_1022.jpg">
-	<figcaption>Det är roligt att vara hemma hos mormor och morfar.<br><br></span></span></div><br><figure>
+	<figcaption>Det är roligt att vara hemma hos mormor och morfar.</figcaption>
+</figure>
+
+<figure>
 	<img src="../../../../img/P%C3%A5sk+i+Halmstad-_MG_1013.jpg">
 	<figcaption>Tage gillade innehållet i sitt påskägg.</figcaption>
 </figure><br><br><img src="../../../../img/P%C3%A5sk+i+Halmstad-_MG_1032.jpg">

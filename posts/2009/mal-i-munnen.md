@@ -10,5 +10,11 @@ originalUrl: https://nejtupp.blogspot.com/2009/09/mal-i-munnen.html
 ---
 
 <figure>
-	<img src="../../../../img/_MG_8632_1024pix.jpg" style="cursor: move;" border="0"><span style="font-family:inherit;"><br></span></a><span style="font-size:85%;"><i>Mellanmål: fruktsallad med vaniljglass</i></figcaption>
-</figure><br>Det formligen sprutar nya ord ur Tages mun just nu: flagga, kalsong och skola är några av de senaste. Han har också blivit fantastiskt bra på att namnge vilka vi pekar på i hans fotobok: "Papopp!" säger han med eftertryck när vi pekar på Jacob, "Maamo" när vi pekar på farmor. Det är alltså inte alltid som uttalet är perfekt, men det slipar han till efter hand.<br><br>Sedan några dagar är det i det närmaste helt omöjligt att få mata honom längre. Nu ska han äta själv! Förr tolererade han att bli matad på morgonen när han åt gröt, nu pekar han bara på bordet framför sig och säger "Där!". Då ska vi ställa maten där och sluta upp med att mata honom.
+	<img src="../../../img/2009/09/_MG_8632_1024pix.jpg">
+  <figcaption>Mellanmål: fruktsallad med vaniljglass</figcaption>
+</figure>  
+
+Det formligen sprutar nya ord ur Tages mun just nu: flagga, kalsong och skola är några av de senaste. Han har också blivit fantastiskt bra på att namnge vilka vi pekar på i hans fotobok: "Papopp!" säger han med eftertryck när vi pekar på Jacob, "Maamo" när vi pekar på farmor. Det är alltså inte alltid som uttalet är perfekt, men det slipar han till efter hand.
+<br><br>
+
+Sedan några dagar är det i det närmaste helt omöjligt att få mata honom längre. Nu ska han äta själv! Förr tolererade han att bli matad på morgonen när han åt gröt, nu pekar han bara på bordet framför sig och säger "Där!". Då ska vi ställa maten där och sluta upp med att mata honom.

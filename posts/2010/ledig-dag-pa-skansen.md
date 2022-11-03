@@ -16,8 +16,14 @@ originalUrl: https://nejtupp.blogspot.com/2010/05/ledig-dag-pa-skansen.html
 <br><figure>
 	<img src="../../../../img/Skansen-_MG_9759.jpg"><br>
 	<figcaption>... och en del gick till och med fria så att man kunde springa efter dem.</span><br><br><br><img src="../../../../img/Skansen-_MG_9736.jpg"><br>
-	<figcaption>Två olika generationer Kroon, två olika generationer dryckeskärl...</span><span style="font-style: italic;"></span></span><br><br><br></div><figure>
+	<figcaption>Två olika generationer Kroon, två olika generationer dryckeskärl...</span><span style="font-style: italic;"></figcaption>
+</figure>
+
+<figure>
 	<img src="../../../../img/Skansen-_MG_9793.jpg"><br>
-	<figcaption>Farmor och farfar på Café Petissan på Skansen.</span></span><br><br><br></div><figure>
+	<figcaption>Farmor och farfar på Café Petissan på Skansen.</figcaption>
+</figure>
+
+<figure>
 	<img src="../../../../img/Skansen-_MG_9796.jpg"><br>
 	<figcaption>Pappan och mamman på samma café.</span><span style="font-style: italic;"><br>Barnen ligger och sover i barnvagnarna bakom oss.</span></span><br><br><br></div>

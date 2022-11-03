@@ -11,4 +11,7 @@ originalUrl: https://nejtupp.blogspot.com/2010/06/lycka-och-smarta.html
 
 <figure>
 	<img src="../../../../img/Hemmavid-_MG_0425.jpg">
-	<figcaption>Jag och mina underbara älsklingar</span> </span></div>
+	<figcaption>Jag och mina underbara älsklingar</figcaption>
+</figure>
+
+

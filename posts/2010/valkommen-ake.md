@@ -9,12 +9,21 @@ originalUrl: https://nejtupp.blogspot.com/2010/06/valkommen-ake.html
 
 <figure>
 	<img src="../../../../img/Jenny+Kroons+foton-DSC_0086.jpg">
-	<figcaption>Åke Holger Allan Kroon<br><br></span></span></div><br>Lördagen den 5 juni hölls Åkes första officiella fest, dvs hans  namngivnings- och välkomstfest. Vi var 36 personer som samlades kl.  14.00 på vår gård här vid huset: mormor och morfar, farmor och farfar,  faster, alla mostrar, en morbror, alla kusiner utom en, vänner till  föräldrarna och några släktingar till.<br><br>
+	<figcaption>Åke Holger Allan Kroon</figcaption>
+</figure>
+
+Lördagen den 5 juni hölls Åkes första officiella fest, dvs hans  namngivnings- och välkomstfest. Vi var 36 personer som samlades kl.  14.00 på vår gård här vid huset: mormor och morfar, farmor och farfar,  faster, alla mostrar, en morbror, alla kusiner utom en, vänner till  föräldrarna och några släktingar till.<br><br>
 
 <figure>
 	<img src="../../../../img/Jenny+Kroons+foton-DSC_0098.jpg">
-	<figcaption>Eftersom moster Sofia var med när Åke föddes så kändes det<br>naturligt att fråga henne om hon ville vara Åkes fadder, och det ville hon.<br><br></span> </span></div><img src="../../../../img/Jenny+Kroons+foton-DSC_0102.jpg">
-	<figcaption>"Men Jösse Bagare han sa: - Nu sover hedersgästen. Och då förstod ju var<br>och en att det var slut på festen. - Det har vart en härlig dag! Tusen tack ska<br>Åke ha. Hipp hurra för Åkegull som är så snäll och rar"</span> </span></div><br>
+	<figcaption>Eftersom moster Sofia var med när Åke föddes så kändes det<br>naturligt att fråga henne om hon ville vara Åkes fadder, och det ville hon.<br><br></figcaption>
+</figure>
+
+<img src="../../../../img/Jenny+Kroons+foton-DSC_0102.jpg">
+	<figcaption>"Men Jösse Bagare han sa: - Nu sover hedersgästen. Och då förstod ju var<br>och en att det var slut på festen. - Det har vart en härlig dag! Tusen tack ska<br>Åke ha. Hipp hurra för Åkegull som är så snäll och rar"</figcaption>
+</figure>
+
+<br>
 
 <figure>
 	<img src="../../../../img/Jenny+Kroons+foton-DSC_0080.jpg"><span style="font-size:85%;">Åkes mormor</span><br><br></div>
@@ -28,11 +37,17 @@ originalUrl: https://nejtupp.blogspot.com/2010/06/valkommen-ake.html
 
 <figure>
 	<img src="../../../../img/Jenny+Kroons+foton-DSC_0116.jpg">
-	<figcaption>Åke med farmor<br><br></span> </span></div>
+	<figcaption>Åke med farmor<br><br></figcaption>
+</figure>
+
+
 
 <figure>
 	<img src="../../../../img/%C3%85kes+namngivning-_MG_0526.jpg">
-	<figcaption>Vädret var soligt men eftersom  vår gård skuggas av vårt hus blev det lite<br>kyligt framåt kvällen så då  fortsatte vi festen inne i vårt soliga vardagsrum istället.</span> </span></div>
+	<figcaption>Vädret var soligt men eftersom  vår gård skuggas av vårt hus blev det lite<br>kyligt framåt kvällen så då  fortsatte vi festen inne i vårt soliga vardagsrum istället.</figcaption>
+</figure>
+
+
 
 <figure>
 	<img src="../../../../img/%C3%85kes+namngivning-_MG_0540.jpg">

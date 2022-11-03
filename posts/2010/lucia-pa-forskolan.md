@@ -16,6 +16,9 @@ originalUrl: https://nejtupp.blogspot.com/2010/12/lucia-pa-forskolan.html
 	<figcaption>De äldre barnen i gruppen Piraterna</span>...<br><br></div><br><figure>
 	<img src="../../../../img/Luciafirande-_MG_6446.jpg"><br>
 	<figcaption>... och de yngre och något mindre organiserade i gruppen Rövarna.</span><br><br><br><img src="../../../../img/Luciafirande-_MG_6437.jpg"><br>
-	<figcaption>Föräldrar, släktingar och vänner bevakade<br>evenemanget som vore det en presskonferens.</span></span><br><br><br></div><figure>
+	<figcaption>Föräldrar, släktingar och vänner bevakade<br>evenemanget som vore det en presskonferens.</figcaption>
+</figure>
+
+<figure>
 	<img src="../../../../img/Luciafirande-_MG_6466.jpg"><br>
 	<figcaption>Tage tillsammans med tre av de äldsta barnen i gruppen Rövarna.</figcaption>

@@ -11,7 +11,10 @@ originalUrl: https://nejtupp.blogspot.com/2011/04/skansen.html
 
 <figure>
 	<img src="../../../../img/Skansen%2Boch%2Bsen%2Bhem-_MG_8444.jpg">
-	<figcaption>Tage fick sitta på morbror Filips axlar så att han kunde se när aporna fick mat.<br><br></span></span></div><br>
+	<figcaption>Tage fick sitta på morbror Filips axlar så att han kunde se när aporna fick mat.</figcaption>
+</figure>
+
+
 
 <figure>
 	<img src="../../../../img/Skansen%2Boch%2Bsen%2Bhem-_MG_8343.jpg">

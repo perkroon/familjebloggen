@@ -11,17 +11,32 @@ originalUrl: https://nejtupp.blogspot.com/2010/09/tillbakablick-pa-sommaren-daga
 
 <figure>
 	<img src="../../../../img/Kring+Ebbehill-_MG_3243.jpg">
-	<figcaption>Åke tar sig en lur bland grässtråna</span> </span></div><br>
+	<figcaption>Åke tar sig en lur bland grässtråna</figcaption>
+</figure>
+
+<br>
 
 <figure>
 	<img src="../../../../img/Kring+Ebbehill-_MG_3215.jpg">
-	<figcaption>Tage och idolen Tore plockar blommor på kvällskvisten</span> </span></div><br>
+	<figcaption>Tage och idolen Tore plockar blommor på kvällskvisten</figcaption>
+</figure>
+
+<br>
 
 <figure>
 	<img src="../../../../img/Kring+Ebbehill-_MG_3247.jpg">
-	<figcaption>Tage har fått ärva kusin Idas rosaglittriga gummistövlar<br>och han älskar dem. De passade även i någons sandaler.</span> </span></div><br><img src="../../../../img/Kring+Ebbehill-_MG_2823.jpg">
-	<figcaption>Tage och Pelle äter ostkaka</span> </span></div><br>
+	<figcaption>Tage har fått ärva kusin Idas rosaglittriga gummistövlar<br>och han älskar dem. De passade även i någons sandaler.</figcaption>
+</figure>
+
+<br><img src="../../../../img/Kring+Ebbehill-_MG_2823.jpg">
+	<figcaption>Tage och Pelle äter ostkaka</figcaption>
+</figure>
+
+<br>
 
 <figure>
 	<img src="../../../../img/Kring+Ebbehill-_MG_3327.jpg">
-	<figcaption>Ibland är man ledsen och ibland regnar det</span> </span></div>
+	<figcaption>Ibland är man ledsen och ibland regnar det</figcaption>
+</figure>
+
+

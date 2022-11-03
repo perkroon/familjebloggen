@@ -18,7 +18,10 @@ Vi är lyckligt lottade som har goda vänner med ett fint lantställe i Skärgå
 <figure>
 	<img src="../../../../img/Sj%C3%B6vik-_MG_1839.jpg"><br></a>
 	<figcaption>Underbara Sjövik! Vilket läge precis vid vattnet,<br>med både sandstrand och brygga.</span><br><br><br><img src="../../../../img/Sj%C3%B6vik-_MG_1635.jpg"><br>
-	<figcaption>Sandstranden är som en gigantisk sandlåda.<br>Vattnet brydde sig Tage inte så värst mycket om.</span></span><br><br><br></div><figure>
+	<figcaption>Sandstranden är som en gigantisk sandlåda.<br>Vattnet brydde sig Tage inte så värst mycket om.</figcaption>
+</figure>
+
+<figure>
 	<img src="../../../../img/Sj%C3%B6vik-_MG_1828.jpg"><br>
 	<figcaption>Men för all del, att doppa fötterna i vattnet var kul.</figcaption>
 </figure>

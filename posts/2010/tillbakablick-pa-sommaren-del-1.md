@@ -24,5 +24,8 @@ originalUrl: https://nejtupp.blogspot.com/2010/09/tillbakablick-pa-sommaren-del-
 
 <figure>
 	<img src="../../../../img/Hos+Josefin-_MG_2927.jpg">
-	<figcaption>Åke visar moster Sofia sitt nya tungtrick</span> </span></div><img src="../../../../img/Hos+Josefin-_MG_2939.jpg">
+	<figcaption>Åke visar moster Sofia sitt nya tungtrick</figcaption>
+</figure>
+
+<img src="../../../../img/Hos+Josefin-_MG_2939.jpg">
 	<figcaption>Morbror Jacob har schysst stil på studsmattan<br>och Tage får slutligen in snitsen på sin break dance </span></span></div><br><br><img src="../../../../img/Hos+Josefin-_MG_3054.jpg"><br><img src="../../../../img/Hos+Josefin-_MG_3055.jpg"><br><img src="../../../../img/Hos+Josefin-_MG_3057.jpg">

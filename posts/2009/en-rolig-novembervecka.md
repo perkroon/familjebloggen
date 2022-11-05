@@ -11,17 +11,21 @@ Det har varit en händelserik vecka med bemärkelsedagar och besök. Vi har fira
 
 <figure>
 	<img src="../../../img/2009/11/_MG_8941_1024pix.jpg">
-	<figcaption>Tage tycker mycket om huvudbonader.<br>Här har han hittat en liten låda som han tyckte passade bra som mössa.<br></figcaption>
+	<figcaption>Tage tycker mycket om huvudbonader. Här har han hittat en liten låda som han tyckte passade bra som mössa.</figcaption>
 </figure>
 
-</div><img src="../../../img/2009/11/_MG_8925_1024pix.jpg"><br>I måndags kväll kom mormor och morfar från Halmstad och hälsade på. Tyvärr kunde de bara stanna i ett dygn den här gången men det var verkligen roligt att ha dem här sovandes på vårt vardagsrumsgolv och jag och Tage var ju lediga på tisdagen så vi fick umgås rätt mycket ändå. Vi var på Nationalmuseum och såg en utställning av Caspar David Friedrich. Tage uppskattade den också och satt snällt och lugnt i moster Johannas knä och tittade storögt på den 17 minuter långa filmen om konstnären innan vi började gå runt bland tavlorna. På en av tavlorna var det några får. Då var det extra roligt. Men allra roligast var det att bara vara hemma i lägenheten och leka med mormor och morfar. Morfar tyckte att småbilarna var roligast. Mormor kom på en ny lek när hon och Tage gick och drog myran och taxen efter sig varv efter varv runt vardagsrumsbordet. Den vill Tage leka varje dag nu. Och det går inte att leka själv - nu måste jag eller Pelle gå först med ett av djuren.
+<figure>
+	<img src="../../../img/2009/11/_MG_8925_1024pix.jpg">
+</figure>
+
+I måndags kväll kom mormor och morfar från Halmstad och hälsade på. Tyvärr kunde de bara stanna i ett dygn den här gången men det var verkligen roligt att ha dem här sovandes på vårt vardagsrumsgolv och jag och Tage var ju lediga på tisdagen så vi fick umgås rätt mycket ändå. Vi var på Nationalmuseum och såg en utställning av Caspar David Friedrich. Tage uppskattade den också och satt snällt och lugnt i moster Johannas knä och tittade storögt på den 17 minuter långa filmen om konstnären innan vi började gå runt bland tavlorna. På en av tavlorna var det några får. Då var det extra roligt. Men allra roligast var det att bara vara hemma i lägenheten och leka med mormor och morfar. Morfar tyckte att småbilarna var roligast. Mormor kom på en ny lek när hon och Tage gick och drog myran och taxen efter sig varv efter varv runt vardagsrumsbordet. Den vill Tage leka varje dag nu. Och det går inte att leka själv - nu måste jag eller Pelle gå först med ett av djuren.
 
 <figure>
 	<img src="../../../img/2009/11/_MG_8968_1024pix.jpg">
-	<figcaption>Tage och jag leker Tages nya favoritlek; gå på promenad i lägenheten<br> med taxen och myran. Tage har själv tagit på sig sin nya fina<br> mössa och polohalsduk som farmor har stickat och<br> han ville inte ta av dem fast det var varmt inomhus.<br></figcaption>
+	<figcaption>Tage och jag leker Tages nya favoritlek; gå på promenad i lägenheten med taxen och myran. Tage har själv tagit på sig sin nya fina mössa och polohalsduk som farmor har stickat och han ville inte ta av dem fast det var varmt inomhus.</figcaption>
 </figure>
 
-</div><figure>
+<figure>
 	<img src="../../../img/2009/11/_MG_8965_1024pix.jpg">
-	<figcaption>En annan av Tages favoritsysselsättningar -<br>att hjälpa till att plocka ur diskmaskinen. </figcaption>
+	<figcaption>En annan av Tages favoritsysselsättningar - att hjälpa till att plocka ur diskmaskinen. </figcaption>
 </figure>

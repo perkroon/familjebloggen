@@ -36,7 +36,7 @@ Det var hög tid för oss att besöka Göteborg och äntligen se hur faster Jenn
 	<figcaption>Tage äter pizza – utan bestick.</span></span>
 
 <figure>
-	<img src="../../../../img/jpg-IMG_0191.jpg"><br></div><div style="text-align: center;">
+	<img src="../../../../img/jpg-IMG_0191.jpg"><br>
 	<figcaption>Barnfamilj på restaurang? Det funkar.</figcaption></div><br>Faster Jenny visade sig bo väldigt nära hotellet vi hamnat på, så hon kom och hälsade på oss på rummet redan på torsdagkvällen och stannade tills vi började läsa Tages godnattsaga.
 
 <figure>
@@ -71,7 +71,7 @@ Det var hög tid för oss att besöka Göteborg och äntligen se hur faster Jenn
 	<img src="../../../../img/jpg-IMG_0259.jpg"><br>
 	<figcaption>Att åka spårvagn gillade Tage skarpt. Pappan håller med.<br></figcaption>
 </figure><div style="text-align: center;"><figure>
-	<img src="../../../../img/jpg-IMG_0269.jpg"><br></div><div style="text-align: center;">
+	<img src="../../../../img/jpg-IMG_0269.jpg"><br>
 	<figcaption>Åke och Tage sover gott på hotellet.</figcaption></div><br>På lördagen tog Jenny och vi Älvsnabben in till stan tillsammans och mötte Cajsa och Jacob igen och åt lunch på ett kafé. Vi kände oss sedan redo för äventyr nummer två i Göteborg: Universeum. Tage kunde bara precis hålla sig vaken i spårvagnen på väg till Universeum, men när vi väl kom in så fanns det så mycket att se och göra att det inte längre var något problem. Vi tittade på fiskar, på regnskogen, jagade skor och kollade på polisbilen. Åke gillade fiskarna väldigt mycket, och spanade in faster Jennys fina armbandsur. Allt var jätteroligt, ända tills vi skulle gå. Då ville Tage inte sluta att springa ut och in på museet, trots att vi hade lämnat ifrån oss våra biljetter och när Pappan till slut sa ifrån brast det för honom och han blev jätteledsen. Men det gick över fort när han fick sitta i Mammans knä och äta ett kex. Våra snälla värdar i Göteborg hade oändligt med tålamod för den tid det tar för oss att klä på oss och byta från en aktivitet till en annan.
 
 <figure>
@@ -108,7 +108,7 @@ Det var hög tid för oss att besöka Göteborg och äntligen se hur faster Jenn
 <br>På söndagen återstod bara en sak att göra: att ta farväl av Göteborg och åka tillbaka till Hornstull. Vi hade blivit varnade om tågproblem på sträckan, men hade rätt okej tur och blev bara 35 minuter sena. Eftersom barnen somnade så sent igår så trodde vi att vi skulle få en lugn tågresa med sovande barn, men det gällde inte Tage som höll sig vaken hela tiden. Det märktes att hans tålamod inte riktigt var som det brukade, men han höll igång till klockan halv sju på kvällen då vi började natta honom. Istället för att hålla låda i ytterligare en timme efter att nattningen börjat somnade han denna kvällen direkt efter första boken, när jag böjde mig fram för att hämta bok nummer två.
 
 <figure>
-	<img src="../../../../img/jpg-IMG_0363.jpg"><br></div><div style="text-align: center;">
+	<img src="../../../../img/jpg-IMG_0363.jpg"><br>
 	<figcaption>Fotograf ombord på tåget: Tage</figcaption>
 </figure><br><figure>
 	<img src="../../../../img/jpg-IMG_0380.jpg"><br>

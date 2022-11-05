@@ -31,19 +31,19 @@ Förra helgen – vi ligger lite efter med bloggandet – gjorde vi en utflykt t
 </figure>
 
 <br><figure>
-	<img src="../../../../img/Utflykt+till+Nyckelviken-_MG_9868.jpg"><br></div><div style="text-align: center;">
+	<img src="../../../../img/Utflykt+till+Nyckelviken-_MG_9868.jpg">
 	<figcaption>Åke tycks fått syn på fotografen.</span><br><br></div><br><figure>
 	<img src="../../../../img/Utflykt+till+Nyckelviken-_MG_9888.jpg"><br>
 	<figcaption>Det var en riktigt varm och skön dag,<br>men träden ser kala ut.</figcaption>
 </figure>Tage gillade ängen väldigt mycket. Han slängde sig genast ner och detaljstuderade blommor med oändligt tålamod. Vi hittade också grodor och vinbärssnäckor som han tyckte var spännande.
 
 <figure>
-	<img src="../../../../img/Utflykt+till+Nyckelviken-_MG_9886.jpg"><br></div><div style="text-align: center;">
+	<img src="../../../../img/Utflykt+till+Nyckelviken-_MG_9886.jpg">
 	<figcaption>En blivande botaniker, månne?</figcaption>
 </figure>
 
 <br><figure>
-	<img src="../../../../img/Utflykt+till+Nyckelviken-_MG_9902.jpg"><br></div><div style="text-align: center;">
+	<img src="../../../../img/Utflykt+till+Nyckelviken-_MG_9902.jpg">
 	<figcaption>Den lilla pricken till vänster i bilden är Tage.</figcaption>
 </figure>
 

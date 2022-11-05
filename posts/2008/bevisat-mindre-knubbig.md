@@ -10,7 +10,13 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2008/07/bevisat-mindre-knubbig.html
 ---
 
-De senaste mätvärdena från BVC visar följande:<br><br>
+De senaste mätvärdena från BVC visar följande:
+
+<br><br>
+
+
+
+
 Vikt: 8,97 kg<br>
 Längd: 68,5 cm<br>
 <br>

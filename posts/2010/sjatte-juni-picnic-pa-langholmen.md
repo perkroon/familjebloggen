@@ -7,7 +7,10 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2010/06/sjatte-juni-picnic-pa-langholmen.html
 ---
 
-<img srcY/s1600/Picnic+p%C3%A5+L%C3%A5ngholmen-_MG_0551.jpg"><img style="display: block; margin: 0px auto 10px; text-align: center; cursor: pointer; width: 400px; height: 267px;" src="../../../../img/Picnic+p%C3%A5+L%C3%A5ngholmen-_MG_0551.jpg"><br>Dagen efter Åkes namngivningsfest tog vi med all mat och tårta som blivit över och gick ned till Långholmen och hade picnic. De senaste tre åren har vi haft picnic på Långholmen just på Sveriges nationaldag så nu fortsatte vi den traditionen även om det den här gången inte blev med samma gäng. Vi ville ju förstås passa på att umgås med mormor och morfar medan de var i stan. Med följde även moster Johanna, Johan, kusinerna Ingrid och Tore och så morbror Filip och Sarah. En riktigt härlig dag var det!<br><br><br><img src="../../../../img/Picnic+p%C3%A5+L%C3%A5ngholmen-_MG_0565.jpg"><br>
+<img srcY/s1600/Picnic+p%C3%A5+L%C3%A5ngholmen-_MG_0551.jpg"><img style="display: block; margin: 0px auto 10px; text-align: center; cursor: pointer; width: 400px; height: 267px;" src="../../../../img/Picnic+p%C3%A5+L%C3%A5ngholmen-_MG_0551.jpg"><br>Dagen efter Åkes namngivningsfest tog vi med all mat och tårta som blivit över och gick ned till Långholmen och hade picnic. De senaste tre åren har vi haft picnic på Långholmen just på Sveriges nationaldag så nu fortsatte vi den traditionen även om det den här gången inte blev med samma gäng. Vi ville ju förstås passa på att umgås med mormor och morfar medan de var i stan. Med följde även moster Johanna, Johan, kusinerna Ingrid och Tore och så morbror Filip och Sarah. En riktigt härlig dag var det!
+<br><br>
+
+<br><img src="../../../../img/Picnic+p%C3%A5+L%C3%A5ngholmen-_MG_0565.jpg"><br>
 
 <figure>
 	<img src="../../../../img/Picnic+p%C3%A5+L%C3%A5ngholmen-_MG_0577.jpg">

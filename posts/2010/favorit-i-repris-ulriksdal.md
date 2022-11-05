@@ -13,7 +13,7 @@ Trogna läsare av den här bloggen kanske minns att vi brukar besöka Ulriksdal 
 
 <figure>
 <img src="../../../../img/Ulriksdal-_MG_4408.jpg"><br><br><br><br></div><figure>
-	<img src="../../../../img/Ulriksdal-_MG_4418.jpg"><br></div><div style="text-align: center;"><br><br></div><figure>
+	<img src="../../../../img/Ulriksdal-_MG_4418.jpg"><br><br></div><figure>
 	<img src="../../../../img/Ulriksdal-_MG_4452.jpg"><br>
 	<figcaption>Nu har Åke också provat "repsängen" och han verkade också förtjust.</figcaption>
 </figure>

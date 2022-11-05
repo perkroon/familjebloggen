@@ -12,4 +12,7 @@ originalUrl: https://nejtupp.blogspot.com/2010/12/tage-mimmi.html
 <figure>
 	<img src="../../../../img/Frida%2Bmed%2Bfamilj-_MG_6023.jpg">
 	<figcaption>Mimmi, Tage och Mimmis storebror har kul i sovrummet.</figcaption>
-</figure><br><br>Idag tog vi det ett steg längre och Mimmi följde med oss hem när jag hämtade Tage klockan tre. De var båda väldigt exalterade över detta och berättade om och om igen för alla i förskoletamburen att Mimmi skulle följa med Tage hem. Jag hade med mig en pulka som jag drog hem dem i och de gapskrattade oavbrutet hela vägen. Sen lekte de här hemma med allt man kan tänkas leka med och åt potatismos och sojakorv och ketchup och hade jätteroligt ända tills Mimmis mamma kom och hämtade Mimmi vid sextiden. Det var roligt och det gör vi gärna om.<br><br><img src="../../../../img/Frida%2Bbes%25C3%25B6ker-_MG_6218.jpg">
+</figure><br><br>Idag tog vi det ett steg längre och Mimmi följde med oss hem när jag hämtade Tage klockan tre. De var båda väldigt exalterade över detta och berättade om och om igen för alla i förskoletamburen att Mimmi skulle följa med Tage hem. Jag hade med mig en pulka som jag drog hem dem i och de gapskrattade oavbrutet hela vägen. Sen lekte de här hemma med allt man kan tänkas leka med och åt potatismos och sojakorv och ketchup och hade jätteroligt ända tills Mimmis mamma kom och hämtade Mimmi vid sextiden. Det var roligt och det gör vi gärna om.
+<br><br>
+
+<img src="../../../../img/Frida%2Bbes%25C3%25B6ker-_MG_6218.jpg">

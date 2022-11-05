@@ -9,7 +9,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2010/05/ledig-dag-pa-skansen.html
 ---
 
-<div style="text-align: center;"><div style="text-align: left;">På torsdagen var det Kristihimmelsfärdsdagen och ledigt från jobb och förskolor, så vi valde att  åka till Skansen med farmor och farfar och kolla in djuren och  miljöerna. Förra året när Tage var där var nog nyckelpigan i bussen hans roligaste minne. Den här gången uppskattade han djuren lite mer – fast en höna kan vara betydligt roligare än en förment exotisk apa. Tage blev trött efter lunchen och somnade i vagnen, Åke sov mest hela tiden.<br></div><br><br><img src="../../../../img/Skansen-_MG_9744.jpg"><br></div><div style="text-align: center;">
+<div style="text-align: center;"><div style="text-align: left;">På torsdagen var det Kristihimmelsfärdsdagen och ledigt från jobb och förskolor, så vi valde att  åka till Skansen med farmor och farfar och kolla in djuren och  miljöerna. Förra året när Tage var där var nog nyckelpigan i bussen hans roligaste minne. Den här gången uppskattade han djuren lite mer – fast en höna kan vara betydligt roligare än en förment exotisk apa. Tage blev trött efter lunchen och somnade i vagnen, Åke sov mest hela tiden.<br></div><br><br><img src="../../../../img/Skansen-_MG_9744.jpg">
 	<figcaption>Det fanns spännande höns...</figcaption>
 </figure>
 

@@ -15,7 +15,10 @@ originalUrl: https://nejtupp.blogspot.com/2011/04/underbara-var.html
 Det var inte bara våren som plötsligt kom utan även sommaren.</span> Tre fantastiska härliga lediga dagar har vi haft.<br>
 	<figcaption></span></span></div><div style="text-align: left;">
 	<figcaption></span></span><br>
-	<figcaption></span></span></div></div><br><br><img src="../../../../img/Pa%25CC%258Askdag%2Bpa%25CC%258A%2BDjurga%25CC%258Arden-_MG_8864.jpg"><br><br><br><br><img src="../../../../img/Pa%25CC%258Askdag%2Bpa%25CC%258A%2BDjurga%25CC%258Arden-_MG_8877.jpg"><br><br>
+	<figcaption></span></span></div></div><br><br><img src="../../../../img/Pa%25CC%258Askdag%2Bpa%25CC%258A%2BDjurga%25CC%258Arden-_MG_8864.jpg">
+<br><br>
+
+<br><br><img src="../../../../img/Pa%25CC%258Askdag%2Bpa%25CC%258A%2BDjurga%25CC%258Arden-_MG_8877.jpg"><br><br>
 
 <figure>
 	<img src="../../../../img/Pa%25CC%258Askdag%2Bpa%25CC%258A%2BDjurga%25CC%258Arden-_MG_8791.jpg">

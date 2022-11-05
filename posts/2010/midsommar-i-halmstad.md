@@ -18,7 +18,7 @@ Så blev det midsommar till slut! Vi tog tåget ner till Halmstad, utrustade med
 </figure>
 
 Vi kom ned till mormor och morfar på onsdagen och stannade till söndagen. Midsommarfirandet gick i vanlig stil, d.v.s en stor fest med många människor, dans kring midsommarstången på ängen och stora mängder med god och spännande mat, allt ackompanjerat till levande musik från glada spelemän.<br></div></div><br><figure>
-	<img src="../../../../img/Midsommarafton-_MG_1184.jpg"><br></div><div style="text-align: center;">
+	<img src="../../../../img/Midsommarafton-_MG_1184.jpg">
 	<figcaption>Tage gillade blåsinstrument och hittade en egen<br>trumpet i trädgården. Han delade med sig<br>av hemligheten till sin syssling Denize...</figcaption>
 </figure>
 

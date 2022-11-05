@@ -14,7 +14,7 @@ originalUrl: https://nejtupp.blogspot.com/2010/06/farmors-fodelsedagsmiddag.html
 Farmor fyllde år för några veckor sedan, den 29 maj, och vi blev bjudna på middag på en italiensk restaurang. Vi är inte så vana att gå med två barn på restaurang, men vi gick  dit tidigt, klockan fem, och det gick jättebra. Vi hade väldigt kul och vi vill gärna gå på restaurang fler gånger, hela familjen!
 
 <figure>
-	<img src="../../../../img/Mammas+f%C3%B6delsedagsmiddag-_MG_0383.jpg"><br></div><div style="text-align: center;">
+	<img src="../../../../img/Mammas+f%C3%B6delsedagsmiddag-_MG_0383.jpg"><br>
 	<figcaption>– Det är roligt att äta på restaurang farmor!</figcaption>
 </figure>
 

@@ -10,7 +10,10 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2010/01/julen-2009.html
 ---
 
-Trettondagen är passerad och det är hög tid att sammanfatta julen 2009. Vi hade en lång och härlig julledighet där vi hann med att träffa både mormor och morfar i Halmstad och farmor och farfar i Småland – plus en hel del andra släktingar och vänner så klart.<br><br>Vi reste tåg från Stockholm till Halmstad (via Lund på grund av en kraftig försening på 2.5 timmar) på måndagen. Bakom oss lämnade vi ett Stockholm täckt av ett tjockt snötäcke (säkert 3-4 dm) och nog tunnades snön ut lite efterhand som vi kom söderut, men även i Halmstad var det en del snö. Och det kom mer innan jul också, så vi fick en riktigt vit jul!
+Trettondagen är passerad och det är hög tid att sammanfatta julen 2009. Vi hade en lång och härlig julledighet där vi hann med att träffa både mormor och morfar i Halmstad och farmor och farfar i Småland – plus en hel del andra släktingar och vänner så klart.
+<br><br>
+
+Vi reste tåg från Stockholm till Halmstad (via Lund på grund av en kraftig försening på 2.5 timmar) på måndagen. Bakom oss lämnade vi ett Stockholm täckt av ett tjockt snötäcke (säkert 3-4 dm) och nog tunnades snön ut lite efterhand som vi kom söderut, men även i Halmstad var det en del snö. Och det kom mer innan jul också, så vi fick en riktigt vit jul!
 
 <figure>
 	<object id="BLOG_video-eafa79c796259b85" class="BLOG_video_class" contentid="eafa79c796259b85" height="266" width="320"></object><span style="font-size:85%;"><br><span style="font-style: italic;">Tage och morfar vid pianot</figcaption>
@@ -25,24 +28,30 @@ Trettondagen är passerad och det är hög tid att sammanfatta julen 2009. Vi ha
 	<figcaption>Tage har fått en julklapp och är på väg för att tacka tomten...<br></span></div>
 
 <figure>
-	<img src="../../../../img/_MG_9682_1024pix.jpg"><br></div><div style="text-align: center;">
+	<img src="../../../../img/_MG_9682_1024pix.jpg">
 	<figcaption>...</span>
 	<figcaption> med en stor kram. T</span>
 	<figcaption>ack snälla Tomten!</figcaption>
-</figure>Bland Tages julklappar fanns träjärnväg, böcker och en dockvagn: alla mycket uppskattade. Tack! Klockan hann bli riktigt mycket innan vi kom hem till spjälsängen och fick Tage i säng, så det var nog tur att han fick den där sömnstunden mitt på dagen. Nu var han pigg och glad hela kvällen!<br><br>På juldagen dansade vi runt granen hemma hos mormor och morfar. Det var många sånger och danser som var nya för Tage – men också för Pappan som inte hängde med i alla svängarna alla gånger... Nu började snön töa och fläckvis trädde gräsmattan fram på nytt.<br><br>På Annandagen tog vi farväl och reste vidare till Småland. Snödjupet ökade igen, men temperaturen låg nära noll – perfekt kramsnö med andra ord! Det passade vi på att utnyttja. Tage hjälpte dock inte till särskilt mycket, han ville helst sitta i vagnen och titta på när vi jobbade.
+</figure>Bland Tages julklappar fanns träjärnväg, böcker och en dockvagn: alla mycket uppskattade. Tack! Klockan hann bli riktigt mycket innan vi kom hem till spjälsängen och fick Tage i säng, så det var nog tur att han fick den där sömnstunden mitt på dagen. Nu var han pigg och glad hela kvällen!
+<br><br>
+
+På juldagen dansade vi runt granen hemma hos mormor och morfar. Det var många sånger och danser som var nya för Tage – men också för Pappan som inte hängde med i alla svängarna alla gånger... Nu började snön töa och fläckvis trädde gräsmattan fram på nytt.
+<br><br>
+
+På Annandagen tog vi farväl och reste vidare till Småland. Snödjupet ökade igen, men temperaturen låg nära noll – perfekt kramsnö med andra ord! Det passade vi på att utnyttja. Tage hjälpte dock inte till särskilt mycket, han ville helst sitta i vagnen och titta på när vi jobbade.
 
 <figure>
-	<img src="../../../../img/_MG_9713_1024pix.jpg"><br></div><div style="text-align: center;">
+	<img src="../../../../img/_MG_9713_1024pix.jpg">
 	<figcaption>Det var väldigt noga att snögubben hade en ordentlig näsa, enligt Tage.</figcaption>
 </figure>
 
 <br><figure>
-	<img src="../../../../img/_MG_9717_1024pix.jpg"><br></div><div style="text-align: center;">
+	<img src="../../../../img/_MG_9717_1024pix.jpg">
 	<figcaption>En snölykta utanför Pyrtet.</figcaption>
 </figure>Hos farmor och farfar vankades det fler julklappar. Tage fick bland annat en leksaksspis, mer träjärnvägar och en "talande papegoja", också uppskattade klappar. Tack!<br><br>Större delen av dagarna var vi inne i stugan, men vi gjorde också besök hos Pappans mormor och farmor och tittade på möbler i Lammhult. Tage blev väldigt förtjust i att gå upp och ned för en trappa på varuhuset och protesterade högljutt när vi skulle åka hem igen.
 
 <figure>
-	<img src="../../../../img/_MG_9795_1024pix.jpg"><br></div><div style="text-align: center;">
+	<img src="../../../../img/_MG_9795_1024pix.jpg">
 	<figcaption>Farmor och farfar lagade många läckerheter till Tage:<br></span> <span style="font-style: italic;">risgrynsgröt, blåbärspaj och tjocka pannkakor bland annat.</figcaption>
 
 <figure>

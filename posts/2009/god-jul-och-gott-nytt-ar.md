@@ -8,4 +8,5 @@ originalUrl: https://nejtupp.blogspot.com/2009/12/god-jul-och-gott-nytt-ar.html
 ---
 
 <figure>
-	<img src="../../../../img/jul-1-pola.jpg"><br></div>
+	<img src="../../../img/2009/12/jul-1-pola.jpg">
+</figure>

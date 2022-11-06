@@ -8,12 +8,12 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2010/04/romasupportrar-i-soffan.html
 ---
 
-<div style="text-align: center;"><div style="text-align: left;">För en och en halv vecka sedan bänkade jag mig i soffan för att se den viktiga fotbollsmatchen (jo, fotbollsmatcher <span style="font-style: italic;">kan</span> vara viktiga!) mellan Lazio och Roma. Mamman är ju mindre intresserad av fotboll, så därför tog jag på mig hörlurar för att kunna lyssna utan att störa. I soffan fick jag sällskap av två andra Romasupportrar: Tage och Åke. Tage börjar hänga med lite nu och frågade om någon gjorde mål. Javisst, kunde jag svara, Roma gör mål!<br><br></div><img src="../../../../img/Romasupportrar-_MG_1161.jpg"><br>
+<div style="text-align: center;"><div style="text-align: left;">För en och en halv vecka sedan bänkade jag mig i soffan för att se den viktiga fotbollsmatchen (jo, fotbollsmatcher <span style="font-style: italic;">kan</span> vara viktiga!) mellan Lazio och Roma. Mamman är ju mindre intresserad av fotboll, så därför tog jag på mig hörlurar för att kunna lyssna utan att störa. I soffan fick jag sällskap av två andra Romasupportrar: Tage och Åke. Tage börjar hänga med lite nu och frågade om någon gjorde mål. Javisst, kunde jag svara, Roma gör mål!<br><br></div><img src="../../../img/2010/04/Romasupportrar-_MG_1161.jpg"><br>
 	<figcaption>Tage ville gärna ha med bollen, Åke vilade ögonen lite.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/Romasupportrar-_MG_1175.jpg"><br>
+	<img src="../../../img/2010/04/Romasupportrar-_MG_1175.jpg"><br>
 	<figcaption>Roma ledde den italienska ligan efter derbyvinsten,<br>men nu ser det ut som om Inter kommer att vinna till slut.<br>Men än finns det hopp: vi romanisti får heja på Lazio i helgen<br>då de möter Inter.</span> <br></div>
 
 <div class="comments">

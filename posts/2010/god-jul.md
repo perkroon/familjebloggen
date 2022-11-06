@@ -9,6 +9,6 @@ originalUrl: https://nejtupp.blogspot.com/2010/12/god-jul.html
 ---
 
 <figure>
-	<img src="../../../../img/Julfoto%2B2010.jpg">
+	<img src="../../../img/2010/12/Julfoto%2B2010.jpg">
 	<figcaption>God Jul önskar barnfamiljen!</figcaption>
 </figure>

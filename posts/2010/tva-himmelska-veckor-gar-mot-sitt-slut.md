@@ -7,15 +7,15 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2010/03/tva-himmelska-veckor-gar-mot-sitt-slut.html
 ---
 
-<img src="../../../../img/Andra+veckan+hemma-_MG_0942.jpg"><br>Vi har haft två fantastiskt härliga veckor när både jag och Pelle har varit lediga tillsammans. Tage har varit på förskolan och lille Åke har oftast sett ut som på bilden ovan så vi har haft det mycket lugnt, läst massa tidningar, gått promenader, fixat i lägenheten och varit noga med att fika ordentligt både till elva- och trekaffet hemma. Och massor av tid har vi haft att gosa med lille Åke och leka med Tage. Jag önskar att den här tiden aldrig tog slut men imorgon börjar en ny vardag då Pelle börjar jobba igen. Det känns nästan lite sorgligt.<br>
+<img src="../../../img/2010/03/Andra+veckan+hemma-_MG_0942.jpg"><br>Vi har haft två fantastiskt härliga veckor när både jag och Pelle har varit lediga tillsammans. Tage har varit på förskolan och lille Åke har oftast sett ut som på bilden ovan så vi har haft det mycket lugnt, läst massa tidningar, gått promenader, fixat i lägenheten och varit noga med att fika ordentligt både till elva- och trekaffet hemma. Och massor av tid har vi haft att gosa med lille Åke och leka med Tage. Jag önskar att den här tiden aldrig tog slut men imorgon börjar en ny vardag då Pelle börjar jobba igen. Det känns nästan lite sorgligt.<br>
 
 <figure>
-	<img src="../../../../img/Andra+veckan+hemma-_MG_0782.jpg">
+	<img src="../../../img/2010/03/Andra+veckan+hemma-_MG_0782.jpg">
 	<figcaption>Tage kalasfin</figcaption>
 </figure><br>Förra veckan kom Tage hem med sitt första inbjudningskort. Han var bjuden till födelsedagskalas hemma hos en av tjejerna från den äldre förskolegruppen, Bonnie, som fyllde 5 år. Det är en otroligt gullig tjej som verkar tycka mycket om Tage för hon kommer alltid fram och kramar och pussar honom när vi hämtar och lämnar på förskolan. Tage har också fått en jättefin teckning av henne som han har på väggen i sitt rum. Både jag och Tage hade väldigt kul på kalaset. Det var tårta, bullar, lek och dans och så vin och goda ostar för de vuxna. Jag funderade lite på hur det skulle gå med godispåsen från fiskdammen. Tage har ju ännu inte smakat på godis och det vore ju skönt om det kunde gå ännu lite tid innan godiset gör entré i hans liv. Det gick hur bra som helst. Tage tittade på påsen och plockade upp den roliga guldkronehatten och en tuta och sen ställde han ifrån sig påsen, helt ointresserad av alla godisbitar som låg där i.<br>
 
 <figure>
-	<img src="../../../../img/Andra+veckan+hemma-_MG_0965.jpg">
+	<img src="../../../img/2010/03/Andra+veckan+hemma-_MG_0965.jpg">
 	<figcaption>Tage och Åke bekantar sig med varandra</span></span><br><br><br><div style="text-align: left;">I fredags var jag på förskolans utvecklingssamtal för Tage. I höstas var Pelle på det första utvecklingssamtalet så den här gången var det min tur att gå. De gick igenom motorisk, språklig och social utveckling samt lite allmänt om hur det går med maten och sömnen. Bland annat så sa de att Tage är en väldigt bra kompis på förskolan. Det var roligt att höra. Han är som sagt också fantastiskt gullig mot sin lillebror.<br></div></div>
 
 <div class="comments">

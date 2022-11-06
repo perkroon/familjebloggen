@@ -10,7 +10,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2010/10/vi-hann-med-grona-lund.html
 ---
 
-<div style="text-align: center;"><div style="text-align: left;">Söndagen den 19 september, på valdagen 2010, begav vi oss till Gröna Lund på Djurgården. Det var sista dagen de hade öppet för säsongen, och vi hade länge pratat om att vi måste hinna gå dit innan de stängde. Vi tog alltså sista chansen, och det är vi glada för. Farmor och farfar mötte oss och vi åt lunch på Blå Porten innan vi gjorde vår entré.<br></div><br><img src="../../../img/2010/10/Gr%C3%B6na+Lund-_MG_4480.jpg"><br>
+Söndagen den 19 september, på valdagen 2010, begav vi oss till Gröna Lund på Djurgården. Det var sista dagen de hade öppet för säsongen, och vi hade länge pratat om att vi måste hinna gå dit innan de stängde. Vi tog alltså sista chansen, och det är vi glada för. Farmor och farfar mötte oss och vi åt lunch på Blå Porten innan vi gjorde vår entré.<br></div><br><img src="../../../img/2010/10/Gr%C3%B6na+Lund-_MG_4480.jpg"><br>
 	<figcaption>Vi åkte Djurgårdsbåten på vägen ut.</figcaption>
 </figure>
 

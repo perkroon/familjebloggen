@@ -10,7 +10,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2011/03/grattis-ake-ett-ar.html
 ---
 
-Idag fyller Åke ett år – grattis! Jag vet att Mamman tänkt beskriva lite vad som är på gång i Åkes liv just nu, men det hinner hon inte skriva om idag, så istället gör jag en första mycket kortfattad rapport av vårt födelsedagsfirande.<br><div style="text-align: center;"><div style="text-align: left;"><br>För ovanlighetens skull var Åke sist att vakna idag. Tage, Mamman och Pappan väckte honom med sång 06.25, och det dröjde en stund innan han förstod vad som hände. Han fick blommor och presenter och snart vaknade han på riktigt.
+Idag fyller Åke ett år – grattis! Jag vet att Mamman tänkt beskriva lite vad som är på gång i Åkes liv just nu, men det hinner hon inte skriva om idag, så istället gör jag en första mycket kortfattad rapport av vårt födelsedagsfirande.<br><br>För ovanlighetens skull var Åke sist att vakna idag. Tage, Mamman och Pappan väckte honom med sång 06.25, och det dröjde en stund innan han förstod vad som hände. Han fick blommor och presenter och snart vaknade han på riktigt.
 
 <figure>
 	<img src="../../../../img/%25C3%2585kes%2Bf%25C3%25B6delsedag-_MG_8005.jpg"><br>

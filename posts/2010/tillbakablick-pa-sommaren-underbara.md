@@ -19,7 +19,9 @@ originalUrl: https://nejtupp.blogspot.com/2010/09/tillbakablick-pa-sommaren-unde
 <figure>
 	<img src="../../../img/2010/09/Bad+vid+Sandbybadet-_MG_4087.jpg">
 	<figcaption>Tage och Pappan vid Sandbybadet.</figcaption>
-</figure><br>
+</figure>
+
+
 
 <figure>
 	<img src="../../../img/2010/09/Bad+p%C3%A5+B%C3%B6da+Sand-_MG_4137.jpg">
@@ -29,33 +31,61 @@ originalUrl: https://nejtupp.blogspot.com/2010/09/tillbakablick-pa-sommaren-unde
 </div><br><figure>
 	<img src="../../../img/2010/09/Vid+raukarna+i+Byrum-_MG_4029.jpg">
 	<figcaption>Byrums raukar</figcaption>
-</figure><br>
+</figure>
+
+
 
 <figure>
-	<img src="../../../img/2010/09/Vid+raukarna+i+Byrum-_MG_3989.jpg">
+</figure>
+
+/../../img/2010/09/Vid+raukarna+i+Byrum-_MG_3989.jpg">
 	<figcaption>Tage, Pappan och Blå Jungfrun.</figcaption>
-</figure><br>
+</figure>
+
+
+</figure>
+
+</figure>
+
 
 <figure>
 	<img src="../../../img/2010/09/Vid+raukarna+i+Byrum-_MG_4051.jpg">
 	<figcaption>Pappan och Åke</figcaption>
-</figure><br><br><img src="../../../img/2010/09/Vid+raukarna+i+Byrum-_MG_4041.jpg"><br><img src="../../../img/2010/09/Vid+raukarna+i+Byrum-_MG_3999.jpg"><br><img src="../../../img/2010/09/Promenad+p%C3%A5+Sj%C3%B6markerna-_MG_3962.jpg">
+</figure>
+
+</figure>
+
+"../../../img/2010/09/Vid+raukarna+i+Byrum-_MG_4041.jpg"><br><img src="../../../img/2010/09/Vid+raukarna+i+Byrum-_MG_3999.jpg"><br><img src="../../../img/2010/09/Promenad+p%C3%A5+Sj%C3%B6markerna-_MG_3962.jpg">
 	<figcaption>Promenad på Sjömarkerna.</figcaption>
-</figure><br>
+</figure>
+
+
+</figure>
+
 
 <figure>
 	<img src="../../../img/2010/09/Promenad+p%C3%A5+Sj%C3%B6markerna-_MG_3911.jpg">
-	<figcaption>-Mamma, jag vill åka hem till Stockholm.<br>-Men Tage, hemma finns ju inga kossor att titta på.<br>-Men det finns inga barn här. Det finns bara en barn här och det är jag.<br><br></span></span></div>
+</figure>
+
+-Mamma, jag vill åka hem till Stockholm.<br>-Men Tage, hemma finns ju inga kossor att titta på.<br>-Men det finns inga barn här. Det finns bara en barn här och det är jag.<br><br></span></span></div>
+</figure>
+
 
 <figure>
 	<img src="../../../img/2010/09/Promenad+p%C3%A5+Sj%C3%B6markerna-_MG_3955.jpg">
-	<figcaption>Mamman och Tage undersöker geo cash-skatten som vi hittade i en stenhög.</figcaption>
-</figure><br>
+</figure>
+
+Mamman och Tage undersöker geo cash-skatten som vi hittade i en stenhög.</figcaption>
+</figure>
+
+
 
 <figure>
 	<img src="../../../img/2010/09/Promenad+p%C3%A5+Sj%C3%B6markerna-_MG_3941.jpg">
 	<figcaption>Gott med matsäck när man är skattletare!</figcaption>
-</figure><br>
+</figure>
+
+
 
 <figure>
 	<img src="../../../img/2010/09/Kring+stugan+p%C3%A5+%C3%96land-_MG_4061.jpg">

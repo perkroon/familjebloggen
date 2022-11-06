@@ -15,7 +15,10 @@ originalUrl: https://nejtupp.blogspot.com/2010/05/ledig-dag-pa-skansen.html
 
 <br><figure>
 	<img src="../../../img/2010/05/Skansen-_MG_9759.jpg"><br>
-	<figcaption>... och en del gick till och med fria så att man kunde springa efter dem.</span><br><br><br><img src="../../../img/2010/05/Skansen-_MG_9736.jpg"><br>
+	<figcaption>... och en del gick till och med fria så att man kunde springa efter dem.</span>
+
+<figure>
+	<img src="../../../img/2010/05/Skansen-_MG_9736.jpg"><br>
 	<figcaption>Två olika generationer Kroon, två olika generationer dryckeskärl...</span><span style="font-style: italic;"></figcaption>
 </figure>
 

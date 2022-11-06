@@ -35,11 +35,16 @@ Vi kom ned till mormor och morfar på onsdagen och stannade till söndagen. Mids
 <br><figure>
 	<img src="../../../img/2010/07/Midsommarafton-_MG_1229.jpg"><br>
 	<figcaption>Kusin Ida såg till att skålarna med jordgubbar var ordentligt tömda.</figcaption>
-</figure><br>Det vackra vädret fortsatte efter midsommarafton och vi fick några sköna lata dagar innan vi reste hem. Vi hann ta en titt på Sofias kolonistuga, hänga på verandan, leka i trädgården, se på fotbolls-VM, äta grillat hos Josefines och en hel del annat.
+</figure>
+
+Det vackra vädret fortsatte efter midsommarafton och vi fick några sköna lata dagar innan vi reste hem. Vi hann ta en titt på Sofias kolonistuga, hänga på verandan, leka i trädgården, se på fotbolls-VM, äta grillat hos Josefines och en hel del annat.
 
 <figure>
 	<img src="../../../img/2010/07/S%C3%B6ndag+i+Halmstad-_MG_1261.jpg"><br></a>
-	<figcaption>Mamman och Tage har bänkat sig för att njuta av...</span><br><br><br><img src="../../../img/2010/07/S%C3%B6ndag+i+Halmstad-_MG_1266.jpg"><br>
+	<figcaption>Mamman och Tage har bänkat sig för att njuta av...</span>
+
+<figure>
+	<img src="../../../img/2010/07/S%C3%B6ndag+i+Halmstad-_MG_1266.jpg"><br>
 	<figcaption>... kusin Axels trombonspel.</figcaption>
 </figure>
 

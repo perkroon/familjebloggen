@@ -46,7 +46,10 @@ Den långa härliga mammalediga hösten bara flög iväg. Hur kunde det gå så 
 	<figcaption>Vår lilla gooosilos!<br><br></figcaption>
 </figure>
 
-<br><br><br><img src="../../../img/2010/12/%25C3%2585ke%2Bsitter-_MG_4804.jpg"><br><br><img src="../../../img/2010/12/%25C3%2585ke%2Bsitter-_MG_4813.jpg">
+
+
+<figure>
+	<img src="../../../img/2010/12/%25C3%2585ke%2Bsitter-_MG_4804.jpg"><br><br><img src="../../../img/2010/12/%25C3%2585ke%2Bsitter-_MG_4813.jpg">
 
 <figure>
 	<img src="../../../img/2010/12/%25C3%2585ke%2Bsitter-_MG_4834.jpg">
@@ -66,10 +69,14 @@ Den långa härliga mammalediga hösten bara flög iväg. Hur kunde det gå så 
 
 <img src="../../../img/2010/12/Hemmakring-_MG_5105.jpg">
 	<figcaption>Det allra roligaste som Åke vet är att borsta tänderna på<br>mamman eller pappan. Här är han 7 månader.</span> </figcaption>
-</figure><br><br>På Tages förskola har det varit babyboom i år. Sex stycken blivande  kompisar har Åke fått: Jockum, Elsa, Majken, Cajsa, Judith och Pelle. En  dag bjöd jag hit dem och deras föräldralediga mammor på fika så att de  skulle få bekanta sig med varandra. Under hösten har vi också träffat  Åkes andra årskompisar: Bertil, Edgar, Tova, Linnea och Vilhelm. Men  allra mest har vi träffat tvillingarna Alva och Siri, dvs Tages kompis  Maltes tvillingsystrar som föddes i september. Å, de är så fina alla nya  tvåtusentior!<br><div style="text-align: left;"><br></div><br><figure>
+</figure>
+
+<br>På Tages förskola har det varit babyboom i år. Sex stycken blivande  kompisar har Åke fått: Jockum, Elsa, Majken, Cajsa, Judith och Pelle. En  dag bjöd jag hit dem och deras föräldralediga mammor på fika så att de  skulle få bekanta sig med varandra. Under hösten har vi också träffat  Åkes andra årskompisar: Bertil, Edgar, Tova, Linnea och Vilhelm. Men  allra mest har vi träffat tvillingarna Alva och Siri, dvs Tages kompis  Maltes tvillingsystrar som föddes i september. Å, de är så fina alla nya  tvåtusentior!<br><div style="text-align: left;"><br></div><br><figure>
 	<img src="../../../img/2010/12/Tvillingbes%25C3%25B6k-_MG_5447.jpg">
 	<figcaption>Karolina och Åke samtalar medan Alva och Siri tar sig varsin liten blund.</span> </figcaption>
-</figure><br>
+</figure>
+
+
 
 <figure>
 	<img src="../../../img/2010/12/Tvillingbes%25C3%25B6k-_MG_5461.jpg">
@@ -83,7 +90,7 @@ Den långa härliga mammalediga hösten bara flög iväg. Hur kunde det gå så 
 	<figcaption>Tage busar i hallen och har tagit på sig mina kängor<br>och min mössa.</span><span style="font-style: italic;"> "Ska vi byta, mamma? Du får ta på<br>dig mina skor så tar jag dina!" November 2010.</figcaption>
 </figure>
 
-<span>Tage är en riktig pratkvarn, han pratar i ett och är knappt tyst en sekund. Han är väldigt medveten om hur allt ska vara och noga med att allt sköts på rätt sätt. Häromveckan försökte Pelle stoppa en vanlig kniv i smörpaketet men då protesterade Tage direkt: "Nej, pappa, vi ska faktiskt ha en annan slags kniv där". När jag en dag satt och tittade trött framför mig sa han: "Mamma, vad gör du? Du ser lite ledsen ut." Han är omtänksam den lille parveln. Men också lite stöddig ibland. Häromdagen sa han till oss: "Ni är gamla. Ni är skräp."<br><br></span></span><span style="font-size:100%;"> </span></div></div><br><br><img src="../../../img/2010/12/Hemmabilder-_MG_6307.jpg">
+<span>Tage är en riktig pratkvarn, han pratar i ett och är knappt tyst en sekund. Han är väldigt medveten om hur allt ska vara och noga med att allt sköts på rätt sätt. Häromveckan försökte Pelle stoppa en vanlig kniv i smörpaketet men då protesterade Tage direkt: "Nej, pappa, vi ska faktiskt ha en annan slags kniv där". När jag en dag satt och tittade trött framför mig sa han: "Mamma, vad gör du? Du ser lite ledsen ut." Han är omtänksam den lille parveln. Men också lite stöddig ibland. Häromdagen sa han till oss: "Ni är gamla. Ni är skräp."<br><br></span></span> </span></div></div><br><br><img src="../../../img/2010/12/Hemmabilder-_MG_6307.jpg">
 	<figcaption>Någon riktig krypning blev det aldrig för Åke Ål. Nu vill han<br>hellre gå. En av favoritsysselsättningarna för närvarande<br>är att riva ut böckerna i bokhyllan. Åke reste sig själv första<br>gången när han just fyllt 8 månader och 2 veckor senare<br>började han gå utmed möbler. Här är han snart 9 månader.<br><br></figcaption>
 </figure>
 

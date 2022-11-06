@@ -7,7 +7,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2011/04/paskafton.html
 ---
 
-<img src="../../../../img/Pa%25CC%258Askafton-_MG_8687.jpg"><span style="font-size:100%;"><img src="../../../../img/Pa%25CC%258Askafton-_MG_8720.jpg">
+<img src="../../../../img/Pa%25CC%258Askafton-_MG_8687.jpg"><img src="../../../../img/Pa%25CC%258Askafton-_MG_8720.jpg">
 	<figcaption>Åke hittade sitt ägg under några pinnar bakom ett träd.</figcaption>
 </figure>
 

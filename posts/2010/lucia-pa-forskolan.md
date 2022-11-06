@@ -18,7 +18,10 @@ I år var det mest populärt att vara tomte, tätt följt av lucia. Endast Mimmi
 	<img src="../../../img/2010/12/Luciafirande-_MG_6444.jpg"><br>
 	<figcaption>De äldre barnen i gruppen Piraterna</span>...<br><br></div><br><figure>
 	<img src="../../../img/2010/12/Luciafirande-_MG_6446.jpg"><br>
-	<figcaption>... och de yngre och något mindre organiserade i gruppen Rövarna.</span><br><br><br><img src="../../../img/2010/12/Luciafirande-_MG_6437.jpg"><br>
+	<figcaption>... och de yngre och något mindre organiserade i gruppen Rövarna.</span>
+
+<figure>
+	<img src="../../../img/2010/12/Luciafirande-_MG_6437.jpg"><br>
 	<figcaption>Föräldrar, släktingar och vänner bevakade<br>evenemanget som vore det en presskonferens.</figcaption>
 </figure>
 

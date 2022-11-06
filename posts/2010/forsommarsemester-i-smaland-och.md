@@ -21,7 +21,9 @@ I mitten av maj tog vi som vi brukar en liten försommarsemester för att känna
 </div><br><figure>
 	<img src="../../../img/2010/06/Pyrtet-_MG_0045.jpg">
 	<figcaption>Något bus är på gång vid middagsbordet hos farmor och farfar i Pyrtet.</figcaption>
-</figure><br><br>Efter två dagar i Pyrtet åkte Pelle, jag och Åke vidare till Österlen. I två nätter sov vi på hotell Tornväktaren i Ystad och på dagarna åkte vi runt och utforskade vackra Österlen. Det var första gången vi var iväg ensamma med Åke. Tage stannade kvar hos farmor, farfar och faster Jenny. Hittills hade vi bara haft barnvakt över en natt men den här gången blev det två nätter och tre dagar. Det var tydligen inga problem för Tage, han hade som alltid skoj i Pyrtet med farmor och farfar. Det var nog Pelle och jag som längtade mest.<br>
+</figure>
+
+<br>Efter två dagar i Pyrtet åkte Pelle, jag och Åke vidare till Österlen. I två nätter sov vi på hotell Tornväktaren i Ystad och på dagarna åkte vi runt och utforskade vackra Österlen. Det var första gången vi var iväg ensamma med Åke. Tage stannade kvar hos farmor, farfar och faster Jenny. Hittills hade vi bara haft barnvakt över en natt men den här gången blev det två nätter och tre dagar. Det var tydligen inga problem för Tage, han hade som alltid skoj i Pyrtet med farmor och farfar. Det var nog Pelle och jag som längtade mest.<br>
 
 <figure>
 	<img src="../../../img/2010/06/%C3%96sterlen-_MG_0137.jpg">

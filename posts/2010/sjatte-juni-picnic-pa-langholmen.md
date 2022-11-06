@@ -15,7 +15,9 @@ originalUrl: https://nejtupp.blogspot.com/2010/06/sjatte-juni-picnic-pa-langholm
 <figure>
 	<img src="../../../img/2010/06/Picnic+p%C3%A5+L%C3%A5ngholmen-_MG_0577.jpg">
 	<figcaption>Tage och mormor badar fötterna. Ingrid, Tore, Filip<br>och Sarah var ännu modigare och doppade sig helt.</figcaption>
-</figure><br>
+</figure>
+
+
 
 <figure>
 	<img src="../../../img/2010/06/Picnic+p%C3%A5+L%C3%A5ngholmen-_MG_0599.jpg">
@@ -34,12 +36,16 @@ originalUrl: https://nejtupp.blogspot.com/2010/06/sjatte-juni-picnic-pa-langholm
 <figure>
 	<img src="../../../img/2010/06/Picnic+p%C3%A5+L%C3%A5ngholmen-_MG_0634.jpg">
 	<figcaption>Johanna såg till att även änderna fick något gott.</figcaption>
-</figure><br>
+</figure>
+
+
 
 <figure>
 	<img src="../../../img/2010/06/Picnic+p%C3%A5+L%C3%A5ngholmen-_MG_0674.jpg">
 	<figcaption>Solen var stark.</figcaption>
-</figure><br>
+</figure>
+
+
 
 <figure>
 	<img src="../../../img/2010/06/Picnic+p%C3%A5+L%C3%A5ngholmen-_MG_0685.jpg">

@@ -86,9 +86,14 @@ Det var hög tid för oss att besöka Göteborg och äntligen se hur faster Jenn
 
 <figure>
 	<img src="../../../img/2010/11/jpg-IMG_0306.jpg"><br>
-	<figcaption>Tage är trött och ledsen.</span></span>..<br><br><br><img src="../../../img/2010/11/jpg-IMG_0309.jpg"><br>
+	<figcaption>Tage är trött och ledsen.</span></span>..
+
+<figure>
+	<img src="../../../img/2010/11/jpg-IMG_0309.jpg"><br>
 	<figcaption>... men det blev snabbt bättre med ett kex.</figcaption>
-</figure><br>Sedan fick vi äntligen se Jacob och Cajsas lägenhet. Mycket gick i grönt och Mamman var förtjust: – Vi måste ha växter och mer grönt hemma! sa hon. Tage hittade massor med spännande saker att leka med: ryska dockor, trummor, ryggkliare, örhängen och blomdiadem. Åke åt mat och lekte med Jenny. Till middag blev det en rödbetspaj (alldeles rosa) med sallad och halloumi: gott! Klockan gick och Tage var vaken. Åke hade svårt att somna och vi bestämde oss för att återvända till vårt hotell igen. Nu trodde vi att barnen skulle somna genast när vi lade dem i vagnarna, men så blev det inte alls. Båda barnen var vakna när vi kom tillbaka till hotellrummet vid närmare halv elva på kvällen. Tage och Mamman somnade snabbt, men Åke var vaken i ytterligare trekvart innan han också fann för gott att överlämna sig till John Blund. Snart sov allihopa.
+</figure>
+
+Sedan fick vi äntligen se Jacob och Cajsas lägenhet. Mycket gick i grönt och Mamman var förtjust: – Vi måste ha växter och mer grönt hemma! sa hon. Tage hittade massor med spännande saker att leka med: ryska dockor, trummor, ryggkliare, örhängen och blomdiadem. Åke åt mat och lekte med Jenny. Till middag blev det en rödbetspaj (alldeles rosa) med sallad och halloumi: gott! Klockan gick och Tage var vaken. Åke hade svårt att somna och vi bestämde oss för att återvända till vårt hotell igen. Nu trodde vi att barnen skulle somna genast när vi lade dem i vagnarna, men så blev det inte alls. Båda barnen var vakna när vi kom tillbaka till hotellrummet vid närmare halv elva på kvällen. Tage och Mamman somnade snabbt, men Åke var vaken i ytterligare trekvart innan han också fann för gott att överlämna sig till John Blund. Snart sov allihopa.
 
 <figure>
 	<img src="../../../img/2010/11/jpg-IMG_0322.jpg"><br>
@@ -110,7 +115,9 @@ Det var hög tid för oss att besöka Göteborg och äntligen se hur faster Jenn
 <figure>
 	<img src="../../../img/2010/11/jpg-IMG_0363.jpg"><br>
 	<figcaption>Fotograf ombord på tåget: Tage</figcaption>
-</figure><br><figure>
+</figure>
+
+<figure>
 	<img src="../../../img/2010/11/jpg-IMG_0380.jpg"><br>
 	<figcaption>Snart är vi hemma i Hornstull igen!</figcaption>
 

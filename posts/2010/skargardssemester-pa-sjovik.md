@@ -17,7 +17,10 @@ Vi är lyckligt lottade som har goda vänner med ett fint lantställe i Skärgå
 
 <figure>
 	<img src="../../../img/2010/07/Sj%C3%B6vik-_MG_1839.jpg"><br></a>
-	<figcaption>Underbara Sjövik! Vilket läge precis vid vattnet,<br>med både sandstrand och brygga.</span><br><br><br><img src="../../../img/2010/07/Sj%C3%B6vik-_MG_1635.jpg"><br>
+	<figcaption>Underbara Sjövik! Vilket läge precis vid vattnet,<br>med både sandstrand och brygga.</span>
+
+<figure>
+	<img src="../../../img/2010/07/Sj%C3%B6vik-_MG_1635.jpg"><br>
 	<figcaption>Sandstranden är som en gigantisk sandlåda.<br>Vattnet brydde sig Tage inte så värst mycket om.</figcaption>
 </figure>
 
@@ -50,7 +53,9 @@ Det här var egentligen första gången som Nils och Tage fick tid att leka lite
 <figure>
 	<img src="../../../img/2010/07/Sj%C3%B6vik-_MG_1857.jpg"><br>
 	<figcaption>Jordgubbar kommer som god två på Åkes lista över god mat.</figcaption>
-</figure><br>På kvällarna ville gärna Nils rymma, och Tage var inte sen att hänga på. Iklädd endast blöjor satte Nils av längs den lilla vägen och efter honom kom Tage, med Elefanten i ett stadigt grepp i handen. Sist kom Nils pappa, som sällan lyckades locka hem Nils utan blev tvungen att lyfta hem honom.
+</figure>
+
+På kvällarna ville gärna Nils rymma, och Tage var inte sen att hänga på. Iklädd endast blöjor satte Nils av längs den lilla vägen och efter honom kom Tage, med Elefanten i ett stadigt grepp i handen. Sist kom Nils pappa, som sällan lyckades locka hem Nils utan blev tvungen att lyfta hem honom.
 
 <figure>
 	<img src="../../../img/2010/07/Sj%C3%B6vik-_MG_1719.jpg"><br>

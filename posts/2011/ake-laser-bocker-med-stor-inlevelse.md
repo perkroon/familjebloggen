@@ -14,4 +14,6 @@ originalUrl: https://nejtupp.blogspot.com/2011/03/ake-laser-bocker-med-stor-inle
 	<figcaption><br>En till synes harmlös bok med flikar,<br>som Åke fick i namngivningspresent.</span>..<br><br><div style="text-align: left;">Om inte vi läser böcker för honom så tar han saken i egna händer och sätter sig och bläddrar. Ofta ser vi honom sitta och förtjust bläddra i någon bok han hittat, men några gånger har reaktionen varit annorlunda. Mamman har hört Åke plötsligt falla i gråt, och när hon rusar in till rummet där han sitter, så ser hon att han sitter med en bok i knät, uppslagen på en sida med en läskig pop-up-figur. Det är lätt att föreställa sig att det kan vara otäckt, man läser en bok i lugn och ro och så plötsligt på sista sidan hoppar en krokodil upp ur boken och skräms...<br><br></div></div><figure>
 	<img src="../../../../img/Bok-_MG_8151.jpg"><br>
 	<figcaption>... men på sista sidan väntar en läskig krokodil<br>som hoppar upp ur boksidan.</figcaption>
-</figure><br>Det finns nu några böcker som vi plockat undan och lagt så högt att inte Åke når dem, bland annat boken på bilderna ovan. Vi tror att när han är gammal nog att nå böckerna så tycker han inte att figurerna är så läskiga längre.
+</figure>
+
+Det finns nu några böcker som vi plockat undan och lagt så högt att inte Åke når dem, bland annat boken på bilderna ovan. Vi tror att när han är gammal nog att nå böckerna så tycker han inte att figurerna är så läskiga längre.

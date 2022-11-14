@@ -9,7 +9,7 @@ originalUrl: https://nejtupp.blogspot.com/2011/06/ake-just-nu.html
 ---
 
 Vad händer med Åke just nu? Förändringarna sker ju i små små steg så ibland glömmer man att sammantaget händer ju faktiskt en hel del.<br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
- <tr><td style="text-align: center;"><img src="../../../../img/I+Hagaparken-_MG_9664.jpg" width="640"></td></tr>
+ <tr><td style="text-align: center;"> <img src="../../../img/2011/06/I+Hagaparken-_MG_9664.jpg" width="640"></td></tr>
  <tr><td class="tr-caption" style="text-align: center;"><i>Åke i Ekotemplet i Hagaparken</i></td></tr>
  </tbody></table><b>Tänder</b><br>Han har just nu åtta framtänder, fyra uppe och fyra nere. Dessutom har han fått åtminstone tre kindtänder, det är bara uppe till vänster det ser tomt ut än så länge.<br><br><b>Tal</b><br>Åke gillar att härmas! Han säger efter oss och lyckas ganska bra ibland. "Tage" sa han t.ex. väldigt tydligt efter oss. Följande ord hör vi mer eller mindre ofta:<br><ul><li>Där</li>
  <li>Nej</li>

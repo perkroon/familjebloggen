@@ -3,6 +3,7 @@ title: Veckan då Mamman åkte snowboard
 date: 2011-01-18
 tags: 	
 author: Pelle
+photo: ../../../img/2011/01/Hos%2BFarmor%2BElin-_MG_7263.jpg
 layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2011/01/veckan-da-mamman-akte-snowboard.html
 ---
@@ -13,12 +14,12 @@ I tre veckor var barnfamiljen bortrest kring jul och nyår. Den första veckan v
 Vi passade också på att hälsa på hos Pappans släktingar: mormor Gun (farmorsmor) och farmor Elin (farfarsmor). Hos båda serverades digra kakfat och Tage lät sig väl smaka. Åke fick också en smula.
 
 <figure>
-	 <img src="../../../img/2011/01Hos%2BFarmor%2BElin-_MG_7291.jpg">
+	 <img src="../../../img/2011/01/Hos%2BFarmor%2BElin-_MG_7291.jpg">
 	<figcaption>Tage kastar boll med Elin (Pappans farmor), Åke ser också ut att vilja vara med.</figcaption>
 </figure>
 
 <figure>
-	 <img src="../../../img/2011/01Hos%2BFarmor%2BElin-_MG_7263.jpg">
+	 <img src="../../../img/2011/01/Hos%2BFarmor%2BElin-_MG_7263.jpg">
 	<figcaption>Tage gillade att det serverades mycket kakor hos Pappans gamla släktingar. Lägg också märke till Åkes blick, som antyder att han också fått smaka.</figcaption>
 </figure>
 

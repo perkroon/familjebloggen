@@ -1,0 +1,7 @@
+separator
+separator
+älskar kantareller
+center
+separator
+center
+text-align

@@ -25,3 +25,4 @@ originalUrl: https://nejtupp.blogspot.com/2011/02/overnattning-hos-farmor-och-fa
 <figure>
 	 <img src="../../../img/2011/02/På väg till Odenplan-_MG_7732.jpg">
 	<figcaption>Väl framme på Odenplan funderade vi på var vi kunde köpa den traditionella fredagsglassen. Kanske är det därför Tage ser lite bekymrad ut? Åke, med mössan på sniskan, spanar han också.</figcaption>
+</figure>

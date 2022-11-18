@@ -38,7 +38,10 @@ originalUrl: https://nejtupp.blogspot.com/2012/04/skidsemestern-i-mutters.html
 
 <figure>
 	<img src="../../../../img/IMG_0579.JPG">
-	<figcaption>På dagarna hängde vi i barnbacken med Tage eller på restaurangen med Åke.<br><br></td></tr></tbody></table><br>
+	<figcaption>På dagarna hängde vi i barnbacken med Tage eller på restaurangen med Åke.<br><br></figcaption>
+</figure>
+
+<br>
 
 <figure>
 	<img src="../../../../img/Skidresa+till+Mutters-_MG_1733.jpg">
@@ -52,10 +55,13 @@ originalUrl: https://nejtupp.blogspot.com/2012/04/skidsemestern-i-mutters.html
 	<figcaption>De vegetariska alternativen var pommes, pasta bianco och kaiserschmarren.
 <br><br>
 
-</td></tr></tbody></table><br>
+</figcaption>
+</figure>
+
+<br>
 
 <figure>
-	<img src="../../../../img/Skidresa+till+Mutters-_MG_1750.jpg" width="426"></td></tr><tr><td class="tr-caption" style="text-align: center;">En dag tog morfar på sig specialskidor och gick upp för hela berget.</figcaption>
+	<img src="../../../../img/Skidresa+till+Mutters-_MG_1750.jpg"></td></tr><tr><td class="tr-caption" style="text-align: center;">En dag tog morfar på sig specialskidor och gick upp för hela berget.</figcaption>
 </figure>
 
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><br><img src="../../../../img/IMG_0525.JPG">
@@ -65,7 +71,7 @@ originalUrl: https://nejtupp.blogspot.com/2012/04/skidsemestern-i-mutters.html
 <br>
 
 <figure>
-	<img src="../../../../img/Skidresa+till+Mutters-_MG_1801.jpg" width="426"></td></tr><tr><td class="tr-caption" style="text-align: center;">När liftarna hade stängt samlades kusinerna i hotellets trädgård.</figcaption>
+	<img src="../../../../img/Skidresa+till+Mutters-_MG_1801.jpg"></td></tr><tr><td class="tr-caption" style="text-align: center;">När liftarna hade stängt samlades kusinerna i hotellets trädgård.</figcaption>
 </figure>
 
 <br>
@@ -79,8 +85,14 @@ originalUrl: https://nejtupp.blogspot.com/2012/04/skidsemestern-i-mutters.html
 
 <figure>
 	<img src="../../../../img/Skidresa+till+Mutters-_MG_1836.jpg">
-	<figcaption>När Eva-Marie hälsade på fick alla varsin glass.</td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><br><img src="../../../../img/IMG_0528.JPG">
-	<figcaption>Apres ski vid hotellet.<br></td></tr></tbody></table><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><br><img src="../../../../img/Skidresa+till+Mutters-_MG_1726.jpg">
+	<figcaption>När Eva-Marie hälsade på fick alla varsin glass.</figcaption>
+</figure>
+
+<br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><br><img src="../../../../img/IMG_0528.JPG">
+	<figcaption>Apres ski vid hotellet.<br></figcaption>
+</figure>
+
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><br><img src="../../../../img/Skidresa+till+Mutters-_MG_1726.jpg">
 	<figcaption>Efter en dag i backen och apres ski i hotellträdgården var det dags för bus på hotellrummet.</figcaption>
 </figure>
 
@@ -88,18 +100,30 @@ originalUrl: https://nejtupp.blogspot.com/2012/04/skidsemestern-i-mutters.html
 
 <figure>
 	<img src="../../../../img/IMG_0538.JPG">
-	<figcaption>På vårt rum lektes det mycket med lego och spelen på iPaden.<br>Vi spelade också in roliga musikvideor med alla kusinerna.<br></td></tr></tbody></table><br>
+	<figcaption>På vårt rum lektes det mycket med lego och spelen på iPaden.<br>Vi spelade också in roliga musikvideor med alla kusinerna.<br></figcaption>
+</figure>
+
+<br>
 
 <figure>
 	<img src="../../../../img/Skidresa+till+Mutters-_MG_1865.jpg">
-	<figcaption>Vid sex-tiden samlades alla nere i hotellrestaurangen och åt middag.<br>Oftast blev det kaiserschmarren (fluffiga pannkaksbitar med florsocker och russin) för Tage och Åke.</td></tr></tbody></table><br>
+	<figcaption>Vid sex-tiden samlades alla nere i hotellrestaurangen och åt middag.<br>Oftast blev det kaiserschmarren (fluffiga pannkaksbitar med florsocker och russin) för Tage och Åke.</figcaption>
+</figure>
+
+<br>
 
 <figure>
-	<img src="../../../../img/Skidresa+till+Mutters-_MG_1859.jpg" width="426"></td></tr><tr><td class="tr-caption" style="text-align: center;">En del av gästerna hade lite svårt att sitta still ibland.<br></td></tr></tbody></table><br>
+	<img src="../../../../img/Skidresa+till+Mutters-_MG_1859.jpg"></td></tr><tr><td class="tr-caption" style="text-align: center;">En del av gästerna hade lite svårt att sitta still ibland.<br></figcaption>
+</figure>
+
+<br>
 
 <figure>
 	<img src="../../../../img/Skidresa+till+Mutters-_MG_1678.jpg">
-	<figcaption>De flesta kvällarna åt vi på vårt eget hotell. Två kvällar besökte vi en annan restaurang (den enda i byn), en italiensk.</td></tr></tbody></table><br>
+	<figcaption>De flesta kvällarna åt vi på vårt eget hotell. Två kvällar besökte vi en annan restaurang (den enda i byn), en italiensk.</figcaption>
+</figure>
+
+<br>
 
 <figure>
 	<img src="../../../../img/Skidresa+till+Mutters-_MG_1684.jpg">
@@ -110,11 +134,23 @@ originalUrl: https://nejtupp.blogspot.com/2012/04/skidsemestern-i-mutters.html
 
 <figure>
 	<img src="../../../../img/Skidresa+till+Mutters-_MG_1891.jpg">
-	<figcaption>Kusinerna spelar spel efter kvällsmaten.</td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><br><img src="../../../../img/Skidresa+till+Mutters-_MG_1907.jpg">
-	<figcaption>Det var intensiva dagar och kvällarna blev ganska tidiga.<br>Efter klockan 22 var det knappast någon i gänget som var vaken.</td></tr></tbody></table><div class="separator" style="clear: both; text-align: center;"><br></div><br>
+	<figcaption>Kusinerna spelar spel efter kvällsmaten.</figcaption>
+</figure>
+
+<br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><br><img src="../../../../img/Skidresa+till+Mutters-_MG_1907.jpg">
+	<figcaption>Det var intensiva dagar och kvällarna blev ganska tidiga.<br>Efter klockan 22 var det knappast någon i gänget som var vaken.</figcaption>
+</figure>
+
+<br>
 
 <figure>
-	<img src="../../../../img/Skidresa+till+Mutters-_MG_1853.jpg" width="266"></td></tr><tr><td class="tr-caption" style="text-align: center;">Hotellägaren gick även under namnet "arga tanten". <br>Hon var inte särskilt förtjust i livliga barn. </td></tr></tbody></table><br><div class="separator" style="clear: both; text-align: center;"><br></div>
+	<img src="../../../../img/Skidresa+till+Mutters-_MG_1853.jpg" width="266"></td></tr><tr><td class="tr-caption" style="text-align: center;">Hotellägaren gick även under namnet "arga tanten". <br>Hon var inte särskilt förtjust i livliga barn. </figcaption>
+</figure>
+
+<br>
 
 <figure>
-	<img src="../../../../img/IMG_0604.JPG" width="298"></td></tr><tr><td class="tr-caption" style="text-align: center;">Men hon kunde vara snäll också! Sista dagen var hon jättesnäll. Hon hörde på eftermiddagen att vi firade Åke som fyllde två år, och efter kvällsmiddagen kom hon med den här överraskningen till oss och alla barnen fick även varsin stor påse full med choklad.</td></tr></tbody></table>
+	<img src="../../../../img/IMG_0604.JPG" width="298"></td></tr><tr><td class="tr-caption" style="text-align: center;">Men hon kunde vara snäll också! Sista dagen var hon jättesnäll. Hon hörde på eftermiddagen att vi firade Åke som fyllde två år, och efter kvällsmiddagen kom hon med den här överraskningen till oss och alla barnen fick även varsin stor påse full med choklad.</figcaption>
+</figure>
+
+

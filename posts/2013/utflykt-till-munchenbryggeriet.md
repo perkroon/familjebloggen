@@ -15,7 +15,7 @@ Idag sken solen och vi ville gå ut på förmiddagen. Mamman jobbar jour den hä
 <figure>
 	<img src="../../../../img/Utflykt+till+Mu%CC%88nchenbryggeriet-PERK1555.jpg">
 	<figcaption>Åke bär på en del av en krossad istapp. Han gillar istappar och vill alltid ha en i handen.</figcaption>
-</figure>Inne på kontoret ville vi se hur det ser ut där jag jobbar, men också hitta ett plåster till Tage som skrapat upp handen på en vägg under promenaden. Vi hittade plåster, men när Tage förstod att det var "vuxenplåster" som kan göra ont när man drar av det så ville han inte ha. "Vi går hem och tar ett annat plåster istället".<br>På Pappans jobb finns det gratis kakor i skåpen och gratis dryck i kylen. Vi stannade till och Tage och Åke fick ta två kakor och en dricka. Tage valde en Pucko och två Ballerina. Åke valde en Mer och pepparkakor.<br><br></div>
+</figure>Inne på kontoret ville vi se hur det ser ut där jag jobbar, men också hitta ett plåster till Tage som skrapat upp handen på en vägg under promenaden. Vi hittade plåster, men när Tage förstod att det var "vuxenplåster" som kan göra ont när man drar av det så ville han inte ha. "Vi går hem och tar ett annat plåster istället".<br>På Pappans jobb finns det gratis kakor i skåpen och gratis dryck i kylen. Vi stannade till och Tage och Åke fick ta två kakor och en dricka. Tage valde en Pucko och två Ballerina. Åke valde en Mer och pepparkakor.<br>
 
 <figure>
 	<img src="../../../../img/Utflykt+till+Mu%CC%88nchenbryggeriet-PERK1582.jpg">

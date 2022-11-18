@@ -17,14 +17,17 @@ originalUrl:	https://nejtupp.blogspot.com/2015/12/utelek-i-forsta-snon.html
     </td>
 </tr>
 </tbody></table>
-<div style="text-align: center;"><br></div>
+<div style="text-align: center;">
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
 <tr><td style="text-align: center;">
 <a href="http://3.bp.blogspot.com/-2yaTSxga7gY/VoLxhRF9XXI/AAAAAAAAE9I/8QUwrrgwYB4/s1600/IMG_5211.JPG" imageanchor="1" style="margin-left: auto; margin-right: auto;">
 <img border="0" height="480" src="../../images/IMG_5211.JPG">
 </td></tr>
 <tr><td class="tr-caption" style="text-align: center;">       
-<div class="p1"><i>"Och här besteg vi Olympus Mons."</i></div></td></tr></tbody></table>
+<div class="p1"><i>"Och här besteg vi Olympus Mons."</i></div></figcaption>
+</figure>
+
+
 <div style="text-align: center;"><br>
 
 <div style="text-align: center;"><br>

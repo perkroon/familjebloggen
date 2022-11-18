@@ -14,14 +14,14 @@ originalUrl: https://nejtupp.blogspot.com/2012/04/mer-fodelsedagsfirande-hemma.h
 Dagen efter att vi kommit hem ifrån Alperna var det dags att fira pojkarna en gång till. Den här gången var det farmor, farfar och faster Jenny som gratulerade.<br>
 
 <figure>
-	<img src="../../../../img/Fo%CC%88delsedagskalas+hemma-_MG_2044.jpg" width="426">
+	<img src="../../../../img/Fo%CC%88delsedagskalas+hemma-_MG_2044.jpg">
 	<figcaption>Tage tyckte det var väldigt roligt att få fler paket.</figcaption>
 </figure>
 
 <figure>
 	<img src="../../../../img/Fo%CC%88delsedagskalas+hemma-_MG_2072.jpg">
 	<figcaption>Hela familjen fick dessutom en fågelbok med ljud i. Nu kan vi höra hur tranan, ugglan och hackspetten låter på riktigt!</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
 	<img src="../../../../img/Fo%CC%88delsedagskalas+hemma-_MG_2082.jpg">
@@ -31,7 +31,7 @@ Dagen efter att vi kommit hem ifrån Alperna var det dags att fira pojkarna en g
 <figure>
 	<img src="../../../../img/Fo%CC%88delsedagskalas+hemma-_MG_2088.jpg">
 	<figcaption>Farmor och farfar hade hittat en rolig Barbapappatårta som var väldigt fin. (Kanske finare än god faktiskt).</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
 	<img src="../../../../img/Fo%CC%88delsedagskalas+hemma-_MG_2075.jpg">

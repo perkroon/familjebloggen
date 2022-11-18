@@ -13,7 +13,7 @@ originalUrl: https://nejtupp.blogspot.com/2012/03/tage-fyller-4-ar.html
 På Tages födelsedag, den 4 mars, vaknade vi i ett hotellrum i Mutters utanför Innsbruck i Österrike. Själva resan tänker vi berätta mer om i ett annat inlägg, den här gången koncentrerar vi oss på Tages födelsedag.<br><br><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/Skidresa+till+Mutters-_MG_1609.jpg"></div><br>Fyra år! Det är riktigt stort det. På morgonen vaknade Tage strax före sju, men vi lyckades få honom att låtsas sova igen, lagom tills kusiner, moster Johanna, morbror Filip, mormor och morfar strömmade in för att gratulera. Vi sjöng födelsedagssånger och sedan blev det presentöppning i sängen, där han ibland höll presenten under täcket när han öppnade den, för att vara lite extra hemlig. Det var mycket smålego i paketen, men också ett spel (fyra-i-rad med Bamse), ett armband, en bok och två tröjor.<br><br>
 
 <figure>
-	<img src="../../../../img/Skidresa+till+Mutters-_MG_1575.jpg" width="426">
+	<img src="../../../../img/Skidresa+till+Mutters-_MG_1575.jpg">
 	<figcaption>Tage öppnar paket.</figcaption>
 </figure>
 
@@ -25,4 +25,4 @@ På Tages födelsedag, den 4 mars, vaknade vi i ett hotellrum i Mutters utanför
 <figure>
 	<img src="../../../../img/Skidresa+till+Mutters-_MG_1590.jpg">
 	<figcaption>Kusin Axel hjälpte Tage att bygga ihop allt smålego.</figcaption>
-</figure>Senare på eftermiddagen samlades vi alla igen och passade på att fira Tage med glass. Vädret var strålande, alldeles perfekt för en födelsedagsglass i solen!<br><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>Senare på eftermiddagen samlades vi alla igen och passade på att fira Tage med glass. Vädret var strålande, alldeles perfekt för en födelsedagsglass i solen!<br>

@@ -16,7 +16,7 @@ Dagen efter Tages barnkalas passade vi på att ha ett litet släktkalas för bå
 </figure>
 
 <figure>
-	<img src="../../../../img/Tage+och+A%CC%8Akes+sla%CC%88ktkalas-PERK1749.jpg" width="426">
+	<img src="../../../../img/Tage+och+A%CC%8Akes+sla%CC%88ktkalas-PERK1749.jpg">
 	<figcaption>I paketet fanns den här fina Lavamannen-dräkten!</figcaption>
 
 
@@ -38,4 +38,4 @@ Dagen efter Tages barnkalas passade vi på att ha ett litet släktkalas för bå
 <figure>
 	<img src="../../../../img/Tage+och+A%CC%8Akes+sla%CC%88ktkalas-PERK1780.jpg">
 	<figcaption>Faster Jenny i soffan, bredvid Tage som laddar boken om universum under lampan. Laddar? <br>Ja, boken är självlysande om man först belyser sidorna med en stark lampa. <br>Sedan fick vi gå in och stänga om oss i mörkret på toaletten och läsa boken utan ljus.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div><br>
+</figure><br>

@@ -7,7 +7,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2015/11/ake-sover-pa-sitt-satt.html
 ---
 
-Vi tittade in till barnen när vi gick och la oss igår kväll, och hittade Åke sovandes i en märklig ställning. Han sov lugnt och djupt, men vi kände oss ändå tvungna att lägga honom ned på sidan istället, det såg ut att kunna bli obekvämt...<br></div>
+Vi tittade in till barnen när vi gick och la oss igår kväll, och hittade Åke sovandes i en märklig ställning. Han sov lugnt och djupt, men vi kände oss ändå tvungna att lägga honom ned på sidan istället, det såg ut att kunna bli obekvämt...
 
 <figure>
 	<img src="../../../../img/IMG_2650.JPG">

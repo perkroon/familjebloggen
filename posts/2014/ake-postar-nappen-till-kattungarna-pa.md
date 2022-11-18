@@ -7,17 +7,17 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2014/02/ake-postar-nappen-till-kattungarna-pa.html
 ---
 
-Åke har inte använt napp dagtid sedan ganska länge, men på natten har han fortsatt. Ibland har vi hört ett "jag vill ha nappen!" när han är riktigt ledsen, men det är nog mest en markering om att han är just ledsen. Nu var det i alla fall dags att sluta med napp helt och hållet!<br></div>
+Åke har inte använt napp dagtid sedan ganska länge, men på natten har han fortsatt. Ibland har vi hört ett "jag vill ha nappen!" när han är riktigt ledsen, men det är nog mest en markering om att han är just ledsen. Nu var det i alla fall dags att sluta med napp helt och hållet!
 
 <figure>
-	<img src="../../../../img/A%CC%8Ake+slutar+med+napp-PERK3573.jpg" height="640" width="426">
+	<img src="../../../../img/A%CC%8Ake+slutar+med+napp-PERK3573.jpg" height="640">
 	<figcaption>Åkes sista napp. </figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div><br>
+</figure><br>
 
 <figure>
 	<img src="../../../../img/A%CC%8Ake+slutar+med+napp-PERK3581.jpg" height="426">
 	<figcaption>Hur kommer livet att bli utan min napp? ser Åke ut att tänka.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div>Självklart ville vi att någon som behövde nappen bättre än Åke ska få den nu, och vi tänkte genast på kattungarna på Skansen. De har ju en låda där som man kan lämna sin napp i, men vi tänkte att det går säkert lika bra att posta den.<br><br><br>
+</figure>Självklart ville vi att någon som behövde nappen bättre än Åke ska få den nu, och vi tänkte genast på kattungarna på Skansen. De har ju en låda där som man kan lämna sin napp i, men vi tänkte att det går säkert lika bra att posta den.<br><br><br>
 
 <figure>
 	<img src="../../../../img/A%CC%8Ake+slutar+med+napp-PERK3601.jpg" height="426">

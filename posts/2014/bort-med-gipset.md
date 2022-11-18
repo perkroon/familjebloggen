@@ -7,7 +7,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2014/05/bort-med-gipset.html
 ---
 
-Den 8 april var det så dags att ta bort Åkes gips! Vi hade sett fram emot den dagen, och mest av alla antagligen Åke. Både Lovisa och jag följde med till Ortopeden i Rinkeby. Vi tog tunnelbanan dit, så klart!<br></div>
+Den 8 april var det så dags att ta bort Åkes gips! Vi hade sett fram emot den dagen, och mest av alla antagligen Åke. Både Lovisa och jag följde med till Ortopeden i Rinkeby. Vi tog tunnelbanan dit, så klart!
 
 <figure>
 	<img src="../../../../img/Avgipsning-PERK5296.jpg" height="426">
@@ -15,9 +15,9 @@ Den 8 april var det så dags att ta bort Åkes gips! Vi hade sett fram emot den 
 </figure>En liten stund fick vi vänta i väntrummet, bland en massa andra barn med gips. Här var Åke en i mängden helt enkelt. Han var nog den mest rörliga av alla i väntrummet dock.<br><br>
 
 <figure>
-	<img src="../../../../img/Avgipsning-PERK5302.jpg" height="640" width="426">
+	<img src="../../../../img/Avgipsning-PERK5302.jpg" height="640">
 	<figcaption>Beredd med hörselskydd inför sågningen av gipset.</figcaption>
-</figure>Personalen började genast såga, utan att tveka eller kasta bort något tid på förklaringar. Åke tog det väldigt bra, han var mindre rädd än vi föräldrar.<br><br><div class="separator" style="clear: both; text-align: center;"><object class="BLOG_video_class" contentid="848019a74aa4717c" height="266" id="BLOG_video-848019a74aa4717c" width="320"></object></div><div class="separator" style="clear: both; text-align: center;"><br></div><br>
+</figure>Personalen började genast såga, utan att tveka eller kasta bort något tid på förklaringar. Åke tog det väldigt bra, han var mindre rädd än vi föräldrar.<br><br><div class="separator" style="clear: both; text-align: center;"><object class="BLOG_video_class" contentid="848019a74aa4717c" height="266" id="BLOG_video-848019a74aa4717c" width="320"></object></div><br>
 
 <figure>
 	<img src="../../../../img/Avgipsning-PERK5319.jpg" height="426">

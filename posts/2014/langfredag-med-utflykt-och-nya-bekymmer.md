@@ -10,7 +10,7 @@ originalUrl: https://nejtupp.blogspot.com/2014/05/langfredag-med-utflykt-och-nya
 På långfredagen, dvs dagen efter att Åke bröt benet för andra gången, gjorde vi en utflykt. Det kunde knappast bli en ordentlig skogsutflykt med tanke på Åkes ben, men vi gjorde en alternativplan. Vi tog spårvagnen från Alvik till Nockeby och gick därifrån till Judarskogens naturreservat. Precis vid ingången till reservatet hörde vi och såg hackspettar och inne i vattensalamanderdammen såg vi, jo just det, vattensalamandrar.<br><div><br>
 
 <figure>
-	<img src="../../../../img/La%CC%8Angfredag+med+utflykt-PERK5582.jpg" height="640" width="426">
+	<img src="../../../../img/La%CC%8Angfredag+med+utflykt-PERK5582.jpg" height="640">
 	<figcaption>Vi hann ju besöka alla ändhållplatser för tunnelbanan under förra gipstiden, <br>så nu fick vi skaffa oss ett nytt projekt: besöka alla ändhållplatser på spårvägarna.</figcaption>
 </figure>
 

@@ -7,7 +7,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2014/11/avslutning-pa-il-crocodill.html
 ---
 
-Avslutningen på förskolan brukar hållas på eller i direkt anslutning till förskolans lokaler, men det här året hölls det på gräsmattorna i Tantolunden. Det fanns ett bra skäl till det: de skulle iscensätta programmet "Labyrint" som gått på Barnkanalen under året och skapa en stor labyrint som barnen skulle ta sig igenom utan att "bli slajmade av roboten Taurus". Vi föräldrar fick titta på.</div><div class="separator" style="clear: both; text-align: center;"><br></div>
+Avslutningen på förskolan brukar hållas på eller i direkt anslutning till förskolans lokaler, men det här året hölls det på gräsmattorna i Tantolunden. Det fanns ett bra skäl till det: de skulle iscensätta programmet "Labyrint" som gått på Barnkanalen under året och skapa en stor labyrint som barnen skulle ta sig igenom utan att "bli slajmade av roboten Taurus". Vi föräldrar fick titta på.</div>
 
 <figure>
 	<img src="../../../../img/Avslutning%2BIl%2BCrocodill-PERK7960.jpg" height="426">
@@ -35,7 +35,7 @@ Avslutningen på förskolan brukar hållas på eller i direkt anslutning till f�
 </figure>
 
 <figure>
-	<img src="../../../../img/Avslutning%2BIl%2BCrocodill-PERK8035.jpg" height="640" width="426">
+	<img src="../../../../img/Avslutning%2BIl%2BCrocodill-PERK8035.jpg" height="640">
 	<figcaption>Vi hängde kvar när de flesta andra familjer gick hem, tillsammans med Rubens familj.</figcaption>
 </figure>
 

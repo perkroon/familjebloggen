@@ -18,26 +18,26 @@ Efter en regnig vecka i Halmstad packade vi bilen och åkte till Småland. Vi ha
 </figure>
 
 <figure>
-	<img src="../../../../img/Pyrtet+-+Bla%CC%8Aba%CC%88r+i+Ska%CC%8Artaryd-5C5C6074.jpg" width="426">
+	<img src="../../../../img/Pyrtet+-+Bla%CC%8Aba%CC%88r+i+Ska%CC%8Artaryd-5C5C6074.jpg">
 	<figcaption>Putte i blåbärsskogen? Nä, det är ju Åke.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
 	<img src="../../../../img/Pyrtet+-+Bla%CC%8Aba%CC%88r+i+Ska%CC%8Artaryd-5C5C6085.jpg">
 	<figcaption>Nere i hålet här bodde det en liten mus, berättade Åke. <br>Den skulle ha en massa mat, så Åke fick se till att servera vad den behövde.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: center;">
+</figure><div class="separator" style="clear: both; text-align: center;">
 
 <figure>
 	<img src="../../../../img/Pyrtet+-+Bla%CC%8Aba%CC%88r+i+Ska%CC%8Artaryd-5C5C6101.jpg">
 	<figcaption>Mamman plockade blåbär – men alla hamnade inte korgen...</figcaption>
 </figure>
 
-<div class="separator" style="clear: both;"><br></div>
+<div class="separator" style="clear: both;">
 
 <figure>
 	<img src="../../../../img/Pyrtet+-+Bla%CC%8Aba%CC%88r+i+Ska%CC%8Artaryd-5C5C6113.jpg">
 	<figcaption>Lite kryp hittade vi bland blåbären, här är det en padda som promenerar i Tages hand.</figcaption>
-</figure><div class="separator" style="clear: both;"><br></div>
+</figure><div class="separator" style="clear: both;">
 
 <figure>
 	<img src="../../../../img/Pyrtet+-+Bla%CC%8Aba%CC%88r+i+Ska%CC%8Artaryd-5C5C6117.jpg">
@@ -58,12 +58,12 @@ Vad kan man mer göra i skogen? Man kan plocka svamp, och det var precis vad vi 
 <figure>
 	<img src="../../../../img/Pyrtet+-+Svampplockning-5C5C6137.jpg">
 	<figcaption>Åke förstod inte riktigt poängen med att plocka svamp. Varför skulle man springa omkring hela tiden?<br>Här har han till och med fått napp för att vara lite nöjd.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
-	<img src="../../../../img/Pyrtet+-+Svampplockning-5C5C6143.jpg" width="426">
+	<img src="../../../../img/Pyrtet+-+Svampplockning-5C5C6143.jpg">
 	<figcaption>Tage var precis som tidigare år en entusiastisk svampplockare.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
 	<img src="../../../../img/Pyrtet+-+Svampplockning-5C5C6144.jpg">
@@ -82,7 +82,7 @@ Vad kan man mer göra i skogen? Man kan plocka svamp, och det var precis vad vi 
 
 
 <figure>
-	<img src="../../../../img/Pyrtet+-+Kosta+Outlet-5C5C6172.jpg" width="426">
+	<img src="../../../../img/Pyrtet+-+Kosta+Outlet-5C5C6172.jpg">
 	<figcaption>Åke sov i vagnen och Tage och Mamman gömde sig i ett gömsle i jaktbutiken vi <br>tittade in i på Kosta outlet. (Nä, vi köpte inget, men det var roligt att titta).</figcaption>
 
 
@@ -100,7 +100,7 @@ Vad kan man mer göra i skogen? Man kan plocka svamp, och det var precis vad vi 
 </figure>Mot slutet av veckan kom en gnutta vackrare väder och vi kunde äntligen göra vår båttur. Åke var lite reserverad i början av båtturen, men slappnade av mer och mer. Nu hade Jenny kommit också och gjorde oss sällskap på båten. Senare samma dag höll Åke ett av de berömda talen han gillar att hålla. Han klingar i glaset när vi sitter och äter mat, reser sig upp och deklarerar att nu blir det tal. "Kära mina vänner... Idag har det inte regnat. Vi har åkt båt. Så, det var allt!". (Helt sant var det inte, det kom en skur även denna dagen, även om kvällen var varm och fin).<br><br>
 
 <figure>
-	<img src="../../../../img/Pyrtet+-+Ba%CC%8Atutflykt-5C5C6360.jpg" width="426">
+	<img src="../../../../img/Pyrtet+-+Ba%CC%8Atutflykt-5C5C6360.jpg">
 	<figcaption>Tage passade på att sminka sig och göra en håruppsättning innan vi åkte till båten.</figcaption>
 </figure><br>
 
@@ -117,7 +117,7 @@ Vad kan man mer göra i skogen? Man kan plocka svamp, och det var precis vad vi 
 <figure>
 	<img src="../../../../img/Pyrtet+-+Ba%CC%8Atutflykt-5C5C6386.jpg">
 	<figcaption>Åke börjar koppla av lite mer.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
 	<img src="../../../../img/Pyrtet+-+Ba%CC%8Atutflykt-5C5C6398.jpg">

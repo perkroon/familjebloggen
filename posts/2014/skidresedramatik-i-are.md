@@ -85,7 +85,7 @@ Direkt på morgonen efter barnkalaset skulle vi åka tåg till Åre. Väskorna v
 <figure>
 	<img src="../../../../img/A%CC%8Areresan-PERK4547.jpg" height="426">
 	<figcaption>Redo för gipsning av vänster smalben.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
 	<img src="../../../../img/A%CC%8Areresan-PERK4549.jpg" height="426">
@@ -97,7 +97,7 @@ Direkt på morgonen efter barnkalaset skulle vi åka tåg till Åre. Väskorna v
 <figure>
 	<img src="../../../../img/A%CC%8Areresan-PERK4565.jpg" height="426">
 	<figcaption>Vi läste en Bamsetidning under tiden vi väntade på att gipset skulle torka. <br>Vi var naturligtvis tvungna att läsa ut hela tidningen innan vi kunde åka taxi tillbaka till stugan igen.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
 	<img src="../../../../img/A%CC%8Areresan-PERK4570.jpg" height="426">
@@ -122,17 +122,17 @@ Direkt på morgonen efter barnkalaset skulle vi åka tåg till Åre. Väskorna v
 <figure>
 	<img src="../../../../img/A%CC%8Areresan-PERK4632.jpg" height="426">
 	<figcaption>Vi satte en plastpåse runt Åkes gips och sedan kunde han åka pulka. Med sig i pulkan har han "Bomben".</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
 	<img src="../../../../img/A%CC%8Areresan-PERK4680.jpg" height="426">
 	<figcaption>Det var inte långt till Café Idet, så dit kunde Åke komma rätt lätt med pulkan. <br>Sedan fick han halvligga och äta sin kladdkaka.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
 	<img src="../../../../img/A%CC%8Areresan-PERK4603.jpg" height="426">
 	<figcaption>Lovisa mellan fika och lunch på Café Idet.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
 	<img src="../../../../img/A%CC%8Areresan-PERK4689.jpg" height="426">
@@ -157,7 +157,7 @@ Direkt på morgonen efter barnkalaset skulle vi åka tåg till Åre. Väskorna v
 <figure>
 	<img src="../../../../img/A%CC%8Areresan-PERK4677.jpg" height="426">
 	<figcaption>Harry var med i dragkampen, men hans (och Åkes) grupp Snögubbarna hade inget uppvisningsåk.</figcaption>
-</figure>Under avslutningen spanade jag och Lovisa efter Tage, naturligtvis, men även Nils som vi inte kunde se. Han var inte med i uppvisningsåket och vi började ana oråd. Peter och Harry dök upp och kunde berätta att Nils hade trillat med skidskolan uppe i Björnstigen och att han var på väg till Åre Hälsocentral. Troligen ett brutet ben även han...<br><br><div class="separator" style="clear: both; text-align: start;">Några timmar senare kom Nils och Erika tillbaka till stugan i en taxi, med Nils i gipsat högerben. Han hade fått en likadan fraktur som Åke, en spiralfraktur på smalbenet. Han hade lite mer ont än Åke och tycktes också ha en större svullnad. På natten hade han märkbart ont. Åke hade turligt nog aldrig så ont att han klagade på smärta efter gipsningen.</div><div class="separator" style="clear: both; text-align: center;"><br></div><br>
+</figure>Under avslutningen spanade jag och Lovisa efter Tage, naturligtvis, men även Nils som vi inte kunde se. Han var inte med i uppvisningsåket och vi började ana oråd. Peter och Harry dök upp och kunde berätta att Nils hade trillat med skidskolan uppe i Björnstigen och att han var på väg till Åre Hälsocentral. Troligen ett brutet ben även han...<br><br><div class="separator" style="clear: both; text-align: start;">Några timmar senare kom Nils och Erika tillbaka till stugan i en taxi, med Nils i gipsat högerben. Han hade fått en likadan fraktur som Åke, en spiralfraktur på smalbenet. Han hade lite mer ont än Åke och tycktes också ha en större svullnad. På natten hade han märkbart ont. Åke hade turligt nog aldrig så ont att han klagade på smärta efter gipsningen.</div><br>
 
 <figure>
 	<img src="../../../../img/A%CC%8Areresan-PERK4697.jpg" height="426">
@@ -177,12 +177,12 @@ Direkt på morgonen efter barnkalaset skulle vi åka tåg till Åre. Väskorna v
 <figure>
 	<img src="../../../../img/A%CC%8Areresan-PERK4786.jpg" height="426">
 	<figcaption>Ett projekt som Tage hade var att bygga ett stort myrbo i snön utanför vårt hus. Det var Lovisa och han som började bygga, sedan nästa dag fick jag hjälpa till också. Muren skulle rivas och ersättas med en vallgrav.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
 	<img src="../../../../img/A%CC%8Areresan-PERK4792.jpg" height="426">
 	<figcaption>När snön fallit i Stockholm har Tage ofta frågat om han får äta snön. Vårt standardsvar då har alltid varit att han inte får äta snön i Stockholm, den är för smutsig, men i Åre går det bra att äta snön.  Därför passade han på <br>nu så ofta han fick chansen. I bakgrunden ser man vår stuga, lägenheten längst upp till höger i bild, <br>med balkong och nedfällda persienner.</figcaption>
-</figure>Hemresan blev lite mer komplicerad nu när vi hade två barn som inte kunde gå för egen maskin. Vi kontrollerade så att vi satt nära en stor toalett – och det hade vi turen att göra. Vidare valde vi att åka in till Åre i riktigt god tid eftersom det skulle bli extra besvärligt att komma ombord. Det var dock inga större bekymmer på tåget och det blev märkbart mindre spring under resan.<br><div class="separator" style="clear: both; text-align: center;"><br></div><br>
+</figure>Hemresan blev lite mer komplicerad nu när vi hade två barn som inte kunde gå för egen maskin. Vi kontrollerade så att vi satt nära en stor toalett – och det hade vi turen att göra. Vidare valde vi att åka in till Åre i riktigt god tid eftersom det skulle bli extra besvärligt att komma ombord. Det var dock inga större bekymmer på tåget och det blev märkbart mindre spring under resan.<br><br>
 
 <figure>
 	<img src="../../../../img/A%CC%8Areresan-PERK4818.jpg" height="426">
@@ -195,6 +195,6 @@ Direkt på morgonen efter barnkalaset skulle vi åka tåg till Åre. Väskorna v
 </figure>
 
 <figure>
-	<img src="../../../../img/A%CC%8Areresan-PERK4827.jpg" height="640" width="426">
+	<img src="../../../../img/A%CC%8Areresan-PERK4827.jpg" height="640">
 	<figcaption>Det blev en hel del film också på vägen ner, <br>Åke och Nils hade första parkett, men Tage kunde också se.</figcaption>
 </figure>Väl hemma i Stockholm igen mötte farfar på perrongen. Tur var väl det, för det var inte så lätt att bära både Åke och packningen till taxibilen. Farfar åkte tunnelbana och vi tog taxin, men vi var lika snabbt hemma vid lägenheten. Där väntade farmor med dukat bord: de hade lagat mat åt oss, så att vi skulle slippa det besväret när vi kom hem. Tack snälla!

@@ -7,7 +7,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2013/12/god-jul-och-gott-nytt-2014.html
 ---
 
-Även detta år gjorde vi några olika varianter av vårt julkort. Här finns alla fyra samlade! Under respektive bild finns det namn vi gav den varianten.<br></div>
+Även detta år gjorde vi några olika varianter av vårt julkort. Här finns alla fyra samlade! Under respektive bild finns det namn vi gav den varianten.
 
 <figure>
 	<img src="../../../../img/jul-PERK2535.jpg" height="346">
@@ -16,7 +16,10 @@ originalUrl: https://nejtupp.blogspot.com/2013/12/god-jul-och-gott-nytt-2014.htm
 
 <figure>
 	<img src="../../../../img/jul-PERK2567.jpg" height="640">
-	<figcaption>"Kul"</i> </td></tr></tbody></table>
+	<figcaption>"Kul"</i> </figcaption>
+</figure>
+
+
 
 <figure>
 	<img src="../../../../img/jul-PERK2686.jpg" height="640">

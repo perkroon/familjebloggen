@@ -7,7 +7,7 @@ layout: layouts/post.njk
 originalUrl:	https://nejtupp.blogspot.com/2016/01/besok-pa-moderna-museet-med-peters.html
 ---
 
-Olafur Eliassons utställning "Verklighetsmaskiner" på Moderna Museet lockade, och Peters familj ville också gå dit, så vi sågs där en söndagsförmiddag. Lovisa jobbade hemma, men vi tog Djurgårdsfärjan till Skeppsholmen och träffade Valter, Harry, Nils, Erika och Peter i museets foajé. </div><br></div>
+Olafur Eliassons utställning "Verklighetsmaskiner" på Moderna Museet lockade, och Peters familj ville också gå dit, så vi sågs där en söndagsförmiddag. Lovisa jobbade hemma, men vi tog Djurgårdsfärjan till Skeppsholmen och träffade Valter, Harry, Nils, Erika och Peter i museets foajé. </div>
 <figure>
 	<img src="../../../img/2016/01/Moderna Museet med Peters familj-PERK0360.jpg">
     <figcaption>– Ta en bild av oss här uppe! sa barnen på Skeppsholmen.</figcaption>

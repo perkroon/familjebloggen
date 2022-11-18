@@ -14,7 +14,7 @@ originalUrl: https://nejtupp.blogspot.com/2013/10/tage-tranar-fotboll.html
 	<figcaption>Upprop. Tage längst till höger, i grå mössa.</figcaption>
 </figure>
 
-<div class="p2"><br></div><div class="p1">På onsdagarna får vi hjälp av farmor och farfar med hämtning av barnen. De hämtar barnen på förskolan och tar hem dem till lägenheten, där de hinner äta mellanmål innan Mamman tar med Tage till träningen. Farmor och farfar stannar hemma eller i parken och leker med Åke.
+<div class="p2"><div class="p1">På onsdagarna får vi hjälp av farmor och farfar med hämtning av barnen. De hämtar barnen på förskolan och tar hem dem till lägenheten, där de hinner äta mellanmål innan Mamman tar med Tage till träningen. Farmor och farfar stannar hemma eller i parken och leker med Åke.
 <br><br>
 
 Träningen har ibland varit ganska kaotisk – som det väl lätt blir med femåringar som har rätt vaga begrepp om vad fotboll är, och vad träning innebär. På sistone har den dock blivit riktigt bra, delvis tack vare att en pappa till ett barn i gruppen blivit assisterande tränare, så att de omkring femton barnen kan delas upp i två olika grupper.</div><div class="p2"><br>
@@ -41,4 +41,4 @@ Träningen har ibland varit ganska kaotisk – som det väl lätt blir med femå
 <figure>
 	<img src="../../../../img/Fotbollstra%CC%88ning-PERK0929.jpg" height="426">
 	<figcaption>Varje träning avslutas med en match, där spelarna får turas om att stå i mål.</figcaption>
-</figure><div class="p1"><div class="separator" style="clear: both; text-align: center;"><br></div><div style="text-align: start;">För er som undrar hur länge Tage har hejat på Roma kan jag hänvisa till ett <a href="http://nejtupp.blogspot.com/2008/03/terblick-bb-och-hemkomst.html">gammalt inlägg</a> här på bloggen.</div></div>
+</figure><div class="p1"><div style="text-align: start;">För er som undrar hur länge Tage har hejat på Roma kan jag hänvisa till ett <a href="http://nejtupp.blogspot.com/2008/03/terblick-bb-och-hemkomst.html">gammalt inlägg</a> här på bloggen.</div></div>

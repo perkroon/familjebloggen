@@ -25,7 +25,7 @@ Trots att vi bor så nära Långholmen har vi aldrig besökt fängelsemuseet som
 </figure>
 
 <figure>
-	<img src="../../../../img/So%CC%88ndag+pa%CC%8A+La%CC%8Angholmen-5C5C5284.jpg" width="426">
+	<img src="../../../../img/So%CC%88ndag+pa%CC%8A+La%CC%8Angholmen-5C5C5284.jpg">
 	<figcaption>På rastgården tävlade Tage och Pappan om vem som var längst. <br>Åke nöjde sig med en bronsplacering.</figcaption>
 </figure>
 

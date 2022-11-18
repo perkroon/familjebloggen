@@ -7,10 +7,10 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2013/11/tage-tappar-tredje-tanden.html
 ---
 
-När Mamman kom till förskolan på fredagseftermiddagen så låg det ett litet vikt papperspaket i Tages låda. På det stod det: "Tages tand". Han hade tappat tand nummer tre under dagen! Under natten kom sedan tandfén och bytte ut tanden mot en tiokrona.<br></div>
+När Mamman kom till förskolan på fredagseftermiddagen så låg det ett litet vikt papperspaket i Tages låda. På det stod det: "Tages tand". Han hade tappat tand nummer tre under dagen! Under natten kom sedan tandfén och bytte ut tanden mot en tiokrona.
 
 <figure>
-	<img src="../../../../img/Familjen+hemma-PERK2115.jpg" width="426">
+	<img src="../../../../img/Familjen+hemma-PERK2115.jpg">
 	<figcaption>Tage visar luckan efter tand nummer tre. <br>De första två vuxentänderna har redan kommit upp.</figcaption>
 </figure>
 

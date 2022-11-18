@@ -11,4 +11,7 @@ Adressen till vårt familjealbum på nätet har bytt namn. Vi var tvungna att ko
 
 <figure>
 	<img src="../../../img/2011/09/Hemmakring-_MG_8534.jpg">
-	<figcaption>- Dä tupp!</td></tr></tbody></table>
+	<figcaption>- Dä tupp!</figcaption>
+</figure>
+
+

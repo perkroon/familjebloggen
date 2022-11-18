@@ -17,7 +17,7 @@ Det fanns några fler bilder från Åkes tid med gipset som vi inte vill undanh�
 <figure>
 	<img src="../../../../img/Ro%25CC%2588ntgenbilder-SIN_UNDERBEN_20140425_105142.jpg">
 	<figcaption>Samma fraktur, men sedd från sidan. Notera att skelettdelarna inte är <br>färdigbildade än (mineraliserade). Det är bara brosk än så länge.<br> </figcaption>
-</figure>Under gipstiden var det lite svårt att hitta på saker som vi kunde göra. Vi var ju mer hemma än vanligt och längtade efter att få komma ut, men vad kan man hitta på utomhus med ett gipsat ben? Tur att Åke är så intresserad av kollektivtrafiken här i stan! Redan innan olyckan hade vi börjat beta av ändhållplatserna i tunnelbanan, och nu gjorde vi det till ett projekt att hinna besöka alla. Här är några bilder från sådana resor.<br><div><br></div>
+</figure>Under gipstiden var det lite svårt att hitta på saker som vi kunde göra. Vi var ju mer hemma än vanligt och längtade efter att få komma ut, men vad kan man hitta på utomhus med ett gipsat ben? Tur att Åke är så intresserad av kollektivtrafiken här i stan! Redan innan olyckan hade vi börjat beta av ändhållplatserna i tunnelbanan, och nu gjorde vi det till ett projekt att hinna besöka alla. Här är några bilder från sådana resor.<br><div>
 
 <figure>
 	<img src="../../../../img/iPhone-IMG_0809.jpg" height="480">

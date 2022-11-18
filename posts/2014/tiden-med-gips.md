@@ -58,7 +58,7 @@ Den första tiden, innan han vant sig vid gipset och blivit smidigare på att r�
 </figure>
 
 <figure>
-	<img src="../../../../img/Hemma+med+gipsat+ben-PERK4988.jpg" height="640" width="426">
+	<img src="../../../../img/Hemma+med+gipsat+ben-PERK4988.jpg" height="640">
 	<figcaption>En tuff grabb, i gipsförpackning...</figcaption>
 </figure>Mot slutet av gipsperioden var vi mindre och mindre hämmade av gipset. Vi åkte till exempel till Skansen tillsammans med farmor och farfar, och Åke sprang omkring som alla andra barn, men man kunde se att han haltade.<br><br>
 

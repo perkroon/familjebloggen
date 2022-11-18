@@ -31,7 +31,7 @@ Efter ett härligt julbord fick vi besök av självaste jultomten. Mamman och Pa
 </figure>
 
 <figure>
-	<img src="../../../img/2010/01/_MG_9679_1024pix.jpg"><br></div>
+	<img src="../../../img/2010/01/_MG_9679_1024pix.jpg">
 	<figcaption>Tage har fått en julklapp och är på väg för att tacka tomten...</figcaption>
 </figure>
 

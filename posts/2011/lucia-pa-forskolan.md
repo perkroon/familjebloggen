@@ -9,7 +9,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2011/12/lucia-pa-forskolan.html
 ---
 
-Så var det dags för årets luciaföreställning på förskolan! Tyvärr var Åkes öga sämre istället för bättre, så han fick utgöra publik istället. Tage ville länge vara tomte, men ångrade sig för några veckor sedan och ville istället vara pepparkaka. Det gick bra, vi hade kläder från förra året som fortfarande fungerade. Farmor hade också stigit upp tidigt och åkt till förskolans gård för att invänta luciatåget. Strax efter åtta kom de gående in på gården och ställde snyggt upp sig i ena hörnet. Några av de mindre barnen kunde förstås inte lägga band på sig utan sprang fram till föräldrarna, men resten stod rätt samlade och sjöng mer än ett halvdussin sånger. Stiligt!</div><div class="separator" style="clear: both; text-align: center;"><br></div>
+Så var det dags för årets luciaföreställning på förskolan! Tyvärr var Åkes öga sämre istället för bättre, så han fick utgöra publik istället. Tage ville länge vara tomte, men ångrade sig för några veckor sedan och ville istället vara pepparkaka. Det gick bra, vi hade kläder från förra året som fortfarande fungerade. Farmor hade också stigit upp tidigt och åkt till förskolans gård för att invänta luciatåget. Strax efter åtta kom de gående in på gården och ställde snyggt upp sig i ena hörnet. Några av de mindre barnen kunde förstås inte lägga band på sig utan sprang fram till föräldrarna, men resten stod rätt samlade och sjöng mer än ett halvdussin sånger. Stiligt!</div>
 
 <figure>
 	<img src="../../../img/2011/12/Lucia+pa%25CC%258A+fo%25CC%2588rskolan-_MG_0149.jpg">

@@ -7,7 +7,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2014/07/semesterstart-pa-sjovik.html
 ---
 
-Vi brukar påminna oss om att vi har tur som har vänner med fint lantställe i Stockholms skärgård. Även denna sommaren fick vi komma och hälsa på Peter, Erika, Nils och Harry på Sjövik. Lovisa hade knappt vaknat efter sin nattjour och hyrbilen var precis nyhämtad när vi åkte ut.<br></div>
+Vi brukar påminna oss om att vi har tur som har vänner med fint lantställe i Stockholms skärgård. Även denna sommaren fick vi komma och hälsa på Peter, Erika, Nils och Harry på Sjövik. Lovisa hade knappt vaknat efter sin nattjour och hyrbilen var precis nyhämtad när vi åkte ut.
 
 <figure>
 	<img src="../../../../img/Sjo%CC%88vik-PERK9277.jpg" height="426">

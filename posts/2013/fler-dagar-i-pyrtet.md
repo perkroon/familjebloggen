@@ -17,7 +17,7 @@ originalUrl: https://nejtupp.blogspot.com/2013/09/fler-dagar-i-pyrtet.html
 <div class="p2">Vi har några saker som blivit klassiker i Pyrtet som vi hann med i år också, såsom åkturen på åkgräsklipparen. Nu var det Åke som var mest intresserad. </div><div class="p2"><br>
 
 <figure>
-	<img src="../../../../img/Pyrtet+2+-+allma%CC%88nt-PERK8034.jpg" height="640" width="426">
+	<img src="../../../../img/Pyrtet+2+-+allma%CC%88nt-PERK8034.jpg" height="640">
 	<figcaption>Alla gräsklippare är kul, tycker Åke, <br>även om man bara åker omkring och inte klipper på riktigt.</figcaption>
 </figure>
 
@@ -31,24 +31,26 @@ originalUrl: https://nejtupp.blogspot.com/2013/09/fler-dagar-i-pyrtet.html
 <figure>
 	<img src="../../../../img/Pyrtet+2+-+allma%CC%88nt-PERK8071.jpg" height="426">
 	<figcaption>Glada miner på väg över broarna till Grännastämma.</figcaption>
-</figure><div style="text-align: start;"><br></div>
+</figure><div style="text-align: start;">
 
 <figure>
 	<img src="../../../../img/Pyrtet+2+-+allma%CC%88nt-PERK8084.jpg" height="426">
 	<figcaption>De tre grabbarna poserar på bild för Mamman. Åke ville helst sköta fotograferandet själv.</figcaption>
-</figure><div style="text-align: start;"><br></div>
+</figure><div style="text-align: start;">
 
 <figure>
 	<img src="../../../../img/Pyrtet+2+-+allma%CC%88nt-PERK8193.jpg" height="426">
 	<figcaption>Det är trångt i sängen med tre, men för trångt när man är fyra. <br>Den här natten fick jag flytta på mig till Åkes säng, efter att både han och Tage kommit över till oss.</figcaption>
-</figure><div><br></div>
+</figure>
+
+
 
 <figure>
 	<img src="../../../../img/Pyrtet+2+-+allma%CC%88nt-PERK8435.jpg" height="426">
 	<figcaption>På besök i Pyrtet vill pojkarna gärna bada bastu. Åke och tage sitter helst på bänken untanför <br>och dricker läsk, vilket är en viktig del i deras bastubad.</figcaption>
 </figure>
 
-<div class="p1"><br></div><div class="p1">På övervåningen i Pyrtet har farmor och farfar samlat ihop en massa förpackningar: tomma ketchupflaskor, mjölkpaket, glödlampor, tvättmedel, kakao och allt vad man kan behöva. Allra bäst är dock den gamla räknemaskinen, där siffrorna skrivs ut på en pappersrulle. Den fungerar som kassaapparat. En flätad korg blir varukorg och sedan sitter Tage eller Åke i kassan och vi får handla. Jättekul!</div><div class="p1"><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: center;"><br></div><br>
+<div class="p1"><div class="p1">På övervåningen i Pyrtet har farmor och farfar samlat ihop en massa förpackningar: tomma ketchupflaskor, mjölkpaket, glödlampor, tvättmedel, kakao och allt vad man kan behöva. Allra bäst är dock den gamla räknemaskinen, där siffrorna skrivs ut på en pappersrulle. Den fungerar som kassaapparat. En flätad korg blir varukorg och sedan sitter Tage eller Åke i kassan och vi får handla. Jättekul!</div><div class="p1"><br>
 
 <figure>
 	<img src="../../../../img/Pyrtet+2+-+allma%CC%88nt-PERK8438.jpg" height="426">

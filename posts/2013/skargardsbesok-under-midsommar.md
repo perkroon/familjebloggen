@@ -7,7 +7,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2013/07/skargardsbesok-under-midsommar.html
 ---
 
-På midsommarafton hoppade vi i en hyrbil och åkte norrut i två timmar tills vi kom till Sjövik. Där har vi (särskilt Pappan) firat midsommar många gånger förut. Det tillkommer fler och fler barn i kretsen efter hand som åren går, och det här året var vi åtta vuxna och sju barn: Tage var äldst och alla var grabbar.<br></div>
+På midsommarafton hoppade vi i en hyrbil och åkte norrut i två timmar tills vi kom till Sjövik. Där har vi (särskilt Pappan) firat midsommar många gånger förut. Det tillkommer fler och fler barn i kretsen efter hand som åren går, och det här året var vi åtta vuxna och sju barn: Tage var äldst och alla var grabbar.
 
 <figure>
 	<img src="../../../../img/Midsommar+pa%CC%8A+Sjo%CC%88vik-PERK5927.jpg">
@@ -30,12 +30,12 @@ På midsommarafton hoppade vi i en hyrbil och åkte norrut i två timmar tills v
 </figure>
 
 <figure>
-	<img src="../../../../img/Midsommar+pa%CC%8A+Sjo%CC%88vik-PERK5988.jpg" width="426">
+	<img src="../../../../img/Midsommar+pa%CC%8A+Sjo%CC%88vik-PERK5988.jpg">
 	<figcaption>Så här såg det ut från verandan vi satt på klockan ett på natten, <br>när det var som allra mörkast.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/Midsommar+pa%CC%8A+Sjo%CC%88vik-PERK5999.jpg" width="426">
+	<img src="../../../../img/Midsommar+pa%CC%8A+Sjo%CC%88vik-PERK5999.jpg">
 	<figcaption>August och Åke. Det var många ganska jämnåriga pojkar som samlats<br>och de lekte bra med varandra. Kul!</figcaption>
 </figure>
 

@@ -11,7 +11,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2011/10/nya-rum-och-akes-spraklada-vaxer.html
 ---
 
-Vi har bytt rum! Barnen hade tidigare det mindre sovrummet och Mamman och Pappan det större. Men varför det? Nu har vi bytt rum och det blev mycket bättre! Det finns mer plats att leka på i det nya rummet och vi behöver inte plocka undan lika mycket längre. Alla är nöjda! Dessutom finns det nu ett nytt spännande hoppställe i Mammans och Pappans sovrum...<br></div>
+Vi har bytt rum! Barnen hade tidigare det mindre sovrummet och Mamman och Pappan det större. Men varför det? Nu har vi bytt rum och det blev mycket bättre! Det finns mer plats att leka på i det nya rummet och vi behöver inte plocka undan lika mycket längre. Alla är nöjda! Dessutom finns det nu ett nytt spännande hoppställe i Mammans och Pappans sovrum...
 
 <figure>
 	<img src="../../../img/2011/09/Hemmakring-_MG_9056.jpg">
@@ -21,7 +21,7 @@ Vi har bytt rum! Barnen hade tidigare det mindre sovrummet och Mamman och Pappan
 <figure>
 	<img src="../../../img/2011/09/Hemmakring-_MG_9075.jpg">
 	<figcaption>... båda är redo för nästa steg...</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
 	<img src="../../../img/2011/09/Hemmakring-_MG_9060.jpg">

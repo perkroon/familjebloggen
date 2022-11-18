@@ -26,7 +26,10 @@ Dagen innan lucia, en fredag, var det julkonsert på Åkes förskola. Det hette 
 
 <figure>
 	<img src="../../../../img/Lucia%2Bpa%CC%8A%2BIl%2BCrocodill-PERK8822.jpg" height="426">
-	<figcaption>Bjussar Åke på en del av sin pepparkaka månne?</i> </td></tr></tbody></table><div class="separator" style="clear: both; text-align: center;"><br></div>
+	<figcaption>Bjussar Åke på en del av sin pepparkaka månne?</i> </figcaption>
+</figure>
+
+
 
 <figure>
 	<img src="../../../../img/Lucia%2Bpa%CC%8A%2BIl%2BCrocodill-PERK8823.jpg" height="426">

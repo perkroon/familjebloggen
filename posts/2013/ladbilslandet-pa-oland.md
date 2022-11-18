@@ -26,13 +26,16 @@ Det ingår fem lådbilsåk för varje barn. När vi kom in så var det första v
 <figure>
 	<img src="../../../../img/O%CC%88land+-+La%CC%8Adbilslandet-PERK7156.jpg">
 	<figcaption>Åke var helt fokuserad på trafiken när han körde den första bussen.</figcaption>
-</figure>Nästa anhalt blev traktorfältet. Det var inte Tage intresserad av, så det fick Åke köra själv. Här började han slappna av lite mer, han hade väl kommit på hur det fungerade. Nu sken han upp och hade roligt! Efteråt tittade vi på det lilla traktormuseet de hade i en lokal bredvid.<br><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/O%CC%88land+-+La%CC%8Adbilslandet-PERK7178.jpg" width="426">
+</figure>Nästa anhalt blev traktorfältet. Det var inte Tage intresserad av, så det fick Åke köra själv. Här började han slappna av lite mer, han hade väl kommit på hur det fungerade. Nu sken han upp och hade roligt! Efteråt tittade vi på det lilla traktormuseet de hade i en lokal bredvid.<br><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/O%CC%88land+-+La%CC%8Adbilslandet-PERK7178.jpg">
 	<figcaption>Det fanns ingen tid att förlora längre, Åke ville göra allt, genast!<br>I bakgrunden syns traktorn som Åke nyss körde omkring med.</figcaption>
 </figure>
 
 <figure>
 	<img src="../../../../img/O%CC%88land+-+La%CC%8Adbilslandet-PERK7197.jpg">
-	<figcaption>De gamla traktorerna och den här gamla brandbilen var roliga att provsitta.</i> </td></tr></tbody></table><br>Förutom att köra lådbil så finns det åkattraktioner, lekställningar och annat att utforska. Barnen åkte tåg, karuseller och långa rutschkanor. Snart återvände Åke till den stora bilbanan, men Tage ville hellre leka med den repförsedda färjeflotten som man kunde dra över karpdammen i mitten. Åke körde tur efter tur och när hans biljetter var slut fick han fler av Tage.
+	<figcaption>De gamla traktorerna och den här gamla brandbilen var roliga att provsitta.</i> </figcaption>
+</figure>
+
+<br>Förutom att köra lådbil så finns det åkattraktioner, lekställningar och annat att utforska. Barnen åkte tåg, karuseller och långa rutschkanor. Snart återvände Åke till den stora bilbanan, men Tage ville hellre leka med den repförsedda färjeflotten som man kunde dra över karpdammen i mitten. Åke körde tur efter tur och när hans biljetter var slut fick han fler av Tage.
 <br><br>
 
 

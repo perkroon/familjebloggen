@@ -22,7 +22,7 @@ En av Åkes kompisar på förskolan, Elsa, fyllde tre år och bjöd in treåring
 <figure>
 	<img src="../../../../img/Barnkalas+hos+Elsa+3+a%CC%8Ar-5C5C1009.jpg">
 	<figcaption>Här sitter Tage mellan Nora, Elsas storasyster, och Malte. Alla tre går i samma grupp på förskolan. </figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
 	<img src="../../../../img/Barnkalas+hos+Elsa+3+a%CC%8Ar-5C5C1014.jpg">

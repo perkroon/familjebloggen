@@ -56,7 +56,7 @@ originalUrl: https://nejtupp.blogspot.com/2013/06/vintersemestern-i-are.html
 </figure><br><br>
 
 <figure>
-	<img src="../../../../img/A%CC%8Areresan-PERK2038.jpg" height="640" width="426">
+	<img src="../../../../img/A%CC%8Areresan-PERK2038.jpg" height="640">
 	<figcaption>En dag kom en älg gående i backen. Harry ville gärna känna på honom. </figcaption>
 </figure><br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td><img src="../../../../img/IMG_1311.JPG" height="478"></td></tr><tr><td class="tr-caption" style="font-size: 13px;"><i>Åke har hittat en snögrotta.</figcaption>
 </figure><br><br>
@@ -96,12 +96,15 @@ originalUrl: https://nejtupp.blogspot.com/2013/06/vintersemestern-i-are.html
 	<figcaption>Tage, Nils, Harry och Åke äter mellanmål.</figcaption>
 </figure>
 
-<br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td><img src="../../../../img/A%CC%8Areresan-PERK2293.jpg" height="426"></td></tr><tr><td class="tr-caption" style="font-size: 13px;">Tage och Pelle busar innan de ger sig upp i ankarliften för en färd genom Björnfamiljsrutten.</td></tr></tbody></table><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: center;"><br></div><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td><img src="../../../../img/IMG_1372.JPG" height="478"></td></tr><tr><td class="tr-caption" style="font-size: 13px;"><i>Tage i den långa ankarliften upp till bergets topp.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: center;"><br></div><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td><img src="../../../../img/IMG_1367.JPG" height="478"></td></tr><tr><td class="tr-caption" style="font-size: 13px;"><i>Tage har lämnat in sin skida på slipning i Björnarnas skidverkstad.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: center;"><br></div><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td><img src="../../../../img/A%CC%8Areresan-PERK2188.jpg" height="426"></td></tr><tr><td class="tr-caption" style="font-size: 13px;"><i>Tage kollar in syltbeståndet i stationen "Björnarnas after ski".</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: center;"><br></div><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td><img src="../../../../img/A%CC%8Areresan-PERK2190.jpg" height="426"></td></tr><tr><td class="tr-caption" style="font-size: 13px;"><i>På after ski-stationen fanns också ett piano.</figcaption>
+<br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td><img src="../../../../img/A%CC%8Areresan-PERK2293.jpg" height="426"></td></tr><tr><td class="tr-caption" style="font-size: 13px;">Tage och Pelle busar innan de ger sig upp i ankarliften för en färd genom Björnfamiljsrutten.</figcaption>
+</figure>
+
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td><img src="../../../../img/IMG_1372.JPG" height="478"></td></tr><tr><td class="tr-caption" style="font-size: 13px;"><i>Tage i den långa ankarliften upp till bergets topp.</figcaption>
+</figure><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td><img src="../../../../img/IMG_1367.JPG" height="478"></td></tr><tr><td class="tr-caption" style="font-size: 13px;"><i>Tage har lämnat in sin skida på slipning i Björnarnas skidverkstad.</figcaption>
+</figure><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td><img src="../../../../img/A%CC%8Areresan-PERK2188.jpg" height="426"></td></tr><tr><td class="tr-caption" style="font-size: 13px;"><i>Tage kollar in syltbeståndet i stationen "Björnarnas after ski".</figcaption>
+</figure><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td><img src="../../../../img/A%CC%8Areresan-PERK2190.jpg" height="426"></td></tr><tr><td class="tr-caption" style="font-size: 13px;"><i>På after ski-stationen fanns också ett piano.</figcaption>
 </figure><br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td><img src="../../../../img/A%CC%8Areresan-PERK2172.jpg" height="426"></td></tr><tr><td class="tr-caption" style="font-size: 13px;"><i>Tage testar en av Björnarnas scotrar.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: center;"><br></div><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td><img src="../../../../img/A%CC%8Areresan-PERK2160.jpg" height="426"></td></tr><tr><td class="tr-caption" style="font-size: 13px;"><i>Tage fotograferar sin pappa som visst har kört omkull.</figcaption>
+</figure><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td><img src="../../../../img/A%CC%8Areresan-PERK2160.jpg" height="426"></td></tr><tr><td class="tr-caption" style="font-size: 13px;"><i>Tage fotograferar sin pappa som visst har kört omkull.</figcaption>
 </figure><br><br>
 
 <figure>
@@ -127,19 +130,22 @@ originalUrl: https://nejtupp.blogspot.com/2013/06/vintersemestern-i-are.html
 <figure>
 	<img src="../../../../img/A%CC%8Areresan-PERK2051.jpg" height="426">
 	<figcaption>Men vissa dagar orkade man inte ens titta på lite film.</figcaption>
-</figure><br><div class="separator" style="clear: both; text-align: center;"><br></div><br>
+</figure><br><br>
 
 <figure>
 	<img src="../../../../img/A%CC%8Areresan-PERK2195.jpg" height="426">
 	<figcaption>Tage tycktes ha en outsinlig energi i fjällen. Han var heltaggad i skidbacken hela dagen och när liftarna hade stängt hade han ändå ork kvar för att leka länge i snöhögarna utanför stugan. Jag som också älskar snöhögar och mindes med ljuv nostalgi min barndoms vinterresor till Sälenfjällen med alla snöhögar där, tyckte det var väldigt kul med Tages engagemang.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: center;"><br></div><br>
+</figure><br>
 
 <figure>
 	<img src="../../../../img/A%CC%8Areresan-PERK2316.jpg" height="426">
 	<figcaption>Sista dagen var det after ski för barnen.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div><br>
+</figure><br>
 
 <figure>
 	<img src="../../../../img/A%CC%8Areresan-PERK2321.jpg" height="426">
 	<figcaption>Pappa Pelle blev uppönskad på scenen tillsammans med tre andra pappor för att sjunga och dansa "Fader Abraham".</figcaption>
-</figure><br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td><img src="../../../../img/A%CC%8Areresan-PERK2061.jpg" height="426"></td></tr><tr><td class="tr-caption" style="font-size: 13px;"><span style="font-style: italic;">Harry och Åke chillar i kvällssolen i stugan efter en dag på fjället.</span></td></tr></tbody></table>
+</figure><br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td><img src="../../../../img/A%CC%8Areresan-PERK2061.jpg" height="426"></td></tr><tr><td class="tr-caption" style="font-size: 13px;"><span style="font-style: italic;">Harry och Åke chillar i kvällssolen i stugan efter en dag på fjället.</span></figcaption>
+</figure>
+
+

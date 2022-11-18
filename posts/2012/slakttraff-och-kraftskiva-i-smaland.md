@@ -7,7 +7,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2012/10/slakttraff-och-kraftskiva-i-smaland.html
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><br>En gång om året är det på pappans sida en släktträff i Småland. Det är en kräftskiva som vi turas om att ordna, och i år var det farmor och farfars tur att hålla i arrangemanget. Pappan tog tåget ner till Småland med Åke och Tage, Mamman var tvungen att stanna hemma och förbereda jourarbete, men hon följde oss till tåget och vinkade av oss på perrongen.</div><div class="separator" style="clear: both; text-align: center;"><br></div>
+<div class="separator" style="clear: both; text-align: center;"><br>En gång om året är det på pappans sida en släktträff i Småland. Det är en kräftskiva som vi turas om att ordna, och i år var det farmor och farfars tur att hålla i arrangemanget. Pappan tog tåget ner till Småland med Åke och Tage, Mamman var tvungen att stanna hemma och förbereda jourarbete, men hon följde oss till tåget och vinkade av oss på perrongen.</div>
 
 <figure>
 	<img src="../../../../img/Kra%CC%88ftskiva+pa%CC%8A+Pyrtet-5C5C7230.jpg">
@@ -20,7 +20,7 @@ originalUrl: https://nejtupp.blogspot.com/2012/10/slakttraff-och-kraftskiva-i-sm
 </figure>Kräftskivan är en heldag som börjar med en lättare lunch, sedan dricker vi kaffe, äter tårta, leker och umgås. I år var det olympiska lekar, med tanke på London OS. På kvällen avslutas det med en traditionell kräftskiva. Vi som inte äter kräftor äter pajer, rostat bröd och annat.<br><br>
 
 <figure>
-	<img src="../../../../img/Kra%CC%88ftskiva+pa%CC%8A+Pyrtet-5C5C7262.jpg" width="426">
+	<img src="../../../../img/Kra%CC%88ftskiva+pa%CC%8A+Pyrtet-5C5C7262.jpg">
 	<figcaption>Detta var sysslingen Theresas första kräftskiva. <br>Hon hålls i famnen av sin syssling Ellen.</figcaption>
 </figure>
 
@@ -37,7 +37,9 @@ originalUrl: https://nejtupp.blogspot.com/2012/10/slakttraff-och-kraftskiva-i-sm
 <figure>
 	<img src="../../../../img/Kra%CC%88ftskiva+pa%CC%8A+Pyrtet-5C5C7410.jpg">
 	<figcaption>Tage sover i en obekväm ställning ombord på tåget tillbaka till Stockholm.</figcaption>
-</figure><div><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td><img src="../../../../img/Kra%CC%88ftskiva+pa%CC%8A+Pyrtet-5C5C7291_larger.jpg"></td></tr><tr><td class="tr-caption" style="font-size: 13px;"><i>Alla som var med på kräftskivan 2012. (Klicka på bilden för att se den i stort format).</figcaption>
+</figure>
+
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td><img src="../../../../img/Kra%CC%88ftskiva+pa%CC%8A+Pyrtet-5C5C7291_larger.jpg"></td></tr><tr><td class="tr-caption" style="font-size: 13px;"><i>Alla som var med på kräftskivan 2012. (Klicka på bilden för att se den i stort format).</figcaption>
 </figure>
 
 <div>För fyra år sedan fotograferade Pappan ett gruppfoto av alla som var med på kräftskivan det året, och vi publicerade bilden på <a href="http://nejtupp.blogspot.se/2008/08/tillbakablick-p-semestern.html">bloggen</a>. Tage var bara en liten bebis. Det var roligt att ha ett foto där alla var med, så nu ville jag göra om det. Alla samlades framför huset och jag tog några fotografier. Då visste jag inte att detta skulle bli mitt sista foto av Svenne. Tyvärr dog han, helt oväntat, drygt två veckor senare.</div>

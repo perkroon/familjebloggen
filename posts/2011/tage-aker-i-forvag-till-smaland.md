@@ -27,29 +27,27 @@ Resten av barnfamiljen åkte ner till farmor  och farfar i Småland på lördage
 </figure>
 
 <figure>
-	<img src="../../../img/2011/06/Majsemester-_MG_9230.jpg"></td></tr>
+	<img src="../../../img/2011/06/Majsemester-_MG_9230.jpg">
  	<figcaption>På allmän begäran plockade farfar fram flakmoppen och bjöd på en tur.<figcaption>
 </figure>
 
-</tr>
- </tbody></table><br><br><figure>
-	<img src="../../../img/2011/06/Majsemester-_MG_9225.jpg"></td></tr>
- 	<figcaption>Farfar, Mamman och Tage hade kul på flakmoppen, men Åke tyckte inte att det <br>var något särskilt alls. Fast han åker ju vagn varje dag och är kanske van?<figcaption>
+<figure>
+	<img src="../../../img/2011/06/Majsemester-_MG_9225.jpg">
+ 	<figcaption>Farfar, Mamman och Tage hade kul på flakmoppen, men Åke tyckte inte att det var något särskilt alls. Fast han åker ju vagn varje dag och är kanske van?<figcaption>
 </figure>
 
 <figure>
-	<img src="../../../img/2011/06/Majsemester-_MG_9202.jpg"></td></tr>
- 	<figcaption>Vi träffade också hunden Stina, som Tage fortfarande har en del respekt för. <br>Den här gången lät han dock Stina sitta i knät en stund.<figcaption>
+	<img src="../../../img/2011/06/Majsemester-_MG_9202.jpg">
+ 	<figcaption>Vi träffade också hunden Stina, som Tage fortfarande har en del respekt för. Den här gången lät han dock Stina sitta i knät en stund.<figcaption>
 </figure>
 
-</tr>
- </tbody></table><br><br><figure>
+<figure>
 	<img src="../../../img/2011/06/Majsemester-_MG_9181.jpg">
  	<figcaption>Här har vi en springstund framför lillstugan vi bodde i.<figcaption>
 </figure>
 
 <figure>
-	<img src="../../../img/2011/06/Majsemester-_MG_9234.jpg"></td></tr>
+	<img src="../../../img/2011/06/Majsemester-_MG_9234.jpg">
  	<figcaption>Åke hade mycket nytt att utforska runt huset.<figcaption>
 </figure>
 
@@ -59,9 +57,6 @@ Resten av barnfamiljen åkte ner till farmor  och farfar i Småland på lördage
 </figure>
 
 <figure>
-	<img src="../../../img/2011/06/Majsemester-_MG_9164.jpg"></td></tr>
+	<img src="../../../img/2011/06/Majsemester-_MG_9164.jpg">
  	<figcaption>Farfar leker tittut med Åke som gungar i den nya gungställningen.<figcaption>
 </figure>
-
-</tr>
- </tbody></table>

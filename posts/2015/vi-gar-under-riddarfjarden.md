@@ -5,7 +5,7 @@ tags:
 originalUrl:	https://nejtupp.blogspot.com/2015/04/vi-gar-under-riddarfjarden.html
 ---
 
-<div dir="ltr" style="text-align: left;" trbidi="on">Söndagen den 29 mars hade Trafikverket visning av Citybanans sträckning under Riddarfjärden. Besökare var välkomna att titta och promenera under vattnet från Södermalm till Riddarholmen. Tage var krasslig hemma, men Åke och jag passade på att sticka dit.<br></div>
+<div dir="ltr" style="text-align: left;" trbidi="on">Söndagen den 29 mars hade Trafikverket visning av Citybanans sträckning under Riddarfjärden. Besökare var välkomna att titta och promenera under vattnet från Södermalm till Riddarholmen. Tage var krasslig hemma, men Åke och jag passade på att sticka dit.
 
 <figure>
 	<img src="../../../../img/Citybanan-PERK3079.jpg" height="426">
@@ -24,12 +24,12 @@ originalUrl:	https://nejtupp.blogspot.com/2015/04/vi-gar-under-riddarfjarden.htm
 </figure>
 
 <figure>
-	<img src="../../../../img/Citybanan-PERK3107.jpg" height="640" width="426">
+	<img src="../../../../img/Citybanan-PERK3107.jpg" height="640">
 	<figcaption>Åke köade så tappert och var ständigt på gott humör. Han började frysa <br>när vi hade 15 meter kvar, men då var vi ju nästan framme.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/Citybanan-PERK3126.jpg" height="640" width="426">
+	<img src="../../../../img/Citybanan-PERK3126.jpg" height="640">
 	<figcaption>Alla besökare fick väst och hjälm.</figcaption>
 </figure>
 
@@ -40,7 +40,10 @@ originalUrl:	https://nejtupp.blogspot.com/2015/04/vi-gar-under-riddarfjarden.htm
 
 <figure>
 	<img src="../../../../img/Citybanan-PERK3143.jpg" height="426">
-	<figcaption>Citybanan, söderut, tunneln mot Södra Station.</td></tr></tbody></table><br>
+	<figcaption>Citybanan, söderut, tunneln mot Södra Station.</figcaption>
+</figure>
+
+<br>
 
 <figure>
 	<img src="../../../../img/Citybanan-PERK3144.jpg" height="426">
@@ -63,7 +66,7 @@ originalUrl:	https://nejtupp.blogspot.com/2015/04/vi-gar-under-riddarfjarden.htm
 </figure>
 
 <figure>
-	<img src="../../../../img/Citybanan-PERK3176.jpg" height="640" width="426">
+	<img src="../../../../img/Citybanan-PERK3176.jpg" height="640">
 	<figcaption>Här hade vi nått fram till det blå ljuset som spelade över väggarna <br>med hjälp av projektorer. De hade också några fuskfönster som visade<br>fiskar och ubåtar utanför tunneln. Åke tyckte det var läskigt här, vilket<br>syns tydligt på hans ögon i bilden, så vi skyndade oss vidare.</figcaption>
 </figure>
 
@@ -83,7 +86,7 @@ originalUrl:	https://nejtupp.blogspot.com/2015/04/vi-gar-under-riddarfjarden.htm
 </figure>
 
 <figure>
-	<img src="../../../../img/Citybanan-PERK3203.jpg" height="640" width="426">
+	<img src="../../../../img/Citybanan-PERK3203.jpg" height="640">
 	<figcaption>Åke i servicetunneln.</figcaption>
 </figure>
 
@@ -93,7 +96,7 @@ originalUrl:	https://nejtupp.blogspot.com/2015/04/vi-gar-under-riddarfjarden.htm
 </figure>
 
 <figure>
-	<img src="../../../../img/Citybanan-PERK3241.jpg" height="640" width="426">
+	<img src="../../../../img/Citybanan-PERK3241.jpg" height="640">
 	<figcaption>När vi lämnat hjälmar och västar fick vi varsin bulle.</figcaption>
 </figure>
 

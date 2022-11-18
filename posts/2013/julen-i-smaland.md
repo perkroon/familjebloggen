@@ -16,32 +16,32 @@ originalUrl: https://nejtupp.blogspot.com/2013/01/julen-i-smaland.html
 	<figcaption>Farfar drog snällt upp båda barnbarnen uppför backen på väg till Drevs kyrka.</figcaption>
 </figure>
 
-<br><div style="text-align: start;"><br></div>
+<br><div style="text-align: start;">
 
 <figure>
 	<img src="../../../../img/Kring+jul+i+Pyrtet-5C5C0205.jpg">
 	<figcaption>Ibland tappade han en gubbe, men här satt båda kvar.</figcaption>
-</figure><div style="text-align: start;"><br></div>
+</figure><div style="text-align: start;">
 
 <figure>
 	<img src="../../../../img/Kring+jul+i+Pyrtet-5C5C0241.jpg">
 	<figcaption>Farfar ville så klart också prova att åka.</figcaption>
-</figure><div style="text-align: start;"><br></div>
+</figure><div style="text-align: start;">
 
 <figure>
 	<img src="../../../../img/Kring+jul+i+Pyrtet-5C5C0249.jpg">
 	<figcaption>På vägen tillbaka hittade vi mystiska små spår i snön...</figcaption>
-</figure><div style="text-align: start;"><br></div>
+</figure><div style="text-align: start;">
 
 <figure>
 	<img src="../../../../img/Kring+jul+i+Pyrtet-5C5C0245.jpg">
 	<figcaption>... spåren började nedanför trädstammen, passerade en liten sten <br>där en kotte skalats och fortsatte sedan ut i terrängen. En ekorre!</figcaption>
-</figure><div style="text-align: start;"><br></div>
+</figure><div style="text-align: start;">
 
 <figure>
 	<img src="../../../../img/Kring+jul+i+Pyrtet-5C5C0283.jpg">
 	<figcaption>Dagen efter gick vi tillbaka till samma pulkabacke igen, nu i sällskap med faster Jenny. <br>Åke var rätt intresserad av den här fyrhjulingen, han är ju väldigt intresserad av fordon.</figcaption>
-</figure><div style="text-align: start;"><br></div>
+</figure><div style="text-align: start;">
 
 <figure>
 	<img src="../../../../img/Kring+jul+i+Pyrtet-5C5C0293.jpg">
@@ -51,22 +51,24 @@ originalUrl: https://nejtupp.blogspot.com/2013/01/julen-i-smaland.html
 <figure>
 	<img src="../../../../img/Kring+jul+i+Pyrtet-5C5C0298.jpg">
 	<figcaption>Åkes varma kinder värmer Mammans frusna näsa.</figcaption>
-</figure><div style="text-align: start;"><br></div>
+</figure><div style="text-align: start;">
 
 <figure>
-	<img src="../../../../img/Kring+jul+i+Pyrtet-5C5C0387.jpg" width="426">
+	<img src="../../../../img/Kring+jul+i+Pyrtet-5C5C0387.jpg">
 	<figcaption>På kvällen innan julafton åt vi risgrynsgröt (tomtegröt). <br>Tage fick en mandel i sin portion!</figcaption>
-</figure><div style="text-align: start;"><br></div>
+</figure><div style="text-align: start;">
 
 <figure>
-	<img src="../../../../img/Kring+jul+i+Pyrtet-5C5C0318.jpg" width="426">
+	<img src="../../../../img/Kring+jul+i+Pyrtet-5C5C0318.jpg">
 	<figcaption>Åke ville gärna följa med på en liten skogspromenad då vi spanade efter tomten, <br>men han ville ogärna gå själv. Pappan fick bära.</figcaption>
-</figure><div style="text-align: start;"><br></div>
+</figure><div style="text-align: start;">
 
 <figure>
 	<img src="../../../../img/Kring+jul+i+Pyrtet-5C5C0256.jpg">
 	<figcaption>Tage (och Åke i bakgrunden) hjälpte till att klä granen.</figcaption>
-</figure><div><div class="separator" style="clear: both; text-align: center;"><br>Dagen innan julafton träffade vi också två av Pappans kusiner, Mia och Helena, med familjer. Åke var lite blyg och väldigt trött, Tage var piggare. </div><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
+
+<div class="separator" style="clear: both; text-align: center;"><br>Dagen innan julafton träffade vi också två av Pappans kusiner, Mia och Helena, med familjer. Åke var lite blyg och väldigt trött, Tage var piggare. </div>
 
 <figure>
 	<img src="../../../../img/Lillejulafton+med+Ekstro%CC%88ms-5C5C0353.jpg">
@@ -86,12 +88,12 @@ originalUrl: https://nejtupp.blogspot.com/2013/01/julen-i-smaland.html
 <figure>
 	<img src="../../../../img/Lillejulafton+med+Ekstro%CC%88ms-5C5C0365.jpg">
 	<figcaption>När Åke vaknade var han nyfiken på smakerna i köket: Panettone och en gigantisk tysk marsipankaka.</figcaption>
-</figure>När julafton kom var det riktigt bra kramsnö ute och Mamman och barnen passade på att gå ut och bygga en stilig snögubbe. Sedan åt vi julmat tillsammans med mormor Gun och såg Kalle Ankas jul på teven – äntligen tycktes vi lyckas i vårt uppsåt att få barnen entusiastiska inför en timmes tecknad film på teve! Både Åke och Tage uppskattade programmet, samt alla vuxna förstås. När mörkret lagt sig över skogen dök tomten upp med en säck julklappar som han delade ut. Han hade väl många att besöka denna dag antar jag, för han hann inte stanna så länge, resten av julklapparna delade vi ut själva. Inte för att vi räknade, men jag vågar påstå att Tage och Åke fick flest julklappar. När de öppnade paket efter paket med klappar tror jag de insåg varför julen är en så omhuldad högtid... Resten av kvällen ägnade vi åt lek med julklapparna de fått, innan barnen gick och lade sig och mormor Gun skjutsades hem.</div><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>När julafton kom var det riktigt bra kramsnö ute och Mamman och barnen passade på att gå ut och bygga en stilig snögubbe. Sedan åt vi julmat tillsammans med mormor Gun och såg Kalle Ankas jul på teven – äntligen tycktes vi lyckas i vårt uppsåt att få barnen entusiastiska inför en timmes tecknad film på teve! Både Åke och Tage uppskattade programmet, samt alla vuxna förstås. När mörkret lagt sig över skogen dök tomten upp med en säck julklappar som han delade ut. Han hade väl många att besöka denna dag antar jag, för han hann inte stanna så länge, resten av julklapparna delade vi ut själva. Inte för att vi räknade, men jag vågar påstå att Tage och Åke fick flest julklappar. När de öppnade paket efter paket med klappar tror jag de insåg varför julen är en så omhuldad högtid... Resten av kvällen ägnade vi åt lek med julklapparna de fått, innan barnen gick och lade sig och mormor Gun skjutsades hem.</div>
 
 <figure>
 	<img src="../../../../img/Julafton-5C5C0402.jpg">
 	<figcaption>Tage, Snögubben och Mamman.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
 	<img src="../../../../img/Julafton-5C5C0410.jpg">
@@ -99,9 +101,9 @@ originalUrl: https://nejtupp.blogspot.com/2013/01/julen-i-smaland.html
 </figure>
 
 <figure>
-	<img src="../../../../img/Julafton-5C5C0414.jpg" width="426">
+	<img src="../../../../img/Julafton-5C5C0414.jpg">
 	<figcaption>Mamman visade att hon håller hårt på de halländska traditionerna <br>och lagade stuvad grönkål till julbordet.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div><br>
+</figure><br>
 
 <figure>
 	<img src="../../../../img/Julafton-5C5C0418.jpg">

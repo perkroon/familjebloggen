@@ -29,4 +29,4 @@ Minnesgoda läsare av bloggen minns att barnen fick en snowracer i julklapp. Tyv
 <figure>
 	<img src="../../../../img/Snowracer+pa%CC%8A+La%CC%8Angholmen-_MG_0883.jpg">
 	<figcaption>Mamman och Pappan ville också provåka. Här bromsar Mamman eftersom hon tycker att farten är lite väl hög.</figcaption>
-</figure>Till sist presenterar vi lite rörliga bilder. Pappan säger "Klara, färdiga, kör!".<br><br><object class="BLOG_video_class" contentid="f90002a4fae07f43" height="266" id="BLOG_video-f90002a4fae07f43" width="320"></object><br><div><br></div>
+</figure>Till sist presenterar vi lite rörliga bilder. Pappan säger "Klara, färdiga, kör!".<br><br><object class="BLOG_video_class" contentid="f90002a4fae07f43" height="266" id="BLOG_video-f90002a4fae07f43" width="320"></object><br><div>

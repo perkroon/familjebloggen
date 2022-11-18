@@ -10,7 +10,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2012/02/forskolan-stangd-till-skansen-akvariet.html
 ---
 
-Måndagen den 20 februari var barnens förskola stängd eftersom de hade en planeringsdag. Vi tog tillfället i akt och gjorde en utflykt till Skansen-Akvariet. Med på resan var också mormor, morbror Filip och Tages goda vän F. Vi åkte tunnelbanan till Slussen men fortsatte sedan med båt över till Djurgården. Det var ju varken helg eller sportlov, så det var gott om plats på färjan.<br></div>
+Måndagen den 20 februari var barnens förskola stängd eftersom de hade en planeringsdag. Vi tog tillfället i akt och gjorde en utflykt till Skansen-Akvariet. Med på resan var också mormor, morbror Filip och Tages goda vän F. Vi åkte tunnelbanan till Slussen men fortsatte sedan med båt över till Djurgården. Det var ju varken helg eller sportlov, så det var gott om plats på färjan.
 
 <figure>
 	<img src="../../../../img/Till+Skansen-Akvariet-_MG_0952.jpg">
@@ -35,7 +35,7 @@ Måndagen den 20 februari var barnens förskola stängd eftersom de hade en plan
 <figure>
 	<img src="../../../../img/Till+Skansen-Akvariet-_MG_1017.jpg">
 	<figcaption>Fiskarna och anemonerna var också fina, fast de fick inte så mycket uppmärksamhet <br>av oss den här gången, det fanns så mycket annat att titta på.</figcaption>
-</figure>En riktigt rolig sak, särskilt när det var så lite folk på akvariet som det var idag, var att springa omkring i Barnens regnskog. Där sprang F och Tage varv på varv – för att inte tala om Åke som verkligen älskade rundan. Han sjöng sången "Svarta grottan" för sig själv, ty längst in i djungeln fanns en mörk spännande grotta som han rusade igenom.</div><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>En riktigt rolig sak, särskilt när det var så lite folk på akvariet som det var idag, var att springa omkring i Barnens regnskog. Där sprang F och Tage varv på varv – för att inte tala om Åke som verkligen älskade rundan. Han sjöng sången "Svarta grottan" för sig själv, ty längst in i djungeln fanns en mörk spännande grotta som han rusade igenom.</div>
 
 <figure>
 	<img src="../../../../img/Till+Skansen-Akvariet-_MG_1081.jpg">
@@ -43,9 +43,9 @@ Måndagen den 20 februari var barnens förskola stängd eftersom de hade en plan
 </figure>
 
 <figure>
-	<img src="../../../../img/Till+Skansen-Akvariet-_MG_1034.jpg" width="426">
+	<img src="../../../../img/Till+Skansen-Akvariet-_MG_1034.jpg">
 	<figcaption>Jag hade ren tur som hann fotografera dem när de stod still för en gångs skull.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
 	<img src="../../../../img/Till+Skansen-Akvariet-_MG_1054.jpg">
@@ -55,12 +55,12 @@ Måndagen den 20 februari var barnens förskola stängd eftersom de hade en plan
 <figure>
 	<img src="../../../../img/Till+Skansen-Akvariet-_MG_1059.jpg">
 	<figcaption>– Bara ett varv till pappa!</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
-	<img src="../../../../img/Till+Skansen-Akvariet-_MG_1065.jpg" width="426">
+	<img src="../../../../img/Till+Skansen-Akvariet-_MG_1065.jpg">
 	<figcaption>Hela djungelgänget på en och samma bild.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
 	<img src="../../../../img/Till+Skansen-Akvariet-_MG_1087.jpg">
@@ -70,4 +70,4 @@ Måndagen den 20 februari var barnens förskola stängd eftersom de hade en plan
 <figure>
 	<img src="../../../../img/Till+Skansen-Akvariet-_MG_1100.jpg">
 	<figcaption>Till sist tittade alla tre barnen på babianerna på apberget. De var kul att se de tre ha så kul tillsammans! <br>Vi kom fram till att det var en riktigt bra idé att besöka Skansen-Akvariet en vardag, när det är lite besökare. <br>Det gör vi om en annan dag!</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>

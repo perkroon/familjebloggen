@@ -7,19 +7,22 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2014/10/fodelsedagsresa-till-berlin.html
 ---
 
-Nu var det dags för familjen att åka till Berlin! Det var ett tag sedan vi var utomlands, och Åke var ganska peppad på att resa. När vi hämtade honom på förskolan berättade personalen att han pratat om att åka flygbuss till Berlin. Fast så blev det ju inte: vi tog bussen till Arlanda bara! Men redan ombord på bussen stod det klart att Åke var nervös. Han tyckte även bussen var lite läskig, när man satt så högt upp som man gjorde. Både han och Tage somnade på vägen ut, men vaknade utan problem vid terminalen.<br>Ombord på flygplanet, när vi hittat våra platser, blir Åke ordentligt rädd. Han klamrar sig fast i Lovisas arm och säger att det är läskigt, att det kommer att vara som på berg-och-dal-banan på Liseberg och Gröna Lund... Vi försöker lugna honom och förklarar att flygplanet inte alls svänger och kränger på samma sätt, och när vi väl kommit upp i luften så släpper rädslan och han kopplar av igen. Landningen var inte alls lika nervös.<br><br></div>
+Nu var det dags för familjen att åka till Berlin! Det var ett tag sedan vi var utomlands, och Åke var ganska peppad på att resa. När vi hämtade honom på förskolan berättade personalen att han pratat om att åka flygbuss till Berlin. Fast så blev det ju inte: vi tog bussen till Arlanda bara! Men redan ombord på bussen stod det klart att Åke var nervös. Han tyckte även bussen var lite läskig, när man satt så högt upp som man gjorde. Både han och Tage somnade på vägen ut, men vaknade utan problem vid terminalen.<br>Ombord på flygplanet, när vi hittat våra platser, blir Åke ordentligt rädd. Han klamrar sig fast i Lovisas arm och säger att det är läskigt, att det kommer att vara som på berg-och-dal-banan på Liseberg och Gröna Lund... Vi försöker lugna honom och förklarar att flygplanet inte alls svänger och kränger på samma sätt, och när vi väl kommit upp i luften så släpper rädslan och han kopplar av igen. Landningen var inte alls lika nervös.<br>
 
 <figure>
-	<img src="../../../../img/Berlin-PERK5126.jpg" height="640" width="426">
+	<img src="../../../../img/Berlin-PERK5126.jpg" height="640">
 	<figcaption>Åke har glömt hur det är att flyga, och tänker på <br>de läskiga berg-och-dal-banorna han åkte i somras...</figcaption>
 </figure>Vi kom fram sent på onsdagskvällen och tog en taxi direkt till lägenheten vi hyrde i Prenzlauer Berg. Barnen var så klart trötta, men snälla och nyfikna. Nästa morgon kunde vi börja utforska Berlin. En oväntad sak som hände var att Åke visade sig vara rädd även för Berlins tunnelbana. Vår närmaste station var placerad ovanför gatunivån och när vi stod där och väntade på tunnelbanan sade Åke plötsligt att han inte ville åka med. Han tyckte den verkade köra så fort och att den var lite läskig. Här var det enklare att se likheten med berg-och-dal-banorna från i somras... Åke lät sig dock övertalas och följde med, och efter 50 meter i tåget var rädslan som bortblåst.<br><br>
 
 <figure>
-	<img src="../../../../img/Berlin-PERK5172.jpg" height="640" width="426">
-	<figcaption>Vart ska vi åka?</i> </td></tr></tbody></table><br>Vi hamnade nere i Mitte och hoppade där på buss nr 100 som kör längs många sevärdheter i Berlin. Det var kul att sitta på övervåningen på dubbeldäckaren och se staden ur det perspektivet. Sedan letade vi oss tillbaka till Potzdamer Platz, och till Lego Discovery Center som finns där.<br><div><br>
+	<img src="../../../../img/Berlin-PERK5172.jpg" height="640">
+	<figcaption>Vart ska vi åka?</i> </figcaption>
+</figure>
+
+<br>Vi hamnade nere i Mitte och hoppade där på buss nr 100 som kör längs många sevärdheter i Berlin. Det var kul att sitta på övervåningen på dubbeldäckaren och se staden ur det perspektivet. Sedan letade vi oss tillbaka till Potzdamer Platz, och till Lego Discovery Center som finns där.<br><div><br>
 
 <figure>
-	<img src="../../../../img/Berlin-PERK5188.jpg" height="640" width="426">
+	<img src="../../../../img/Berlin-PERK5188.jpg" height="640">
 	<figcaption>På gatan vid Potzdamer Platz, utanför Lego Discovery Center.</figcaption>
 </figure>
 
@@ -34,13 +37,16 @@ Nu var det dags för familjen att åka till Berlin! Det var ett tag sedan vi var
 </figure>
 
 <figure>
-	<img src="../../../../img/Berlin-PERK5222.jpg" height="640" width="426">
+	<img src="../../../../img/Berlin-PERK5222.jpg" height="640">
 	<figcaption>Tage blev uppäten av ett Lego-lejon.</figcaption>
 </figure>
 
 <figure>
 	<img src="../../../../img/Berlin-PERK5245.jpg" height="426">
-	<figcaption>Här ser vi Åke som tar sig igenom ett mörkt rum fyllt med laserstrålar. Klarar han att ta sig igenom hela rummet<br>och trycka på knappen på väggen utan att bryta någon stråle?</i> </td></tr></tbody></table><div class="separator" style="clear: both; text-align: center;"><br></div>
+	<figcaption>Här ser vi Åke som tar sig igenom ett mörkt rum fyllt med laserstrålar. Klarar han att ta sig igenom hela rummet<br>och trycka på knappen på väggen utan att bryta någon stråle?</i> </figcaption>
+</figure>
+
+
 
 <figure>
 	<img src="../../../../img/Berlin-PERK5249.jpg" height="426">
@@ -58,7 +64,7 @@ Nu var det dags för familjen att åka till Berlin! Det var ett tag sedan vi var
 </figure>
 
 <figure>
-	<img src="../../../../img/Berlin-PERK5389.jpg" height="640" width="426">
+	<img src="../../../../img/Berlin-PERK5389.jpg" height="640">
 	<figcaption>En av höjdpunkterna på museet var den här stora dinosaurien, <br>som skymtar bakom pojkarna i bilden.</figcaption>
 </figure>
 
@@ -74,7 +80,10 @@ Nu var det dags för familjen att åka till Berlin! Det var ett tag sedan vi var
 
 <figure>
 	<img src="../../../../img/Berlin-PERK5462.jpg" height="426">
-	<figcaption>Vid Alexanderplatz.</td></tr></tbody></table><br>
+	<figcaption>Vid Alexanderplatz.</figcaption>
+</figure>
+
+<br>
 
 <figure>
 	<img src="../../../../img/Berlin-PERK5473.jpg" height="426">
@@ -82,7 +91,7 @@ Nu var det dags för familjen att åka till Berlin! Det var ett tag sedan vi var
 </figure>
 
 <figure>
-	<img border="0" src="../../../../img/Berlin-PERK5495.jpg" height="640" style="margin-left: auto; margin-right: auto;" width="426">
+	<img border="0" src="../../../../img/Berlin-PERK5495.jpg" height="640" style="margin-left: auto; margin-right: auto;">
 	<figcaption>Nedanför TV-tornet fanns också en lekplats där vi hängde en stund.</figcaption>
 </figure><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/Berlin-PERK5501.jpg" height="426">
 	<figcaption>Väl uppe i tornet stod vi och tittade ner på staden under oss.</figcaption>
@@ -99,12 +108,12 @@ Nu var det dags för familjen att åka till Berlin! Det var ett tag sedan vi var
 </figure><br>
 
 <figure>
-	<img src="../../../../img/Berlin-PERK5546.jpg" height="640" width="426">
+	<img src="../../../../img/Berlin-PERK5546.jpg" height="640">
 	<figcaption>Spex på vägen hem på kvällen...</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/Berlin-PERK5548.jpg" height="640" width="426">
+	<img src="../../../../img/Berlin-PERK5548.jpg" height="640">
 	<figcaption>... och mer spexande.</figcaption>
 </figure>
 
@@ -114,7 +123,7 @@ Nu var det dags för familjen att åka till Berlin! Det var ett tag sedan vi var
 </figure>Vi hyrde alltså en liten lägenhet istället för att bo på hotell. Det var svårt att hitta hotellrum, vilket kan förklaras av att det var Berlin Marathon samma helg, med 50 000 deltagare. I princip bestod lägenheten av ett litet kök, en toalett och ett större rum, möblerat med tre rejäla sängar. Vi hade alltså gott om plats och kunde äta frukost i lägenheten, vilket var skönt. Den bästa livsmedelsbutiken i hela området låg precis nedanför oss på gatan, och bredvid den sålde de nybakat bröd varje morgon.<br><br>
 
 <figure>
-	<img src="../../../../img/Berlin-PERK5623.jpg" height="640" width="426">
+	<img src="../../../../img/Berlin-PERK5623.jpg" height="640">
 	<figcaption>Frukost på tyska.</figcaption>
 </figure>
 
@@ -149,7 +158,7 @@ Nu var det dags för familjen att åka till Berlin! Det var ett tag sedan vi var
 </figure>
 
 <figure>
-	<img src="../../../../img/Berlin-PERK5699.jpg" height="640" width="426">
+	<img src="../../../../img/Berlin-PERK5699.jpg" height="640">
 	<figcaption>Tage visar hur man kan röra sig på ett ben, genom att bara röra på foten. <br>Vips, så återuppfann han twisten!</figcaption>
 </figure>
 
@@ -159,13 +168,16 @@ Nu var det dags för familjen att åka till Berlin! Det var ett tag sedan vi var
 </figure>Efter Mauerpark rörde vi oss långsamt i riktning mot Kollwitzplatz, i hjärtat av Prenzlauer Berg. Vi hade inget egentligt mål, ville bara titta lite i närområdet. Det var ett väldigt grönt och fint område, med många spännande kaféer, restauranger och butiker. <br><br>
 
 <figure>
-	<img src="../../../../img/Berlin-PERK5744.jpg" height="640" width="426">
+	<img src="../../../../img/Berlin-PERK5744.jpg" height="640">
 	<figcaption>Åke och Tage hittade ett (konstgjort) träd som fungerade <br>som ett offentligt gratisbibliotek. Åke började genast läsa en tjock tegelsten.</figcaption>
 </figure>
 
 <figure>
 	<img src="../../../../img/Berlin-PERK5761.jpg" height="426">
-	<figcaption>Vi hittade också väldigt fina tårtor i ett skyltfönster. De såg väldigt goda ut...</i> </td></tr></tbody></table><div class="separator" style="clear: both; text-align: center;"><br></div>
+	<figcaption>Vi hittade också väldigt fina tårtor i ett skyltfönster. De såg väldigt goda ut...</i> </figcaption>
+</figure>
+
+
 
 <figure>
 	<img src="../../../../img/Berlin-PERK5771.jpg" height="426">
@@ -193,8 +205,11 @@ Nu var det dags för familjen att åka till Berlin! Det var ett tag sedan vi var
 </figure>
 
 <figure>
-	<img src="../../../../img/Berlin-PERK5905.jpg" height="640" width="426">
-	<figcaption>Åke tröttnade fortast på att titta på löpare.</i> </td></tr></tbody></table><div class="separator" style="clear: both; text-align: center;"><br></div>
+	<img src="../../../../img/Berlin-PERK5905.jpg" height="640">
+	<figcaption>Åke tröttnade fortast på att titta på löpare.</i> </figcaption>
+</figure>
+
+
 
 <figure>
 	<img src="../../../../img/Berlin-PERK5910.jpg" height="426">
@@ -212,16 +227,16 @@ Nu var det dags för familjen att åka till Berlin! Det var ett tag sedan vi var
 </figure>
 
 <figure>
-	<img src="../../../../img/Berlin-PERK5969.jpg" height="640" width="426">
+	<img src="../../../../img/Berlin-PERK5969.jpg" height="640">
 	<figcaption>Det var 78 trappsteg upp till vår lägenhet.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/Berlin-PERK5978.jpg" height="640" width="426">
+	<img src="../../../../img/Berlin-PERK5978.jpg" height="640">
 	<figcaption>Åke och Tage räknade trappstegen varje gång. En gång störde Tage <br>Åke på den sista trappan så mycket att han kom av sig i räkningen. <br>Åke blev arg på Tage och sprang ner för trapporna. <br>Jag trodde han blev sur och gick snart efter för att se till <br>att kan kom upp igen, men då mötte jag honom: han hade bara sprungit <br>ner till bottenvåningen för att börja räkna från början igen...</figcaption>
 </figure>På eftermiddagen på söndagen tog vi en taxi tillbaka till flygplatsen och åkte hem igen. Åke var inte alls rädd längre, och eftersom vi mellanlandade i Köpenhamn fick vi lite extra flygträning. <br><br>
 
 <figure>
 	<img src="../../../../img/Berlin-PERK6008.jpg" height="426">
 	<figcaption>Barnen var trötta på hemvägen, vilket alla kan se här när Tage äter en smörgås på Kastrup.</figcaption>
-</figure>När vi kom hem till Hornstull hade klockan blivit tio och barnen hade sovit hela bussresan från Arlanda. Lovisa tog Tage på ryggen och jag bar Åke på axlarna och på något sätt fick vi visst med oss bagaget också.</div><div><br></div><div>Vi var hemma igen, efter en riktigt kul utflykt till Berlin!</div>
+</figure>När vi kom hem till Hornstull hade klockan blivit tio och barnen hade sovit hela bussresan från Arlanda. Lovisa tog Tage på ryggen och jag bar Åke på axlarna och på något sätt fick vi visst med oss bagaget också.</div><div><div>Vi var hemma igen, efter en riktigt kul utflykt till Berlin!</div>

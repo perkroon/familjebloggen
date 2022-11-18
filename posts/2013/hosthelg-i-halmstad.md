@@ -7,7 +7,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2013/12/hosthelg-i-halmstad.html
 ---
 
-När Pappan fyllde 40 år för ganska länge sedan fick han ett presentkort som bara kunde utnyttjas i Halmstad. Nu var det dags att utnyttja det, så vi bokade en tågresa ner en helg i mitten av november. Resan började med lite otur: vårt tåg var någon timme försenat från Stockholms Central på grund av något tåg som blivit stillastående i Årsta. Men vi kom iväg och resan till Halmstad gick bra.<br></div>
+När Pappan fyllde 40 år för ganska länge sedan fick han ett presentkort som bara kunde utnyttjas i Halmstad. Nu var det dags att utnyttja det, så vi bokade en tågresa ner en helg i mitten av november. Resan började med lite otur: vårt tåg var någon timme försenat från Stockholms Central på grund av något tåg som blivit stillastående i Årsta. Men vi kom iväg och resan till Halmstad gick bra.
 
 <figure>
 	<img src="../../../../img/Resa+till+Halmstad-PERK2127.jpg" height="426">
@@ -35,7 +35,7 @@ När Pappan fyllde 40 år för ganska länge sedan fick han ett presentkort som 
 </figure>
 
 <figure>
-	<img src="../../../../img/Resa+till+Halmstad-PERK2168.jpg" height="640" width="426">
+	<img src="../../../../img/Resa+till+Halmstad-PERK2168.jpg" height="640">
 	<figcaption>Tage framför ett rätt fallfärdigt hus.</figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ När Pappan fyllde 40 år för ganska länge sedan fick han ett presentkort som 
 </figure>
 
 <figure>
-	<img src="../../../../img/Resa+till+Halmstad-PERK2179.jpg" height="640" width="426">
+	<img src="../../../../img/Resa+till+Halmstad-PERK2179.jpg" height="640">
 	<figcaption>Vi var inte så mycket utomhus, men den här gamla blå vännen <br>fick sig några sparkar när vi passerade på väg in eller ut.</figcaption>
 </figure>På eftermiddagen kunde vi åka och hälsa på morfar på sjukhuset. Vi köpte lite kaffe och kaffebröd och fikade med honom i det gemensamma allrummet på avdelningen. Morfar var på gott humör och skojade med allt och alla, men han var nog tröttare än han själv trott, så vårt besök blev inte så långvarigt. Han hade fortfarande inte fått någon besked om när han skulle kunna åka hem.</div><br>
 
@@ -71,12 +71,12 @@ När Pappan fyllde 40 år för ganska länge sedan fick han ett presentkort som 
 
 <figure>
 	<img src="../../../../img/Resa+till+Halmstad-PERK2214.jpg" height="426">
-	<figcaption>När vi gick ner till bottenvåningen igen på sjukhuset för att åka och handla så satte sig Tage och Åke i några stolar vid entrén. </i><br><i>Jag tycker det ser ut som om de har suttit där och väntat i minst ett par timmar...</figcaption>
+	<figcaption>När vi gick ner till bottenvåningen igen på sjukhuset för att åka och handla så satte sig Tage och Åke i några stolar vid entrén. Jag tycker det ser ut som om de har suttit där och väntat i minst ett par timmar...</figcaption>
 </figure>
 
 <figure>
 	<img src="../../../../img/Resa+till+Halmstad-PERK2218.jpg" height="426">
-	<figcaption>Efter sjukhuset åkte vi till en jättestor affär och handlade. Eftersom det var lördag passade vi också på att handla lördagsgodis. </i><br><i>Det finns fler sorter att välja på här jämfört med vår lilla kvartersbutik i Stockholm...</figcaption>
+	<figcaption>Efter sjukhuset åkte vi till en jättestor affär och handlade. Eftersom det var lördag passade vi också på att handla lördagsgodis. Det finns fler sorter att välja på här jämfört med vår lilla kvartersbutik i Stockholm...</figcaption>
 </figure>
 
 <figure>
@@ -85,14 +85,14 @@ När Pappan fyllde 40 år för ganska länge sedan fick han ett presentkort som 
 </figure>
 
 <figure>
-	<img src="../../../../img/Resa+till+Halmstad-PERK2223.jpg" height="640" width="426">
+	<img src="../../../../img/Resa+till+Halmstad-PERK2223.jpg" height="640">
 	<figcaption>Tage, som är fem år, får sju bitar. Åke får välja fem. <br>I mars kommer det att bli åtta respektive sex bitar.</figcaption>
 </figure>
 
 <figure>
 	<img src="../../../../img/Resa+till+Halmstad-PERK2230.jpg" height="426">
 	<figcaption>Man kan tro att Åke står och funderar noga över vilka godbitar han ska ta, men han brukar inte vara så knusslig. <br>Och när han väl börjar äta godiset är det bara ungefär hälften av bitarna som han tycker det är lönt att äta upp, <br>resten spottar han helt enkelt ut och säger: – Den var inte så god...</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div><br>
+</figure><br>
 
 <figure>
 	<img src="../../../../img/Resa+till+Halmstad-PERK2246.jpg" height="426">
@@ -112,7 +112,7 @@ När Pappan fyllde 40 år för ganska länge sedan fick han ett presentkort som 
 <figure>
 	<img src="../../../../img/Resa+till+Halmstad-PERK2272.jpg" height="426">
 	<figcaption>Åke med kexchoklad i handen. Pappan hade råkat äta upp hans lilla kexchokladbit i lördagsgodiset och fick kompensera med att köpa en hel kexchoklad på tåget på väg till Göteborg. Rätt ska vara rätt! </figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
 	<img src="../../../../img/Resa+till+Halmstad-PERK2267.jpg" height="426">

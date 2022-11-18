@@ -7,7 +7,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2014/04/tage-far-en-jatteglugg.html
 ---
 
-Just som tåget från Åre rullade in på Stockholms Centralstation på söndagseftermiddagen så tappade Tage vänster framtand, som varit lös i flera veckor. Det blödde en del, men eftersom vi just höll på att klä på oss för att kliva av tåget (med allt besvär det innebär med två pojkar med gipsade ben) så fick han kanske inte så mycket uppmärksamhet.<br><div class="separator" style="clear: both; text-align: center;"><br></div>Snart konstaterade vi att ytterligare en tand var lös, bredvid den han just tappat. Den tappade han på tisdagen på förskolan, så vi vet inte riktigt hur det gick till. Han fick i alla fall hem tanden i ett litet kuvert, så att han skulle kunna lägga tanden i ett glas vatten och hoppas att tandfén skulle sköta sitt jobb.<br><br><i style="font-size: 13px; text-align: center;"></i><br>
+Just som tåget från Åre rullade in på Stockholms Centralstation på söndagseftermiddagen så tappade Tage vänster framtand, som varit lös i flera veckor. Det blödde en del, men eftersom vi just höll på att klä på oss för att kliva av tåget (med allt besvär det innebär med två pojkar med gipsade ben) så fick han kanske inte så mycket uppmärksamhet.<br>Snart konstaterade vi att ytterligare en tand var lös, bredvid den han just tappat. Den tappade han på tisdagen på förskolan, så vi vet inte riktigt hur det gick till. Han fick i alla fall hem tanden i ett litet kuvert, så att han skulle kunna lägga tanden i ett glas vatten och hoppas att tandfén skulle sköta sitt jobb.<br><br><i style="font-size: 13px; text-align: center;"></i><br>
 
 <figure>
 	<img src="../../../../img/Tages_glugg.jpg" height="640">
@@ -16,4 +16,7 @@ Just som tåget från Åre rullade in på Stockholms Centralstation på söndags
 
 <figure>
 	<img src="../../../../img/Tages+glugg-PERK4928.jpg" height="640">
-	<figcaption>Hur många tänder har jag tappat sedan sist?</i><br><div class="separator" style="clear: both; text-align: center;"><i><br></i></div></td></tr></tbody></table>
+	<figcaption>Hur många tänder har jag tappat sedan sist?</i><br><div class="separator" style="clear: both; text-align: center;"><i><br></i></div></figcaption>
+</figure>
+
+

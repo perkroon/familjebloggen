@@ -7,12 +7,12 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2013/01/feber-igen.html
 ---
 
-Åke hade ju rätt hög feber i lördags, men har varit bättre sedan dess. I morse kom dock ett bakslag och han är sämre igen. Tage är dock fortfarande frisk och får gå på förskolan utan lillebror. Pappan stannade hemma på förmiddagen och sedan kom farmor efter lunch och bytte av honom. Senare kom farfar också och hjälpte till, och han hämtade Tage från förskolan.<br></div>
+Åke hade ju rätt hög feber i lördags, men har varit bättre sedan dess. I morse kom dock ett bakslag och han är sämre igen. Tage är dock fortfarande frisk och får gå på förskolan utan lillebror. Pappan stannade hemma på förmiddagen och sedan kom farmor efter lunch och bytte av honom. Senare kom farfar också och hjälpte till, och han hämtade Tage från förskolan.
 
 <figure>
-	<img src="../../../../img/Hemmabilder-5C5C1395.jpg" width="426">
+	<img src="../../../../img/Hemmabilder-5C5C1395.jpg">
 	<figcaption>Aptiten var dålig idag, men en sak vill Åke alltid stoppa i munnen: nappen!<br>Vi fick sluta ha napparna i en byrålåda eftersom Åke var där och letade själv<br> i tid och otid, och istället flyttade vi dem till ett köksskåp. Det dröjde dock inte så<br> länge innan Åke lärde sig var de fanns nu. För att komma upp går han och <br>hämtar en pall eller en stol och sedan är det inga problem...</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
 	<img src="../../../../img/Hemmabilder-5C5C1396.jpg">

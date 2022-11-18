@@ -7,7 +7,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2013/01/nyarsafton-2012.html
 ---
 
-Vi blev inbjudna att fira nyårsafton tillsammans med Peter, Erika, Nils och Harry i Bromma, och det ville vi gärna göra!<br></div>
+Vi blev inbjudna att fira nyårsafton tillsammans med Peter, Erika, Nils och Harry i Bromma, och det ville vi gärna göra!
 
 <figure>
 	<img src="../../../../img/Nya%CC%8Arsafton-5C5C0684.jpg">
@@ -46,7 +46,10 @@ Vi blev inbjudna att fira nyårsafton tillsammans med Peter, Erika, Nils och Har
 
 <figure>
 	<img src="../../../../img/Nya%CC%8Arsafton-5C5C0759.jpg">
-	<figcaption>Glass (med extra allt) till efterrätt uppskattades både av barnen och de vuxna.</i><br><br></td></tr></tbody></table>
+	<figcaption>Glass (med extra allt) till efterrätt uppskattades både av barnen och de vuxna.</i><br><br></figcaption>
+</figure>
+
+
 
 <figure>
 	<img src="../../../../img/Nya%CC%8Arsafton-5C5C0779.jpg">
@@ -56,4 +59,4 @@ Vi blev inbjudna att fira nyårsafton tillsammans med Peter, Erika, Nils och Har
 <figure>
 	<img src="../../../../img/Nya%CC%8Arsafton-5C5C0782.jpg">
 	<figcaption>Gott Nytt År! Vi lyssnade för resten på Fröken Ur över tolvslaget, något jag tror jag aldrig gjort förut.</figcaption>
-</figure>När kvällen var slut skjutsade Peter hem oss med bilen, som ju dessutom var laddad med bilbarnstolar i lämpliga storlekar. Barnen satt och tittade ut genom fönstren och somnade först när vi kom till Västerbron.<br><div><br></div><div>Tack Peter och Erika för en trevlig nyårsafton! Gott Nytt 2013 alla!<br><div><br></div><div><br></div></div>
+</figure>När kvällen var slut skjutsade Peter hem oss med bilen, som ju dessutom var laddad med bilbarnstolar i lämpliga storlekar. Barnen satt och tittade ut genom fönstren och somnade först när vi kom till Västerbron.<br><div><div>Tack Peter och Erika för en trevlig nyårsafton! Gott Nytt 2013 alla!<br><div><div></div>

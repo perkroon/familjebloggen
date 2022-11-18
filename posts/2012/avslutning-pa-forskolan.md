@@ -7,7 +7,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2012/08/avslutning-pa-forskolan.html
 ---
 
-Strax innan midsommar höll vår förskola sin traditionella avslutningsfest. Det började med att alla barnen sjöng sommarsånger, eller nåja, några av barnen sjöng, några stirrade mest förvånat på alla föräldrar som plötsligt samlats på gården.<br></div>
+Strax innan midsommar höll vår förskola sin traditionella avslutningsfest. Det började med att alla barnen sjöng sommarsånger, eller nåja, några av barnen sjöng, några stirrade mest förvånat på alla föräldrar som plötsligt samlats på gården.
 
 <figure>
 	<img src="../../../../img/Avslutning+pa%CC%8A+fo%CC%88rskolan-5C5C4555.jpg">
@@ -30,6 +30,6 @@ Strax innan midsommar höll vår förskola sin traditionella avslutningsfest. De
 </figure>
 
 <figure>
-	<img src="../../../../img/Avslutning+pa%CC%8A+fo%CC%88rskolan-5C5C4704.jpg" width="426">
+	<img src="../../../../img/Avslutning+pa%CC%8A+fo%CC%88rskolan-5C5C4704.jpg">
 	<figcaption>Kan Tage annat än trivas på den här förskolan?</figcaption>
 </figure>

@@ -7,10 +7,10 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2015/03/akes-femarsdag.html
 ---
 
-<div dir="ltr" style="text-align: left;" trbidi="on">Så var det då – äntligen! – dags för Åkes födelsedag. Fem år! Till skillnad från Tage så låg Åke fortfarande och sov när vi kom och väckte honom med sång och presenter. Han kan minsann sova ända till sju ibland.<br></div>
+<div dir="ltr" style="text-align: left;" trbidi="on">Så var det då – äntligen! – dags för Åkes födelsedag. Fem år! Till skillnad från Tage så låg Åke fortfarande och sov när vi kom och väckte honom med sång och presenter. Han kan minsann sova ända till sju ibland.
 
 <figure>
-	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK1894.jpg" height="640" width="426">
+	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK1894.jpg" height="640">
 	<figcaption>Åke öppnar de första paketen.</figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ originalUrl: https://nejtupp.blogspot.com/2015/03/akes-femarsdag.html
 </figure>
 
 <figure>
-	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK1949.jpg" height="640" width="426">
+	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK1949.jpg" height="640">
 	<figcaption>En katt! Jättestor!</figcaption>
 </figure>
 
@@ -46,11 +46,17 @@ originalUrl: https://nejtupp.blogspot.com/2015/03/akes-femarsdag.html
 
 <figure>
 	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK1976.jpg" height="640">
-	<figcaption><span style="text-align: left;"><i>I klackskorna hittade de följande lapp: "Nästa lapp ligger bakom dörren till vindstrappan".</i><br></span></td></tr></tbody></table>
+	<figcaption><span style="text-align: left;"><i>I klackskorna hittade de följande lapp: "Nästa lapp ligger bakom dörren till vindstrappan".</i><br></span></figcaption>
+</figure>
+
+
 
 <figure>
 	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK1982.jpg" height="640">
-	<figcaption><span style="text-align: left;"><i>Innan de kilade ut i trapphuset fick de klä på sig lite kläder.<br></i> </span></td></tr></tbody></table>
+	<figcaption><span style="text-align: left;"><i>Innan de kilade ut i trapphuset fick de klä på sig lite kläder.<br></i> </span></figcaption>
+</figure>
+
+
 
 <figure>
 	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK1989.jpg" height="640">
@@ -70,7 +76,7 @@ originalUrl: https://nejtupp.blogspot.com/2015/03/akes-femarsdag.html
 <figure>
 	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK2004.jpg" height="640">
 	<figcaption>Sjunde lappen: "Detta är sista lappen. Presenten finns under ett vitt lakan".</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div><br>
+</figure><br>
 
 <figure>
 	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK2012.jpg" height="640">
@@ -85,12 +91,12 @@ originalUrl: https://nejtupp.blogspot.com/2015/03/akes-femarsdag.html
 <figure>
 	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK2036.jpg" height="426">
 	<figcaption>Runt, runt cyklade Åke...</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div><br>
+</figure><br>
 
 <figure>
 	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK2071.jpg" height="426">
 	<figcaption>... fortare och fortare...</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div><br>
+</figure><br>
 
 <figure>
 	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK2100.jpg" height="426">
@@ -103,7 +109,7 @@ originalUrl: https://nejtupp.blogspot.com/2015/03/akes-femarsdag.html
 </figure>Efter frukost var det dags för oss att gå till förskolan, skolan respektive jobbet. När vi kom till parken sa jag att jag ville ta ett porträtt av Åke. Han tog det mycket allvarligt, stannade upp och stirrade sammanbitet in i kameran.<br><br>
 
 <figure>
-	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK2127.jpg" height="640" width="426">
+	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK2127.jpg" height="640">
 	<figcaption>Åke, fem år.</figcaption>
 </figure><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td><img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK2145.jpg" height="426"></td></tr><tr><td class="tr-caption" style="font-size: 12.8000001907349px;"><i style="font-size: 12.8000001907349px;">Efter förskolan gick vi till Dello Sport och fikade. </figcaption>
 </figure><br>

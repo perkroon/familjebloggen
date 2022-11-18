@@ -12,7 +12,7 @@ Faster Jenny och farmor fyllde jämnt i maj (40 respektive 65 år), och bjöd me
 <figure>
 	<img src="../../../../img/Fo%CC%88delsedagsresa+till+Malta-PERK4075.jpg">
 	<figcaption>Åke får äntligen överlämna en present till faster Jenny, något han längtat efter hela dagen.</figcaption>
-</figure>På Malta bodde vi i en stor lägenhet nära Spinola bay, i Valletta. Där åt vi gemensam frukost på morgonen, till vilken faster Jenny fixat dagsfärskt bröd, ibland i sällskap av någon av våra grabbar. Sedan gjorde vi oftast någon gemensam aktivitet, delade sedan på oss och återförenades igen senare. Middag åt vi någon gång hemma, men allt som oftast ute på någon restaurang.<br><div style="text-align: center;"><br></div>
+</figure>På Malta bodde vi i en stor lägenhet nära Spinola bay, i Valletta. Där åt vi gemensam frukost på morgonen, till vilken faster Jenny fixat dagsfärskt bröd, ibland i sällskap av någon av våra grabbar. Sedan gjorde vi oftast någon gemensam aktivitet, delade sedan på oss och återförenades igen senare. Middag åt vi någon gång hemma, men allt som oftast ute på någon restaurang.<br><div style="text-align: center;">
 
 <figure>
 	<img src="../../../../img/Fo%CC%88delsedagsresa+till+Malta-PERK4525.jpg">

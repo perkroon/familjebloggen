@@ -7,10 +7,10 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2012/06/tidig-sommarsemester-pa-oland.html
 ---
 
-Liksom flera tidigare år valde vi att ta en tidig semestervecka och åka till Öland. Det är så vackert där i början av sommaren, med alla blommor och allt nytt grönt. Förra året lärde vi oss dock att det kan vara riktigt kallt, så den här gången packade vi ner tjocka tröjor och allt som skulle kunna hålla oss tillräckligt varma. Nog tvivlade vi på att vi packat rätt, när det var 27 grader hos oss i Pyrtet, dagen innan vi körde till Öland. Hade vi packat för varma kläder i år? Skulle vi istället sakna kläder för värmen?</div><br></div>
+Liksom flera tidigare år valde vi att ta en tidig semestervecka och åka till Öland. Det är så vackert där i början av sommaren, med alla blommor och allt nytt grönt. Förra året lärde vi oss dock att det kan vara riktigt kallt, så den här gången packade vi ner tjocka tröjor och allt som skulle kunna hålla oss tillräckligt varma. Nog tvivlade vi på att vi packat rätt, när det var 27 grader hos oss i Pyrtet, dagen innan vi körde till Öland. Hade vi packat för varma kläder i år? Skulle vi istället sakna kläder för värmen?</div>
 
 <figure>
-	<img src="../../../../img/O%CC%88landsresan-5C5C2952.jpg" width="426">
+	<img src="../../../../img/O%CC%88landsresan-5C5C2952.jpg">
 	<figcaption>Det syns inte på bilden, men Tage står i en badtunna inne i duschen.</figcaption>
 </figure>Det visade sig att vi behövde de varma kläderna. Det var 14 grader varmt i Byxelkrok, men det blåste iskalla vindar, så det kände som mycket kallare än så. Kontrasten mot de tidigare dagarna var enorm, och trots alla våra varma kläder gick vi och kände oss lite frusna. Vi letade länge efter något ställe att dricka kaffe på, men fick inse att den här tiden är utanför säsongen på Öland och då är nästan allt stängt. Vi hade två ställen vi kunde dricka kaffe på i Byxelkrok: dels på ICA-affären, där det stod en termos med kaffe och en spargris – "Kaffe 5 kr". Det andra alternativet var ett gatukök som serverade kaffe. Vi valde det senare. Det var också i Byxelkrok som Mamman hörde en medelålders man förbanna Aftonbladets löpsedel: "Så länge stannar värmeböljan". Han krävde att löpsedeln skulle plockas ned, den var ett hån.<br><br>
 
@@ -72,7 +72,7 @@ Liksom flera tidigare år valde vi att ta en tidig semestervecka och åka till �
 <figure>
 	<img src="../../../../img/O%CC%88landsresan-5C5C3430.jpg">
 	<figcaption>På väg tillbaka igen, med vallmo från hagen.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
 	<img src="../../../../img/O%CC%88landsresan-5C5C3337.jpg">

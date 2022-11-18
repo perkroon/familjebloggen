@@ -30,9 +30,11 @@ Vi badade vid den lilla sandstranden och paddlade sedan ut med kanoten som ligge
 <figure>
 	<img src="../../../../img/Pyrtet+2+-+Ramkvilla_1.jpg">
 	<figcaption>När vi paddlade ut med kanoten följde farfar efter med roddbåten. <br>Han hade kamera med sig och tog bland annat den här bilden. Tack!</figcaption>
-</figure><div><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
+
+
 
 <figure>
 	<img src="../../../../img/Pyrtet+2+-+Ramkvilla-PERK8172.jpg">
 	<figcaption>Åke luktar på en gul näckros, som vi plockade när vi var ute med kanoten.</figcaption>
-<div class="separator" style="clear: both; text-align: center;"><br></div><br><div class="separator" style="clear: both; text-align: center;"><br></div><br></div>
+<br>

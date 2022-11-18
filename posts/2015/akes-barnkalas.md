@@ -7,7 +7,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2015/03/akes-barnkalas.html
 ---
 
-Dagen efter Tages och Fridas barnkalas höll Åke sitt barnkalas hemma i vår lägenhet. Det var ett rätt tufft schema för oss föräldrar, och vi tror att detta var första och sista gången som kalasen hamnade på samma helg.<br><div><br></div><div>Kl. 13.00 började det, men redan när Åke vaknade ville han veta hur länge det dröjde innan gästerna skulle komma. Hur många timmar? Hur många minuter? När han fick höra att det var 4 timmar kvar sa han "vi hinner åka till Kreta innan gästerna kommer" och när det var 45 minuter kvar sa han " vi hinner åka till Fittja innan gästerna kommer".<br>Av de 15 piraterna på Åkes förskola kunde 9 komma, så med Åke och Tage blev det 11 barn sammanlagt. En hel del av föräldrarna valde att stanna kvar också för att fika och umgås. Vi hade ungefär samma saker att bjuda på: bullar, kladdkakor och chokladbollar, plus kex som Åke hade valt ut.</div><div><br>
+Dagen efter Tages och Fridas barnkalas höll Åke sitt barnkalas hemma i vår lägenhet. Det var ett rätt tufft schema för oss föräldrar, och vi tror att detta var första och sista gången som kalasen hamnade på samma helg.<br><div><div>Kl. 13.00 började det, men redan när Åke vaknade ville han veta hur länge det dröjde innan gästerna skulle komma. Hur många timmar? Hur många minuter? När han fick höra att det var 4 timmar kvar sa han "vi hinner åka till Kreta innan gästerna kommer" och när det var 45 minuter kvar sa han " vi hinner åka till Fittja innan gästerna kommer".<br>Av de 15 piraterna på Åkes förskola kunde 9 komma, så med Åke och Tage blev det 11 barn sammanlagt. En hel del av föräldrarna valde att stanna kvar också för att fika och umgås. Vi hade ungefär samma saker att bjuda på: bullar, kladdkakor och chokladbollar, plus kex som Åke hade valt ut.</div><div><br>
 
 <figure>
 	<img src="../../../../img/A%CC%8Akes%2Bbarnkalas-PERK2584.jpg" height="426">
@@ -26,7 +26,10 @@ Dagen efter Tages och Fridas barnkalas höll Åke sitt barnkalas hemma i vår l�
 
 <figure>
 	<img src="../../../../img/A%CC%8Akes%2Bbarnkalas-PERK2596.jpg" height="426">
-	<figcaption>... och ännu mer!</td></tr></tbody></table><br>Efter paketöppningen och lite fri lek i barnrummet så dukade vi fram fikat. Barnen fick det stora bordet, de vuxna fick hållas i soffan.<br><br>
+	<figcaption>... och ännu mer!</figcaption>
+</figure>
+
+<br>Efter paketöppningen och lite fri lek i barnrummet så dukade vi fram fikat. Barnen fick det stora bordet, de vuxna fick hållas i soffan.<br><br>
 
 <figure>
 	<img src="../../../../img/A%CC%8Akes%2Bbarnkalas-PERK2603.jpg" height="426">

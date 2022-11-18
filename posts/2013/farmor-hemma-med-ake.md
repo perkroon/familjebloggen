@@ -7,7 +7,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2013/01/farmor-hemma-med-ake.html
 ---
 
-Idag mådde Åke visserligen mycket bättre, men för säkerhets skull fick han vara hemma ytterligare en dag från förskolan. Farmor åkte tidigare från Småland och stannade hemma med Åke hela dagen, så att Tage kunde gå i förskolan och Pappan till jobbet. När Tage och Pappan kom hem vid fem så stod maten färdiglagad på bordet – vilken service! Stort tack för hjälpen!<br></div>
+Idag mådde Åke visserligen mycket bättre, men för säkerhets skull fick han vara hemma ytterligare en dag från förskolan. Farmor åkte tidigare från Småland och stannade hemma med Åke hela dagen, så att Tage kunde gå i förskolan och Pappan till jobbet. När Tage och Pappan kom hem vid fem så stod maten färdiglagad på bordet – vilken service! Stort tack för hjälpen!
 
 <figure>
 	<img src="../../../../img/Hemmabilder-5C5C1368.jpg">
@@ -15,6 +15,6 @@ Idag mådde Åke visserligen mycket bättre, men för säkerhets skull fick han 
 </figure>När farmor gått så ville Åke gå omkring en stund i sina nya kalsonger. Han vill inte riktigt sluta med blöja, men tycker ändå det är kul att han fått kalsonger.<br><br>– Jag vill ha kalsonger, och du ska räkna till tio pappa!<br><br>När han fått på sig kalsongerna räknar jag långsamt till tio. Om det går för långsamt fyller Åke i själv. Sedan vill han byta tillbaka till blöja igen. Kanske kan vi räkna till tjugo i morgon?<br><br>
 
 <figure>
-	<img src="../../../../img/Hemmabilder-5C5C1383.jpg" width="426">
+	<img src="../../../../img/Hemmabilder-5C5C1383.jpg">
 	<figcaption>– Jag vill kolla mig i spegeln, Pappa! Kolla! </figcaption>
 </figure>

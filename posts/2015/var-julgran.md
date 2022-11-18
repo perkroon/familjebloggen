@@ -5,4 +5,4 @@ tags:
 originalUrl:	https://nejtupp.blogspot.com/2015/12/var-julgran.html
 ---
 
-<div dir="ltr" style="text-align: left;" trbidi="on"><div class="separator" style="clear: both; text-align: center;">Vi tror att vi aldrig förr har haft en så tät julgran. Kolla själva!</div><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/IMG_2688.JPG" width="426"></div><br></div>
+<div dir="ltr" style="text-align: left;" trbidi="on"><div class="separator" style="clear: both; text-align: center;">Vi tror att vi aldrig förr har haft en så tät julgran. Kolla själva!</div><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/IMG_2688.JPG"></div>

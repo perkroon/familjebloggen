@@ -7,7 +7,7 @@ layout: layouts/post.njk
 originalUrl:	https://nejtupp.blogspot.com/2016/08/parkourparken-i-vaxjo.html
 ---
 
-Vädret var ostadigt och vi behövde röra lite på oss, så vi lånade farmor och farfars bil och åkte till den nya fina parkourparken i Växjö. Synd vi inte tog med oss sparkcyklarna, för de hade bra ramper i närheten...</div><br></div>
+Vädret var ostadigt och vi behövde röra lite på oss, så vi lånade farmor och farfars bil och åkte till den nya fina parkourparken i Växjö. Synd vi inte tog med oss sparkcyklarna, för de hade bra ramper i närheten...</div>
 <figure>
 	<img src="../../../img/2016/08/Parkourparken_2.jpg">
     <figcaption>Tage visar hur man gör.</figcaption>

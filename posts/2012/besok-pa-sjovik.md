@@ -7,12 +7,12 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2012/10/besok-pa-sjovik.html
 ---
 
-Vi gillar härliga sommardagar på Sjövik och fick också i år möjlighet att njuta lite skärgårdsliv tillsammans med våra goda vänner. Hyrbilen hade vi kvar sedan resorna i de södra landskapen och nu fick vi nytta av den igen.<br></div>
+Vi gillar härliga sommardagar på Sjövik och fick också i år möjlighet att njuta lite skärgårdsliv tillsammans med våra goda vänner. Hyrbilen hade vi kvar sedan resorna i de södra landskapen och nu fick vi nytta av den igen.
 
 <figure>
 	<img src="../../../../img/Sjo%CC%88vik-5C5C6977.jpg">
 	<figcaption>Tage tvekade inte för att hoppa i på djupt vatten med flytväst på. Han höll sig fast i Pappan, <br>som nog var lite mer nervös än han vill göra sken av på den här bilden. </figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
 	<img src="../../../../img/Sjo%CC%88vik-5C5C7005.jpg">
@@ -22,32 +22,32 @@ Vi gillar härliga sommardagar på Sjövik och fick också i år möjlighet att 
 <figure>
 	<img src="../../../../img/Sjo%CC%88vik-5C5C7021.jpg">
 	<figcaption>Nils är hemma på Sjövik.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
 	<img src="../../../../img/Sjo%CC%88vik-5C5C7031.jpg">
 	<figcaption>Vädret var lite lynnigt, men förhållandevis fint för att vara sommaren 2012.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
 	<img src="../../../../img/Sjo%CC%88vik-5C5C7025.jpg">
 	<figcaption>Det är Tage i den polkagrisrandiga badkappan.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
 	<img src="../../../../img/Sjo%CC%88vik-5C5C7049.jpg">
 	<figcaption>Harry fortsatte att peka...</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
 	<img src="../../../../img/Sjo%CC%88vik-5C5C7047.jpg">
 	<figcaption>... och fick en stor kram!</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div><br>
+</figure><br>
 
 <figure>
-	<img src="../../../../img/Sjo%CC%88vik-5C5C7063.jpg" width="426">
+	<img src="../../../../img/Sjo%CC%88vik-5C5C7063.jpg">
 	<figcaption>Innan vi åkte hem plockade vi smultron på strån. <br>"Så här plockade vi smultron när vi var små"</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
 	<img src="../../../../img/Sjo%CC%88vik-5C5C7076.jpg">

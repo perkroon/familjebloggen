@@ -59,7 +59,7 @@ När hon gått åt vi middag: pommes frites, blomkål, kikärtssallad och sojako
 
 <!-- FIXME: video -->
 <figure>
-	<object id="BLOG_video-5af6e70516dff7e2" class="BLOG_video_class" contentid="5af6e70516dff7e2" height="266" width="320"></object><br></div>
+	<object id="BLOG_video-5af6e70516dff7e2" class="BLOG_video_class" contentid="5af6e70516dff7e2" height="266" width="320"></object>
 	<figcaption>Video: Mer lek än mat. Tage fortsätter vägra tandborstning.</figcapture>
 </figure>
 

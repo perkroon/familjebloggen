@@ -22,12 +22,12 @@ originalUrl: https://nejtupp.blogspot.com/2014/01/mot-julfirandet-i-ebbehill.htm
 <figure>
 	<img src="../../../../img/Aleskogen+och+stranden-PERK2868.jpg" height="426">
 	<figcaption>Ebbehill i västkustvinterskrud.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: center;"><br></div>I Ebbehill var det en ovanligt folkrik julvecka. Det här året hade vi turen att pricka in nästan alla mostrar, morbröder och kusiner, det var bara Sofia, Claes och Gösta som firade på annat håll. Sofia kunde dock inte motstå att komma ned för en kort visit några dagar innan jul så vi fick träffa henne också.<br><br><br><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/Aleskogen+och+stranden-PERK2878.jpg" height="425"></div><br>Någon dag före jul tog vi en promenad genom Aleskogen ned till stranden och vi häpnade över vad senaste stormen Sven hade ställt till med. Hela skogen såg ut som plockepinn! Åke och Tage som tycker det är spännande med rotvältor fick se hur många som helst. De har förstås fått lära sig att man aldrig aldrig ska gå för nära en rotvälta eftersom de plötsligt kan välta tillbaka. Lilla djurkyrkogården var väldigt drabbad av stormen. Många av de små gravarna hade slagits i spillror av de fallna träden.<br><br>
+</figure>I Ebbehill var det en ovanligt folkrik julvecka. Det här året hade vi turen att pricka in nästan alla mostrar, morbröder och kusiner, det var bara Sofia, Claes och Gösta som firade på annat håll. Sofia kunde dock inte motstå att komma ned för en kort visit några dagar innan jul så vi fick träffa henne också.<br><br><br><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/Aleskogen+och+stranden-PERK2878.jpg" height="425"></div><br>Någon dag före jul tog vi en promenad genom Aleskogen ned till stranden och vi häpnade över vad senaste stormen Sven hade ställt till med. Hela skogen såg ut som plockepinn! Åke och Tage som tycker det är spännande med rotvältor fick se hur många som helst. De har förstås fått lära sig att man aldrig aldrig ska gå för nära en rotvälta eftersom de plötsligt kan välta tillbaka. Lilla djurkyrkogården var väldigt drabbad av stormen. Många av de små gravarna hade slagits i spillror av de fallna träden.<br><br>
 
 <figure>
 	<img src="../../../../img/Aleskogen+och+stranden-PERK2887.jpg" height="426">
 	<figcaption>Aleskogen är inte sig lik.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
 	<img src="../../../../img/Aleskogen+och+stranden-PERK2906.jpg" height="360">
@@ -60,7 +60,7 @@ originalUrl: https://nejtupp.blogspot.com/2014/01/mot-julfirandet-i-ebbehill.htm
 </figure><br>
 
 <figure>
-	<img src="../../../../img/Aleskogen+och+stranden-PERK2963.jpg" height="640" width="426">
+	<img src="../../../../img/Aleskogen+och+stranden-PERK2963.jpg" height="640">
 	<figcaption>- Jag orkar inte gååå!</figcaption>
 </figure>På hemvägen började Åke känna att han hade gått färdigt. Plötsligt blev han så förfäärligt trött och benen blev som spaghetti. Helst ville han bli buren i kungastol på en tjock trästam mellan mig och Pelle men efter en stund orkade vi inte det så då fick vi komma på en annan lösning - kurragömma! Mormor var också med. Då plötsligt var spaghettibenen åter kraftfulla.<br><br>
 

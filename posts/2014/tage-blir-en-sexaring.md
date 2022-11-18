@@ -25,7 +25,7 @@ Den 4 mars är alltid en speciell dag i vår familj, för då fyller Tage år. D
 </figure>
 
 <figure>
-	<img src="../../../../img/Tages+fo%CC%88delsedag-PERK4216.jpg" height="640" width="426">
+	<img src="../../../../img/Tages+fo%CC%88delsedag-PERK4216.jpg" height="640">
 	<figcaption>En annan födelsedagstradition för barnen är att mäta längden. <br>Vi mäter mot en garderob och vi kunde se att Tage växt nästan <br>på pricken lika mycket de senaste tre åren. Nu är han 122 cm lång.</figcaption>
 </figure>Det var visserligen Tages födelsedag den här dagen, men vi hade kommit överens om att det var bäst att fira båda barnens födelsedagar när farmor och farfar kom hit på eftermiddagen. Mamman hämtade barnen tidigt på förskolan, Pappan köpte en tårta och vi samlades hemma i lägenheten igen. Vi började med paketöppning i soffan, och den här gången fick alltså både Tage och Åke öppna paket. Åke fick bl.a. ett eget Nintendo (som kommer väl till pass på söndag då vi åker tåg till Åre) och Tage fick bl.a. ett stort legopaket med en drake och en borg.<br><br>
 
@@ -36,7 +36,10 @@ Den 4 mars är alltid en speciell dag i vår familj, för då fyller Tage år. D
 
 <figure>
 	<img src="../../../../img/Tages+fo%CC%88delsedag-PERK4240.jpg" height="426">
-	<figcaption>Efter paketen fick vi sjunga för barnen när tårtan kom in. Det var en grön prinsesstårta, <br>även om Tage hade önskat en rosa (men vi hittade ingen sådan). Den var både fin och god. </i> </td></tr></tbody></table><div class="separator" style="clear: both; text-align: center;"><br></div>
+	<figcaption>Efter paketen fick vi sjunga för barnen när tårtan kom in. Det var en grön prinsesstårta, <br>även om Tage hade önskat en rosa (men vi hittade ingen sådan). Den var både fin och god. </i> </figcaption>
+</figure>
+
+
 
 <figure>
 	<img src="../../../../img/Tages+fo%CC%88delsedag-PERK4242.jpg" height="426">

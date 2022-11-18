@@ -7,12 +7,12 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2012/10/fira-farfar-med-grona-lund.html
 ---
 
-Farfar fyllde år och som vanligt önskade han sig sällskap till Gröna Lund. Vågar han inte gå själv? Hur som helst följde vi mer än gärna med! Vi tog tunnelbanan till T-Centralen och bytte till spårvagnen där, och av en slump råkade vi på farmor och farfar redan på perrongen. Jenny skulle också följa med, men henne träffade vi först ute vid Blå Porten. Farfar bjöd på lunch och sedan var det dags att åka.</div><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: center;"><br></div>
+Farfar fyllde år och som vanligt önskade han sig sällskap till Gröna Lund. Vågar han inte gå själv? Hur som helst följde vi mer än gärna med! Vi tog tunnelbanan till T-Centralen och bytte till spårvagnen där, och av en slump råkade vi på farmor och farfar redan på perrongen. Jenny skulle också följa med, men henne träffade vi först ute vid Blå Porten. Farfar bjöd på lunch och sedan var det dags att åka.</div>
 
 <figure>
 	<img src="../../../../img/Gro%CC%88na+Lund-5C5C7550.jpg">
 	<figcaption>Mamman och Tage värmer upp med veteranbilarna.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div><br>
+</figure><br>
 
 <figure>
 	<img src="../../../../img/Gro%CC%88na+Lund-5C5C7574.jpg">
@@ -20,7 +20,7 @@ Farfar fyllde år och som vanligt önskade han sig sällskap till Gröna Lund. V
 </figure>
 
 <figure>
-	<img src="../../../../img/Gro%CC%88na+Lund-5C5C7577.jpg" width="426">
+	<img src="../../../../img/Gro%CC%88na+Lund-5C5C7577.jpg">
 	<figcaption>Inne i Lustiga huset blev det inte långrandigt...</figcaption>
 </figure><br>
 
@@ -31,7 +31,10 @@ Farfar fyllde år och som vanligt önskade han sig sällskap till Gröna Lund. V
 
 <figure>
 	<img src="../../../../img/Gro%CC%88na+Lund-5C5C7607.jpg">
-	<figcaption>Åke blev trött och behövde sova, så Pappan tog en liten promenad med honom i vagnen. Det funkade sådär. Helt plötsligt kom det skrik från någon attraktion i närheten som distraherade, och han hittade öppningen i vagnen som är så rolig att titta ut ur. Fast han var trött och somnade ganska snart.</td></tr></tbody></table><br>En annan attraktion som Tage ville åka var Nyckelpigan. Den åkte han förra året också och den här gången skulle han åka tillsammans med farfar. De fick köa länge: 40 minuter för ett åk.<br><br>
+	<figcaption>Åke blev trött och behövde sova, så Pappan tog en liten promenad med honom i vagnen. Det funkade sådär. Helt plötsligt kom det skrik från någon attraktion i närheten som distraherade, och han hittade öppningen i vagnen som är så rolig att titta ut ur. Fast han var trött och somnade ganska snart.</figcaption>
+</figure>
+
+<br>En annan attraktion som Tage ville åka var Nyckelpigan. Den åkte han förra året också och den här gången skulle han åka tillsammans med farfar. De fick köa länge: 40 minuter för ett åk.<br><br>
 
 <figure>
 	<img src="../../../../img/Gro%CC%88na+Lund-5C5C7626.jpg">
@@ -50,7 +53,7 @@ Farfar fyllde år och som vanligt önskade han sig sällskap till Gröna Lund. V
 
 <figure>
 	<img src="../../../../img/Gro%CC%88na+Lund-5C5C7677.jpg">
-	<figcaption>Spöktunneln var ny för Tage i år. Mamman och Tage satt längst fram, Pappan satt bakom och hukade. </i><br><i>Här är vagnen på väg in i en läskig tunnel med skelett och monster.</figcaption>
+	<figcaption>Spöktunneln var ny för Tage i år. Mamman och Tage satt längst fram, Pappan satt bakom och hukade. Här är vagnen på väg in i en läskig tunnel med skelett och monster.</figcaption>
 </figure>
 
 <figure>
@@ -59,7 +62,7 @@ Farfar fyllde år och som vanligt önskade han sig sällskap till Gröna Lund. V
 </figure>
 
 <figure>
-	<img src="../../../../img/Gro%CC%88na+Lund-5C5C7720.jpg" width="426">
+	<img src="../../../../img/Gro%CC%88na+Lund-5C5C7720.jpg">
 	<figcaption>Sedan var det Jennys tur att följa med. Det fanns <br>vissa bilar med säte där bak, så att tre kunde åka samtidigt.</figcaption>
 </figure>
 
@@ -69,7 +72,7 @@ Farfar fyllde år och som vanligt önskade han sig sällskap till Gröna Lund. V
 </figure>
 
 <figure>
-	<img src="../../../../img/Gro%CC%88na+Lund-5C5C7772.jpg" width="426">
+	<img src="../../../../img/Gro%CC%88na+Lund-5C5C7772.jpg">
 	<figcaption>Innan vi gick hem från Gröna Lund fick barnen en varsin ballong av farmor.<br>Här är Åke med sin dinosaurieballong.</figcaption>
 </figure>
 

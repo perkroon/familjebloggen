@@ -7,17 +7,17 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2013/03/tages-femarskalas.html
 ---
 
-Till Tages femårskalas bjöd vi in alla barn i hans förskolegrupp, 15 stycken. Det kom 10 barn och några föräldrar, så det var ganska livat i vår lägenhet mellan klockan 14 och 16.<br></div>
+Till Tages femårskalas bjöd vi in alla barn i hans förskolegrupp, 15 stycken. Det kom 10 barn och några föräldrar, så det var ganska livat i vår lägenhet mellan klockan 14 och 16.
 
 <figure>
 	<img src="../../../../img/Tages+barnkalas-PERK1699.jpg">
 	<figcaption>Tage och några av kompisarna pustar ut i soffan efter saft, bullar, kakor och tårta (kladdkaka som farmor bakat). <br>Nu är det snart dags för...</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
 	<img src="../../../../img/Tages+barnkalas-PERK1701.jpg">
 	<figcaption>... dockteater! Mamman fick göra föreställningen själv, Tage hoppade av i sista sekunden, men det gjorde inget. <br>Här ser vi Pippi och Pannkakan i en scen i föreställningen "Sagan om pannkakan".</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
 	<img src="../../../../img/Tages+barnkalas-PERK1706.jpg">

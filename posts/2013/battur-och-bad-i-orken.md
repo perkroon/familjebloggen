@@ -24,4 +24,4 @@ Det vackra vädret höll i sig och vi passade på att göra en annan sak som är
 <figure>
 	<img src="../../../../img/Pyrtet+-+ba%CC%8At+och+bad-PERK6555.jpg">
 	<figcaption>Badarna fångade på bild.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br><br></div>
+</figure><div class="separator" style="clear: both; text-align: center;"><br>

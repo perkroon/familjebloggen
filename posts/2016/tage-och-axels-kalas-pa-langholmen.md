@@ -7,7 +7,7 @@ layout: layouts/post.njk
 originalUrl:	https://nejtupp.blogspot.com/2016/03/tage-och-axels-kalas-pa-langholmen.html
 ---
 
-Tage och Axel hade ett gemensamt kalas för sina klasskamrater. Vi bjöd in sent, bara en vecka innan kalaset, och en hel del var sjuka så det kom bara omkring 12 personer. Men det var ganska lagom. Vi hade länge hållit koll på väderprognosen inför dagen. Bara en vecka innan hade det varit snöblandat regn, blåst och allmänt blött, kallt och ruggigt, så när vi insåg att just kalasdagen skulle bli en av vårens första soliga och varma dagar var vi väldigt nöjda. Kalaset började kl. 14, vi började förbereda på plats kl. 13 och innan dess hade farmor och farfar hämtat Åke för andra aktiviteter.</div><br></div>
+Tage och Axel hade ett gemensamt kalas för sina klasskamrater. Vi bjöd in sent, bara en vecka innan kalaset, och en hel del var sjuka så det kom bara omkring 12 personer. Men det var ganska lagom. Vi hade länge hållit koll på väderprognosen inför dagen. Bara en vecka innan hade det varit snöblandat regn, blåst och allmänt blött, kallt och ruggigt, så när vi insåg att just kalasdagen skulle bli en av vårens första soliga och varma dagar var vi väldigt nöjda. Kalaset började kl. 14, vi började förbereda på plats kl. 13 och innan dess hade farmor och farfar hämtat Åke för andra aktiviteter.</div>
 
 <figure>
 	<img src="../../../img/2016/03/Tage och Axels kalas-PERK1142.jpg">

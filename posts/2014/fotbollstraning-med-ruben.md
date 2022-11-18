@@ -25,6 +25,6 @@ På onsdagar tränar Tage fotboll, och det gör Ruben från förskolan också. N
 </figure>
 
 <figure>
-	<img src="../../../../img/Fotbollstra%CC%88ning+med+Ruben-PERK6090.jpg" height="640" width="426">
+	<img src="../../../../img/Fotbollstra%CC%88ning+med+Ruben-PERK6090.jpg" height="640">
 	<figcaption>Sista dagarna tillsammans på förskolan... <br>Snart hamnar pojkarna i olika skolor, tyvärr.</figcaption>
 </figure>

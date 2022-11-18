@@ -7,7 +7,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2014/07/fran-larv-till-fjaril.html
 ---
 
-Ett tydligt barndomsminne jag har är att vi såg fjärilslarver förvandlas till fjärilar. Jag minns inte exakt hur vi gjorde då, men jag ville gärna att Åke och Tage skulle få vara med om det också. I en bok läste jag att det var lättast att använda nässelfjärilslarver: de var enkla att hitta och enkla att sköta. Så vi började leta efter larver, så fort vi råkade på brännässlor någonstans.<br>På midsommardagen, när jag var ute och fotograferade i Aleskogen i Halmstad, så hittade jag ett parti med brännässlor. Och på dessa nässlor hittade jag fyra larver som jag tyckte såg ut som nässelfjärilslarver (svarta och håriga). Jag gick och hämtade Åke, Tage och kusin Tore, samt en liten burk att ha larverna i, och återvände med dem till nässlorna. Larverna var kvar och de hamnade i burken. Vi plockade en del nässlor också till mat till larverna.</div><div class="separator" style="clear: both; text-align: center;"><br></div>
+Ett tydligt barndomsminne jag har är att vi såg fjärilslarver förvandlas till fjärilar. Jag minns inte exakt hur vi gjorde då, men jag ville gärna att Åke och Tage skulle få vara med om det också. I en bok läste jag att det var lättast att använda nässelfjärilslarver: de var enkla att hitta och enkla att sköta. Så vi började leta efter larver, så fort vi råkade på brännässlor någonstans.<br>På midsommardagen, när jag var ute och fotograferade i Aleskogen i Halmstad, så hittade jag ett parti med brännässlor. Och på dessa nässlor hittade jag fyra larver som jag tyckte såg ut som nässelfjärilslarver (svarta och håriga). Jag gick och hämtade Åke, Tage och kusin Tore, samt en liten burk att ha larverna i, och återvände med dem till nässlorna. Larverna var kvar och de hamnade i burken. Vi plockade en del nässlor också till mat till larverna.</div>
 
 <figure>
 	<img src="../../../../img/Aleskogen-PERK8489.jpg" height="426">
@@ -17,7 +17,7 @@ Ett tydligt barndomsminne jag har är att vi såg fjärilslarver förvandlas til
 <figure>
 	<img src="../../../../img/Fja%CC%88rilslarver-PERK8525.jpg" height="426">
 	<figcaption>En larv i faunariet. </figcaption>
-</figure>Lustigt nog visade det sig att vi hade sex larver, inte fyra. Jag var rätt säker på att det var fyra larver vi fångat, men när jag räknade dem så fick jag dem till sex. Nåväl, två extra skulle vi väl klara av.<br>En morgon när vi tittade till larverna blev vi rätt förskräckta: vi hittade en larv delad på mitten. Dessutom tycktes nästan en larv äta på den. Hade de blivit kannibaler? Hade vi gett dem fel mat? Mådde de så dåligt att de gav sig på varandra? Vi läste i vår fjärilsbok och lärde oss att larverna ömsar skinn några gånger, så det var nog bara det vi sett. I lådan räknade vi fortfarande till sex levande larver.<br>Vid det här laget hade vi dock börjat tvivla på att det var nässelfjärilslarver. De ska nämligen ha några gula ränder längs kroppen och det tyckte vi inte att dessa larverna hade. De var mer svarta, med gula hår. Kunde det vara påfågelöga? Vi läste oss till att cirka 70 svenska fjärilsarter har larver som lever av nässlor.<br>Vi kom fram till att larverna nog ville ha lite kvistar, som de kunde bli puppor på, så vi ägnade en stund åt att leta efter bra kvistar på torsdagen. På fredagen, nästan en vecka efter att vi plockat larverna, och bara en dag efter att de fått kvistarna så började det hända saker bland larverna... Åke kom springade på morgonen och ropade "Mamma, mamma, en larv har hängt sig i grenen!"</div><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>Lustigt nog visade det sig att vi hade sex larver, inte fyra. Jag var rätt säker på att det var fyra larver vi fångat, men när jag räknade dem så fick jag dem till sex. Nåväl, två extra skulle vi väl klara av.<br>En morgon när vi tittade till larverna blev vi rätt förskräckta: vi hittade en larv delad på mitten. Dessutom tycktes nästan en larv äta på den. Hade de blivit kannibaler? Hade vi gett dem fel mat? Mådde de så dåligt att de gav sig på varandra? Vi läste i vår fjärilsbok och lärde oss att larverna ömsar skinn några gånger, så det var nog bara det vi sett. I lådan räknade vi fortfarande till sex levande larver.<br>Vid det här laget hade vi dock börjat tvivla på att det var nässelfjärilslarver. De ska nämligen ha några gula ränder längs kroppen och det tyckte vi inte att dessa larverna hade. De var mer svarta, med gula hår. Kunde det vara påfågelöga? Vi läste oss till att cirka 70 svenska fjärilsarter har larver som lever av nässlor.<br>Vi kom fram till att larverna nog ville ha lite kvistar, som de kunde bli puppor på, så vi ägnade en stund åt att leta efter bra kvistar på torsdagen. På fredagen, nästan en vecka efter att vi plockat larverna, och bara en dag efter att de fått kvistarna så började det hända saker bland larverna... Åke kom springade på morgonen och ropade "Mamma, mamma, en larv har hängt sig i grenen!"</div>
 
 <figure>
 	<img src="../../../../img/Fja%CC%88rilslarver-PERK8519.jpg" height="426">
@@ -65,10 +65,13 @@ Ett tydligt barndomsminne jag har är att vi såg fjärilslarver förvandlas til
 </figure>
 
 <figure>
-	<img src="../../../../img/Kartfja%CC%88rilar-PERK8940.jpg" height="640" width="426">
-	<figcaption>Vår fjäril, i frihet i Högalidsparken. <br>Just den här tror vi var den larv vi döpt till Klätter.</i><br></td></tr></tbody></table>
+	<img src="../../../../img/Kartfja%CC%88rilar-PERK8940.jpg" height="640">
+	<figcaption>Vår fjäril, i frihet i Högalidsparken. <br>Just den här tror vi var den larv vi döpt till Klätter.</i><br></figcaption>
+</figure>
+
+
 
 <figure>
 	<img src="../../../../img/Kartfja%CC%88rilar-PERK8941.jpg" height="426">
 	<figcaption>Hej då fjärilar!</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div>Snart kommer kanske de första rapporterna om att kartfjäril har skådats i Stockholm, men då kan det alltså vara vårt fel. Förlåt!<br><br>Vi fick lära oss en hel del om fjärilar längs vägen och jag tror jag hade minst lika roligt den här gången som när jag var liten...</div>
+</figure>Snart kommer kanske de första rapporterna om att kartfjäril har skådats i Stockholm, men då kan det alltså vara vårt fel. Förlåt!<br><br>Vi fick lära oss en hel del om fjärilar längs vägen och jag tror jag hade minst lika roligt den här gången som när jag var liten...</div>

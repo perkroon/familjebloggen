@@ -17,14 +17,17 @@ originalUrl: https://nejtupp.blogspot.com/2012/11/oland-sommar-2012.html
 <div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6826.jpg"></div><br><br><br><br><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6841.jpg"></div><br><br><br><br><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6830.jpg"></div><br><br><br>
 
 <figure>
-	<img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6836.jpg" width="426"></td></tr><tr><td class="tr-caption" style="text-align: center;">Undrar hur det smakar?</figcaption>
+	<img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6836.jpg"></td></tr><tr><td class="tr-caption" style="text-align: center;">Undrar hur det smakar?</figcaption>
 </figure>
 
 
 
 <figure>
 	<img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6837.jpg">
-	<figcaption>Det smakade inget gott.</td></tr></tbody></table>
+	<figcaption>Det smakade inget gott.</figcaption>
+</figure>
+
+
 
 <div class="comments">
 	<div class="comments-header"><h2>1 Comment</h2></div>

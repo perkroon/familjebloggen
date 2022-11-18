@@ -11,24 +11,27 @@ originalUrl: https://nejtupp.blogspot.com/2012/01/veckan-fore-dopparedan-i-halms
 
 <figure>
 	<img src="../../../img/2011/12/Innan+jul+pa%25CC%258A+Ebbehill-_MG_0332.jpg">
-	<figcaption><span style="text-align: left;"><i>Vårt jullov startade en hel vecka före jul så då åkte vi ned till mormor och morfar i Halmstad. <br>Där var julens förberedelser i full gång. En och annan fika blev det förstås.</i></span></td></tr></tbody></table><div class="separator" style="clear: both; text-align: center;"><br><br></div>
+	<figcaption><span style="text-align: left;"><i>Vårt jullov startade en hel vecka före jul så då åkte vi ned till mormor och morfar i Halmstad. <br>Där var julens förberedelser i full gång. En och annan fika blev det förstås.</i></span></figcaption>
+</figure>
+
+<div class="separator" style="clear: both; text-align: center;"><br>
 
 <figure>
 	<img src="../../../img/2011/12/Innan+jul+pa%25CC%258A+Ebbehill-_MG_0321.jpg">
 	<figcaption>Granen skulle kläs.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
 	<img src="../../../img/2011/12/Innan+jul+pa%25CC%258A+Ebbehill-_MG_0366.jpg">
 	<figcaption>Julmarsipanen skulle färgas och formas.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: center;"><br></div>
+</figure>
 
 <figure>
 	<img src="../../../img/2011/12/Innan+jul+pa%25CC%258A+Ebbehill-_MG_0324.jpg">
 	<figcaption>Julsångerna skulle spelas.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: center;"><br></div><table cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"> <img src="../../../img/2011/12/Innan+jul+pa%25CC%258A+Ebbehill-_MG_0368.jpg">
+</figure><table cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"> <img src="../../../img/2011/12/Innan+jul+pa%25CC%258A+Ebbehill-_MG_0368.jpg">
 	<figcaption>Den dansande julgranen hade fullt sjå.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div><br>
+</figure><br>
 
 <figure>
 	<img src="../../../img/2011/12/Innan+jul+pa%25CC%258A+Ebbehill-_MG_0358.jpg">
@@ -43,4 +46,4 @@ originalUrl: https://nejtupp.blogspot.com/2012/01/veckan-fore-dopparedan-i-halms
 <figure>
 	<img src="../../../img/2011/12/Innan+jul+pa%25CC%258A+Ebbehill-_MG_0356.jpg">
 	<figcaption>När vi hade varit borta några dagar började Åke sakna farfar så han satte sig till rätta,<br> tog upp fönstertermometern och ringde farfar. Trodde han i alla fall.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br></div>Det var otroligt skönt att ha en hel ledig vecka innan självaste dopparedagen infann sig. Det ska vi komma ihåg till kommande år.<br>
+</figure>Det var otroligt skönt att ha en hel ledig vecka innan självaste dopparedagen infann sig. Det ska vi komma ihåg till kommande år.<br>

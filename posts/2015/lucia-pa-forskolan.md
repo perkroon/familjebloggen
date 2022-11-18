@@ -5,4 +5,19 @@ tags:
 originalUrl:	https://nejtupp.blogspot.com/2015/12/lucia-pa-forskolan.html
 ---
 
-<div dir="ltr" style="text-align: left;" trbidi="on"><div class="separator" style="clear: both; text-align: left;">På måndagen, den 14 december, var det luciafirande med Åkes förskola. Det började klockan 15.15, som vanligt i Högalidsparken. Det tycks också vara något slags tradition att det ska vara riktigt kallt just denna dag, och detta var vinterns hittills kallaste dag, med omkring -8 grader.</div><div class="separator" style="clear: both; text-align: left;"><br></div><div class="separator" style="clear: both; text-align: left;">Först samlades föräldrar och andra anhöriga och väntade otåligt, sedan hörde vi att barnen kom uppför trappan och samlades uppställda framför oss. Utklädda till pepparkaksgubbar, lucior och tomtar sjöng de i fem-tio minuter och fick sedan applåder från oss alla. Åke såg ut att klämma i rätt bra, vilket förvånade oss lite – han har inte varit särskilt peppad på lucian. Tack Åke och ni andra för luciauppträdandet!</div><div class="separator" style="clear: both; text-align: left;"><br></div><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Fo%25CC%2588rskolans%2Blucia-PERK7470.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Efter sången var vi välkomna att smaka på pepparkakor som barnen bakat. Åke hittade en god pepparkaka.</i></td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Fo%25CC%2588rskolans%2Blucia-PERK7477.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Barnen fick saft och vi vuxna drack söt glögg.</i></td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Fo%25CC%2588rskolans%2Blucia-PERK7480.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Vissa frös mer än andra! </i></td></tr></tbody></table>Efter luciatåget köpte vi årets julgran på torget i Hornstull. Den var så grön och tät och fin!</div>
+<div dir="ltr" style="text-align: left;" trbidi="on">På måndagen, den 14 december, var det luciafirande med Åkes förskola. Det började klockan 15.15, som vanligt i Högalidsparken. Det tycks också vara något slags tradition att det ska vara riktigt kallt just denna dag, och detta var vinterns hittills kallaste dag, med omkring -8 grader.<br>Först samlades föräldrar och andra anhöriga och väntade otåligt, sedan hörde vi att barnen kom uppför trappan och samlades uppställda framför oss. Utklädda till pepparkaksgubbar, lucior och tomtar sjöng de i fem-tio minuter och fick sedan applåder från oss alla. Åke såg ut att klämma i rätt bra, vilket förvånade oss lite – han har inte varit särskilt peppad på lucian. Tack Åke och ni andra för luciauppträdandet!<br></div>
+
+<figure>
+	<img src="../../../../img/Fo%25CC%2588rskolans%2Blucia-PERK7470.jpg">
+	<figcaption>Efter sången var vi välkomna att smaka på pepparkakor som barnen bakat. Åke hittade en god pepparkaka.</figcaption>
+</figure>
+
+<figure>
+	<img src="../../../../img/Fo%25CC%2588rskolans%2Blucia-PERK7477.jpg">
+	<figcaption>Barnen fick saft och vi vuxna drack söt glögg.</figcaption>
+</figure>
+
+<figure>
+	<img src="../../../../img/Fo%25CC%2588rskolans%2Blucia-PERK7480.jpg">
+	<figcaption>Vissa frös mer än andra! </figcaption>
+</figure>Efter luciatåget köpte vi årets julgran på torget i Hornstull. Den var så grön och tät och fin!</div>

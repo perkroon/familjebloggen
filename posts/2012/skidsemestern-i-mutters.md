@@ -7,7 +7,114 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2012/04/skidsemestern-i-mutters.html
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/IMG_0593.JPG" width="640"></div><br>Den 3 mars tog vi flyget till München och for sedan vidare med S-bahn, tåg och spårvagn upp till den lilla byn Mutters som ligger i bergen ovanför Innsbruck. Väl där mötte vi upp mormor, morfar och kusinerna Axel och Ida, morbror Filip, moster Johanna och kusinerna Ingrid och Tore som allihop hade åkt tåg från Stockholm och Halmstad. När mamman var liten och bodde i Innsbruck var de ofta uppe i bergsbyarna ovanför Innsbruck, men skidsystemet i Mutters är nytt sedan några år och alltså nytt för oss alla. Vi bodde allihop på Pension Lärchenwald som låg nära liften (det stora huset till höger i bilden).<br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Mer+skidresa+till+Mutters-IMG_1699.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;">Åke på sin första skidsemester.</td></tr></tbody></table><br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/IMG_0561.JPG" width="478"></td></tr><tr><td class="tr-caption" style="text-align: center;">Tage, som fyllde 4 år under resan, åkte skidor för första gången<br> och lärde sig till och med att åka knapplift på egen hand.</td></tr></tbody></table><br><br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/IMG_0570.JPG" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;">Åke, som fyllde 2 år under resan, tyckte det var roligt att leka i snön.</td></tr></tbody></table><br><br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Mer+skidresa+till+Mutters-IMG_1641.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;">För att kunna vara skidlärare till Tage fick Mamman börja åka skidor igen<br> efter 18 år av enbart snowboardåkande. Det var en märklig känsla, precis som att börja om på nytt.</td></tr></tbody></table><br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/IMG_0579.JPG" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;">På dagarna hängde vi i barnbacken med Tage eller på restaurangen med Åke.<br><br></td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Skidresa+till+Mutters-_MG_1733.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;">Resten av gänget samlades på restaurangen vid lunch och förmiddags- och eftermiddagsfika.<br> En av dagarna kom Eva-Marie från Mayrhofen och hälsade på oss.</td></tr></tbody></table><br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Mer+skidresa+till+Mutters-IMG_1704.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;">De vegetariska alternativen var pommes, pasta bianco och kaiserschmarren.
+<div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/IMG_0593.JPG"></div><br>Den 3 mars tog vi flyget till München och for sedan vidare med S-bahn, tåg och spårvagn upp till den lilla byn Mutters som ligger i bergen ovanför Innsbruck. Väl där mötte vi upp mormor, morfar och kusinerna Axel och Ida, morbror Filip, moster Johanna och kusinerna Ingrid och Tore som allihop hade åkt tåg från Stockholm och Halmstad. När mamman var liten och bodde i Innsbruck var de ofta uppe i bergsbyarna ovanför Innsbruck, men skidsystemet i Mutters är nytt sedan några år och alltså nytt för oss alla. Vi bodde allihop på Pension Lärchenwald som låg nära liften (det stora huset till höger i bilden).<br><br>
+
+<figure>
+	<img src="../../../../img/Mer+skidresa+till+Mutters-IMG_1699.jpg">
+	<figcaption>Åke på sin första skidsemester.</figcaption>
+</figure>
+
+
+
+<figure>
+	<img src="../../../../img/IMG_0561.JPG" width="478"></td></tr><tr><td class="tr-caption" style="text-align: center;">Tage, som fyllde 4 år under resan, åkte skidor för första gången<br> och lärde sig till och med att åka knapplift på egen hand.</figcaption>
+</figure>
+
+<br>
+
+<figure>
+	<img src="../../../../img/IMG_0570.JPG">
+	<figcaption>Åke, som fyllde 2 år under resan, tyckte det var roligt att leka i snön.</figcaption>
+</figure>
+
+<br>
+
+<figure>
+	<img src="../../../../img/Mer+skidresa+till+Mutters-IMG_1641.jpg">
+	<figcaption>För att kunna vara skidlärare till Tage fick Mamman börja åka skidor igen<br> efter 18 år av enbart snowboardåkande. Det var en märklig känsla, precis som att börja om på nytt.</figcaption>
+</figure>
+
+
+
+<figure>
+	<img src="../../../../img/IMG_0579.JPG">
+	<figcaption>På dagarna hängde vi i barnbacken med Tage eller på restaurangen med Åke.<br><br></td></tr></tbody></table><br>
+
+<figure>
+	<img src="../../../../img/Skidresa+till+Mutters-_MG_1733.jpg">
+	<figcaption>Resten av gänget samlades på restaurangen vid lunch och förmiddags- och eftermiddagsfika.<br> En av dagarna kom Eva-Marie från Mayrhofen och hälsade på oss.</figcaption>
+</figure>
+
+
+
+<figure>
+	<img src="../../../../img/Mer+skidresa+till+Mutters-IMG_1704.jpg">
+	<figcaption>De vegetariska alternativen var pommes, pasta bianco och kaiserschmarren.
 <br><br>
 
-</td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Skidresa+till+Mutters-_MG_1750.jpg" width="426"></td></tr><tr><td class="tr-caption" style="text-align: center;">En dag tog morfar på sig specialskidor och gick upp för hela berget.</td></tr></tbody></table><br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><br><img src="../../../../img/IMG_0525.JPG" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;">Ingrid, Åke och Ida är på väg till hotellet efter en lång dag i backen.</td></tr></tbody></table><br><br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Skidresa+till+Mutters-_MG_1801.jpg" width="426"></td></tr><tr><td class="tr-caption" style="text-align: center;">När liftarna hade stängt samlades kusinerna i hotellets trädgård.</td></tr></tbody></table><br><br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Skidresa+till+Mutters-_MG_1798.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;">Axel 11, Ida 7, Tage 4, Ingrid 8, Tore 6.</td></tr></tbody></table><br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Skidresa+till+Mutters-_MG_1836.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;">När Eva-Marie hälsade på fick alla varsin glass.</td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><br><img src="../../../../img/IMG_0528.JPG" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;">Apres ski vid hotellet.<br></td></tr></tbody></table><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><br><img src="../../../../img/Skidresa+till+Mutters-_MG_1726.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;">Efter en dag i backen och apres ski i hotellträdgården var det dags för bus på hotellrummet.</td></tr></tbody></table><br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/IMG_0538.JPG" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;">På vårt rum lektes det mycket med lego och spelen på iPaden.<br>Vi spelade också in roliga musikvideor med alla kusinerna.<br></td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Skidresa+till+Mutters-_MG_1865.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;">Vid sex-tiden samlades alla nere i hotellrestaurangen och åt middag.<br>Oftast blev det kaiserschmarren (fluffiga pannkaksbitar med florsocker och russin) för Tage och Åke.</td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Skidresa+till+Mutters-_MG_1859.jpg" width="426"></td></tr><tr><td class="tr-caption" style="text-align: center;">En del av gästerna hade lite svårt att sitta still ibland.<br></td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Skidresa+till+Mutters-_MG_1678.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;">De flesta kvällarna åt vi på vårt eget hotell. Två kvällar besökte vi en annan restaurang (den enda i byn), en italiensk.</td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Skidresa+till+Mutters-_MG_1684.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;">Tage gillade den italienska pastan.</td></tr></tbody></table><br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Skidresa+till+Mutters-_MG_1891.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;">Kusinerna spelar spel efter kvällsmaten.</td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><br><img src="../../../../img/Skidresa+till+Mutters-_MG_1907.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;">Det var intensiva dagar och kvällarna blev ganska tidiga.<br>Efter klockan 22 var det knappast någon i gänget som var vaken.</td></tr></tbody></table><div class="separator" style="clear: both; text-align: center;"><br></div><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Skidresa+till+Mutters-_MG_1853.jpg" width="266"></td></tr><tr><td class="tr-caption" style="text-align: center;">Hotellägaren gick även under namnet "arga tanten". <br>Hon var inte särskilt förtjust i livliga barn. </td></tr></tbody></table><br><div class="separator" style="clear: both; text-align: center;"><br></div><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/IMG_0604.JPG" width="298"></td></tr><tr><td class="tr-caption" style="text-align: center;">Men hon kunde vara snäll också! Sista dagen var hon jättesnäll. Hon hörde på eftermiddagen att vi firade Åke som fyllde två år, och efter kvällsmiddagen kom hon med den här överraskningen till oss och alla barnen fick även varsin stor påse full med choklad.</td></tr></tbody></table>
+</td></tr></tbody></table><br>
+
+<figure>
+	<img src="../../../../img/Skidresa+till+Mutters-_MG_1750.jpg" width="426"></td></tr><tr><td class="tr-caption" style="text-align: center;">En dag tog morfar på sig specialskidor och gick upp för hela berget.</figcaption>
+</figure>
+
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><br><img src="../../../../img/IMG_0525.JPG">
+	<figcaption>Ingrid, Åke och Ida är på väg till hotellet efter en lång dag i backen.</figcaption>
+</figure>
+
+<br>
+
+<figure>
+	<img src="../../../../img/Skidresa+till+Mutters-_MG_1801.jpg" width="426"></td></tr><tr><td class="tr-caption" style="text-align: center;">När liftarna hade stängt samlades kusinerna i hotellets trädgård.</figcaption>
+</figure>
+
+<br>
+
+<figure>
+	<img src="../../../../img/Skidresa+till+Mutters-_MG_1798.jpg">
+	<figcaption>Axel 11, Ida 7, Tage 4, Ingrid 8, Tore 6.</figcaption>
+</figure>
+
+
+
+<figure>
+	<img src="../../../../img/Skidresa+till+Mutters-_MG_1836.jpg">
+	<figcaption>När Eva-Marie hälsade på fick alla varsin glass.</td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><br><img src="../../../../img/IMG_0528.JPG">
+	<figcaption>Apres ski vid hotellet.<br></td></tr></tbody></table><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><br><img src="../../../../img/Skidresa+till+Mutters-_MG_1726.jpg">
+	<figcaption>Efter en dag i backen och apres ski i hotellträdgården var det dags för bus på hotellrummet.</figcaption>
+</figure>
+
+
+
+<figure>
+	<img src="../../../../img/IMG_0538.JPG">
+	<figcaption>På vårt rum lektes det mycket med lego och spelen på iPaden.<br>Vi spelade också in roliga musikvideor med alla kusinerna.<br></td></tr></tbody></table><br>
+
+<figure>
+	<img src="../../../../img/Skidresa+till+Mutters-_MG_1865.jpg">
+	<figcaption>Vid sex-tiden samlades alla nere i hotellrestaurangen och åt middag.<br>Oftast blev det kaiserschmarren (fluffiga pannkaksbitar med florsocker och russin) för Tage och Åke.</td></tr></tbody></table><br>
+
+<figure>
+	<img src="../../../../img/Skidresa+till+Mutters-_MG_1859.jpg" width="426"></td></tr><tr><td class="tr-caption" style="text-align: center;">En del av gästerna hade lite svårt att sitta still ibland.<br></td></tr></tbody></table><br>
+
+<figure>
+	<img src="../../../../img/Skidresa+till+Mutters-_MG_1678.jpg">
+	<figcaption>De flesta kvällarna åt vi på vårt eget hotell. Två kvällar besökte vi en annan restaurang (den enda i byn), en italiensk.</td></tr></tbody></table><br>
+
+<figure>
+	<img src="../../../../img/Skidresa+till+Mutters-_MG_1684.jpg">
+	<figcaption>Tage gillade den italienska pastan.</figcaption>
+</figure>
+
+
+
+<figure>
+	<img src="../../../../img/Skidresa+till+Mutters-_MG_1891.jpg">
+	<figcaption>Kusinerna spelar spel efter kvällsmaten.</td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><br><img src="../../../../img/Skidresa+till+Mutters-_MG_1907.jpg">
+	<figcaption>Det var intensiva dagar och kvällarna blev ganska tidiga.<br>Efter klockan 22 var det knappast någon i gänget som var vaken.</td></tr></tbody></table><div class="separator" style="clear: both; text-align: center;"><br></div><br>
+
+<figure>
+	<img src="../../../../img/Skidresa+till+Mutters-_MG_1853.jpg" width="266"></td></tr><tr><td class="tr-caption" style="text-align: center;">Hotellägaren gick även under namnet "arga tanten". <br>Hon var inte särskilt förtjust i livliga barn. </td></tr></tbody></table><br><div class="separator" style="clear: both; text-align: center;"><br></div>
+
+<figure>
+	<img src="../../../../img/IMG_0604.JPG" width="298"></td></tr><tr><td class="tr-caption" style="text-align: center;">Men hon kunde vara snäll också! Sista dagen var hon jättesnäll. Hon hörde på eftermiddagen att vi firade Åke som fyllde två år, och efter kvällsmiddagen kom hon med den här överraskningen till oss och alla barnen fick även varsin stor påse full med choklad.</td></tr></tbody></table>

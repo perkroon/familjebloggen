@@ -7,4 +7,94 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2012/11/sommarsemestern-pa-oland-del-2.html
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/O%CC%88land+-+Peters+familj-5C5C6545.jpg" width="640"></div><br>Samma dag som farmor och farfar åkte tillbaka till Pyrtet i Småland så kom nästa glada gäng på besök: kompisarna Nils och Harry med mamma Erika och pappa Peter. Vädret var bättre än någon annan gång den här sommaren och vi kunde glatt visa dem våra favoritställen.<br><br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/O%CC%88land+-+Peters+familj-5C5C6549.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Fyra småkillar tar morgondopp vid Boviken.</i></td></tr></tbody></table><br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/O%CC%88land+-+Peters+familj-5C5C6575.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Förmiddagsfika vid Boviken.</i></td></tr></tbody></table><br><br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/O%CC%88land+-+Peters+familj-5C5C6608.jpg" width="426"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Sedan fortsatte leken hemma vid stugan.</i></td></tr></tbody></table><br><br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/O%CC%88land+-+Peters+familj-5C5C6598.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Åke sover middag med sin favoritdumper.</i></td></tr></tbody></table><br><br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/O%CC%88land+-+Peters+familj-5C5C6659.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Eftermiddagsfika på terassen.</i></td></tr></tbody></table><br><br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/O%CC%88land+-+Peters+familj-5C5C6670.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Åke 2, Tage 4, Nils 3 och Harry 1 år.</i></td></tr></tbody></table><br><br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/O%CC%88land+-+Peters+familj-5C5C6696.jpg" width="426"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Kompisarna Tage och Nils. Som små kopior av sina pappor.</i></td></tr></tbody></table><br><br><br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/O%CC%88land+-+Peters+familj-5C5C6654.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Harry och Åke med de populära småbilarna.</i></td></tr></tbody></table><br><br><br><br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/O%CC%88land+-+Peters+familj-5C5C6628.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Kvällsdopp vid Alvedsjöbodar på sommarens varmaste dag.</i></td></tr></tbody></table><br><div class="separator" style="clear: both; text-align: center;"><br></div><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/O%CC%88land+-+Peters+familj-5C5C6726.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Vi hann även med att besöka ett av våra favoritställen: Skäftekärr.</i></td></tr></tbody></table><br><div class="separator" style="clear: both; text-align: center;"><br></div><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/O%CC%88land+-+Peters+familj-5C5C6715.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Tage och Nils spelar schack i Skäftekärr.</i></td></tr></tbody></table><br><div class="separator" style="clear: both; text-align: center;"><br></div><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/O%CC%88land+-+Peters+familj-5C5C6739.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Peter och pojkarna gick in i järnåldershuset och fick höra hur man levde förr i tiden.</i></td></tr></tbody></table><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: center;"><br></div><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6792.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Glasstund på Mellböda gård.</i></td></tr></tbody></table><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: justify;"><span style="text-align: left;">Det var jätteroligt att få besök. Det var så mycket vi hade velat visa dem som vi inte hann med, men vi hoppas att de kommer tillbaka kanske redan nästa år. Vi stannade på Öland några dagar till och åkte som vanligt till vårt favoritställe Mellböda gård. Där hade de fått en ny sevärdhet: Gissa-dasset! Ett gammalt utedass hade förvandlats till ett fint rum där man kunde gissa ljud och djurbajs. Vad mer kan man önska sig? </span></div><div class="separator" style="clear: both; text-align: left;"><br></div><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6781.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Vad finns det där nere?</i></td></tr></tbody></table><div class="separator" style="clear: both; text-align: left;"><br></div><div class="separator" style="clear: both; text-align: left;"><br></div><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6776.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Och vad är det för ljud som låter?</i></td></tr></tbody></table><div class="separator" style="clear: both; text-align: left;"><br></div><div class="separator" style="clear: both; text-align: left;"><br></div><div class="separator" style="clear: both; text-align: left;"><br></div><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6811.jpg" width="426"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Härliga underbara Öland.</i></td></tr></tbody></table><div class="separator" style="clear: both; text-align: left;"><br></div><div class="separator" style="clear: both; text-align: left;"><br></div><div class="separator" style="clear: both; text-align: left;"><br></div><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6768.jpg" width="426"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Titta på mig då, pappa!</i></td></tr></tbody></table><div class="separator" style="clear: both; text-align: left;"><br></div><div class="separator" style="clear: both; text-align: left;"><br></div><div class="separator" style="clear: both; text-align: left;"><br></div><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6947.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Åke på promenad på sjömarkerna.</i></td></tr></tbody></table>
+<div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/O%CC%88land+-+Peters+familj-5C5C6545.jpg"></div><br>Samma dag som farmor och farfar åkte tillbaka till Pyrtet i Småland så kom nästa glada gäng på besök: kompisarna Nils och Harry med mamma Erika och pappa Peter. Vädret var bättre än någon annan gång den här sommaren och vi kunde glatt visa dem våra favoritställen.<br><br><br>
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+Peters+familj-5C5C6549.jpg">
+	<figcaption>Fyra småkillar tar morgondopp vid Boviken.</figcaption>
+</figure><br>
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+Peters+familj-5C5C6575.jpg">
+	<figcaption>Förmiddagsfika vid Boviken.</figcaption>
+</figure><br><br>
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+Peters+familj-5C5C6608.jpg" width="426">
+	<figcaption>Sedan fortsatte leken hemma vid stugan.</figcaption>
+</figure><br><br>
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+Peters+familj-5C5C6598.jpg">
+	<figcaption>Åke sover middag med sin favoritdumper.</figcaption>
+</figure><br><br>
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+Peters+familj-5C5C6659.jpg">
+	<figcaption>Eftermiddagsfika på terassen.</figcaption>
+</figure><br><br>
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+Peters+familj-5C5C6670.jpg">
+	<figcaption>Åke 2, Tage 4, Nils 3 och Harry 1 år.</figcaption>
+</figure><br><br>
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+Peters+familj-5C5C6696.jpg" width="426">
+	<figcaption>Kompisarna Tage och Nils. Som små kopior av sina pappor.</figcaption>
+</figure><br><br><br>
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+Peters+familj-5C5C6654.jpg">
+	<figcaption>Harry och Åke med de populära småbilarna.</figcaption>
+</figure><br><br><br><br>
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+Peters+familj-5C5C6628.jpg">
+	<figcaption>Kvällsdopp vid Alvedsjöbodar på sommarens varmaste dag.</figcaption>
+</figure><div class="separator" style="clear: both; text-align: center;"><br></div><br>
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+Peters+familj-5C5C6726.jpg">
+	<figcaption>Vi hann även med att besöka ett av våra favoritställen: Skäftekärr.</figcaption>
+</figure><div class="separator" style="clear: both; text-align: center;"><br></div><br>
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+Peters+familj-5C5C6715.jpg">
+	<figcaption>Tage och Nils spelar schack i Skäftekärr.</figcaption>
+</figure><div class="separator" style="clear: both; text-align: center;"><br></div><br>
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+Peters+familj-5C5C6739.jpg">
+	<figcaption>Peter och pojkarna gick in i järnåldershuset och fick höra hur man levde förr i tiden.</figcaption>
+</figure><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: center;"><br></div>
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6792.jpg">
+	<figcaption>Glasstund på Mellböda gård.</figcaption>
+</figure><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: justify;"><span style="text-align: left;">Det var jätteroligt att få besök. Det var så mycket vi hade velat visa dem som vi inte hann med, men vi hoppas att de kommer tillbaka kanske redan nästa år. Vi stannade på Öland några dagar till och åkte som vanligt till vårt favoritställe Mellböda gård. Där hade de fått en ny sevärdhet: Gissa-dasset! Ett gammalt utedass hade förvandlats till ett fint rum där man kunde gissa ljud och djurbajs. Vad mer kan man önska sig? </span><br></div>
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6781.jpg">
+	<figcaption>Vad finns det där nere?</figcaption>
+</figure><br></div>
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6776.jpg">
+	<figcaption>Och vad är det för ljud som låter?</figcaption>
+</figure><br><br></div>
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6811.jpg" width="426">
+	<figcaption>Härliga underbara Öland.</figcaption>
+</figure><br><br></div>
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6768.jpg" width="426">
+	<figcaption>Titta på mig då, pappa!</figcaption>
+</figure><br><br></div>
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6947.jpg">
+	<figcaption>Åke på promenad på sjömarkerna.</figcaption>
+</figure>

@@ -7,4 +7,54 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2014/11/tre-utflykter-i-juni.html
 ---
 
-<div class="separator" style="clear: both; text-align: left;">I juni jobbade Lovisa en hel del helger och vi andra fick lite tid för oss själva. Vi valde ofta att göra utflykter, själva eller tillsammans med andra. Här är bilder från tre utflykter vi gjorde under den månaden.</div><div class="separator" style="clear: both; text-align: left;"><br></div><div class="separator" style="clear: both; text-align: left;">Den första utflykten var ett slags upptäcksfärd i Högalid. När jag kallade vår lilla promenad för upptäcksfärd blev det mycket mer spännande än om jag sagt att vi skulle gå runt vårt kvarter. Nu hade vi ögonen öppna för allt i vår omgivning.</div><div class="separator" style="clear: both; text-align: left;"><br></div><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Uppta%CC%88cksfa%CC%88rd%2Bi%2BHo%CC%88galid-PERK7009.jpg" height="640" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Vår upptäcksfärd började lustigt nog nere i källaren. Åke höll i min telefon som gav oss ljus.</i></td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Uppta%CC%88cksfa%CC%88rd%2Bi%2BHo%CC%88galid-PERK7013.jpg" height="640" width="426"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Vid den här tiden är grönskan verkligen imponerande! <br>Här är vi på väg uppför några trappor i Pålsundsparken.</i></td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Uppta%CC%88cksfa%CC%88rd%2Bi%2BHo%CC%88galid-PERK7025.jpg" height="640" width="426"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Ett bra knep är att ha med en burk med lupp. Då kan man fånga insekter <br>längs vägen och ta en närmare titt på dem, vilket båda pojkarna uppskattar.</i></td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Uppta%CC%88cksfa%CC%88rd%2Bi%2BHo%CC%88galid-PERK7031.jpg" height="426" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Uppe vid Högalidskyrkan träffade vi en katt och hennes matte, samt precis efteråt den här döda duvan. <br>Det var spännande att titta på resterna. Vi tror att katten var oskyldig.</i></td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Uppta%CC%88cksfa%CC%88rd%2Bi%2BHo%CC%88galid-PERK7038.jpg" height="640" width="426"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Till sist hamnade vi i parkleken i Högalidsparken. Den parken känner <br>grabbarna lika väl som sin egen ficka.</i></td></tr></tbody></table><div><br></div><div>Två dagar senare gjorde vi en utflykt till Judarskogen, och nu fick vi sällskap av Peter, Erika, Nils och Harry. Vi möttes i parken utanför tunnelbanestationen och började med att äta picknick där. Sedan gav vi oss in i naturreservatet. Det är väl inte så värst vild natur kanske, men om man jämför med parker och andra grönområden vi brukar röra oss i i Stockholm så duger det gott. </div><div><br></div><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Judarskogen%2Bmed%2BPeters%2Bfamilj-PERK7112.jpg" height="426" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Tage och Nils utforskar en grotta.</i></td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Judarskogen%2Bmed%2BPeters%2Bfamilj-PERK7116.jpg" height="426" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Här undersöks ett träd som bryts ner och smulas sönder. Med pinnar går det att smula sönder veden <br>och detta fångade både Tage och Nils intresse för ganska lång tid.</i></td></tr></tbody></table><br>En knapp vecka senare stack vi ut igen. Den här gången gjorde vi en längre utflykt i sällskap med farmor, som körde oss i bil till Tyresta nationalpark. Vi kom till ett hörn av parken där ingen av oss varit tidigare och vi promenerade omkring i kanske två timmar. Det fanns många insekter att titta på och stigar att följa, men nästa gång väljer vi kanske en annan del av nationalparken.<br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Tyresta%2Bnationalpark-PERK7934.jpg" height="426" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Vi var väl utrustade med goda bullar från dello sport, kaffe och saft. Vi fikade högt uppe på en höjd i skogen.</i></td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Tyresta%2Bnationalpark-PERK7939.jpg" height="426" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Åke funderar på vad han ska stoppa i luppen, Tage närstuderar insektsboken i bakgrunden.</i></td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Tyresta%2Bnationalpark-PERK7950.jpg" height="640" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Tage.</i></td></tr></tbody></table><br><div class="separator" style="clear: both; text-align: center;"><br></div>
+I juni jobbade Lovisa en hel del helger och vi andra fick lite tid för oss själva. Vi valde ofta att göra utflykter, själva eller tillsammans med andra. Här är bilder från tre utflykter vi gjorde under den månaden.<br>Den första utflykten var ett slags upptäcksfärd i Högalid. När jag kallade vår lilla promenad för upptäcksfärd blev det mycket mer spännande än om jag sagt att vi skulle gå runt vårt kvarter. Nu hade vi ögonen öppna för allt i vår omgivning.<br></div>
+
+<figure>
+	<img src="../../../../img/Uppta%CC%88cksfa%CC%88rd%2Bi%2BHo%CC%88galid-PERK7009.jpg" height="640">
+	<figcaption>Vår upptäcksfärd började lustigt nog nere i källaren. Åke höll i min telefon som gav oss ljus.</figcaption>
+</figure>
+
+<figure>
+	<img src="../../../../img/Uppta%CC%88cksfa%CC%88rd%2Bi%2BHo%CC%88galid-PERK7013.jpg" height="640" width="426">
+	<figcaption>Vid den här tiden är grönskan verkligen imponerande! <br>Här är vi på väg uppför några trappor i Pålsundsparken.</figcaption>
+</figure>
+
+<figure>
+	<img src="../../../../img/Uppta%CC%88cksfa%CC%88rd%2Bi%2BHo%CC%88galid-PERK7025.jpg" height="640" width="426">
+	<figcaption>Ett bra knep är att ha med en burk med lupp. Då kan man fånga insekter <br>längs vägen och ta en närmare titt på dem, vilket båda pojkarna uppskattar.</figcaption>
+</figure>
+
+<figure>
+	<img src="../../../../img/Uppta%CC%88cksfa%CC%88rd%2Bi%2BHo%CC%88galid-PERK7031.jpg" height="426">
+	<figcaption>Uppe vid Högalidskyrkan träffade vi en katt och hennes matte, samt precis efteråt den här döda duvan. <br>Det var spännande att titta på resterna. Vi tror att katten var oskyldig.</figcaption>
+</figure>
+
+<figure>
+	<img src="../../../../img/Uppta%CC%88cksfa%CC%88rd%2Bi%2BHo%CC%88galid-PERK7038.jpg" height="640" width="426">
+	<figcaption>Till sist hamnade vi i parkleken i Högalidsparken. Den parken känner <br>grabbarna lika väl som sin egen ficka.</figcaption>
+</figure><div><br></div><div>Två dagar senare gjorde vi en utflykt till Judarskogen, och nu fick vi sällskap av Peter, Erika, Nils och Harry. Vi möttes i parken utanför tunnelbanestationen och började med att äta picknick där. Sedan gav vi oss in i naturreservatet. Det är väl inte så värst vild natur kanske, men om man jämför med parker och andra grönområden vi brukar röra oss i i Stockholm så duger det gott. </div><div><br></div>
+
+<figure>
+	<img src="../../../../img/Judarskogen%2Bmed%2BPeters%2Bfamilj-PERK7112.jpg" height="426">
+	<figcaption>Tage och Nils utforskar en grotta.</figcaption>
+</figure>
+
+<figure>
+	<img src="../../../../img/Judarskogen%2Bmed%2BPeters%2Bfamilj-PERK7116.jpg" height="426">
+	<figcaption>Här undersöks ett träd som bryts ner och smulas sönder. Med pinnar går det att smula sönder veden <br>och detta fångade både Tage och Nils intresse för ganska lång tid.</figcaption>
+</figure>En knapp vecka senare stack vi ut igen. Den här gången gjorde vi en längre utflykt i sällskap med farmor, som körde oss i bil till Tyresta nationalpark. Vi kom till ett hörn av parken där ingen av oss varit tidigare och vi promenerade omkring i kanske två timmar. Det fanns många insekter att titta på och stigar att följa, men nästa gång väljer vi kanske en annan del av nationalparken.<br><br>
+
+<figure>
+	<img src="../../../../img/Tyresta%2Bnationalpark-PERK7934.jpg" height="426">
+	<figcaption>Vi var väl utrustade med goda bullar från dello sport, kaffe och saft. Vi fikade högt uppe på en höjd i skogen.</figcaption>
+</figure>
+
+<figure>
+	<img src="../../../../img/Tyresta%2Bnationalpark-PERK7939.jpg" height="426">
+	<figcaption>Åke funderar på vad han ska stoppa i luppen, Tage närstuderar insektsboken i bakgrunden.</figcaption>
+</figure>
+
+<figure>
+	<img src="../../../../img/Tyresta%2Bnationalpark-PERK7950.jpg" height="640">
+	<figcaption>Tage.</figcaption>
+</figure><div class="separator" style="clear: both; text-align: center;"><br></div>

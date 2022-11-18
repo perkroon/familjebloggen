@@ -7,4 +7,21 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2013/07/battur-och-bad-i-orken.html
 ---
 
-Det vackra vädret höll i sig och vi passade på att göra en annan sak som är bäst i vackert väder: en båtutflykt! Förutom den obligatoriska svängen in i Böksholmsdammen så åkte vi till badplatsen i närheten. Där stannade vi en stund och några av oss (Pappan och Tage, delvis också Åke) badade.<br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Pyrtet+-+ba%CC%8At+och+bad-PERK6507.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Ut på sjön Örken!</i></td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img border="0" height="426" src="../../../../img/Pyrtet+-+ba%CC%8At+och+bad-PERK6546.jpg" style="margin-left: auto; margin-right: auto;" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Åke med sin pinne, i farmors knä.</i></td></tr></tbody></table><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/Pyrtet+-+ba%CC%8At+och+bad-PERK6548.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>På badplatsen hittade Tage en fyrklöver.</i></td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/Pyrtet+-+ba%CC%8At+och+bad-PERK6555.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Badarna fångade på bild.</i></td></tr></tbody></table><div class="separator" style="clear: both; text-align: center;"><br></div><div class="separator" style="clear: both; text-align: left;"><br></div>
+Det vackra vädret höll i sig och vi passade på att göra en annan sak som är bäst i vackert väder: en båtutflykt! Förutom den obligatoriska svängen in i Böksholmsdammen så åkte vi till badplatsen i närheten. Där stannade vi en stund och några av oss (Pappan och Tage, delvis också Åke) badade.<br><br>
+
+<figure>
+	<img src="../../../../img/Pyrtet+-+ba%CC%8At+och+bad-PERK6507.jpg">
+	<figcaption>Ut på sjön Örken!</figcaption>
+</figure>
+
+<figure>
+	<img border="0" height="426" src="../../../../img/Pyrtet+-+ba%CC%8At+och+bad-PERK6546.jpg" style="margin-left: auto; margin-right: auto;">
+	<figcaption>Åke med sin pinne, i farmors knä.</figcaption>
+</figure><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/Pyrtet+-+ba%CC%8At+och+bad-PERK6548.jpg">
+	<figcaption>På badplatsen hittade Tage en fyrklöver.</figcaption>
+</figure>
+
+<figure>
+	<img src="../../../../img/Pyrtet+-+ba%CC%8At+och+bad-PERK6555.jpg">
+	<figcaption>Badarna fångade på bild.</figcaption>
+</figure><div class="separator" style="clear: both; text-align: center;"><br><br></div>

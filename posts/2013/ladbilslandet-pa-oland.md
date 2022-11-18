@@ -10,13 +10,64 @@ originalUrl: https://nejtupp.blogspot.com/2013/08/ladbilslandet-pa-oland.html
 Vi minns hur roligt vi haft på Lådbilslandet tidigare en gång, och med tanke på hur bilintresserad Åke är så såg vi fram emot ett nytt besök. Vi valde en dag då solen sken. Detta var slugt av oss: vi räknade med att de flesta skulle välja stranden och spara Lådbilslandet till en mulen dag (som vi gjorde förra gången). Nu var det långt ifrån tomt på området, men så pass lite folk att inga köer uppstod. Karusellen kunde man direkt sätta sig i, och den startade strax efter att Tage och Åke (samt kanske några andra barn) var redo. Perfekt!
 <br><br>
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/O%CC%88land+-+La%CC%8Adbilslandet-PERK7139.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>– Pappa, jag vill ta med mig stämpeln hem, sade Åke vid entrén.</i></td></tr></tbody></table>Åke hade ju precis slutat med blöjor, men han ville absolut inte gå på toaletten, så vi fick helt enkelt ta med oss pottan i bilen. Det funkade utmärkt! När Åke behövde det så gick vi ut till parkeringen och kunde snart komma tillbaka igen med uträttade behov.
+
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+La%CC%8Adbilslandet-PERK7139.jpg">
+	<figcaption>– Pappa, jag vill ta med mig stämpeln hem, sade Åke vid entrén.</figcaption>
+</figure>Åke hade ju precis slutat med blöjor, men han ville absolut inte gå på toaletten, så vi fick helt enkelt ta med oss pottan i bilen. Det funkade utmärkt! När Åke behövde det så gick vi ut till parkeringen och kunde snart komma tillbaka igen med uträttade behov.
 <br><br>
 
 Det ingår fem lådbilsåk för varje barn. När vi kom in så var det första vi gjorde att gå till den stora allmänna körbanan, där Tage och Åke valde varsin bil. Tage valde en lastbil och Åke ville så klart köra en buss. Åke tycktes helt uppfylld av det ansvar han fått: att hålla reda på en hel buss själv! Han tittade aldrig åt vårt håll, vinkade inte, log inte ens utan höll bara stadigt båda händerna på ratten och koncentrerade sig på trafiken.
 <br><br>
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/O%CC%88land+-+La%CC%8Adbilslandet-PERK7156.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Åke var helt fokuserad på trafiken när han körde den första bussen.</i></td></tr></tbody></table>Nästa anhalt blev traktorfältet. Det var inte Tage intresserad av, så det fick Åke köra själv. Här började han slappna av lite mer, han hade väl kommit på hur det fungerade. Nu sken han upp och hade roligt! Efteråt tittade vi på det lilla traktormuseet de hade i en lokal bredvid.<br><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/O%CC%88land+-+La%CC%8Adbilslandet-PERK7178.jpg" width="426"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Det fanns ingen tid att förlora längre, Åke ville göra allt, genast!<br>I bakgrunden syns traktorn som Åke nyss körde omkring med.</i></td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/O%CC%88land+-+La%CC%8Adbilslandet-PERK7197.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>De gamla traktorerna och den här gamla brandbilen var roliga att provsitta.</i> </td></tr></tbody></table><br>Förutom att köra lådbil så finns det åkattraktioner, lekställningar och annat att utforska. Barnen åkte tåg, karuseller och långa rutschkanor. Snart återvände Åke till den stora bilbanan, men Tage ville hellre leka med den repförsedda färjeflotten som man kunde dra över karpdammen i mitten. Åke körde tur efter tur och när hans biljetter var slut fick han fler av Tage.
+
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+La%CC%8Adbilslandet-PERK7156.jpg">
+	<figcaption>Åke var helt fokuserad på trafiken när han körde den första bussen.</figcaption>
+</figure>Nästa anhalt blev traktorfältet. Det var inte Tage intresserad av, så det fick Åke köra själv. Här började han slappna av lite mer, han hade väl kommit på hur det fungerade. Nu sken han upp och hade roligt! Efteråt tittade vi på det lilla traktormuseet de hade i en lokal bredvid.<br><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/O%CC%88land+-+La%CC%8Adbilslandet-PERK7178.jpg" width="426">
+	<figcaption>Det fanns ingen tid att förlora längre, Åke ville göra allt, genast!<br>I bakgrunden syns traktorn som Åke nyss körde omkring med.</figcaption>
+</figure>
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+La%CC%8Adbilslandet-PERK7197.jpg">
+	<figcaption>De gamla traktorerna och den här gamla brandbilen var roliga att provsitta.</i> </td></tr></tbody></table><br>Förutom att köra lådbil så finns det åkattraktioner, lekställningar och annat att utforska. Barnen åkte tåg, karuseller och långa rutschkanor. Snart återvände Åke till den stora bilbanan, men Tage ville hellre leka med den repförsedda färjeflotten som man kunde dra över karpdammen i mitten. Åke körde tur efter tur och när hans biljetter var slut fick han fler av Tage.
 <br><br>
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/O%CC%88land+-+La%CC%8Adbilslandet-PERK7234.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Tage gillade att dra sig fram över dammen på flotten.</i></td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/O%CC%88land+-+La%CC%8Adbilslandet-PERK7236.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Åke körde varv på varv, bytte bil och fortsatte att köra...</i></td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/O%CC%88land+-+La%CC%8Adbilslandet-PERK7279.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Här har han bytt till glassbil.</i></td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/O%CC%88land+-+La%CC%8Adbilslandet-PERK7292.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Tage åkte några varv han också.</i></td></tr></tbody></table>Tage och Pappan gick istället på äventyrsstigen i skogen, som var en lång hinderbana/klätterbana bland tallarna. Det tycker Tage är kul!<br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img border="0" height="426" src="../../../../img/O%CC%88land+-+La%CC%8Adbilslandet-PERK7312.jpg" style="margin-left: auto; margin-right: auto;" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Tage älskar att klättra och balansera, här på äventyrsstigen i skogen.</i></td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/O%CC%88land+-+La%CC%8Adbilslandet-PERK7395.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>Det gick undan i karusellerna! Ibland åkte barnen tillsammans (som här), ibland åkte de på egen hand.</i></td></tr></tbody></table><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/O%CC%88land+-+La%CC%8Adbilslandet-PERK7412.jpg" width="640"></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>När de passerade mig och kameran spexade de alltid till det lite...</i></td></tr></tbody></table><br>Det blev en heldag på Lådbilslandet, från kl.10 till kl. 16 ungefär. Mycket mer än så orkar nog varken barn eller föräldrar med. Vi kommer absolut att komma tillbaka igen!
+
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+La%CC%8Adbilslandet-PERK7234.jpg">
+	<figcaption>Tage gillade att dra sig fram över dammen på flotten.</figcaption>
+</figure>
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+La%CC%8Adbilslandet-PERK7236.jpg">
+	<figcaption>Åke körde varv på varv, bytte bil och fortsatte att köra...</figcaption>
+</figure>
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+La%CC%8Adbilslandet-PERK7279.jpg">
+	<figcaption>Här har han bytt till glassbil.</figcaption>
+</figure>
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+La%CC%8Adbilslandet-PERK7292.jpg">
+	<figcaption>Tage åkte några varv han också.</figcaption>
+</figure>Tage och Pappan gick istället på äventyrsstigen i skogen, som var en lång hinderbana/klätterbana bland tallarna. Det tycker Tage är kul!<br><br>
+
+<figure>
+	<img border="0" height="426" src="../../../../img/O%CC%88land+-+La%CC%8Adbilslandet-PERK7312.jpg" style="margin-left: auto; margin-right: auto;">
+	<figcaption>Tage älskar att klättra och balansera, här på äventyrsstigen i skogen.</figcaption>
+</figure>
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+La%CC%8Adbilslandet-PERK7395.jpg">
+	<figcaption>Det gick undan i karusellerna! Ibland åkte barnen tillsammans (som här), ibland åkte de på egen hand.</figcaption>
+</figure>
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+La%CC%8Adbilslandet-PERK7412.jpg">
+	<figcaption>När de passerade mig och kameran spexade de alltid till det lite...</figcaption>
+</figure>Det blev en heldag på Lådbilslandet, från kl.10 till kl. 16 ungefär. Mycket mer än så orkar nog varken barn eller föräldrar med. Vi kommer absolut att komma tillbaka igen!

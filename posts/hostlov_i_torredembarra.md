@@ -17,7 +17,8 @@ Vi började med att bekanta oss med omgivningarna. Det växte apelsiner på gata
   <figcaption>Åke med en apelsin som trillat ned från trädet</figcaption>
 </figure>
 
-<figure><img class="wp-image-69 size-full" src="../../img/2016/11/spanskt-hocc88stlov-focc88rsta-dagen-perk9530.jpg" alt="spanskt-ho%cc%88stlov-fo%cc%88rsta-dagen-perk9530">
+<figure>
+	<img class="wp-image-69 size-full" src="../../img/2016/11/spanskt-hocc88stlov-focc88rsta-dagen-perk9530.jpg" alt="spanskt-ho%cc%88stlov-fo%cc%88rsta-dagen-perk9530">
 <figcaption>Trappan upp till övre våningen, där vi huserade. Vi hade ett stort sovrum, ett eget badrum och en stor terass. Blommorna vid trappan heter Bougainvillea, lärde Lovisa oss.</figcaption>
 
 <figure>

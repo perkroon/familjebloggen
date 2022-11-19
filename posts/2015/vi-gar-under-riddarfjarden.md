@@ -20,7 +20,10 @@ originalUrl:	https://nejtupp.blogspot.com/2015/04/vi-gar-under-riddarfjarden.htm
 <figure>
 	<img src="../../../../img/Citybanan-PERK3100.jpg">
 	<figcaption>Här kunde vi se tillbaka på de som stod längre bak i kön.</figcaption>
-</figure><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td><img src="../../../../img/Citybanan-PERK3095.jpg"></td></tr><tr><td class="tr-caption" style="font-size: 12.8000001907349px;"><i>Kön når Söder Mälarstrand. 250 meter kvar ungefär, när man kom runt hörnet!<br></figcaption>
+</figure><br>
+
+<figure>
+	<img src="../../../../img/Citybanan-PERK3095.jpg"></td></tr><tr><td class="tr-caption" style="font-size: 12.8000001907349px;"><i>Kön når Söder Mälarstrand. 250 meter kvar ungefär, när man kom runt hörnet!<br></figcaption>
 </figure>
 
 <figure>

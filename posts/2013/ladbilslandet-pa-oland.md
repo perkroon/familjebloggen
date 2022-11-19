@@ -26,7 +26,10 @@ Det ingår fem lådbilsåk för varje barn. När vi kom in så var det första v
 <figure>
 	<img src="../../../../img/O%CC%88land+-+La%CC%8Adbilslandet-PERK7156.jpg">
 	<figcaption>Åke var helt fokuserad på trafiken när han körde den första bussen.</figcaption>
-</figure>Nästa anhalt blev traktorfältet. Det var inte Tage intresserad av, så det fick Åke köra själv. Här började han slappna av lite mer, han hade väl kommit på hur det fungerade. Nu sken han upp och hade roligt! Efteråt tittade vi på det lilla traktormuseet de hade i en lokal bredvid.<br><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/O%CC%88land+-+La%CC%8Adbilslandet-PERK7178.jpg">
+</figure>Nästa anhalt blev traktorfältet. Det var inte Tage intresserad av, så det fick Åke köra själv. Här började han slappna av lite mer, han hade väl kommit på hur det fungerade. Nu sken han upp och hade roligt! Efteråt tittade vi på det lilla traktormuseet de hade i en lokal bredvid.<br>
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+La%CC%8Adbilslandet-PERK7178.jpg">
 	<figcaption>Det fanns ingen tid att förlora längre, Åke ville göra allt, genast!<br>I bakgrunden syns traktorn som Åke nyss körde omkring med.</figcaption>
 </figure>
 

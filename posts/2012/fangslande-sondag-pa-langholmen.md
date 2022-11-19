@@ -7,7 +7,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2012/07/fangslande-sondag-pa-langholmen.html
 ---
 
-Trots att vi bor så nära Långholmen har vi aldrig besökt fängelsemuseet som finns där. Nu när barnen pratar ganska mycket om "tjuvar" och "finkan" så tyckte vi att det kunde passa ganska bra. Fint väder var det dessutom, så vi passade på att känna på vattentemperaturen också.<br><br>
+Trots att vi bor så nära Långholmen har vi aldrig besökt fängelsemuseet som finns där. Nu när barnen pratar ganska mycket om "tjuvar" och "finkan" så tyckte vi att det kunde passa ganska bra. Fint väder var det dessutom, så vi passade på att känna på vattentemperaturen också.
 
 <figure>
 	<img src="../../../../img/So%CC%88ndag+pa%CC%8A+La%CC%8Angholmen-5C5C5254.jpg">
@@ -21,12 +21,12 @@ Trots att vi bor så nära Långholmen har vi aldrig besökt fängelsemuseet som
 
 <figure>
 	<img src="../../../../img/So%CC%88ndag+pa%CC%8A+La%CC%8Angholmen-5C5C5263.jpg">
-	<figcaption>I fängelset kunde man gå in i cell nr 4 och se hur man bodde som fånge i början av 1900-talet.<br>En spännande skyltdocka i hörnet fångade pojkarnas uppmärksamhet.</figcaption>
+	<figcaption>I fängelset kunde man gå in i cell nr 4 och se hur man bodde som fånge i början av 1900-talet. En spännande skyltdocka i hörnet fångade pojkarnas uppmärksamhet.</figcaption>
 </figure>
 
 <figure>
 	<img src="../../../../img/So%CC%88ndag+pa%CC%8A+La%CC%8Angholmen-5C5C5284.jpg">
-	<figcaption>På rastgården tävlade Tage och Pappan om vem som var längst. <br>Åke nöjde sig med en bronsplacering.</figcaption>
+	<figcaption>På rastgården tävlade Tage och Pappan om vem som var längst. Åke nöjde sig med en bronsplacering.</figcaption>
 </figure>
 
 <figure>

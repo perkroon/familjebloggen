@@ -7,13 +7,22 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2014/12/god-jul-och-gott-nytt-ar.html
 ---
 
-Liksom tidigare år skickade vi några olika varianter av årets julkort. Här är de tre bilderna!<br><br><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/Julfoto-PERK9141.jpg">
+Liksom tidigare år skickade vi några olika varianter av årets julkort. Här är de tre bilderna!<br><br>
+
+<figure>
+	<img src="../../../../img/Julfoto-PERK9141.jpg">
 </figure>
 
-<div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/Julfoto-PERK9222.jpg" height="640">
+
+
+<figure>
+	<img src="../../../../img/Julfoto-PERK9222.jpg" height="640">
 </figure>
 
-<div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/Julfoto-PERK9084.jpg">
+
+
+<figure>
+	<img src="../../../../img/Julfoto-PERK9084.jpg">
 </figure>
 
 

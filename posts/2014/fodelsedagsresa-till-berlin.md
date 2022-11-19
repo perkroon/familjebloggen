@@ -51,16 +51,28 @@ Nu var det dags för familjen att åka till Berlin! Det var ett tag sedan vi var
 <figure>
 	<img src="../../../../img/Berlin-PERK5249.jpg">
 	<figcaption>Tage försöker detsamma. Hur lång tid man behövde på sig registrerades på en skärm.</figcaption>
-</figure>Vi spenderade några timmar bland Legobitarna, och konstaterade att det var ungefär som ett vanligt lekland, fast med några lite mer spännande saker och mycket mer Lego. Efteråt promenerade vi mot Brandenburger Tor – trots att vi redan sett det som Lego-miniatyr. På väg dit gick vi förbi minnesmärket för Förintelsen: 4711 rektangulära stenblock resta på en yta stor som en fotbollsplan. Mäktigt. Vi vandrade omkring en stund bland stenarna och villade bort oss ibland också. <br><br><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/Berlin-PERK5272.jpg">
+</figure>Vi spenderade några timmar bland Legobitarna, och konstaterade att det var ungefär som ett vanligt lekland, fast med några lite mer spännande saker och mycket mer Lego. Efteråt promenerade vi mot Brandenburger Tor – trots att vi redan sett det som Lego-miniatyr. På väg dit gick vi förbi minnesmärket för Förintelsen: 4711 rektangulära stenblock resta på en yta stor som en fotbollsplan. Mäktigt. Vi vandrade omkring en stund bland stenarna och villade bort oss ibland också. <br><br>
+
+<figure>
+	<img src="../../../../img/Berlin-PERK5272.jpg">
 </figure>
 
-<div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/Berlin-PERK5289.jpg">
+
+
+<figure>
+	<img src="../../../../img/Berlin-PERK5289.jpg">
 </figure>
 
-<div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/Berlin-PERK5345.jpg">
+
+
+<figure>
+	<img src="../../../../img/Berlin-PERK5345.jpg">
 </figure>
 
-<div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/Berlin-PERK5352.jpg">
+
+
+<figure>
+	<img src="../../../../img/Berlin-PERK5352.jpg">
 </figure>
 
 Nästa dag åkte vi direkt till Naturkundemuseum. Direkt? Nja, jag visade familjen ombord på en buss som reste åt fel håll, så vi hamnade långt ut i östra Berlin innan vi upptäckte att vi åkt åt fel håll. Där hann vi bara dricka en kopp kaffe och titta på de enorma och dystra stora husen innan vi tog bussen åt andra hållet igen. På så sätt fick vi se riktiga gamla Östberlin också.<br><br><br>
@@ -105,7 +117,10 @@ Nästa dag åkte vi direkt till Naturkundemuseum. Direkt? Nja, jag visade familj
 <figure>
 	<img border="0" src="../../../../img/Berlin-PERK5495.jpg" height="640" style="margin-left: auto; margin-right: auto;">
 	<figcaption>Nedanför TV-tornet fanns också en lekplats där vi hängde en stund.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/Berlin-PERK5501.jpg">
+</figure>
+
+<figure>
+	<img src="../../../../img/Berlin-PERK5501.jpg">
 	<figcaption>Väl uppe i tornet stod vi och tittade ner på staden under oss.</figcaption>
 </figure>
 

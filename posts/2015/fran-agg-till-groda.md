@@ -89,7 +89,7 @@ originalUrl:	https://nejtupp.blogspot.com/2015/05/fran-agg-till-groda.html
 <figure>
 	<img src="../../../../img/Grodyngel-PERK5732.jpg">
 	<figcaption>När frambenen kommit fram smalnar kroppen av, en spetsig nos formas och ögonen står än tydligare upp ur kroppen. <br>Plötsligt har man en groda så som vi är vana att se dem! Fast svansen är ännu kvar.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br>När grodynglen fått framben söker de sig mot ytan och tycks vilja upp och ut. Vi sänkte vattenytan så att de kunde klättra upp på träbiten och staplade också stenarna på varandra så att en del kom upp ovanför ytan. Det dröjde inte länge innan de valde att klättra upp och sitta där.<div>
+</figure>När grodynglen fått framben söker de sig mot ytan och tycks vilja upp och ut. Vi sänkte vattenytan så att de kunde klättra upp på träbiten och staplade också stenarna på varandra så att en del kom upp ovanför ytan. Det dröjde inte länge innan de valde att klättra upp och sitta där.<div>
 
 <figure>
 	<img src="../../../../img/Grodyngel-PERK5736.jpg">

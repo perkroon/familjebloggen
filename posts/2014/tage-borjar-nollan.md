@@ -7,13 +7,19 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2014/08/tage-borjar-nollan.html
 ---
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td><img src="../../../../img/Skolstart-PERK3914.jpg" height="425"></td></tr><tr><td class="tr-caption"><i>Åke är tillbaka på Il Crocodill. </figcaption>
+
+
+<figure>
+	<img src="../../../../img/Skolstart-PERK3914.jpg" height="425"></td></tr><tr><td class="tr-caption"><i>Åke är tillbaka på Il Crocodill. </figcaption>
 </figure>Idag började höstterminen för oss. Vi började med att allihop tillsammans gå till Högalidsparken där vi lämnade Åke, som nu får fortsätta i förskolan på egen hand utan storebrorsan. Det gick bra. Inga större konstigheter tyckte Åke vid lämningen.<br><br><br>
 
 <figure>
 	<img src="../../../../img/Skolstart-PERK3915.jpg">
 	<figcaption>Tage och Lydia passar på att busa lite medan deras småsyskon lämnas på förskolan.</figcaption>
-</figure>Något som vi dock tycker är lite vemodigt är att Tages kompisar Lydia och Ruben, som han har gått tillsammans med ända sedan förskolestarten för 5 år sen, inte kom in på Högalidsskolan. De börjar på en annan skola men vi hoppas att vi ska kunna hålla kontakten ändå! Båda två har ju småsyskon som går kvar med Åke på Il Crocodill så vi kommer ju att träffa dem ofta.<br><br><br><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/Skolstart-PERK3924.jpg">
+</figure>Något som vi dock tycker är lite vemodigt är att Tages kompisar Lydia och Ruben, som han har gått tillsammans med ända sedan förskolestarten för 5 år sen, inte kom in på Högalidsskolan. De börjar på en annan skola men vi hoppas att vi ska kunna hålla kontakten ändå! Båda två har ju småsyskon som går kvar med Åke på Il Crocodill så vi kommer ju att träffa dem ofta.<br><br><br>
+
+<figure>
+	<img src="../../../../img/Skolstart-PERK3924.jpg">
 </figure>
 
 <br>När vi hade lämnat Åke styrde vi kosan ned mot Långholmen där Tages skola kommer att vara under höstterminen medan de renoverar klart uppe på den stora Högalidsskolan. Det känns fint tycker jag att få ha ett ärende till vackra Långholmen varje dag under hela hösten.<br><br><br>

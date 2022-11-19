@@ -7,7 +7,10 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2012/11/sommarsemestern-pa-oland-del-2.html
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/O%CC%88land+-+Peters+familj-5C5C6545.jpg">
+
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+Peters+familj-5C5C6545.jpg">
 </figure>
 
 Samma dag som farmor och farfar åkte tillbaka till Pyrtet i Småland så kom nästa glada gäng på besök: kompisarna Nils och Harry med mamma Erika och pappa Peter. Vädret var bättre än någon annan gång den här sommaren och vi kunde glatt visa dem våra favoritställen.<br><br><br>

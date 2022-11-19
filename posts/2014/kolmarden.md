@@ -12,7 +12,7 @@ På julafton fick vi en Kolmårdenresa i julklapp av mormor och morfar, och nu v
 <figure>
 	<img src="../../../../img/Kolma%CC%8Arden-PERK6444.jpg">
 	<figcaption>Fotograf: morfar.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><br>
+</figure>
 
 <figure>
 	<img src="../../../../img/Kolma%CC%8Arden-PERK6409.jpg">

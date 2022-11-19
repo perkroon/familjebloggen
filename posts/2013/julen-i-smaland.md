@@ -9,7 +9,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2013/01/julen-i-smaland.html
 ---
 
-<div class="separator" style="clear: both;"></div>Julafton inföll i år på en måndag, och vi tog tåget ner till farmor och farfar i Småland på torsdagen i veckan innan. Det gjorde att vi fick några fina adventsdagar innan jul, med rejält med snö. Tomten, som ju är en klok person, insåg att det vore bra om pojkarna kunde använda den snowracer Åke fick i julklapp redan innan själva julafton, så han hade ordnat att den levererades i förtid. Åke (och Tage) öppnade glatt paketet och såg fram emot att få använda snowracern i någon backe. Ett litet problem uppstod: det finns just inga backar runt huset! Farfar hade dock en idé om var man kunde åka och tog oss med till Drevs kyrka där vi tog premiärturen.</div>
+</div>Julafton inföll i år på en måndag, och vi tog tåget ner till farmor och farfar i Småland på torsdagen i veckan innan. Det gjorde att vi fick några fina adventsdagar innan jul, med rejält med snö. Tomten, som ju är en klok person, insåg att det vore bra om pojkarna kunde använda den snowracer Åke fick i julklapp redan innan själva julafton, så han hade ordnat att den levererades i förtid. Åke (och Tage) öppnade glatt paketet och såg fram emot att få använda snowracern i någon backe. Ett litet problem uppstod: det finns just inga backar runt huset! Farfar hade dock en idé om var man kunde åka och tog oss med till Drevs kyrka där vi tog premiärturen.</div>
 
 <figure>
 	<img src="../../../../img/Kring+jul+i+Pyrtet-5C5C0200.jpg">
@@ -68,7 +68,7 @@ originalUrl: https://nejtupp.blogspot.com/2013/01/julen-i-smaland.html
 	<figcaption>Tage (och Åke i bakgrunden) hjälpte till att klä granen.</figcaption>
 </figure>
 
-<div class="separator" style="clear: both; text-align: center;"><br>Dagen innan julafton träffade vi också två av Pappans kusiner, Mia och Helena, med familjer. Åke var lite blyg och väldigt trött, Tage var piggare. </div>
+Dagen innan julafton träffade vi också två av Pappans kusiner, Mia och Helena, med familjer. Åke var lite blyg och väldigt trött, Tage var piggare. </div>
 
 <figure>
 	<img src="../../../../img/Lillejulafton+med+Ekstro%CC%88ms-5C5C0353.jpg">

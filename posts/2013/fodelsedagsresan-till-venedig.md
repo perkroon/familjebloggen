@@ -7,7 +7,11 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2013/10/fodelsedagsresan-till-venedig.html
 ---
 
-Lovisa skulle snart bli 40 år, så vi åkte till Venedig för att sätta lite glans på högtidsdagen! Det blev också den första resan vi gjorde tillsammans utan barn sedan vi blev föräldrar. Tage och Åke, var blev de av? Vi lämnade dem på förskolan på torsdag morgon, sedan åkte vi direkt till Arlanda. På eftermiddagen hämtades de av farmor och farfar, som sedan passade barnen ända till söndag lunch, då vi kom tillbaka igen. Väderprognosen sade att det skulle vara 14-15 grader varmt och regna hela vår semester, med inslag av åska. Pelle övervägde att packa ner gummistövlar, men det tycktes inte vänta högvatten, och gummistövlarna fick stanna hemma. Ett litet paraply fick Lovisa iallafall med sig.<br><br>Flygresan till München, där vi bytte plan, var turbulent och det var knappt att Lovisa hann återhämta sig från illamåendet under mellanlandningen innan vi skulle kliva på nästa. Regnet vräkte ner och när vi kom ombord på nästa märktes tydligt att det varit några som varit rejält illamående även på den flighten. All servering ombord ställdes in eftersom man väntade mer turbulens, men det blev inte lika illa som på första flighten så Lovisa mådde trots allt rätt bra när vi landade.<br><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td><img src="../../../../img/Venedig+med+Lovisa+40+a%CC%8Ar-PERK1249.jpg"></td></tr><tr><td class="tr-caption" style="font-size: 13px;"><i>Vackra Venedig! Det är nästan som ett litet Disneyland,<br>man får nypa sig i armen för att förstå att det finns på riktigt...</figcaption>
+Lovisa skulle snart bli 40 år, så vi åkte till Venedig för att sätta lite glans på högtidsdagen! Det blev också den första resan vi gjorde tillsammans utan barn sedan vi blev föräldrar. Tage och Åke, var blev de av? Vi lämnade dem på förskolan på torsdag morgon, sedan åkte vi direkt till Arlanda. På eftermiddagen hämtades de av farmor och farfar, som sedan passade barnen ända till söndag lunch, då vi kom tillbaka igen. Väderprognosen sade att det skulle vara 14-15 grader varmt och regna hela vår semester, med inslag av åska. Pelle övervägde att packa ner gummistövlar, men det tycktes inte vänta högvatten, och gummistövlarna fick stanna hemma. Ett litet paraply fick Lovisa iallafall med sig.<br><br>Flygresan till München, där vi bytte plan, var turbulent och det var knappt att Lovisa hann återhämta sig från illamåendet under mellanlandningen innan vi skulle kliva på nästa. Regnet vräkte ner och när vi kom ombord på nästa märktes tydligt att det varit några som varit rejält illamående även på den flighten. All servering ombord ställdes in eftersom man väntade mer turbulens, men det blev inte lika illa som på första flighten så Lovisa mådde trots allt rätt bra när vi landade.<br><br>
+
+<figure>
+	<img src="../../../../img/Venedig+med+Lovisa+40+a%CC%8Ar-PERK1249.jpg">
+	<figcaption>Vackra Venedig! Det är nästan som ett litet Disneyland,<br>man får nypa sig i armen för att förstå att det finns på riktigt...</figcaption>
 </figure>Över Venedig var molnen mörkt grå, men i öster lättade molnen. Vi åkte båt, en vattenbuss, från flygplatsen in till Markusplatsen, där vårt hotell låg. Resan tog ganska lång tid (75 minuter), men vi passade på att njuta av att sitta i egna tankar en stund. På kvällen gick vi ut och åt en första middag på restaurang. Vi tittade inte på någon karta, men visste åt vilket håll vi ville gå. Naturligtvis gick vi helt vilse och hamnade inte alls där vi trodde att vi var, men det är ju en av Venedigs många charmiga nycker.<br><br>På fredagen, dagen innan Lovisas födelsedag, var målet att promenera runt hela Venedig. Det var bitvis klurigt, när gränder ledde ner till lagunen, men det inte fanns någon kaj att vandra längs, men ibland var det lättare och vi kunde lägga lite distans bakom oss. Nu hade vi ju ingen brådska, så vi stannade överallt där vi tyckte det fanns något intressant. Vi hade börjat vid Markusplatsen, gått västerut till Ponte dell&apos;Accademia, vänt österut till udden Fondamenta Salute, sedan följt den södra kajen västerut till marinan, där vi krånglade oss norrut förbi järnvägsstationen och in i Cannaregio. Där hittade vi en väldigt diskret restaurang, Trattoria alle due gondolette, som vi valde att äta på. Det fanns ingen meny, så vi fick lyssna noga till värdinnan när hon berättade vad som fanns. Pelle beställde spaghetti med nötter och bröd, Lovisa spaghetti med ärtor. Våra förväntningar var nog inte så höga, men det var den godaste maten vi åt på hela resan!<br><br>
 
 <figure>
@@ -48,7 +52,10 @@ Lovisa skulle snart bli 40 år, så vi åkte till Venedig för att sätta lite g
 <figure>
 	<img src="../../../../img/Venedig+med+Lovisa+40+a%CC%8Ar-PERK1560.jpg">
 	<figcaption>Fråga Pelle, han vet!</figcaption>
-</figure><br><br><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/Venedig+med+Lovisa+40+a%CC%8Ar-PERK1618.jpg">
+</figure><br><br>
+
+<figure>
+	<img src="../../../../img/Venedig+med+Lovisa+40+a%CC%8Ar-PERK1618.jpg">
 </figure>
 
 <br>Till födelsedagslunch blev det spaghetti olio aglio e peperoncino, en ljuvlig sådan (också detta den bästa måltiden på resan!), på Osteria Al Ponte, en liten mysig servering med tre bord invid en kanal. Till det blev det en flaska Prosecco, tack Eva och Sören! Det visade sig att tjejen på bordet bredvid också hade födelsedag.<br><br>
@@ -56,7 +63,10 @@ Lovisa skulle snart bli 40 år, så vi åkte till Venedig för att sätta lite g
 <figure>
 	<img src="../../../../img/Venedig+med+Lovisa+40+a%CC%8Ar-PERK1625.jpg">
 	<figcaption>Skål!</figcaption>
-</figure><br><br><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/Venedig+med+Lovisa+40+a%CC%8Ar-PERK1727.jpg">
+</figure><br><br>
+
+<figure>
+	<img src="../../../../img/Venedig+med+Lovisa+40+a%CC%8Ar-PERK1727.jpg">
 </figure>
 
 <br>Efter lunchen gick vi in på Venedigbiennalen (den stora internationella utställningen för samtida konst som varannat år breder ut sig i Venedig, den här var den 55:e i ordningen sedan starten 1895).<br><br><br>

@@ -7,7 +7,10 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2012/11/oland-sommar-2012.html
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6813.jpg">
+
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6813.jpg">
 </figure>
 
 <br><br>
@@ -17,19 +20,29 @@ originalUrl: https://nejtupp.blogspot.com/2012/11/oland-sommar-2012.html
 	<figcaption>Titta vad jag har hittat!</figcaption>
 </figure>
 
-<div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6826.jpg">
+
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6826.jpg">
 </figure>
 
-<br><br><br><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6841.jpg">
+<br><br><br>
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6841.jpg">
 </figure>
 
-<br><br><br><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6830.jpg">
+<br><br><br>
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6830.jpg">
 </figure>
 
 <br><br>
 
 <figure>
-	<img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6836.jpg"></td></tr><tr><td class="tr-caption" style="text-align: center;">Undrar hur det smakar?</figcaption>
+	<img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6836.jpg">
+	<figcaption>Undrar hur det smakar?</figcaption>
 </figure>
 
 

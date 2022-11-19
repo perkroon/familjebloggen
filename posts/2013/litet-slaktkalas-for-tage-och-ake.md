@@ -12,7 +12,11 @@ Dagen efter Tages barnkalas passade vi på att ha ett litet släktkalas för bå
 <figure>
 	<img src="../../../../img/Tage+och+A%CC%8Akes+sla%CC%88ktkalas-PERK1735.jpg">
 	<figcaption>Den här gången fanns det paket till Åke också.</figcaption>
-</figure><div style="text-align: center;"><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td><img src="../../../../img/Tage+och+A%CC%8Akes+sla%CC%88ktkalas-PERK1740.jpg"></td></tr><tr><td class="tr-caption" style="font-size: 13px;"><i>Tage i full färd med att öppna ett spännande paket från faster Jenny.</figcaption>
+</figure><div style="text-align: center;"><br>
+
+<figure>
+	<img src="../../../../img/Tage+och+A%CC%8Akes+sla%CC%88ktkalas-PERK1740.jpg">
+	<figcaption>Tage i full färd med att öppna ett spännande paket från faster Jenny.</figcaption>
 </figure>
 
 <figure>

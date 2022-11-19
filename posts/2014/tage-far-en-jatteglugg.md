@@ -16,7 +16,7 @@ Just som tåget från Åre rullade in på Stockholms Centralstation på söndags
 
 <figure>
 	<img src="../../../../img/Tages+glugg-PERK4928.jpg" height="640">
-	<figcaption>Hur många tänder har jag tappat sedan sist?</i><br><div class="separator" style="clear: both; text-align: center;"><i><br></i></div></figcaption>
+	<figcaption>Hur många tänder har jag tappat sedan sist?</i><br><div class="separator" style="clear: both; text-align: center;"><i><br></figcaption>
 </figure>
 
 

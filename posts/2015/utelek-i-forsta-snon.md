@@ -12,7 +12,7 @@ originalUrl:	https://nejtupp.blogspot.com/2015/12/utelek-i-forsta-snon.html
 </tr>
 <tr>
     <td class="tr-caption" style="text-align: center;">       
-        <div class="p1"><i>"Vi jobbar med is. Hackning, uppsamling, leverans och försäljning".</i>
+        "Vi jobbar med is. Hackning, uppsamling, leverans och försäljning".</i>
         </div>
     </td>
 </tr>
@@ -24,7 +24,7 @@ originalUrl:	https://nejtupp.blogspot.com/2015/12/utelek-i-forsta-snon.html
 <img border="0" height="480" src="../../images/IMG_5211.JPG">
 </td></tr>
 <tr><td class="tr-caption" style="text-align: center;">       
-<div class="p1"><i>"Och här besteg vi Olympus Mons."</i></div></figcaption>
+"Och här besteg vi Olympus Mons."</figcaption>
 </figure>
 
 

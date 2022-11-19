@@ -111,7 +111,10 @@ originalUrl: https://nejtupp.blogspot.com/2015/03/akes-femarsdag.html
 <figure>
 	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK2127.jpg" height="640">
 	<figcaption>Åke, fem år.</figcaption>
-</figure><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td><img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK2145.jpg"></td></tr><tr><td class="tr-caption" style="font-size: 12.8000001907349px;"><i style="font-size: 12.8000001907349px;">Efter förskolan gick vi till Dello Sport och fikade. </figcaption>
+</figure>
+
+<figure>
+	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK2145.jpg"></td></tr><tr><td class="tr-caption" style="font-size: 12.8000001907349px;"><i style="font-size: 12.8000001907349px;">Efter förskolan gick vi till Dello Sport och fikade. </figcaption>
 </figure><br>
 
 <figure>

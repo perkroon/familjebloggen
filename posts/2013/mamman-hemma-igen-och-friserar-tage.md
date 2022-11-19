@@ -7,7 +7,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2013/02/mamman-hemma-igen-och-friserar-tage.html
 ---
 
-Igår vid sjutiden kom så Mamman tillbaka, och hela familjen var samlad igen. Barnen tävlade om hennes uppmärksamhet och pratade oavbrutet om vad som hänt sedan hon åkt. Ur väskan plockade hon fram två presenter: en snöskoter och en ambulanshelikopter! Åke fick smak för presenter och undrade om hon inte hade fler...<br>På morgonen fick vi lång sovmorgon och sedan konstaterade vi att Tage behövde klippas. Han var väldigt uppspelt och det var svårt att få honom att stå tillräckligt still för att ta ett fotografi (ens med 1/125 s slutartid), och allra helst ville han göra läskiga grimaser hela tiden. Men Mamman klippte med säker hand och slutresultatet blev väldigt fint tycker vi.</div><div class="separator" style="clear: both;">
+Igår vid sjutiden kom så Mamman tillbaka, och hela familjen var samlad igen. Barnen tävlade om hennes uppmärksamhet och pratade oavbrutet om vad som hänt sedan hon åkt. Ur väskan plockade hon fram två presenter: en snöskoter och en ambulanshelikopter! Åke fick smak för presenter och undrade om hon inte hade fler...<br>På morgonen fick vi lång sovmorgon och sedan konstaterade vi att Tage behövde klippas. Han var väldigt uppspelt och det var svårt att få honom att stå tillräckligt still för att ta ett fotografi (ens med 1/125 s slutartid), och allra helst ville han göra läskiga grimaser hela tiden. Men Mamman klippte med säker hand och slutresultatet blev väldigt fint tycker vi.</div>
 
 <figure>
 	<img src="../../../../img/Hemliv-5C5C1466.jpg" width="320">

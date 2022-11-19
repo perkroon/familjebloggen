@@ -27,8 +27,13 @@ Vi reste en lite mulen dag och gjorde ett ganska långt uppehåll i Kalmar på v
 <figure>
 	<img src="../../../../img/O%CC%88land+-+allma%CC%88nt-PERK7002.jpg">
 	<figcaption>På kvällarna satt vi ute på verandan och åt middag.</figcaption>
-</figure>Åke hade blivit lovad en present om han slutade med blöja och började gå på pottan istället, så i Kalmar hade vi köpt en liten present till honom. Han var mäkta stolt och glad när han öppnade sitt paket!</div><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td><img src="../../../../img/O%CC%88land+-+allma%CC%88nt-PERK6765.jpg"></td></tr><tr><td class="tr-caption" style="font-size: 13px;"><i>Åke uppskattar alltid ett nytt fordon.</figcaption>
-</figure>En annan sak som vi gärna ville att Åke skulle lära sig var att cykla. Eftersom Tage gått över till vanlig cykel med pedaler (som han dock inte använt än) så fick Åke överta hans balanscykel utan trampor. I Småland hade han cyklat lite med Mamman och faster Jenny, nu på Öland ville han prova igen och när han väl börjat ville han inte sluta! Det gick som en dans och snart ville Åke ut och cykla i tid och otid. Mellan tandborstningen och läggdags, när man fått på nattblöjan, passar det fint med en lite kvällstur tyckte han, och Lovisa följde med. Pappan försökte filma, men det var inte alltid lätt att hinna med. Han cyklade i allmänhet lite snabbare än vi promenerade, men det var helt perfekt för att kunna ta lite längre promenader utan hans vagn.<br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><br></figcaption>
+</figure>Åke hade blivit lovad en present om han slutade med blöja och började gå på pottan istället, så i Kalmar hade vi köpt en liten present till honom. Han var mäkta stolt och glad när han öppnade sitt paket!</div>
+
+<figure>
+	<img src="../../../../img/O%CC%88land+-+allma%CC%88nt-PERK6765.jpg">
+	<figcaption>Åke uppskattar alltid ett nytt fordon.</figcaption>
+</figure>En annan sak som vi gärna ville att Åke skulle lära sig var att cykla. Eftersom Tage gått över till vanlig cykel med pedaler (som han dock inte använt än) så fick Åke överta hans balanscykel utan trampor. I Småland hade han cyklat lite med Mamman och faster Jenny, nu på Öland ville han prova igen och när han väl börjat ville han inte sluta! Det gick som en dans och snart ville Åke ut och cykla i tid och otid. Mellan tandborstningen och läggdags, när man fått på nattblöjan, passar det fint med en lite kvällstur tyckte han, och Lovisa följde med. Pappan försökte filma, men det var inte alltid lätt att hinna med. Han cyklade i allmänhet lite snabbare än vi promenerade, men det var helt perfekt för att kunna ta lite längre promenader utan hans vagn.<br><figure>
+	<br></figcaption>
 </figure>
 
 

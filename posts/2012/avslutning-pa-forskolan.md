@@ -11,8 +11,10 @@ Strax innan midsommar höll vår förskola sin traditionella avslutningsfest. De
 
 <figure>
 	<img src="../../../../img/Avslutning+pa%CC%8A+fo%CC%88rskolan-5C5C4555.jpg">
-	<figcaption>Barnen samlade under sången. Våra barn, som vanligtvis gärna sjunger, höll en tämligen låg profil den här dagen. </figcaption>
-</figure>Efter sången bjöds det på mat och mingel. Jag såg oortodoxa blandningar på tallrikarna: vad sägs till exempel om ostbågar jämte salami, mockarutor och pastasallad? Men alla hittade något att äta. Senare uppmärksammades de barn som går vidare till förskoleklass och de som av olika anledningar slutar på förskolan, samt att vi föräldrar fick tillfälle att tacka den fantastiska personalen. Det var ovant att se dem i civila kläder, de brukar ha förskoleuniform på sig, men inte idag. Mot slutet löstes allt upp i lek och en efter en droppade familjerna av. Vi ser redan fram emot nästa år på förskolan!<br><br>
+	<figcaption>Barnen samlade under sången. Våra barn, som vanligtvis gärna sjunger, höll en tämligen låg profil den här dagen.</figcaption>
+</figure>
+
+Efter sången bjöds det på mat och mingel. Jag såg oortodoxa blandningar på tallrikarna: vad sägs till exempel om ostbågar jämte salami, mockarutor och pastasallad? Men alla hittade något att äta. Senare uppmärksammades de barn som går vidare till förskoleklass och de som av olika anledningar slutar på förskolan, samt att vi föräldrar fick tillfälle att tacka den fantastiska personalen. Det var ovant att se dem i civila kläder, de brukar ha förskoleuniform på sig, men inte idag. Mot slutet löstes allt upp i lek och en efter en droppade familjerna av. Vi ser redan fram emot nästa år på förskolan!
 
 <figure>
 	<img src="../../../../img/Avslutning+pa%CC%8A+fo%CC%88rskolan-5C5C4633.jpg">

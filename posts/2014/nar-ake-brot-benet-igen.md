@@ -43,8 +43,16 @@ Det var stilla veckan, veckan före påsk. Åke hade nyss blivit av med gipset o
 	<figcaption>En god glass! Lovisa meddelar omvärlden vad som hänt.</figcaption>
 </figure>
 
-<div><br><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td><img src="../../../../img/Pa%CC%8A+akuten+med+A%CC%8Ake-PERK5542.jpg" height="640"></td></tr><tr><td class="tr-caption" style="font-size: 13px;"><i>I väntan på gipsning... Åke på gott humör.</figcaption>
-</figure><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td><img src="../../../../img/Pa%CC%8A+akuten+med+A%CC%8Ake-PERK5544.jpg"></td></tr><tr><td class="tr-caption" style="font-size: 13px;"><i>Han ville också fotografera, eller "bilda" som han säger.</figcaption>
+<div><br>
+
+<figure>
+	<img src="../../../../img/Pa%CC%8A+akuten+med+A%CC%8Ake-PERK5542.jpg" height="640">
+	<figcaption>I väntan på gipsning... Åke på gott humör.</figcaption>
+</figure>
+
+<figure>
+	<img src="../../../../img/Pa%CC%8A+akuten+med+A%CC%8Ake-PERK5544.jpg">
+	<figcaption>Han ville också fotografera, eller "bilda" som han säger.</figcaption>
 </figure>Nu vet vi ju hur en gipsning går till, men det blev inte på samma sätt som i Åre. Här lade man bara gips på baksidan av foten, underbenet och låret. Sedan lade man ett gummiliknande förband runt hela benet och det fanns två färger att välja mellan. Vilken färg ville Åke ha, rött eller blått? Grått blev svaret. Det fick bli rött. Vi skulle få en remiss till barnortopeden i Rinkeby om en vecka ungefär, tills dess får Åke inte stödja på benet. 
 
 <figure>

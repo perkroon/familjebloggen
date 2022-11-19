@@ -7,7 +7,10 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2013/01/ake-och-vi-andra-pa-arets-forsta.html
 ---
 
-En av Åkes kompisar på förskolan, Elsa, fyllde tre år och bjöd in treåringarna från förskolan till kalas. Hon har en storasyster som går i samma grupp som Tage på förskolan, så han var också inbjuden. Och då passade vi föräldrar på att komma båda två vi också.<br><br>Vi fick se en lite blygare Åke än vi är van vid. Han ville helst att vi skulle vara nära honom hela tiden. Efter ett tag släppte det och han lekte själv eller tillsammans med de andra barnen.<br><br>
+En av Åkes kompisar på förskolan, Elsa, fyllde tre år och bjöd in treåringarna från förskolan till kalas. Hon har en storasyster som går i samma grupp som Tage på förskolan, så han var också inbjuden. Och då passade vi föräldrar på att komma båda två vi också.
+<br><br>
+
+Vi fick se en lite blygare Åke än vi är van vid. Han ville helst att vi skulle vara nära honom hela tiden. Efter ett tag släppte det och han lekte själv eller tillsammans med de andra barnen.
 
 <figure>
 	<img src="../../../../img/Barnkalas+hos+Elsa+3+a%CC%8Ar-5C5C1002.jpg">
@@ -41,5 +44,5 @@ En av Åkes kompisar på förskolan, Elsa, fyllde tre år och bjöd in treåring
 
 <figure>
 	<img src="../../../../img/Barnkalas+hos+Elsa+3+a%CC%8Ar-5C5C1066.jpg">
-	<figcaption>Mot slutet av kalaset blev det fiskdamm och alla barnen fick napp – en påse med godis. <br>Åke gillar att få godis, men är inte så förtjust i att äta det. Han stoppar in en godisbit, <br>smakar ordentligt och tar sedan oftast ut den igen: – Den var inte så god, här får du mamma!</figcaption>
+	<figcaption>Mot slutet av kalaset blev det fiskdamm och alla barnen fick napp – en påse med godis. Åke gillar att få godis, men är inte så förtjust i att äta det. Han stoppar in en godisbit, smakar ordentligt och tar sedan oftast ut den igen: – Den var inte så god, här får du mamma!</figcaption>
 </figure>

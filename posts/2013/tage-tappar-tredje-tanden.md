@@ -2,7 +2,7 @@
 title: Tage tappar tredje tanden
 date: 2013-11-02
 tags: 	
-author: Pelle
+author: Lovisa
 layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2013/11/tage-tappar-tredje-tanden.html
 ---
@@ -11,10 +11,8 @@ När Mamman kom till förskolan på fredagseftermiddagen så låg det ett litet 
 
 <figure>
 	<img src="../../../../img/Familjen+hemma-PERK2115.jpg">
-	<figcaption>Tage visar luckan efter tand nummer tre. <br>De första två vuxentänderna har redan kommit upp.</figcaption>
+	<figcaption>Tage visar luckan efter tand nummer tre. De första två vuxentänderna har redan kommit upp.</figcaption>
 </figure>
-
-
 
 <figure>
 	<img src="../../../../img/Familjen+hemma-PERK2084.jpg">
@@ -24,4 +22,4 @@ När Mamman kom till förskolan på fredagseftermiddagen så låg det ett litet 
 <figure>
 	<img src="../../../../img/Familjen+hemma-PERK2092.jpg">
 	<figcaption>Sedan gick han tillbaka till sina bilar och lekte med dem.</figcaption>
-</figure><br>
+</figure>

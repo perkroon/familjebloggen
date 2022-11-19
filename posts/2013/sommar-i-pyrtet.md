@@ -7,7 +7,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2013/07/sommar-i-pyrtet.html
 ---
 
-Vår första anhalt på sommarsemestern var Pyrtet i Småland, hos farmor och farfar. Vi lyckades också pricka in när faster Jenny och Thomas besökte Pyrtet (de målade staket). De flesta andra år har vi börjat i Halmstad och tagit Pyrtet mot slutet av semestern, men den här gången gjorde vi tvärtom och började med Småland. Vädret var utmärkt nästan hela tiden.<br>
+Vår första anhalt på sommarsemestern var Pyrtet i Småland, hos farmor och farfar. Vi lyckades också pricka in när faster Jenny och Thomas besökte Pyrtet (de målade staket). De flesta andra år har vi börjat i Halmstad och tagit Pyrtet mot slutet av semestern, men den här gången gjorde vi tvärtom och började med Småland. Vädret var utmärkt nästan hela tiden.
 
 <figure>
 	<img src="../../../../img/Pyrtet+-+allma%CC%88nt-PERK6471.jpg">
@@ -36,7 +36,7 @@ Vår första anhalt på sommarsemestern var Pyrtet i Småland, hos farmor och fa
 
 <figure>
 	<img src="../../../../img/Pyrtet+-+tisdag-PERK6668.jpg">
-	<figcaption>När det är varmt och fint är det alltid roligt att bada på tomten.<br>Här fyller Åke på med kallvatten. (Han gillar riktigt kallt badvatten)</figcaption>
+	<figcaption>När det är varmt och fint är det alltid roligt att bada på tomten. Här fyller Åke på med kallvatten. (Han gillar riktigt kallt badvatten)</figcaption>
 </figure>
 
 <figure>
@@ -56,5 +56,5 @@ Vår första anhalt på sommarsemestern var Pyrtet i Småland, hos farmor och fa
 
 <figure>
 	<img src="../../../../img/Pyrtet+-+tisdag-PERK6691.jpg">
-	<figcaption>Åke vill aldrig ha vatten i ögonen. Om han får det så måste man torka med tyg, <br>gärna som här med Mammans klänning.</figcaption>
+	<figcaption>Åke vill aldrig ha vatten i ögonen. Om han får det så måste man torka med tyg, gärna som här med Mammans klänning.</figcaption>
 </figure>

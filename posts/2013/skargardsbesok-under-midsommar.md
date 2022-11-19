@@ -11,7 +11,7 @@ På midsommarafton hoppade vi i en hyrbil och åkte norrut i två timmar tills v
 
 <figure>
 	<img src="../../../../img/Midsommar+pa%CC%8A+Sjo%CC%88vik-PERK5927.jpg">
-	<figcaption>Midsommarlunch på Sjövik. Eftersom det var väldigt många barn med så blev lunchen lite stökig. <br>Jag är inte säker på att vi satt ner allihop samtidigt någon gång, men här ser vi fyra på bild.</figcaption>
+	<figcaption>Midsommarlunch på Sjövik. Eftersom det var väldigt många barn med så blev lunchen lite stökig. Jag är inte säker på att vi satt ner allihop samtidigt någon gång, men här ser vi fyra på bild.</figcaption>
 </figure>
 
 <figure>
@@ -26,17 +26,17 @@ På midsommarafton hoppade vi i en hyrbil och åkte norrut i två timmar tills v
 
 <figure>
 	<img src="../../../../img/Midsommar+pa%CC%8A+Sjo%CC%88vik-PERK5969.jpg">
-	<figcaption>Harry drog ett tungt lass, Åke tittar på. På kärran fanns en del bråte <br>från ombyggnaden av Sjövik som precis gjorts. Det blev jättefint på övervåningen!</figcaption>
+	<figcaption>Harry drog ett tungt lass, Åke tittar på. På kärran fanns en del bråte från ombyggnaden av Sjövik som precis gjorts. Det blev jättefint på övervåningen!</figcaption>
 </figure>
 
 <figure>
 	<img src="../../../../img/Midsommar+pa%CC%8A+Sjo%CC%88vik-PERK5988.jpg">
-	<figcaption>Så här såg det ut från verandan vi satt på klockan ett på natten, <br>när det var som allra mörkast.</figcaption>
+	<figcaption>Så här såg det ut från verandan vi satt på klockan ett på natten, när det var som allra mörkast.</figcaption>
 </figure>
 
 <figure>
 	<img src="../../../../img/Midsommar+pa%CC%8A+Sjo%CC%88vik-PERK5999.jpg">
-	<figcaption>August och Åke. Det var många ganska jämnåriga pojkar som samlats<br>och de lekte bra med varandra. Kul!</figcaption>
+	<figcaption>August och Åke. Det var många ganska jämnåriga pojkar som samlats och de lekte bra med varandra. Kul!</figcaption>
 </figure>
 
 <figure>
@@ -56,15 +56,17 @@ På midsommarafton hoppade vi i en hyrbil och åkte norrut i två timmar tills v
 
 <figure>
 	<img src="../../../../img/Midsommar+pa%CC%8A+Sjo%CC%88vik-PERK6024.jpg">
-	<figcaption>Oftast ordnade vi särskilda måltider åt barnen. Det är alltid en bra idé när det är så många barn, <br>särskilt när de behöver mycket hjälp med servering, matning osv. Tage och Samuel har helt olika mat på tallriken.</figcaption>
+	<figcaption>Oftast ordnade vi särskilda måltider åt barnen. Det är alltid en bra idé när det är så många barn, särskilt när de behöver mycket hjälp med servering, matning osv. Tage och Samuel har helt olika mat på tallriken.</figcaption>
 </figure>
 
 <figure>
 	<img src="../../../../img/Midsommar+pa%CC%8A+Sjo%CC%88vik-PERK6084.jpg">
-	<figcaption>Innan vi åkte hem på midsommardagen samlade vi alla barnen, utom lille Hugo som inte kunde sitta själv, <br>på ett gemensamt foto: Samuel, Nils, Harry, Åke, Tage och August.</figcaption>
+	<figcaption>Innan vi åkte hem på midsommardagen samlade vi alla barnen, utom lille Hugo som inte kunde sitta själv, på ett gemensamt foto: Samuel, Nils, Harry, Åke, Tage och August.</figcaption>
 </figure>
 
 <figure>
 	<img src="../../../../img/Midsommar+pa%CC%8A+Sjo%CC%88vik-PERK6099.jpg">
 	<figcaption>Mammorna har ett vakande öga över barnen vid fotograferingen.</figcaption>
-</figure>Som vanligt ute på Sjövik hade vi tur med vädret: sol och värme mest hela tiden! Tack för den här gången!<br><br>
+</figure>
+
+Som vanligt ute på Sjövik hade vi tur med vädret: sol och värme mest hela tiden! Tack för den här gången!

@@ -7,7 +7,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2013/07/battur-och-bad-i-orken.html
 ---
 
-Det vackra vädret höll i sig och vi passade på att göra en annan sak som är bäst i vackert väder: en båtutflykt! Förutom den obligatoriska svängen in i Böksholmsdammen så åkte vi till badplatsen i närheten. Där stannade vi en stund och några av oss (Pappan och Tage, delvis också Åke) badade.<br><br>
+Det vackra vädret höll i sig och vi passade på att göra en annan sak som är bäst i vackert väder: en båtutflykt! Förutom den obligatoriska svängen in i Böksholmsdammen så åkte vi till badplatsen i närheten. Där stannade vi en stund och några av oss (Pappan och Tage, delvis också Åke) badade.
 
 <figure>
 	<img src="../../../../img/Pyrtet+-+ba%CC%8At+och+bad-PERK6507.jpg">
@@ -15,7 +15,7 @@ Det vackra vädret höll i sig och vi passade på att göra en annan sak som är
 </figure>
 
 <figure>
-	<img border="0" height="426" src="../../../../img/Pyrtet+-+ba%CC%8At+och+bad-PERK6546.jpg" style="margin-left: auto; margin-right: auto;">
+	<img src="../../../../img/Pyrtet+-+ba%CC%8At+och+bad-PERK6546.jpg">
 	<figcaption>Åke med sin pinne, i farmors knä.</figcaption>
 </figure>
 

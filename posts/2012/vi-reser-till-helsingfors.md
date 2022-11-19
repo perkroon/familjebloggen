@@ -21,7 +21,7 @@ Vi upptäckte snart att det fanns ett bollhav till i ett annat rum i barnavdelni
 	<figcaption>Åke i bollhavet.</figcaption>
 </figure>
 
-<div class="p2">
+
 
 <figure>
 	<img src="../../../../img/Helsingforsresan-5C5C7909.jpg">

@@ -7,11 +7,11 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2013/01/mellandagar-hemma-i-lagenheten.html
 ---
 
-På annandagen åkte vi tåg tillbaka till Stockholm. Det var rätt mycket bagage att få med sig – nu hade vi ju dessutom en snowracer att hantera. Men farfar hjälpte oss ombord på tåget i Alvesta och i Stockholm behövde vi inte gå många meter innan vi hittade en taxi som kunde köra oss hem.<br>Mamman jobbade i mellandagarna, stackarn, men vi andra stannade hemma. Jag tror knappt vi var utanför dörren de där dagarna, och det berodde väl dels på att vädret var rätt trist med regn och slask, men kanske ännu mer på att vi hade så mycket att göra hemma. Att leka med alla nya leksaker inte minst!</div>
+På annandagen åkte vi tåg tillbaka till Stockholm. Det var rätt mycket bagage att få med sig – nu hade vi ju dessutom en snowracer att hantera. Men farfar hjälpte oss ombord på tåget i Alvesta och i Stockholm behövde vi inte gå många meter innan vi hittade en taxi som kunde köra oss hem. Mamman jobbade i mellandagarna, stackarn, men vi andra stannade hemma. Jag tror knappt vi var utanför dörren de där dagarna, och det berodde väl dels på att vädret var rätt trist med regn och slask, men kanske ännu mer på att vi hade så mycket att göra hemma. Att leka med alla nya leksaker inte minst!
 
 <figure>
 	<img src="../../../../img/Mellandagar+i+Stockholm-5C5C0615.jpg">
-	<figcaption>Tage visade sig vara en hejare på att bygga Lego. Jag plockade fram bitarna, han tittade <br>på ritningen och byggde ihop. Någon enstaka gång hjälpte jag till, men 99% gjorde han själv.</figcaption>
+	<figcaption>Tage visade sig vara en hejare på att bygga Lego. Jag plockade fram bitarna, han tittade på ritningen och byggde ihop. Någon enstaka gång hjälpte jag till, men 99% gjorde han själv.</figcaption>
 </figure>
 
 <figure>
@@ -22,14 +22,14 @@ På annandagen åkte vi tåg tillbaka till Stockholm. Det var rätt mycket bagag
 <figure>
 	<img src="../../../../img/Mellandagar+i+Stockholm-5C5C0596.jpg">
 	<figcaption>Spana in huggtänderna på den här helikoptern! Den har en last av giftormar som kan släppas ut.</figcaption>
-</figure> <br>
+</figure> 
 
 <figure>
 	<img src="../../../../img/Mellandagar+i+Stockholm-5C5C0616.jpg">
-	<figcaption>Vi byggde tågbanor och körde med loken.</i> </figcaption>
+	<figcaption>Vi byggde tågbanor och körde med loken.</figcaption>
 </figure>
 
-<br>
+
 
 <figure>
 	<img src="../../../../img/Mellandagar+i+Stockholm-5C5C0635.jpg">
@@ -38,7 +38,7 @@ På annandagen åkte vi tåg tillbaka till Stockholm. Det var rätt mycket bagag
 
 <figure>
 	<img src="../../../../img/Mellandagar+i+Stockholm-5C5C0647.jpg">
-	<figcaption>Pappan gjorde pannkakor till lunch, och fick hjälp av Åke som alltid vill <br>smaka av smeten och ha en egen liten bytta där han får använda sin egen visp.</figcaption>
+	<figcaption>Pappan gjorde pannkakor till lunch, och fick hjälp av Åke som alltid vill smaka av smeten och ha en egen liten bytta där han får använda sin egen visp.</figcaption>
 </figure>
 
 <figure>

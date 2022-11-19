@@ -25,7 +25,7 @@ Redan på lördagen, två dagar innan den riktiga dagen, valde vi att fira Åkes
 <figure>
 	<img src="../../../../img/A%CC%8Areresan-PERK4306.jpg">
 	<figcaption>Nu väntar vi bara på regn!</figcaption>
-</figure><div style="text-align: center;"><br>
+</figure><br>
 
 <figure>
 	<img src="../../../../img/A%CC%8Areresan-PERK4308.jpg">

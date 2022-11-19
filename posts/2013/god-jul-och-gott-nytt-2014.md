@@ -19,8 +19,6 @@ originalUrl: https://nejtupp.blogspot.com/2013/12/god-jul-och-gott-nytt-2014.htm
 	<figcaption>"Kul"</i> </figcaption>
 </figure>
 
-
-
 <figure>
 	<img src="../../../../img/jul-PERK2686.jpg" height="640">
 	<figcaption>"Nyfrälsta familjen"</figcaption>

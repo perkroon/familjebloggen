@@ -7,7 +7,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2011/08/julisemester-i-halmstad.html
 ---
 
-<div style="text-align: center;">
+
 
 <figure>
 	<img src="../../../img/2011/07/Halmstad+-+Barn+pa%25CC%258A+Ebbehill-_MG_1056.jpg">

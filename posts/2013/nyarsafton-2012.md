@@ -36,20 +36,18 @@ Vi blev inbjudna att fira nyårsafton tillsammans med Peter, Erika, Nils och Har
 
 <figure>
 	<img src="../../../../img/Nya%CC%8Arsafton-5C5C0730.jpg">
-	<figcaption>Pappan lekte den plötsligt uppfunna leken "Gissa kortet" med barnen. <br>Det var Nils och Tage som hittade på den, men Harry och Åke var inte sena att ta efter.</figcaption>
+	<figcaption>Pappan lekte den plötsligt uppfunna leken "Gissa kortet" med barnen. Det var Nils och Tage som hittade på den, men Harry och Åke var inte sena att ta efter.</figcaption>
 </figure>
 
 <figure>
 	<img src="../../../../img/Nya%CC%8Arsafton-5C5C0743.jpg">
-	<figcaption>Det gick bitvis ganska livat till. Åke stod på händerna och slängde sig och gled på knäna på parkettgolvet. <br>Harry åkte omkring med sin bil och Nils och Tage höjde volymen på stereon och dansade <br>själva i vardagsrummet: vuxna släpptes inte in!</figcaption>
+	<figcaption>Det gick bitvis ganska livat till. Åke stod på händerna och slängde sig och gled på knäna på parkettgolvet. Harry åkte omkring med sin bil och Nils och Tage höjde volymen på stereon och dansade själva i vardagsrummet: vuxna släpptes inte in!</figcaption>
 </figure>
 
 <figure>
 	<img src="../../../../img/Nya%CC%8Arsafton-5C5C0759.jpg">
-	<figcaption>Glass (med extra allt) till efterrätt uppskattades både av barnen och de vuxna.</i><br><br></figcaption>
+	<figcaption>Glass (med extra allt) till efterrätt uppskattades både av barnen och de vuxna.</figcaption>
 </figure>
-
-
 
 <figure>
 	<img src="../../../../img/Nya%CC%8Arsafton-5C5C0779.jpg">
@@ -59,4 +57,6 @@ Vi blev inbjudna att fira nyårsafton tillsammans med Peter, Erika, Nils och Har
 <figure>
 	<img src="../../../../img/Nya%CC%8Arsafton-5C5C0782.jpg">
 	<figcaption>Gott Nytt År! Vi lyssnade för resten på Fröken Ur över tolvslaget, något jag tror jag aldrig gjort förut.</figcaption>
-</figure>När kvällen var slut skjutsade Peter hem oss med bilen, som ju dessutom var laddad med bilbarnstolar i lämpliga storlekar. Barnen satt och tittade ut genom fönstren och somnade först när vi kom till Västerbron. Tack Peter och Erika för en trevlig nyårsafton! Gott Nytt 2013 alla! </div>
+</figure>
+
+När kvällen var slut skjutsade Peter hem oss med bilen, som ju dessutom var laddad med bilbarnstolar i lämpliga storlekar. Barnen satt och tittade ut genom fönstren och somnade först när vi kom till Västerbron. Tack Peter och Erika för en trevlig nyårsafton! Gott Nytt 2013 alla!

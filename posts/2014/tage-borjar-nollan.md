@@ -10,7 +10,8 @@ originalUrl: https://nejtupp.blogspot.com/2014/08/tage-borjar-nollan.html
 
 
 <figure>
-	<img src="../../../../img/Skolstart-PERK3914.jpg" height="425"></td></tr><tr><td class="tr-caption"><i>Åke är tillbaka på Il Crocodill. </figcaption>
+	<img src="../../../../img/Skolstart-PERK3914.jpg" height="425">
+	<figcaption>Åke är tillbaka på Il Crocodill. </figcaption>
 </figure>Idag började höstterminen för oss. Vi började med att allihop tillsammans gå till Högalidsparken där vi lämnade Åke, som nu får fortsätta i förskolan på egen hand utan storebrorsan. Det gick bra. Inga större konstigheter tyckte Åke vid lämningen.<br><br><br>
 
 <figure>

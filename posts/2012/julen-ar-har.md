@@ -7,7 +7,10 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2012/11/julen-ar-har.html
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/bild+(12).jpg"></div><br>Snön ligger vit i Hornstull till Tages och Åkes stora glädje. Varenda dag senaste veckan har de frågat vilken dag som vi ska julpynta. Tage har full koll på att det måste vara gjort innan söndag då det är första advent. Ikväll var det premiär. Vi hann inte pynta klart men vi hann få till ett ståtligt pepparkakshus! Och som man kan se så var det roligt att göra det också. Vi har bestämt att man inte får äta av det förrän Pelle kommer hem och får se det. Han är i Dublin i några dagar så det är tomt här hemma. Vi längtar efter honom.
+<div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/bild+(12).jpg">
+</figure>
+
+Snön ligger vit i Hornstull till Tages och Åkes stora glädje. Varenda dag senaste veckan har de frågat vilken dag som vi ska julpynta. Tage har full koll på att det måste vara gjort innan söndag då det är första advent. Ikväll var det premiär. Vi hann inte pynta klart men vi hann få till ett ståtligt pepparkakshus! Och som man kan se så var det roligt att göra det också. Vi har bestämt att man inte får äta av det förrän Pelle kommer hem och får se det. Han är i Dublin i några dagar så det är tomt här hemma. Vi längtar efter honom.
 
 <div class="comments">
 	<div class="comments-header"><h2>1 Comment</h2></div>

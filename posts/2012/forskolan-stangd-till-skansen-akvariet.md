@@ -15,7 +15,7 @@ Måndagen den 20 februari var barnens förskola stängd eftersom de hade en plan
 <figure>
 	<img src="../../../../img/Till+Skansen-Akvariet-_MG_0952.jpg">
 	<figcaption>Hela gänget på färjan, även om man knappt ser Åke som står på knä mellan F och Tage.</figcaption>
-</figure>På Skansen började vi med att äta lunch på Gubbhyllan. Sedan styrde vi stegen mot akvariet: vi hade ingen ambition att se mer än akvariet denna dag. Krokodilerna förekom flitigt i förhandssnacket, och vi märkte fort att barnen inte fick någon ro att se något annat innan vi kommit in och hunnit titta ordentligt på krokodilerna. De var inte så roliga när allt kom till kritan: de låg bara helt stilla, de hade lika gärna kunnat vara uppstoppade. Men hajen var kul och det var roligt att springa omkring och utforska.</div><br>
+</figure>På Skansen började vi med att äta lunch på Gubbhyllan. Sedan styrde vi stegen mot akvariet: vi hade ingen ambition att se mer än akvariet denna dag. Krokodilerna förekom flitigt i förhandssnacket, och vi märkte fort att barnen inte fick någon ro att se något annat innan vi kommit in och hunnit titta ordentligt på krokodilerna. De var inte så roliga när allt kom till kritan: de låg bara helt stilla, de hade lika gärna kunnat vara uppstoppade. Men hajen var kul och det var roligt att springa omkring och utforska.
 
 <figure>
 	<img src="../../../../img/Till+Skansen-Akvariet-_MG_0995.jpg">

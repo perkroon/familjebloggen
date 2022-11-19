@@ -7,14 +7,9 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2012/01/julafton-i-ebbehill.html
 ---
 
-
-
 <figure>
 	<img src="../../../img/2011/12/Julafton+pa%CC%8A+Ebbehill-_MG_0378.jpg">
-	<figcaption>Full aktivitet efter frukost på julaftons morgon. Åke, Ida och Tage ritar<br> medan morbror Jacob skriver verser  till julklapparna.
-<br><br>
-
-<br></figcaption>
+	<figcaption>Full aktivitet efter frukost på julaftons morgon. Åke, Ida och Tage ritar medan morbror Jacob skriver verser  till julklapparna.</figcaption>
 </figure>
 
 <figure>
@@ -59,10 +54,8 @@ originalUrl: https://nejtupp.blogspot.com/2012/01/julafton-i-ebbehill.html
 
 <figure>
 	<img src="../../../img/2011/12/Julafton+pa%CC%8A+Ebbehill-_MG_0476.jpg">
-	<figcaption>Åke var inte så intresserad av att titta på tv. Av någon oförklarlig anledning ville han<br> väldigt gärna vara i det iskalla uterummet och äta en macka istället. Där var han helnöjd.</i><span style="font-size: small;"><br></span><br><br><br></figcaption>
+	<figcaption>Åke var inte så intresserad av att titta på tv. Av någon oförklarlig anledning ville han väldigt gärna vara i det iskalla uterummet och äta en macka istället. Där var han helnöjd.</figcaption>
 </figure>
-
-
 
 <figure>
 	<img src="../../../img/2011/12/Julafton+pa%CC%8A+Ebbehill-_MG_0500.jpg">
@@ -72,10 +65,12 @@ originalUrl: https://nejtupp.blogspot.com/2012/01/julafton-i-ebbehill.html
 <figure>
 	<img src="../../../img/2011/12/Julafton+pa%CC%8A+Ebbehill-_MG_0509.jpg">
 	<figcaption>Tage tyckte att tomten var snäll.</figcaption>
-</figure><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td> <img src="../../../img/2011/12/Julafton+pa%CC%8A+Ebbehill-_MG_0514.jpg"></td></tr><tr><td class="tr-caption" style="font-size: 13px;"><i>Det tyckte Åke också.</i><br><br></figcaption>
 </figure>
 
-<br>
+<figure>
+    <img src="../../../img/2011/12/Julafton+pa%CC%8A+Ebbehill-_MG_0514.jpg">
+    <figcaption>Det tyckte Åke också.</figcaption>
+</figure>
 
 <figure>
 	<img src="../../../img/2011/12/Julafton+pa%CC%8A+Ebbehill-_MG_0519.jpg">
@@ -92,4 +87,4 @@ originalUrl: https://nejtupp.blogspot.com/2012/01/julafton-i-ebbehill.html
 	<figcaption>Ett stort paket till Tage och Åke från kusinerna i Halmstad.</figcaption>
 </figure>
 
-<br>På annandagsmorgon tog vi tåget hem till Stockholm igen, för i mellandagsveckan skulle mamman jobba. Det var en väldigt fin julvecka i Ebbehill. Tack allihopa för alla fina julklappar och allt mys!
+På annandagsmorgon tog vi tåget hem till Stockholm igen, för i mellandagsveckan skulle mamman jobba. Det var en väldigt fin julvecka i Ebbehill. Tack allihopa för alla fina julklappar och allt mys!

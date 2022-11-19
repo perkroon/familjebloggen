@@ -13,22 +13,22 @@ Redan på lördagen, två dagar innan den riktiga dagen, valde vi att fira Åkes
 
 
 <figure>
-	<img src="../../../../img/A%CC%8Areresan-PERK4285.jpg" height="426">
+	<img src="../../../../img/A%CC%8Areresan-PERK4285.jpg">
 	<figcaption>Klockan 06.15: Vad kan det vara i mitt paket?</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/A%CC%8Areresan-PERK4286.jpg" height="426">
+	<img src="../../../../img/A%CC%8Areresan-PERK4286.jpg">
 	<figcaption>Åke får en bok, "Vem matar djuren" av Jan Lööf.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/A%CC%8Areresan-PERK4306.jpg" height="426">
+	<img src="../../../../img/A%CC%8Areresan-PERK4306.jpg">
 	<figcaption>Nu väntar vi bara på regn!</figcaption>
 </figure><div style="text-align: center;"><br>
 
 <figure>
-	<img src="../../../../img/A%CC%8Areresan-PERK4308.jpg" height="426">
+	<img src="../../../../img/A%CC%8Areresan-PERK4308.jpg">
 	<figcaption>En roterande röd spegelboll hängde i taket i barnens rum på morgonen.</figcaption>
 Efter paketen åt vi en ordentlig helgfrukost med frallor från bageriet på gatan. Åke fick så klart dricka sin varma choklad ur guldkoppen.
 <br><br>
@@ -36,7 +36,7 @@ Efter paketen åt vi en ordentlig helgfrukost med frallor från bageriet på gat
 
 
 <figure>
-	<img src="../../../../img/A%CC%8Areresan-PERK4317.jpg" height="426">
+	<img src="../../../../img/A%CC%8Areresan-PERK4317.jpg">
 	<figcaption>Innan frukost började vi bygga lite lego.</figcaption>
 
 
@@ -76,26 +76,26 @@ Efter paketen åt vi en ordentlig helgfrukost med frallor från bageriet på gat
 </figure>
 
 <figure>
-	<img src="../../../../img/A%CC%8Areresan-PERK4376.jpg" height="426">
+	<img src="../../../../img/A%CC%8Areresan-PERK4376.jpg">
 	<figcaption>Bullar och kakor innan tårtan serveras.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/A%CC%8Areresan-PERK4379.jpg" height="426">
+	<img src="../../../../img/A%CC%8Areresan-PERK4379.jpg">
 	<figcaption>Två bord fick vi ha med gäster.</figcaption>
 </figure>När alla kommit så öppnades paketen, varpå barnen (och de föräldrar som var med) fick hugga in på fikat: saft, prinsesstårta och kladdkaka (som önskat), hembakade schackrutekakor och bullar samt kex – och kaffe till de vuxna. Efterhand som barnen blev klara så började de leka. Många roade sig med att byta om till kläder i utklädningslådan, några åkte omkring på bilarna och alla hade fullt upp. Vi ordnade en liten lek (dans-stopp under Åkes spegelboll) innan vi delade ut godispåsar (efter lite letande efter gömda mynt som behövdes som betalningsmedel för att få godispåsarna).<br>
 
 <figure>
-	<img src="../../../../img/A%CC%8Areresan-PERK4395.jpg" height="426">
+	<img src="../../../../img/A%CC%8Areresan-PERK4395.jpg">
 	<figcaption>Utklädningslådan var populär.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/A%CC%8Areresan-PERK4406.jpg" height="426">
+	<img src="../../../../img/A%CC%8Areresan-PERK4406.jpg">
 	<figcaption>Här dansas det under spegelbollen. Men plötsligt tystnar musiken och alla måste stå helt stilla.</figcaption>
 </figure>När gästerna gått var grabbarna rätt trötta och hängde i soffan. Nu var det dags för oss att ta itu med nästa viktiga uppgift: packa inför resan till Åre! Som tur var fick vi hjälp av farmor och farfar som kom över till oss och tog hand om barnen efter maten, så att vi kunde packa så koncentrerat som vi förmådde. Tur att vi hann packa när vi fortfarande hade lite energi kvar, om vi hade lagt barnen tror jag vi hade somnat själva också, och det är alltid svårt att komma tillbaka efteråt… Nu var vi klara redan innan klockan nio! Tack!<br>
 
 <figure>
-	<img src="../../../../img/A%CC%8Areresan-PERK4423.jpg" height="426">
+	<img src="../../../../img/A%CC%8Areresan-PERK4423.jpg">
 	<figcaption>Trötta, trötta efter en lång intensiv kalaslördag.</figcaption>
 </figure>

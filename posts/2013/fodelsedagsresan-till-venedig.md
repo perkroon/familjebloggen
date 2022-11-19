@@ -48,12 +48,18 @@ Lovisa skulle snart bli 40 år, så vi åkte till Venedig för att sätta lite g
 <figure>
 	<img src="../../../../img/Venedig+med+Lovisa+40+a%CC%8Ar-PERK1560.jpg">
 	<figcaption>Fråga Pelle, han vet!</figcaption>
-</figure><br><br><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/Venedig+med+Lovisa+40+a%CC%8Ar-PERK1618.jpg"></div><br><br>Till födelsedagslunch blev det spaghetti olio aglio e peperoncino, en ljuvlig sådan (också detta den bästa måltiden på resan!), på Osteria Al Ponte, en liten mysig servering med tre bord invid en kanal. Till det blev det en flaska Prosecco, tack Eva och Sören! Det visade sig att tjejen på bordet bredvid också hade födelsedag.<br><br>
+</figure><br><br><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/Venedig+med+Lovisa+40+a%CC%8Ar-PERK1618.jpg">
+</figure>
+
+<br>Till födelsedagslunch blev det spaghetti olio aglio e peperoncino, en ljuvlig sådan (också detta den bästa måltiden på resan!), på Osteria Al Ponte, en liten mysig servering med tre bord invid en kanal. Till det blev det en flaska Prosecco, tack Eva och Sören! Det visade sig att tjejen på bordet bredvid också hade födelsedag.<br><br>
 
 <figure>
 	<img src="../../../../img/Venedig+med+Lovisa+40+a%CC%8Ar-PERK1625.jpg">
 	<figcaption>Skål!</figcaption>
-</figure><br><br><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/Venedig+med+Lovisa+40+a%CC%8Ar-PERK1727.jpg"></div><br><br>Efter lunchen gick vi in på Venedigbiennalen (den stora internationella utställningen för samtida konst som varannat år breder ut sig i Venedig, den här var den 55:e i ordningen sedan starten 1895).<br><br><br>
+</figure><br><br><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/Venedig+med+Lovisa+40+a%CC%8Ar-PERK1727.jpg">
+</figure>
+
+<br>Efter lunchen gick vi in på Venedigbiennalen (den stora internationella utställningen för samtida konst som varannat år breder ut sig i Venedig, den här var den 55:e i ordningen sedan starten 1895).<br><br><br>
 
 <figure>
 	<img src="../../../../img/Venedig+med+Lovisa+40+a%CC%8Ar-PERK1778.jpg">

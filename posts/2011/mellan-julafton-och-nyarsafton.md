@@ -25,7 +25,9 @@ Pappan minns hur det var när han var liten: att vakna på juldagens morgon och 
 <figure>
 	<img src="../../../img/2011/12/Juldagen+pa%CC%8A+Ebbehill-_MG_0579.jpg">
 	<figcaption>... och under klänningen hade han den guldiga och glittriga kjolen som han också fått.</figcaption>
-</figure>På annandagen (som inföll på en måndag) reste vi tillbaka till Stockholm och på tisdagen var vi tillbaka i vardagen igen. Eller i alla fall var Mamman det, eftersom hon jobbade alla mellandagarna. Förskolan höll stängt och Pappan var hemma med Tage och Åke. Vi hade lugna och sköna dagar och höll oss ganska mycket hemma.</div><br>
+</figure>
+
+På annandagen (som inföll på en måndag) reste vi tillbaka till Stockholm och på tisdagen var vi tillbaka i vardagen igen. Eller i alla fall var Mamman det, eftersom hon jobbade alla mellandagarna. Förskolan höll stängt och Pappan var hemma med Tage och Åke. Vi hade lugna och sköna dagar och höll oss ganska mycket hemma.
 
 <figure>
 	<img src="../../../img/2011/12/Mellandagar+hemma-_MG_0663.jpg">

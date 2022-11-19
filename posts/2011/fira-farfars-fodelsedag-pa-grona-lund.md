@@ -16,7 +16,9 @@ Farfar fyllde år nyss och ville att vi skulle fira hans födelsedag genom att g
 <figure>
 	<img src="../../../img/2011/09/Fira+farfar+med+Gro%25CC%2588na+Lund-_MG_8622.jpg">
 	<figcaption>Åke har kul i farfars knä på Blå Porten.</figcaption>
-</figure>Lagom tills Gröna Lund öppnade för dagen var vi färdiga med vår lunch. Vi började med den attraktion som Tage tyckte var roligast förra året, nämligen Tuff-Tuff Tåget. Den var rätt OK även i år, men Tage hade redan siktat in sig på Nyckelpigan och lämnade snabbt Tuff-Tuff Tåget bakom sig. Åke åkte tåg han också, och hade väldigt kul i svängarna.
+</figure>
+
+Lagom tills Gröna Lund öppnade för dagen var vi färdiga med vår lunch. Vi började med den attraktion som Tage tyckte var roligast förra året, nämligen Tuff-Tuff Tåget. Den var rätt OK även i år, men Tage hade redan siktat in sig på Nyckelpigan och lämnade snabbt Tuff-Tuff Tåget bakom sig. Åke åkte tåg han också, och hade väldigt kul i svängarna.
 
 <figure>
 	<img src="../../../img/2011/09/Fira+farfar+med+Gro%25CC%2588na+Lund-_MG_8627.jpg">

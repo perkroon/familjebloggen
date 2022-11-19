@@ -7,7 +7,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2012/09/sommarsemestern-i-halmstad-del-1.html
 ---
 
-Efter de gångna somrarnas runtflängande med tåg i södra Sverige så bestämde vi oss i år för att hyra bil i en månad under vår semester. Vi gillar tåg men det här blev betydligt enklare med packning och avresor. Barnen tyckte också väldigt mycket om det. Pappan körde sträckorna Stockholm - Halmstad - Pyrtet - Öland - Stockholm. Mamman körde från stugan på Öland de 200 meterna ned till campingkiosken. Alla var nöjda.<br>Den 8 juli bar det av mot Halmstad där vi tillbringade vår första semestervecka. Vädret bjöd på kyligt regn varenda dag så något strandbad blev det inte tal om, men det fanns gott om andra roliga saker att hitta på ändå. Vid Jansabryggan hade det byggts en ny fin lekplats till exempel.</div><br>
+Efter de gångna somrarnas runtflängande med tåg i södra Sverige så bestämde vi oss i år för att hyra bil i en månad under vår semester. Vi gillar tåg men det här blev betydligt enklare med packning och avresor. Barnen tyckte också väldigt mycket om det. Pappan körde sträckorna Stockholm - Halmstad - Pyrtet - Öland - Stockholm. Mamman körde från stugan på Öland de 200 meterna ned till campingkiosken. Alla var nöjda.<br>Den 8 juli bar det av mot Halmstad där vi tillbringade vår första semestervecka. Vädret bjöd på kyligt regn varenda dag så något strandbad blev det inte tal om, men det fanns gott om andra roliga saker att hitta på ändå. Vid Jansabryggan hade det byggts en ny fin lekplats till exempel.
 
 <figure>
 	<img src="../../../../img/Ebbehill+-+Lekplats+vid+Jensabryggan-5C5C5607.jpg">
@@ -37,7 +37,10 @@ Efter de gångna somrarnas runtflängande med tåg i södra Sverige så bestämd
 <figure>
 	<img src="../../../../img/Ebbehill+-+Pa%CC%8A+Galgberget-5C5C5690.jpg">
 	<figcaption>Tage och Åke utforskar kojan.</figcaption>
-</figure><br><br><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/Ebbehill+-+Hos+Josefin-5C5C5705.jpg"></div><br>Vi råkade pricka in en sommarvecka i Halmstad när tyvärr varken Halmstadkusinerna Lycke, Axel och Ida eller Stockholmskusinerna Ingrid och Tore var där. Men vi fick i alla fall träffa moster Josefine och förstås leka med alla roliga saker som finns i deras underbara trädgård. De höga gungorna som hänger i den jättestora björken är en favorit.<br><br>
+</figure><br><br><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/Ebbehill+-+Hos+Josefin-5C5C5705.jpg">
+</figure>
+
+Vi råkade pricka in en sommarvecka i Halmstad när tyvärr varken Halmstadkusinerna Lycke, Axel och Ida eller Stockholmskusinerna Ingrid och Tore var där. Men vi fick i alla fall träffa moster Josefine och förstås leka med alla roliga saker som finns i deras underbara trädgård. De höga gungorna som hänger i den jättestora björken är en favorit.<br><br>
 
 <figure>
 	<img src="../../../../img/Ebbehill+-+Hos+Josefin-5C5C5702.jpg">
@@ -62,7 +65,10 @@ Efter de gångna somrarnas runtflängande med tåg i södra Sverige så bestämd
 <figure>
 	<img src="../../../../img/Ebbehill+-+Hos+Josefin-5C5C5729.jpg">
 	<figcaption>Mamma, en sån här önskar jag mig.</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/Ebbehill+-+allma%CC%88nt-5C5C5651.jpg"></div><br>Även om det inte fanns några storkusiner i Halmstad just den veckan så är det ju aldrig tomt i Ebbehill. Lillkusin Gösta med moster Sofia och Claes var i Halmstad hela sommaren och så förstås mormor och morfar. Och som vanligt fanns också ett helt gäng andra vuxna som kom och gick i Ebbehill. Morbror Jacob, morbror Filip och Sarah och även mammans kusin Pontus var där några dagar.<br><br><br>
+</figure><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/Ebbehill+-+allma%CC%88nt-5C5C5651.jpg">
+</figure>
+
+Även om det inte fanns några storkusiner i Halmstad just den veckan så är det ju aldrig tomt i Ebbehill. Lillkusin Gösta med moster Sofia och Claes var i Halmstad hela sommaren och så förstås mormor och morfar. Och som vanligt fanns också ett helt gäng andra vuxna som kom och gick i Ebbehill. Morbror Jacob, morbror Filip och Sarah och även mammans kusin Pontus var där några dagar.<br><br><br>
 
 <figure>
 	<img src="../../../../img/Ebbehill+-+Jakobs+30-a%25CC%258Arskalas-5C5C5785.jpg"></td></tr><tr><td class="tr-caption" style="text-align: center;">Claes busar med lille Gösta.</figcaption>
@@ -88,7 +94,7 @@ Efter de gångna somrarnas runtflängande med tåg i södra Sverige så bestämd
 	<figcaption>Åke provar sin gamla babysitter och sällskapar lillkusin Gösta.</figcaption>
 </figure>
 
-</div><br><br>
+<br>
 
 <figure>
 	<img src="../../../../img/Ebbehill+-+allma%CC%88nt-5C5C5660.jpg">

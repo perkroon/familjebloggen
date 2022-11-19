@@ -13,27 +13,27 @@ Första året med klassen valde vi att ordna Tages barnkalas tillsammans med Fri
 </figure>
 
 <figure>
-	<img src="../../../../img/Tage%2Boch%2BFridas%2Bkalas-PERK2481.jpg" height="426">
+	<img src="../../../../img/Tage%2Boch%2BFridas%2Bkalas-PERK2481.jpg">
 	<figcaption>Maya med mjöl i ansiktet...</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/Tage%2Boch%2BFridas%2Bkalas-PERK2483.jpg" height="426">
+	<img src="../../../../img/Tage%2Boch%2BFridas%2Bkalas-PERK2483.jpg">
 	<figcaption>... och Benjamin som letar efter godisbiten.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/Tage%2Boch%2BFridas%2Bkalas-PERK2499.jpg" height="426">
+	<img src="../../../../img/Tage%2Boch%2BFridas%2Bkalas-PERK2499.jpg">
 	<figcaption>Tage letar godisbit...</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/Tage%2Boch%2BFridas%2Bkalas-PERK2504.jpg" height="426">
+	<img src="../../../../img/Tage%2Boch%2BFridas%2Bkalas-PERK2504.jpg">
 	<figcaption>... och Maya igen!</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/Tage%2Boch%2BFridas%2Bkalas-PERK2512.jpg" height="426">
+	<img src="../../../../img/Tage%2Boch%2BFridas%2Bkalas-PERK2512.jpg">
 	<figcaption>Efter den här grenen såg alla väldigt mjöliga och roliga ut. En del ville gärna doppa ansiktet en extra gång.</figcaption>
 </figure>
 
@@ -43,12 +43,12 @@ Första året med klassen valde vi att ordna Tages barnkalas tillsammans med Fri
 </figure>Efter stafetten bjöd vi på fika. Det var chokladbollar, bullar och kladdkakor, till det drack vi varm chokladmjölk, saft och vatten (samt kaffe för de vuxna). Barnen lät sig väl smaka, men vi hade ändå väldigt mycket över, som vanligt.<br><br>
 
 <figure>
-	<img src="../../../../img/Tage%2Boch%2BFridas%2Bkalas-PERK2533.jpg" height="426">
+	<img src="../../../../img/Tage%2Boch%2BFridas%2Bkalas-PERK2533.jpg">
 	<figcaption>Fina sittplatser vid amfiteatern.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/Tage%2Boch%2BFridas%2Bkalas-PERK2538.jpg" height="426">
+	<img src="../../../../img/Tage%2Boch%2BFridas%2Bkalas-PERK2538.jpg">
 	<figcaption>Filip, Vidar, Melvin och Tage fikar.</figcaption>
 </figure>Efter fikat var det skattjakt. Då var jag så upptagen att jag inte hann fotografera något alls. Vi delade upp alla i tre gäng som fick starta med lite mellanrum. Sedan fick de en liten bakgrundshistoria om en gammal piratdrottning som dött och lämnat en stor skatt efter sig, samt en karta över Långholmen. Med hjälp av en första ledtråd så var de igång och löste sedan problem efter problem, ända tills de kom fram till den efterlängtade skattkistan. Det var i själva verken en svart kabinväska, låst med kodlås, som låg i en blå låda med sand vid en backig väg. Med hjälp av ledtrådarna lyckades de pussla fram koden till väskan och öppna denna. Så klart låg det godispåsar inne i väskan!<br>
 
@@ -58,12 +58,12 @@ Första året med klassen valde vi att ordna Tages barnkalas tillsammans med Fri
 </figure>Efter skattjakten var tiden för kalaset slut. Tage, Frida och Malte drog sig upp på klipporna i närheten och tycktes ha något slags efterfest där uppe, med en stor klase ballonger och med godispåsar.<br><br>
 
 <figure>
-	<img src="../../../../img/Tage%2Boch%2BFridas%2Bkalas-PERK2545.jpg" height="426">
+	<img src="../../../../img/Tage%2Boch%2BFridas%2Bkalas-PERK2545.jpg">
 	<figcaption>Frida, Tage och Malte.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/Tage%2Boch%2BFridas%2Bkalas-PERK2557.jpg" height="426">
+	<img src="../../../../img/Tage%2Boch%2BFridas%2Bkalas-PERK2557.jpg">
 	<figcaption>Ossian hittade också upp på klipporna.</figcaption>
 </figure>
 
@@ -73,11 +73,11 @@ Första året med klassen valde vi att ordna Tages barnkalas tillsammans med Fri
 </figure>
 
 <figure>
-	<img src="../../../../img/Tage%2Boch%2BFridas%2Bkalas-PERK2580.jpg" height="426">
+	<img src="../../../../img/Tage%2Boch%2BFridas%2Bkalas-PERK2580.jpg">
 	<figcaption>Hela gänget!</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/Tage%2Boch%2BFridas%2Bkalas-PERK2581.jpg" height="426">
+	<img src="../../../../img/Tage%2Boch%2BFridas%2Bkalas-PERK2581.jpg">
 	<figcaption>En "groupie"!</figcaption>
 </figure>

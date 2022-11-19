@@ -10,7 +10,7 @@ originalUrl: https://nejtupp.blogspot.com/2014/07/tages-sista-dag-pa-forskolan.h
 Bara för en kort tid sedan, inte alls länge sedan faktiskt, lämnade vi Tage för första gången på förskolan. Det känns som igår. Men nu har han blivit så stor att han lämnat förskolan bakom sig – igår var sista dagen på Il Crocodill. Själv var han inte särskilt nostalgisk över detta faktum, det var nog mest vi föräldrar som tyckte det var stort.<br><br>
 
 <figure>
-	<img src="../../../../img/Sista+dagen+pa%CC%8A+fo%CC%88rskolan-PERK8786.jpg" height="426">
+	<img src="../../../../img/Sista+dagen+pa%CC%8A+fo%CC%88rskolan-PERK8786.jpg">
 	<figcaption>På väg till Högalidsparken för lämning en sista gång. <br>Den här morgonen kom värmen och pojkarna fick kortbyxor. Klockan är kvart i nio ungefär.</figcaption>
 </figure>
 
@@ -20,7 +20,7 @@ Bara för en kort tid sedan, inte alls länge sedan faktiskt, lämnade vi Tage f
 </figure>
 
 <figure>
-	<img src="../../../../img/Sista+dagen+pa%CC%8A+fo%CC%88rskolan-PERK8805.jpg" height="426">
+	<img src="../../../../img/Sista+dagen+pa%CC%8A+fo%CC%88rskolan-PERK8805.jpg">
 	<figcaption>En liten paus innan vi korsar gatan.</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ Bara för en kort tid sedan, inte alls länge sedan faktiskt, lämnade vi Tage f
 </figure>
 
 <figure>
-	<img src="../../../../img/Sista+dagen+pa%CC%8A+fo%CC%88rskolan-PERK8821.jpg" height="426">
+	<img src="../../../../img/Sista+dagen+pa%CC%8A+fo%CC%88rskolan-PERK8821.jpg">
 	<figcaption>Tage accepterade att stanna upp och titta på mig när jag fotograferade, vilket blir mer och mer ovanligt.</figcaption>
 </figure>
 
@@ -50,6 +50,6 @@ Bara för en kort tid sedan, inte alls länge sedan faktiskt, lämnade vi Tage f
 </figure>
 
 <figure>
-	<img src="../../../../img/Avslutningsfest-PERK8874.jpg" height="426">
+	<img src="../../../../img/Avslutningsfest-PERK8874.jpg">
 	<figcaption>Hela gänget: Lovisa, Jenny, Pelle, Martina, Mattias; Nora, Elsa, Tage, Åke, Malte, Pelle och Calle.</figcaption>
 </figure>

@@ -19,7 +19,10 @@ Eftersom vi i år var på Öland under sommarhögsäsongen så kunde vi nu äntl
 	<img src="../../../img/2011/07/O%25CC%2588land+-+La%25CC%258Adbilslandet-_MG_7724.jpg"></div>
 
 <figure>
-	<img src="../../../img/2011/07/O%25CC%2588land+-+La%25CC%258Adbilslandet-_MG_7731.jpg"></div><br><br><br><br><br><br>
+	<img src="../../../img/2011/07/O%25CC%2588land+-+La%25CC%258Adbilslandet-_MG_7731.jpg">
+</figure>
+
+<br><br><br><br><br>
 
 <figure>
 	<img src="../../../img/2011/07/O%25CC%2588land+-+La%25CC%258Adbilslandet-_MG_7741.jpg">

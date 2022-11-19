@@ -25,7 +25,10 @@ Faster Jenny och farmor fyllde jämnt i maj (40 respektive 65 år), och bjöd me
 </figure>Inne i det egentliga Valletta, den gamla stan, så fanns ett torg som Tage och Åke nog kommer att minnas som Vallettas och hela Maltas absoluta höjdpunkt. Bland plattorna på torget var ett antal fontäner utspridda över en yta om kanske åtta gånger fyrtio meter. Vattnet sprutade i ett regelbundet mönster, ibland högt, ibland lågt eller inte alls. En gång i timmen spelades dessutom klassisk musik och vattnet sprutade i takt till musiken. Här bytte Åke och Tage om till badkläder och kunde springa och leka i timmar. Särskilt Tage var helt fascinerad av fontänen. Åke kunde ägna sig åt annat på torget, som att leka med bänkarna, jaga eller mata duvorna osv.
 <br><br>
 
-<div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/Fo%CC%88delsedagsresa+till+Malta-PERK4776.jpg"></div><br><br>
+<div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/Fo%CC%88delsedagsresa+till+Malta-PERK4776.jpg">
+</figure>
+
+<br>
 
 <figure>
 	<img src="../../../../img/Fo%CC%88delsedagsresa+till+Malta-PERK4254.jpg">
@@ -35,7 +38,10 @@ Faster Jenny och farmor fyllde jämnt i maj (40 respektive 65 år), och bjöd me
 <figure>
 	<img src="../../../../img/Fo%CC%88delsedagsresa+till+Malta-PERK4291.jpg">
 	<figcaption>De här två bilderna hänger ihop. Åke är inte blyg vid busshållplatser utan tränger sig gärna ner mellan<br>främlingar på bänken. Här satt han snällt och poserade för ett foto, ända tills precis när jag tog bilden<br>då han plötsligt stack ut tungan. Detta såg hon som satt bredvid och brast ut i gapskratt...</figcaption>
-</figure><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/Fo%CC%88delsedagsresa+till+Malta-PERK4391.jpg"></div><br>På lördagen blev vi bjudna på middag på restaurang för att fira faster Jennys födelsedag. Först samlades vi hemma i lägenheten och åt lite plockmat. Sedan gick vi till en restaurang nere vid bukten och åt maltesisk mat: roliga pizzor med hål i mitten och andra lokala rätter. Det blev sent för Tage och Åke, men de klarade det med bravur.</div><br>
+</figure><div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/Fo%CC%88delsedagsresa+till+Malta-PERK4391.jpg">
+</figure>
+
+På lördagen blev vi bjudna på middag på restaurang för att fira faster Jennys födelsedag. Först samlades vi hemma i lägenheten och åt lite plockmat. Sedan gick vi till en restaurang nere vid bukten och åt maltesisk mat: roliga pizzor med hål i mitten och andra lokala rätter. Det blev sent för Tage och Åke, men de klarade det med bravur.
 
 <figure>
 	<img src="../../../../img/Fo%CC%88delsedagsresa+till+Malta-PERK4416.jpg">

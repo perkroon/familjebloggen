@@ -7,7 +7,10 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2012/04/skidsemestern-i-mutters.html
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/IMG_0593.JPG"></div><br>Den 3 mars tog vi flyget till München och for sedan vidare med S-bahn, tåg och spårvagn upp till den lilla byn Mutters som ligger i bergen ovanför Innsbruck. Väl där mötte vi upp mormor, morfar och kusinerna Axel och Ida, morbror Filip, moster Johanna och kusinerna Ingrid och Tore som allihop hade åkt tåg från Stockholm och Halmstad. När mamman var liten och bodde i Innsbruck var de ofta uppe i bergsbyarna ovanför Innsbruck, men skidsystemet i Mutters är nytt sedan några år och alltså nytt för oss alla. Vi bodde allihop på Pension Lärchenwald som låg nära liften (det stora huset till höger i bilden).<br><br>
+<div class="separator" style="clear: both; text-align: center;"><img src="../../../../img/IMG_0593.JPG">
+</figure>
+
+Den 3 mars tog vi flyget till München och for sedan vidare med S-bahn, tåg och spårvagn upp till den lilla byn Mutters som ligger i bergen ovanför Innsbruck. Väl där mötte vi upp mormor, morfar och kusinerna Axel och Ida, morbror Filip, moster Johanna och kusinerna Ingrid och Tore som allihop hade åkt tåg från Stockholm och Halmstad. När mamman var liten och bodde i Innsbruck var de ofta uppe i bergsbyarna ovanför Innsbruck, men skidsystemet i Mutters är nytt sedan några år och alltså nytt för oss alla. Vi bodde allihop på Pension Lärchenwald som låg nära liften (det stora huset till höger i bilden).<br><br>
 
 <figure>
 	<img src="../../../../img/Mer+skidresa+till+Mutters-IMG_1699.jpg">

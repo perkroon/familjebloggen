@@ -19,7 +19,7 @@ I mitten av maj tog vi som vi brukar en liten försommarsemester för att känna
 	<figcaption>Jag tar gladeligen för mig av bakverken, något annat accepteras ej av mormor Gun. Pelles ingifta morbror Svenne och Åke håller sig en bit ifrån. (Klicka på bilderna för större format)</figcaption>
 </figure>
 
-</div><br><figure>
+<figure>
 	<img src="../../../img/2010/06/Pyrtet-_MG_0045.jpg">
 	<figcaption>Något bus är på gång vid middagsbordet hos farmor och farfar i Pyrtet.</figcaption>
 </figure>

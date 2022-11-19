@@ -15,7 +15,7 @@ Efter ytterligare en hel del veckor i gips, nu det kortare gipset som inte strä
 </figure>På Karolinska letade vi upp Lovisa och gick ner i kulvertarna. Där hade Åke spenderat en del tid i samband med bytet av gips för några veckor sedan och han hittade nästan nere i gångarna.<br><br>
 
 <figure>
-	<img src="../../../../img/Dags+fo%CC%88r+avgipsning+igen-PERK5950.jpg" height="426">
+	<img src="../../../../img/Dags+fo%CC%88r+avgipsning+igen-PERK5950.jpg">
 	<figcaption><span style="text-align: start;"><i><span style="font-size: small;">Här är vi i den coola lila gången, med rörpost som svischar förbi i det upplysta röret.</span></i></span></figcaption>
 </figure>
 
@@ -29,11 +29,11 @@ Efter ytterligare en hel del veckor i gips, nu det kortare gipset som inte strä
 <br>
 
 <figure>
-	<img src="../../../../img/Dags+fo%CC%88r+avgipsning+igen-PERK5958.jpg" height="426">
+	<img src="../../../../img/Dags+fo%CC%88r+avgipsning+igen-PERK5958.jpg">
 	<figcaption>Här ligger Åke redo för avgipsning. Lovisa håller fram en bok som de läste förra gången.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/Dags+fo%CC%88r+avgipsning+igen-PERK5966.jpg" height="426">
+	<img src="../../../../img/Dags+fo%CC%88r+avgipsning+igen-PERK5966.jpg">
 	<figcaption>Efter avslutat besök så åkte jag och Åke hem igen. Men först gick vi till Vurma och firade med något gott. <br>Åke valde en chokladboll med strössel på och ett glas mjölk, men han fick smaka på min kardemummabulle också.</figcaption>
 </figure>Nu är gipstiden över, förhoppningsvis blir det aldrig något mer gips för Åke (eller någon annan i familjen). Men vi är inte klara än: nu måste Åke undvika riskaktiviteter i fyra veckor! Läkaren räknade upp följande exempel: cykla, studsmattor och spela fotboll. Det var nog lättare att säga nej när han hade gips än det kommer att vara om tre veckor när han tror sig helt återställd. Vi måste hitta på nya saker som vi kan göra utomhus fram till midsommar...<br><div>

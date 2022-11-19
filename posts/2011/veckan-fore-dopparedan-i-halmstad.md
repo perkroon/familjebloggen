@@ -11,7 +11,7 @@ originalUrl: https://nejtupp.blogspot.com/2012/01/veckan-fore-dopparedan-i-halms
 
 <figure>
 	<img src="../../../img/2011/12/Innan+jul+pa%25CC%258A+Ebbehill-_MG_0332.jpg">
-	<figcaption><span style="text-align: left;"><i>Vårt jullov startade en hel vecka före jul så då åkte vi ned till mormor och morfar i Halmstad. <br>Där var julens förberedelser i full gång. En och annan fika blev det förstås.</i></span></figcaption>
+	<figcaption>Vårt jullov startade en hel vecka före jul så då åkte vi ned till mormor och morfar i Halmstad. Där var julens förberedelser i full gång. En och annan fika blev det förstås.</i></span></figcaption>
 </figure>
 
 <div class="separator" style="clear: both; text-align: center;"><br>

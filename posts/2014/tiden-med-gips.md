@@ -16,7 +16,7 @@ Efter en tid så började han hasa fram på golvet, baklänges. Han sköt ifrån
 
 
 <figure>
-	<img src="../../../../img/Hemma+med+gipsat+ben-PERK4846.jpg" height="426">
+	<img src="../../../../img/Hemma+med+gipsat+ben-PERK4846.jpg">
 	<figcaption>Lek i barnrummet. Åke förflyttar sig genom att lyfta på vänsterbenet över olika hinder.</figcaption>
 </figure>Någon dag senare började han försiktigt att ta sig fram gåendes längs bokhyllor och bord som han höll sig i. Snart släppte han taget och började långsamt hasa sig fram. Sakta men säkert blev han snabbare och säkrare på att röra sig och mot slutet klättrade han i våningssängar, i klätterställningar och spelade bandy i parkleken till synes nästan helt oberörd.
 <br><br>
@@ -33,27 +33,27 @@ Den första tiden, innan han vant sig vid gipset och blivit smidigare på att r�
 
 
 <figure>
-	<img src="../../../../img/Hemma+med+gipsat+ben-PERK4882.jpg" height="426">
+	<img src="../../../../img/Hemma+med+gipsat+ben-PERK4882.jpg">
 	<figcaption>I tunnelbanan, på väg mot Hagsätra. I bakgrunden syns resten av förskolan, de skulle också på utflykt den här dagen. Det syns på Åkes blick att han inte är helt bekväm med att vara så nära de andra.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/Hemma+med+gipsat+ben-PERK4887.jpg" height="426">
+	<img src="../../../../img/Hemma+med+gipsat+ben-PERK4887.jpg">
 	<figcaption>Så här ser det alltså ut i Hagsätra, och där borta slutar spåren. Här ute var nästan allt vitt, det hade kommit snö över natten, vilket inte var vanligt den här milda och snöfattiga vintern.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/Hemma+med+gipsat+ben-PERK4890.jpg" height="426">
+	<img src="../../../../img/Hemma+med+gipsat+ben-PERK4890.jpg">
 	<figcaption>Vi fikar på ett kafé i Hagsätra Centrum.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/Hemma+med+gipsat+ben-PERK4894.jpg" height="426">
+	<img src="../../../../img/Hemma+med+gipsat+ben-PERK4894.jpg">
 	<figcaption>Åke ville "bilda" som han säger, och jag trodde han fotograferade mig, men det var tydligen något annat som var intressantare...</figcaption>
 </figure>Gipset dekorerades mestadels när vi var i Åre. Hade vi fortsatt att rita på det hade det bara blivit plottrigare. Den som tittar noga ser att det står Skarpnäck, och på ett annat ställe står det Åkeshov. Den gula bussen gillade han, men han påpekade ofta att jag ritat den alltför nära den gula stjärnan.<br><br>
 
 <figure>
-	<img src="../../../../img/Hemma+med+gipsat+ben-PERK4979.jpg" height="426">
+	<img src="../../../../img/Hemma+med+gipsat+ben-PERK4979.jpg">
 	<figcaption>Vi blev väldigt bekanta med gipset efter en tid.</figcaption>
 </figure>
 
@@ -63,27 +63,27 @@ Den första tiden, innan han vant sig vid gipset och blivit smidigare på att r�
 </figure>Mot slutet av gipsperioden var vi mindre och mindre hämmade av gipset. Vi åkte till exempel till Skansen tillsammans med farmor och farfar, och Åke sprang omkring som alla andra barn, men man kunde se att han haltade.<br><br>
 
 <figure>
-	<img src="../../../../img/Skansenlo%CC%88rdag-PERK5040.jpg" height="426">
+	<img src="../../../../img/Skansenlo%CC%88rdag-PERK5040.jpg">
 	<figcaption>– Tittut, är det någon hemma här under trädet?</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/Skansenlo%CC%88rdag-PERK5045.jpg" height="426">
+	<img src="../../../../img/Skansenlo%CC%88rdag-PERK5045.jpg">
 	<figcaption>Det här var den enda råttan vi såg.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/Skansenlo%CC%88rdag-PERK5053.jpg" height="426">
+	<img src="../../../../img/Skansenlo%CC%88rdag-PERK5053.jpg">
 	<figcaption>Vid Lillskansen försvann Åke (och Tage) snabbt in i tunnlarna under jorden. Ibland dök de upp så vi kunde se var de befann sig.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/Skansenlo%CC%88rdag-PERK5063.jpg" height="426">
+	<img src="../../../../img/Skansenlo%CC%88rdag-PERK5063.jpg">
 	<figcaption>Här är Åke lite missnöjd med att killen längst in inte ville flytta på sig. <br>Tage å andra sidan tyckte att han träffat en kompis.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/Skansenlo%CC%88rdag-PERK5176.jpg" height="426">
+	<img src="../../../../img/Skansenlo%CC%88rdag-PERK5176.jpg">
 	<figcaption>Glass gör alla glada!</figcaption>
 </figure>
 

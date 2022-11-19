@@ -37,7 +37,7 @@ Tage verkade helförtjust. Han hade inte bara haft väldigt skojigt och busat me
 	<figcaption>Tage och farfar tittar på en gris. (Foto: farmor)</figcaption>
 </figure>
 
-</div><br><figure>
+<figure>
 	<img src="../../../img/2009/04/Barnvaktsdag+090426+025_1024.jpg">
-	<figcaption>Farmor bjuder på Storstrut. *(Foto: farfar)*</figcaption>
+	<figcaption>Farmor bjuder på Storstrut. (Foto: farfar)</figcaption>
 </figure>

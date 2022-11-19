@@ -16,7 +16,7 @@ Liksom tidigare år skickade vi några olika varianter av årets julkort. Här �
 
 
 <figure>
-	<img src="../../../../img/Julfoto-PERK9222.jpg" height="640">
+	<img src="../../../../img/Julfoto-PERK9222.jpg">
 </figure>
 
 

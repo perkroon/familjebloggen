@@ -48,16 +48,16 @@ originalUrl:	https://nejtupp.blogspot.com/2015/05/valborg-pa-langholmen.html
 </figure>
 
 <figure>
-	<img src="../../../../img/Valborgsma%CC%88ssoafton-PERK5199.jpg" height="640">
+	<img src="../../../../img/Valborgsma%CC%88ssoafton-PERK5199.jpg">
 	<figcaption>Tänt var det här!</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/Valborgsma%CC%88ssoafton-PERK5195.jpg" height="640">
+	<img src="../../../../img/Valborgsma%CC%88ssoafton-PERK5195.jpg">
 	<figcaption>En riktigt, riktigt stor brasa blev det! Tage ser stor ut här, <br>men det är Lovisa som bär honom i famnen för att han ska se bättre.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/Valborgsma%CC%88ssoafton-PERK5213.jpg" height="640">
+	<img src="../../../../img/Valborgsma%CC%88ssoafton-PERK5213.jpg">
 	<figcaption>"Sköna maj välkommen till vår bygd igen"! Brasan var rejäl, stämningen fin och det kom massor med folk. <br>Det enda som vi saknade lite var sång.</figcaption>
 </figure>När vi skulle gå hem råkade vi på ett halvt dussin av Tages klasskamrater med föräldrar. De sprang omkring och lekte en stund och klättrade i träd under tiden som vi vuxna hann prata lite. Tänk att vi känner så många här omkring nu! Det blev en sen kväll, men vi hade väldigt kul. Och kläderna luktade rök när vi kom hem, precis som de ska efter Valborg.</div>

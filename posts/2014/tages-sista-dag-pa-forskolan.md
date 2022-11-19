@@ -15,7 +15,7 @@ Bara för en kort tid sedan, inte alls länge sedan faktiskt, lämnade vi Tage f
 </figure>
 
 <figure>
-	<img src="../../../../img/Sista+dagen+pa%CC%8A+fo%CC%88rskolan-PERK8791.jpg" height="640">
+	<img src="../../../../img/Sista+dagen+pa%CC%8A+fo%CC%88rskolan-PERK8791.jpg">
 	<figcaption>Inte-nudda-streck är leken som gäller här, och lättast att undvika dem är <br>om man går på de större stenarna nära gatan.</figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ Bara för en kort tid sedan, inte alls länge sedan faktiskt, lämnade vi Tage f
 </figure>
 
 <figure>
-	<img src="../../../../img/Sista+dagen+pa%CC%8A+fo%CC%88rskolan-PERK8809.jpg" height="640">
+	<img src="../../../../img/Sista+dagen+pa%CC%8A+fo%CC%88rskolan-PERK8809.jpg">
 	<figcaption>Tage är ofta några steg för oss andra, <br>och han hinner dessutom klättra lite på olika saker längs vägen.</figcaption>
 </figure>
 
@@ -35,17 +35,17 @@ Bara för en kort tid sedan, inte alls länge sedan faktiskt, lämnade vi Tage f
 </figure>
 
 <figure>
-	<img src="../../../../img/Sista+dagen+pa%CC%8A+fo%CC%88rskolan-PERK8835.jpg" height="640">
+	<img src="../../../../img/Sista+dagen+pa%CC%8A+fo%CC%88rskolan-PERK8835.jpg">
 	<figcaption>Tage och Ruben börjar genast spela boll. </figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/Sista+dagen+pa%CC%8A+fo%CC%88rskolan-PERK8869.jpg" height="640">
+	<img src="../../../../img/Sista+dagen+pa%CC%8A+fo%CC%88rskolan-PERK8869.jpg">
 	<figcaption>Nu är sista dagen förbi och vi hämtar Tage och Åke på förskolan. <br>Nu ska vi gå hem och ha en liten avslutningsfest <br>med två andra familjer från förskolan.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/Avslutningsfest-LovisasIphone_modified.jpg" height="480">
+	<img src="../../../../img/Avslutningsfest-LovisasIphone_modified.jpg">
 	<figcaption>Vi åt take-away-mat och sedan blev det en somrig jordgubbstårta (eller glass för den som föredrog det). <br>Vädret var på sitt bästa humör och vi kunde sitta ute hela kvällen.</figcaption>
 </figure>
 

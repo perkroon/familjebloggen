@@ -15,16 +15,16 @@ originalUrl: https://nejtupp.blogspot.com/2013/12/god-jul-och-gott-nytt-2014.htm
 </figure>
 
 <figure>
-	<img src="../../../../img/jul-PERK2567.jpg" height="640">
+	<img src="../../../../img/jul-PERK2567.jpg">
 	<figcaption>"Kul"</i> </figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/jul-PERK2686.jpg" height="640">
+	<img src="../../../../img/jul-PERK2686.jpg">
 	<figcaption>"Nyfrälsta familjen"</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/printingPERK2650.jpg" height="640">
+	<img src="../../../../img/printingPERK2650.jpg">
 	<figcaption>"Präktiga familjen"</figcaption>
 </figure>

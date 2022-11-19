@@ -25,7 +25,7 @@ Avslutningen på förskolan brukar hållas på eller i direkt anslutning till f�
 </figure>
 
 <figure>
-	<img src="../../../../img/Avslutning%2BIl%2BCrocodill-PERK7977.jpg" height="640">
+	<img src="../../../../img/Avslutning%2BIl%2BCrocodill-PERK7977.jpg">
 	<figcaption>Närbild på Taurus, som barnen hade stor respekt för.</figcaption>
 </figure>Det här var en lite speciell förskoleavslutning för oss, eftersom det var den sista för Tage och hans jämnåriga. Nu kommer Tage, Ruben, Lydia, Ellie och Alma att gå skilda vägar. Lite sorgligt, men samtidigt är vi stolta över hur stor Tage blivit.<br><br>
 
@@ -35,7 +35,7 @@ Avslutningen på förskolan brukar hållas på eller i direkt anslutning till f�
 </figure>
 
 <figure>
-	<img src="../../../../img/Avslutning%2BIl%2BCrocodill-PERK8035.jpg" height="640">
+	<img src="../../../../img/Avslutning%2BIl%2BCrocodill-PERK8035.jpg">
 	<figcaption>Vi hängde kvar när de flesta andra familjer gick hem, tillsammans med Rubens familj.</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ Avslutningen på förskolan brukar hållas på eller i direkt anslutning till f�
 </figure>
 
 <figure>
-	<img src="../../../../img/Avslutning%2BIl%2BCrocodill-PERK8052.jpg" height="640">
+	<img src="../../../../img/Avslutning%2BIl%2BCrocodill-PERK8052.jpg">
 	<figcaption>Inga ledsna miner den sista dagen!</figcaption>
 </figure>
 
@@ -75,6 +75,6 @@ Avslutningen på förskolan brukar hållas på eller i direkt anslutning till f�
 </figure>
 
 <figure>
-	<img src="../../../../img/Avslutning%2BIl%2BCrocodill-PERK8123.jpg" height="640">
+	<img src="../../../../img/Avslutning%2BIl%2BCrocodill-PERK8123.jpg">
 	<figcaption>Coola, lugna Ruben!</figcaption>
 </figure>

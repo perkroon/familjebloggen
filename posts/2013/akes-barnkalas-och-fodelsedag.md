@@ -25,14 +25,14 @@ Till Åkes barnkalas var de jämnåriga barnen från förskolan inbjudna. Kalas 
 </figure>
 
 <figure>
-	<img src="../../../../img/A%CC%8Akes+barnkalasdag-PERK1890.jpg" height="640">
+	<img src="../../../../img/A%CC%8Akes+barnkalasdag-PERK1890.jpg">
 	<figcaption>En ögonblicksbild från leken i barnens rum.</figcaption>
 </figure>
 
 När kalaset sedan var över och barnen gick hem så hade vi fortfarande en hel del att stå i. Dels naturligtvis städa efter kalaset, men också packa och förbereda den stundande skidresan till Åre. Den årliga längdmätningen fick t.ex. ske nu på kvällen eftersom vi skulle åka bort tidigt på morgonen.
 
 <figure>
-	<img src="../../../../img/A%CC%8Akes+barnkalasdag-PERK1904.jpg" height="640">
+	<img src="../../../../img/A%CC%8Akes+barnkalasdag-PERK1904.jpg">
 	<figcaption>Åke hade sett fram emot att få mäta hur mycket han hade växt. "Titta så lång jag har blivit!"</figcaption>
 </figure>
 

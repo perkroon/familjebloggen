@@ -85,7 +85,7 @@ På julafton fick vi en Kolmårdenresa i julklapp av mormor och morfar, och nu v
 </figure>
 
 <figure>
-	<img src="../../../../img/Kolma%CC%8Arden-PERK6572.jpg" height="640">
+	<img src="../../../../img/Kolma%CC%8Arden-PERK6572.jpg">
 	<figcaption>Full fart framåt! Vi hade vagn med oss till Åke eftersom han fortfarande återhämtar <br>sig från benbrotten under våren. Det är dessutom väldigt kuperat på Kolmården.</figcaption>
 </figure>När parken stängde gick vi till Vildmarkshotellet. Där hade vi två rum, med utsikt ut över Bråviken. Väldigt vackert! Vi åt middag på hotellet, men alla (särskilt barnen) var väldigt trötta, så det blev en ganska kort kväll och vi hann aldrig prova hotellets badanläggning.<br><br>
 
@@ -95,7 +95,7 @@ På julafton fick vi en Kolmårdenresa i julklapp av mormor och morfar, och nu v
 </figure>
 
 <figure>
-	<img src="../../../../img/Kolma%CC%8Arden-PERK6579.jpg" height="640">
+	<img src="../../../../img/Kolma%CC%8Arden-PERK6579.jpg">
 	<figcaption>Hotellet hade ett mycket uppskattat lekrum i källaren. Snygga tapeter!</figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ På julafton fick vi en Kolmårdenresa i julklapp av mormor och morfar, och nu v
 </figure>
 
 <figure>
-	<img src="../../../../img/Kolma%CC%8Arden-PERK6594.jpg" height="640">
+	<img src="../../../../img/Kolma%CC%8Arden-PERK6594.jpg">
 	<figcaption>Godmorgon!</figcaption>
 </figure>Efter frukost valde vi att följa med en specialguidning av djurparken som arrangeras för de som bor på Vildmarkshotellet. En dryg timme innan djurparken öppnar fick vi komma in och visas runt bland morgonpigga djur som nyss matats.<br><br>
 
@@ -140,6 +140,6 @@ På julafton fick vi en Kolmårdenresa i julklapp av mormor och morfar, och nu v
 </figure>
 
 <figure>
-	<img src="../../../../img/Kolma%CC%8Arden-PERK6902.jpg" height="640">
+	<img src="../../../../img/Kolma%CC%8Arden-PERK6902.jpg">
 	<figcaption>Hela gänget, efter lunchen den andra dagen.</figcaption>
 </figure>Tack för ett kul besök på Kolmården, mormor och morfar!<br><br>Till sist: en film från besöket. (Eller se den på YouTube: <a href="https://www.youtube.com/watch?v=VmwckYCG1J0">https://www.youtube.com/watch?v=VmwckYCG1J0</a>)<br><br><div class="separator" style="clear: both; text-align: center;"><object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="https://ytimg.googleusercontent.com/vi/VmwckYCG1J0/0.jpg" height="266" width="320"><param name="movie" value="https://youtube.googleapis.com/v/VmwckYCG1J0&source=uds"><param name="bgcolor" value="#FFFFFF"><param name="allowFullScreen" value="true"><embed width="320" height="266" src="https://youtube.googleapis.com/v/VmwckYCG1J0&source=uds" type="application/x-shockwave-flash" allowfullscreen="true"></object></div>

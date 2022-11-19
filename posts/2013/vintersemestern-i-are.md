@@ -70,7 +70,7 @@ Det var heller inte svårt att hitta på saker för Åke, som inte alls var intr
 </figure>
 
 <figure>
-	<img src="../../../../img/A%CC%8Areresan-PERK2038.jpg" height="640">
+	<img src="../../../../img/A%CC%8Areresan-PERK2038.jpg">
 	<figcaption>En dag kom en älg gående i backen. Harry ville gärna känna på honom. </figcaption>
 </figure>
 

@@ -10,19 +10,19 @@ originalUrl: https://nejtupp.blogspot.com/2014/10/fodelsedagsresa-till-berlin.ht
 Nu var det dags för familjen att åka till Berlin! Det var ett tag sedan vi var utomlands, och Åke var ganska peppad på att resa. När vi hämtade honom på förskolan berättade personalen att han pratat om att åka flygbuss till Berlin. Fast så blev det ju inte: vi tog bussen till Arlanda bara! Men redan ombord på bussen stod det klart att Åke var nervös. Han tyckte även bussen var lite läskig, när man satt så högt upp som man gjorde. Både han och Tage somnade på vägen ut, men vaknade utan problem vid terminalen.<br>Ombord på flygplanet, när vi hittat våra platser, blir Åke ordentligt rädd. Han klamrar sig fast i Lovisas arm och säger att det är läskigt, att det kommer att vara som på berg-och-dal-banan på Liseberg och Gröna Lund... Vi försöker lugna honom och förklarar att flygplanet inte alls svänger och kränger på samma sätt, och när vi väl kommit upp i luften så släpper rädslan och han kopplar av igen. Landningen var inte alls lika nervös.<br>
 
 <figure>
-	<img src="../../../../img/Berlin-PERK5126.jpg" height="640">
+	<img src="../../../../img/Berlin-PERK5126.jpg">
 	<figcaption>Åke har glömt hur det är att flyga, och tänker på <br>de läskiga berg-och-dal-banorna han åkte i somras...</figcaption>
 </figure>Vi kom fram sent på onsdagskvällen och tog en taxi direkt till lägenheten vi hyrde i Prenzlauer Berg. Barnen var så klart trötta, men snälla och nyfikna. Nästa morgon kunde vi börja utforska Berlin. En oväntad sak som hände var att Åke visade sig vara rädd även för Berlins tunnelbana. Vår närmaste station var placerad ovanför gatunivån och när vi stod där och väntade på tunnelbanan sade Åke plötsligt att han inte ville åka med. Han tyckte den verkade köra så fort och att den var lite läskig. Här var det enklare att se likheten med berg-och-dal-banorna från i somras... Åke lät sig dock övertalas och följde med, och efter 50 meter i tåget var rädslan som bortblåst.<br><br>
 
 <figure>
-	<img src="../../../../img/Berlin-PERK5172.jpg" height="640">
+	<img src="../../../../img/Berlin-PERK5172.jpg">
 	<figcaption>Vart ska vi åka?</i> </figcaption>
 </figure>
 
 <br>Vi hamnade nere i Mitte och hoppade där på buss nr 100 som kör längs många sevärdheter i Berlin. Det var kul att sitta på övervåningen på dubbeldäckaren och se staden ur det perspektivet. Sedan letade vi oss tillbaka till Potzdamer Platz, och till Lego Discovery Center som finns där.<br><div><br>
 
 <figure>
-	<img src="../../../../img/Berlin-PERK5188.jpg" height="640">
+	<img src="../../../../img/Berlin-PERK5188.jpg">
 	<figcaption>På gatan vid Potzdamer Platz, utanför Lego Discovery Center.</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ Nu var det dags för familjen att åka till Berlin! Det var ett tag sedan vi var
 </figure>
 
 <figure>
-	<img src="../../../../img/Berlin-PERK5222.jpg" height="640">
+	<img src="../../../../img/Berlin-PERK5222.jpg">
 	<figcaption>Tage blev uppäten av ett Lego-lejon.</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Nästa dag åkte vi direkt till Naturkundemuseum. Direkt? Nja, jag visade familj
 </figure>
 
 <figure>
-	<img src="../../../../img/Berlin-PERK5389.jpg" height="640">
+	<img src="../../../../img/Berlin-PERK5389.jpg">
 	<figcaption>En av höjdpunkterna på museet var den här stora dinosaurien, <br>som skymtar bakom pojkarna i bilden.</figcaption>
 </figure>
 
@@ -135,12 +135,12 @@ Nästa dag åkte vi direkt till Naturkundemuseum. Direkt? Nja, jag visade familj
 </figure><br>
 
 <figure>
-	<img src="../../../../img/Berlin-PERK5546.jpg" height="640">
+	<img src="../../../../img/Berlin-PERK5546.jpg">
 	<figcaption>Spex på vägen hem på kvällen...</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/Berlin-PERK5548.jpg" height="640">
+	<img src="../../../../img/Berlin-PERK5548.jpg">
 	<figcaption>... och mer spexande.</figcaption>
 </figure>
 
@@ -150,7 +150,7 @@ Nästa dag åkte vi direkt till Naturkundemuseum. Direkt? Nja, jag visade familj
 </figure>Vi hyrde alltså en liten lägenhet istället för att bo på hotell. Det var svårt att hitta hotellrum, vilket kan förklaras av att det var Berlin Marathon samma helg, med 50 000 deltagare. I princip bestod lägenheten av ett litet kök, en toalett och ett större rum, möblerat med tre rejäla sängar. Vi hade alltså gott om plats och kunde äta frukost i lägenheten, vilket var skönt. Den bästa livsmedelsbutiken i hela området låg precis nedanför oss på gatan, och bredvid den sålde de nybakat bröd varje morgon.<br><br>
 
 <figure>
-	<img src="../../../../img/Berlin-PERK5623.jpg" height="640">
+	<img src="../../../../img/Berlin-PERK5623.jpg">
 	<figcaption>Frukost på tyska.</figcaption>
 </figure>
 
@@ -185,7 +185,7 @@ Nästa dag åkte vi direkt till Naturkundemuseum. Direkt? Nja, jag visade familj
 </figure>
 
 <figure>
-	<img src="../../../../img/Berlin-PERK5699.jpg" height="640">
+	<img src="../../../../img/Berlin-PERK5699.jpg">
 	<figcaption>Tage visar hur man kan röra sig på ett ben, genom att bara röra på foten. <br>Vips, så återuppfann han twisten!</figcaption>
 </figure>
 
@@ -195,7 +195,7 @@ Nästa dag åkte vi direkt till Naturkundemuseum. Direkt? Nja, jag visade familj
 </figure>Efter Mauerpark rörde vi oss långsamt i riktning mot Kollwitzplatz, i hjärtat av Prenzlauer Berg. Vi hade inget egentligt mål, ville bara titta lite i närområdet. Det var ett väldigt grönt och fint område, med många spännande kaféer, restauranger och butiker. <br><br>
 
 <figure>
-	<img src="../../../../img/Berlin-PERK5744.jpg" height="640">
+	<img src="../../../../img/Berlin-PERK5744.jpg">
 	<figcaption>Åke och Tage hittade ett (konstgjort) träd som fungerade <br>som ett offentligt gratisbibliotek. Åke började genast läsa en tjock tegelsten.</figcaption>
 </figure>
 
@@ -232,7 +232,7 @@ Nästa dag åkte vi direkt till Naturkundemuseum. Direkt? Nja, jag visade familj
 </figure>
 
 <figure>
-	<img src="../../../../img/Berlin-PERK5905.jpg" height="640">
+	<img src="../../../../img/Berlin-PERK5905.jpg">
 	<figcaption>Åke tröttnade fortast på att titta på löpare.</i> </figcaption>
 </figure>
 
@@ -254,12 +254,12 @@ Nästa dag åkte vi direkt till Naturkundemuseum. Direkt? Nja, jag visade familj
 </figure>
 
 <figure>
-	<img src="../../../../img/Berlin-PERK5969.jpg" height="640">
+	<img src="../../../../img/Berlin-PERK5969.jpg">
 	<figcaption>Det var 78 trappsteg upp till vår lägenhet.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/Berlin-PERK5978.jpg" height="640">
+	<img src="../../../../img/Berlin-PERK5978.jpg">
 	<figcaption>Åke och Tage räknade trappstegen varje gång. En gång störde Tage <br>Åke på den sista trappan så mycket att han kom av sig i räkningen. <br>Åke blev arg på Tage och sprang ner för trapporna. <br>Jag trodde han blev sur och gick snart efter för att se till <br>att kan kom upp igen, men då mötte jag honom: han hade bara sprungit <br>ner till bottenvåningen för att börja räkna från början igen...</figcaption>
 </figure>På eftermiddagen på söndagen tog vi en taxi tillbaka till flygplatsen och åkte hem igen. Åke var inte alls rädd längre, och eftersom vi mellanlandade i Köpenhamn fick vi lite extra flygträning. <br><br>
 

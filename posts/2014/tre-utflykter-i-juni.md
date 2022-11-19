@@ -10,17 +10,17 @@ originalUrl: https://nejtupp.blogspot.com/2014/11/tre-utflykter-i-juni.html
 I juni jobbade Lovisa en hel del helger och vi andra fick lite tid för oss själva. Vi valde ofta att göra utflykter, själva eller tillsammans med andra. Här är bilder från tre utflykter vi gjorde under den månaden.<br>Den första utflykten var ett slags upptäcksfärd i Högalid. När jag kallade vår lilla promenad för upptäcksfärd blev det mycket mer spännande än om jag sagt att vi skulle gå runt vårt kvarter. Nu hade vi ögonen öppna för allt i vår omgivning.
 
 <figure>
-	<img src="../../../../img/Uppta%CC%88cksfa%CC%88rd%2Bi%2BHo%CC%88galid-PERK7009.jpg" height="640">
+	<img src="../../../../img/Uppta%CC%88cksfa%CC%88rd%2Bi%2BHo%CC%88galid-PERK7009.jpg">
 	<figcaption>Vår upptäcksfärd började lustigt nog nere i källaren. Åke höll i min telefon som gav oss ljus.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/Uppta%CC%88cksfa%CC%88rd%2Bi%2BHo%CC%88galid-PERK7013.jpg" height="640">
+	<img src="../../../../img/Uppta%CC%88cksfa%CC%88rd%2Bi%2BHo%CC%88galid-PERK7013.jpg">
 	<figcaption>Vid den här tiden är grönskan verkligen imponerande! <br>Här är vi på väg uppför några trappor i Pålsundsparken.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/Uppta%CC%88cksfa%CC%88rd%2Bi%2BHo%CC%88galid-PERK7025.jpg" height="640">
+	<img src="../../../../img/Uppta%CC%88cksfa%CC%88rd%2Bi%2BHo%CC%88galid-PERK7025.jpg">
 	<figcaption>Ett bra knep är att ha med en burk med lupp. Då kan man fånga insekter <br>längs vägen och ta en närmare titt på dem, vilket båda pojkarna uppskattar.</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ I juni jobbade Lovisa en hel del helger och vi andra fick lite tid för oss sjä
 </figure>
 
 <figure>
-	<img src="../../../../img/Uppta%CC%88cksfa%CC%88rd%2Bi%2BHo%CC%88galid-PERK7038.jpg" height="640">
+	<img src="../../../../img/Uppta%CC%88cksfa%CC%88rd%2Bi%2BHo%CC%88galid-PERK7038.jpg">
 	<figcaption>Till sist hamnade vi i parkleken i Högalidsparken. Den parken känner <br>grabbarna lika väl som sin egen ficka.</figcaption>
 </figure>
 
@@ -57,6 +57,6 @@ I juni jobbade Lovisa en hel del helger och vi andra fick lite tid för oss sjä
 </figure>
 
 <figure>
-	<img src="../../../../img/Tyresta%2Bnationalpark-PERK7950.jpg" height="640">
+	<img src="../../../../img/Tyresta%2Bnationalpark-PERK7950.jpg">
 	<figcaption>Tage.</figcaption>
 </figure>

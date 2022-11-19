@@ -8,7 +8,7 @@ originalUrl:	https://nejtupp.blogspot.com/2015/03/tages-och-fridas-kalas-for-kla
 Första året med klassen valde vi att ordna Tages barnkalas tillsammans med Frida, som fyller år en knapp månad tidigare. Att bjuda in 26 barn hem till vår lägenhet kändes otänkbart, så vi valde att fixa ett utomhuskalas på Långholmen. Vi har tur med vädret! Det var sol och ganska varmt, så länge man inte var i skuggan. Vi höll till vid amfiteatern på östra delen av ön.<br>Det första som hände när alla kommit var att barnen delades in i fyra olika stafettlag. Sedan följde fyra stafettgrenar: äta upp en chokladkaka med enbart bestick, äta upp en godisbit i en tallrik full med mjöl utan att använda händerna, parvis löpning med benen ihopsatta och slutligen fick hela laget rida på en kvast (en lång pinne), men endast den som var längst fram gick framlänges, de andra fick backa. Vår förundran över hur lärare klarar av att hålla samman en så stor grupp barn växte under den här övningen, men alla skötte sig bra och alla hade kul! <br>
 
 <figure>
-	<img src="../../../../img/Tage%2Boch%2BFridas%2Bkalas-PERK2472.jpg" height="640">
+	<img src="../../../../img/Tage%2Boch%2BFridas%2Bkalas-PERK2472.jpg">
 	<figcaption>Tage äter chokladkaka med bestick.</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ Första året med klassen valde vi att ordna Tages barnkalas tillsammans med Fri
 </figure>
 
 <figure>
-	<img src="../../../../img/Tage%2Boch%2BFridas%2Bkalas-PERK2531.jpg" height="640">
+	<img src="../../../../img/Tage%2Boch%2BFridas%2Bkalas-PERK2531.jpg">
 	<figcaption>Tage och Benjamin fick sina ben ihopsatta med kardborreband och försökte sedan<br>springa så fort de kunde. Det var riktigt svårt.</figcaption>
 </figure>Efter stafetten bjöd vi på fika. Det var chokladbollar, bullar och kladdkakor, till det drack vi varm chokladmjölk, saft och vatten (samt kaffe för de vuxna). Barnen lät sig väl smaka, men vi hade ändå väldigt mycket över, som vanligt.<br><br>
 
@@ -68,7 +68,7 @@ Första året med klassen valde vi att ordna Tages barnkalas tillsammans med Fri
 </figure>
 
 <figure>
-	<img src="../../../../img/Tage%2Boch%2BFridas%2Bkalas-PERK2569.jpg" height="640">
+	<img src="../../../../img/Tage%2Boch%2BFridas%2Bkalas-PERK2569.jpg">
 	<figcaption>När alla andra gått hem var det bara vi kvar. Frida och Tage var nöjda med sitt kalas, sa de.</figcaption>
 </figure>
 

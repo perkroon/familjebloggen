@@ -7,7 +7,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2014/05/fotbollstraning-med-ruben.html
 ---
 
-På onsdagar tränar Tage fotboll, och det gör Ruben från förskolan också. Nästan alltid är det Lovisa som följer med och jag är kvar på jobbet, men den här gången gick hon på informationsmöte inför höstens förskoleklass, och jag fick följa med på träningen idag. Jag tog med mig kameran.<br><br>
+På onsdagar tränar Tage fotboll, och det gör Ruben från förskolan också. Nästan alltid är det Lovisa som följer med och jag är kvar på jobbet, men den här gången gick hon på informationsmöte inför höstens förskoleklass, och jag fick följa med på träningen idag. Jag tog med mig kameran.
 
 <figure>
 	<img src="../../../../img/Fotbollstra%CC%88ning+med+Ruben-PERK6043.jpg">
@@ -25,6 +25,6 @@ På onsdagar tränar Tage fotboll, och det gör Ruben från förskolan också. N
 </figure>
 
 <figure>
-	<img src="../../../../img/Fotbollstra%CC%88ning+med+Ruben-PERK6090.jpg" height="640">
-	<figcaption>Sista dagarna tillsammans på förskolan... <br>Snart hamnar pojkarna i olika skolor, tyvärr.</figcaption>
+	<img src="../../../../img/Fotbollstra%CC%88ning+med+Ruben-PERK6090.jpg">
+	<figcaption>Sista dagarna tillsammans på förskolan... Snart hamnar pojkarna i olika skolor, tyvärr.</figcaption>
 </figure>

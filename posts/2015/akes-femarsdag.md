@@ -10,7 +10,7 @@ originalUrl: https://nejtupp.blogspot.com/2015/03/akes-femarsdag.html
 <div dir="ltr" style="text-align: left;" trbidi="on">Så var det då – äntligen! – dags för Åkes födelsedag. Fem år! Till skillnad från Tage så låg Åke fortfarande och sov när vi kom och väckte honom med sång och presenter. Han kan minsann sova ända till sju ibland.
 
 <figure>
-	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK1894.jpg" height="640">
+	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK1894.jpg">
 	<figcaption>Åke öppnar de första paketen.</figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ originalUrl: https://nejtupp.blogspot.com/2015/03/akes-femarsdag.html
 </figure>
 
 <figure>
-	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK1949.jpg" height="640">
+	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK1949.jpg">
 	<figcaption>En katt! Jättestor!</figcaption>
 </figure>
 
@@ -35,56 +35,56 @@ originalUrl: https://nejtupp.blogspot.com/2015/03/akes-femarsdag.html
 </figure>I det sista paketet låg en liten lapp. En lappgömma! Åke fattade direkt hur det gick till, vi har ju läst en bok där ett barn får en lappgömma. På den första lappen står det var nästa lapp finns, och så vidare, ända tills den sista lappen berättar var presenten finns. Så här gick det till med Åkes lappgömma:<br><br>
 
 <figure>
-	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK1955.jpg" height="640">
+	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK1955.jpg">
 	<figcaption>Första lappen: "Det är en fin present. Nästa lapp ligger där smörgåsarna värms".</figcaption>
 </figure>Jag hann aldrig få någon bild på lappen han hittade i mikrovågsugnen. Men på nästa lapp stod det: "Nästa lapp ligger där tvätten blir ren".<br><br>
 
 <figure>
-	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK1969.jpg" height="640">
+	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK1969.jpg">
 	<figcaption>Tredje lappen: "Nästa lapp ligger i klackskorna". (Klackskorna, det är trätofflorna det).</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK1976.jpg" height="640">
+	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK1976.jpg">
 	<figcaption>I klackskorna hittade de följande lapp: "Nästa lapp ligger bakom dörren till vindstrappan".</i><br></span></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK1982.jpg" height="640">
+	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK1982.jpg">
 	<figcaption>Innan de kilade ut i trapphuset fick de klä på sig lite kläder.<br></i> </span></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK1989.jpg" height="640">
+	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK1989.jpg">
 	<figcaption>På väg mot vinden! Navelkatten fick följa med.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK1997.jpg" height="640">
+	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK1997.jpg">
 	<figcaption>Femte lappen: "Följ snöret till din present".</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK2001.jpg" height="640">
+	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK2001.jpg">
 	<figcaption>Sjätte lappen: "Snart är du framme vid din present!"</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK2004.jpg" height="640">
+	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK2004.jpg">
 	<figcaption>Sjunde lappen: "Detta är sista lappen. Presenten finns under ett vitt lakan".</figcaption>
 </figure><br>
 
 <figure>
-	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK2012.jpg" height="640">
+	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK2012.jpg">
 	<figcaption>Ett vitt lakan!</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK2027.jpg" height="640">
+	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK2027.jpg">
 	<figcaption>Under lakanet fanns det en cykel! Åke ville så klart genast prova. Stödhjulen kom väl till pass.</figcaption>
 </figure>
 
@@ -109,7 +109,7 @@ originalUrl: https://nejtupp.blogspot.com/2015/03/akes-femarsdag.html
 </figure>Efter frukost var det dags för oss att gå till förskolan, skolan respektive jobbet. När vi kom till parken sa jag att jag ville ta ett porträtt av Åke. Han tog det mycket allvarligt, stannade upp och stirrade sammanbitet in i kameran.<br><br>
 
 <figure>
-	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK2127.jpg" height="640">
+	<img src="../../../../img/A%CC%8Akes%2B5-a%CC%8Arsdag-PERK2127.jpg">
 	<figcaption>Åke, fem år.</figcaption>
 </figure>
 

@@ -40,7 +40,7 @@ Mormor hade hittat en annons om en föreställning som skulle ske i Kulturhuset 
 </figure>
 
 <figure>
-	<img src="../../../../img/Resa+till+Halmstad-PERK2168.jpg" height="640">
+	<img src="../../../../img/Resa+till+Halmstad-PERK2168.jpg">
 	<figcaption>Tage framför ett rätt fallfärdigt hus.</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ Mormor hade hittat en annons om en föreställning som skulle ske i Kulturhuset 
 </figure>
 
 <figure>
-	<img src="../../../../img/Resa+till+Halmstad-PERK2179.jpg" height="640">
+	<img src="../../../../img/Resa+till+Halmstad-PERK2179.jpg">
 	<figcaption>Vi var inte så mycket utomhus, men den här gamla blå vännen fick sig några sparkar när vi passerade på väg in eller ut.</figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ På eftermiddagen kunde vi åka och hälsa på morfar på sjukhuset. Vi köpte l
 </figure>
 
 <figure>
-	<img src="../../../../img/Resa+till+Halmstad-PERK2223.jpg" height="640">
+	<img src="../../../../img/Resa+till+Halmstad-PERK2223.jpg">
 	<figcaption>Tage, som är fem år, får sju bitar. Åke får välja fem. I mars kommer det att bli åtta respektive sex bitar.</figcaption>
 </figure>
 
@@ -107,7 +107,7 @@ På eftermiddagen kunde vi åka och hälsa på morfar på sjukhuset. Vi köpte l
 </figure>
 
 <figure>
-	<img src="../../../../img/Resa+till+Halmstad-IMG_0493.jpg" height="480">
+	<img src="../../../../img/Resa+till+Halmstad-IMG_0493.jpg">
 	<figcaption>Nästa dag var det så dags för Mamman och Pappan att bege sig till Tylösands Hotell. Vi tog en spadag och åt brunch. Det kan varmt rekommenderas, även åt personer som är lite skeptiska till spa. På bilden ses Pappan flyta i utomhuspoolen med utsikt mot Tylön.</figcaption>
 </figure>
 

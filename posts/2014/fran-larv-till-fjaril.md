@@ -65,7 +65,7 @@ Ett tydligt barndomsminne jag har är att vi såg fjärilslarver förvandlas til
 </figure>
 
 <figure>
-	<img src="../../../../img/Kartfja%CC%88rilar-PERK8940.jpg" height="640">
+	<img src="../../../../img/Kartfja%CC%88rilar-PERK8940.jpg">
 	<figcaption>Vår fjäril, i frihet i Högalidsparken. <br>Just den här tror vi var den larv vi döpt till Klätter.</i><br></figcaption>
 </figure>
 

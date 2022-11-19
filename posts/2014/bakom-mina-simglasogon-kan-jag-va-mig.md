@@ -7,9 +7,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2014/02/bakom-mina-simglasogon-kan-jag-va-mig.html
 ---
 
-
-
 <figure>
-	<img src="../../../../img/A%CC%8Ake+slutar+med+napp-PERK3621.jpg" height="640">
+	<img src="../../../../img/A%CC%8Ake+slutar+med+napp-PERK3621.jpg">
 	<figcaption>En cool kille i vårt kök.</figcaption>
-</figure><br>
+</figure>

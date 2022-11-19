@@ -90,7 +90,7 @@ Direkt på morgonen efter barnkalaset skulle vi åka tåg till Åre. Väskorna v
 <figure>
 	<img src="../../../../img/A%CC%8Areresan-PERK4549.jpg">
 	<figcaption>Så här går en gipsning till.</figcaption>
-</figure><table cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="../../../../img/A%CC%8Areresan-PERK4559.jpg">
+</figure><figure><img src="../../../../img/A%CC%8Areresan-PERK4559.jpg">
 	<figcaption>Åke äter en bulle efter gipsningen (och toalettbesöket). Inte så dumt ändå kanske?</figcaption>
 
 

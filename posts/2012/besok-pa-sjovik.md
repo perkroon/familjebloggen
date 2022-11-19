@@ -11,13 +11,13 @@ Vi gillar härliga sommardagar på Sjövik och fick också i år möjlighet att 
 
 <figure>
 	<img src="../../../../img/Sjo%CC%88vik-5C5C6977.jpg">
-	<figcaption>Tage tvekade inte för att hoppa i på djupt vatten med flytväst på. Han höll sig fast i Pappan, <br>som nog var lite mer nervös än han vill göra sken av på den här bilden. </figcaption>
+	<figcaption>Tage tvekade inte för att hoppa i på djupt vatten med flytväst på. Han höll sig fast i Pappan, som nog var lite mer nervös än han vill göra sken av på den här bilden. </figcaption>
 </figure>
 
 <figure>
 	<img src="../../../../img/Sjo%CC%88vik-5C5C7005.jpg">
 	<figcaption>Mellanmål på stranden, det blev smörgås med (så småningom) lite sandstrand på.</figcaption>
-</figure><br>
+</figure>
 
 <figure>
 	<img src="../../../../img/Sjo%CC%88vik-5C5C7021.jpg">
@@ -42,11 +42,11 @@ Vi gillar härliga sommardagar på Sjövik och fick också i år möjlighet att 
 <figure>
 	<img src="../../../../img/Sjo%CC%88vik-5C5C7047.jpg">
 	<figcaption>... och fick en stor kram!</figcaption>
-</figure><br>
+</figure>
 
 <figure>
 	<img src="../../../../img/Sjo%CC%88vik-5C5C7063.jpg">
-	<figcaption>Innan vi åkte hem plockade vi smultron på strån. <br>"Så här plockade vi smultron när vi var små"</figcaption>
+	<figcaption>Innan vi åkte hem plockade vi smultron på strån. "Så här plockade vi smultron när vi var små"</figcaption>
 </figure>
 
 <figure>
@@ -56,20 +56,20 @@ Vi gillar härliga sommardagar på Sjövik och fick också i år möjlighet att 
 
 <figure>
 	<img src="../../../../img/Sjo%CC%88vik-5C5C7108.jpg">
-	<figcaption>Innan vi åkte hem tog vi en lite tur om Simpnäs för att se hur det såg ut där. Åke, den busen, slängde <br>sin keps i hamnbassängen, men efter 20 minuter hade den blåst in till kanten och kunde fiskas upp igen.</figcaption>
-</figure><br>
+	<figcaption>Innan vi åkte hem tog vi en lite tur om Simpnäs för att se hur det såg ut där. Åke, den busen, slängde sin keps i hamnbassängen, men efter 20 minuter hade den blåst in till kanten och kunde fiskas upp igen.</figcaption>
+</figure>
 
 <figure>
 	<img src="../../../../img/Sjo%CC%88vik-5C5C7111.jpg">
-	<figcaption>I Simpnäs åt vi lunch på serveringen nere vid bryggan.  Det blåste rätt ordentligt, men vi hittade lä på uteserveringen<br> på baksidan. Vi köpte också med oss en liten souvenir från Simpnäs: en prydnadsfyr som barnen gillade.</figcaption>
-</figure><br>
+	<figcaption>I Simpnäs åt vi lunch på serveringen nere vid bryggan.  Det blåste rätt ordentligt, men vi hittade lä på uteserveringen på baksidan. Vi köpte också med oss en liten souvenir från Simpnäs: en prydnadsfyr som barnen gillade.</figcaption>
+</figure>
 
 <figure>
 	<img src="../../../../img/Sjo%CC%88vik-5C5C7140.jpg">
-	<figcaption>Sista stoppet innan vi åkte hem vad hos Knapp-Karlsson. Där fikade vi och åt glass, <br>men Tage kunde knappt slita sig från fussball-spelet de hade där. </figcaption>
+	<figcaption>Sista stoppet innan vi åkte hem vad hos Knapp-Karlsson. Där fikade vi och åt glass, men Tage kunde knappt slita sig från fussball-spelet de hade där. </figcaption>
 </figure>
 
 <figure>
 	<img src="../../../../img/Sjo%CC%88vik-5C5C7139.jpg">
-	<figcaption>Det kom hela tiden barn som spelade med honom, men han stod kvar och berättade hur <br>allt gick till och skötte så att bollen kom i spel igen. Otroligt morsk fyraåring vi har <br>med tanke på att de andra barnen ofta var betydligt äldre än han själv.</figcaption>
+	<figcaption>Det kom hela tiden barn som spelade med honom, men han stod kvar och berättade hur allt gick till och skötte så att bollen kom i spel igen. Otroligt morsk fyraåring vi har med tanke på att de andra barnen ofta var betydligt äldre än han själv.</figcaption>
 </figure>

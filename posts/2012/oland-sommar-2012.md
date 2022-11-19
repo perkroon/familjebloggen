@@ -7,45 +7,31 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2012/11/oland-sommar-2012.html
 ---
 
-
-
 <figure>
 	<img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6813.jpg">
 </figure>
-
-<br><br>
 
 <figure>
 	<img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6821.jpg">
 	<figcaption>Titta vad jag har hittat!</figcaption>
 </figure>
 
-
-
 <figure>
 	<img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6826.jpg">
 </figure>
-
-<br><br><br>
 
 <figure>
 	<img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6841.jpg">
 </figure>
 
-<br><br><br>
-
 <figure>
 	<img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6830.jpg">
 </figure>
-
-<br><br>
 
 <figure>
 	<img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6836.jpg">
 	<figcaption>Undrar hur det smakar?</figcaption>
 </figure>
-
-
 
 <figure>
 	<img src="../../../../img/O%CC%88land+-+Allma%CC%88nt-5C5C6837.jpg">

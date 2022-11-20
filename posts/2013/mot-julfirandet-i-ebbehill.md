@@ -27,7 +27,7 @@ Sedan Tage föddes har vi firat jul varannat år hos farmor och farfar i Pyrtet 
 I Ebbehill var det en ovanligt folkrik julvecka. Det här året hade vi turen att pricka in nästan alla mostrar, morbröder och kusiner, det var bara Sofia, Claes och Gösta som firade på annat håll. Sofia kunde dock inte motstå att komma ned för en kort visit några dagar innan jul så vi fick träffa henne också.
 
 <figure>
-	<img src="../../../../img/Aleskogen+och+stranden-PERK2878.jpg" height="425">
+	<img src="../../../../img/Aleskogen+och+stranden-PERK2878.jpg">
 </figure>
 
 Någon dag före jul tog vi en promenad genom Aleskogen ned till stranden och vi häpnade över vad senaste stormen Sven hade ställt till med. Hela skogen såg ut som plockepinn! Åke och Tage som tycker det är spännande med rotvältor fick se hur många som helst. De har förstås fått lära sig att man aldrig aldrig ska gå för nära en rotvälta eftersom de plötsligt kan välta tillbaka. Lilla djurkyrkogården var väldigt drabbad av stormen. Många av de små gravarna hade slagits i spillror av de fallna träden.

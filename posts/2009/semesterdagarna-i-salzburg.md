@@ -72,7 +72,7 @@ Precis som på resan till Milano så blev det en del besök i lekparker i Salzbu
 
 <figure>
 	<img src="../../../img/2009/07/_MG_6977_1024pix.jpg">
-	<figcaption>Här var ett klockspel monterat som man kunde spela på genom att<br>hoppa på olika rutor. Passande i just den här lekparken.</figcaption>
+	<figcaption>Här var ett klockspel monterat som man kunde spela på genom att <br>hoppa på olika rutor. Passande i just den här lekparken.</figcaption>
 </figure>
 
 <figure>

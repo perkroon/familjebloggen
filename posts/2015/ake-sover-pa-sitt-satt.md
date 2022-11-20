@@ -11,5 +11,5 @@ Vi tittade in till barnen när vi gick och la oss igår kväll, och hittade Åke
 
 <figure>
 	<img src="../../../../img/IMG_2650.JPG">
-	<figcaption>Vi har fått höra att det finns en yogaställning som påminner om den här ställningen. <br>Den heter "Barnet" och sägs lugna hjärtat.</figcaption>
+	<figcaption>Vi har fått höra att det finns en yogaställning som påminner om den här ställningen. Den heter "Barnet" och sägs lugna hjärtat.</figcaption>
 </figure>

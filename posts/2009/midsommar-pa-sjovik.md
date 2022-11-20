@@ -24,7 +24,7 @@ Vi var åtta vuxna och tre barn under helgen. Tage var äldst bland barnen – d
 	<figcaption>Pappan och Tage i köket.</figcaption>
 </figure>
 
-På midsommardagen var vädret nyckfullare. Solen sken ibland, men det regnade också. Tage traskade runt huset klädd i regnbyxor och stövlar så att han inte skulle bli blöt om han satte sig i gräset. Det blev också så han fick utforska sandstranden, istället för att vara klädd till bad. (Inom parentes kan nämnas att Pappan minsann badade, trots att det bara var 12 grader varmt i<br>vattnet).
+På midsommardagen var vädret nyckfullare. Solen sken ibland, men det regnade också. Tage traskade runt huset klädd i regnbyxor och stövlar så att han inte skulle bli blöt om han satte sig i gräset. Det blev också så han fick utforska sandstranden, istället för att vara klädd till bad. (Inom parentes kan nämnas att Pappan minsann badade, trots att det bara var 12 grader varmt i <br>vattnet).
 
 <figure>
 	<img src="../../../img/2009/06/_MG_5781_1024pix.jpg">

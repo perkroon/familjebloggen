@@ -7,16 +7,16 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2014/07/tages-sista-dag-pa-forskolan.html
 ---
 
-Bara för en kort tid sedan, inte alls länge sedan faktiskt, lämnade vi Tage för första gången på förskolan. Det känns som igår. Men nu har han blivit så stor att han lämnat förskolan bakom sig – igår var sista dagen på Il Crocodill. Själv var han inte särskilt nostalgisk över detta faktum, det var nog mest vi föräldrar som tyckte det var stort.<br><br>
+Bara för en kort tid sedan, inte alls länge sedan faktiskt, lämnade vi Tage för första gången på förskolan. Det känns som igår. Men nu har han blivit så stor att han lämnat förskolan bakom sig – igår var sista dagen på Il Crocodill. Själv var han inte särskilt nostalgisk över detta faktum, det var nog mest vi föräldrar som tyckte det var stort.
 
 <figure>
 	<img src="../../../../img/Sista+dagen+pa%CC%8A+fo%CC%88rskolan-PERK8786.jpg">
-	<figcaption>På väg till Högalidsparken för lämning en sista gång. <br>Den här morgonen kom värmen och pojkarna fick kortbyxor. Klockan är kvart i nio ungefär.</figcaption>
+	<figcaption>På väg till Högalidsparken för lämning en sista gång. Den här morgonen kom värmen och pojkarna fick kortbyxor. Klockan är kvart i nio ungefär.</figcaption>
 </figure>
 
 <figure>
 	<img src="../../../../img/Sista+dagen+pa%CC%8A+fo%CC%88rskolan-PERK8791.jpg">
-	<figcaption>Inte-nudda-streck är leken som gäller här, och lättast att undvika dem är <br>om man går på de större stenarna nära gatan.</figcaption>
+	<figcaption>Inte-nudda-streck är leken som gäller här, och lättast att undvika dem är om man går på de större stenarna nära gatan.</figcaption>
 </figure>
 
 <figure>
@@ -26,7 +26,7 @@ Bara för en kort tid sedan, inte alls länge sedan faktiskt, lämnade vi Tage f
 
 <figure>
 	<img src="../../../../img/Sista+dagen+pa%CC%8A+fo%CC%88rskolan-PERK8809.jpg">
-	<figcaption>Tage är ofta några steg för oss andra, <br>och han hinner dessutom klättra lite på olika saker längs vägen.</figcaption>
+	<figcaption>Tage är ofta några steg för oss andra, och han hinner dessutom klättra lite på olika saker längs vägen.</figcaption>
 </figure>
 
 <figure>
@@ -41,12 +41,12 @@ Bara för en kort tid sedan, inte alls länge sedan faktiskt, lämnade vi Tage f
 
 <figure>
 	<img src="../../../../img/Sista+dagen+pa%CC%8A+fo%CC%88rskolan-PERK8869.jpg">
-	<figcaption>Nu är sista dagen förbi och vi hämtar Tage och Åke på förskolan. <br>Nu ska vi gå hem och ha en liten avslutningsfest <br>med två andra familjer från förskolan.</figcaption>
+	<figcaption>Nu är sista dagen förbi och vi hämtar Tage och Åke på förskolan. Nu ska vi gå hem och ha en liten avslutningsfest med två andra familjer från förskolan.</figcaption>
 </figure>
 
 <figure>
 	<img src="../../../../img/Avslutningsfest-LovisasIphone_modified.jpg">
-	<figcaption>Vi åt take-away-mat och sedan blev det en somrig jordgubbstårta (eller glass för den som föredrog det). <br>Vädret var på sitt bästa humör och vi kunde sitta ute hela kvällen.</figcaption>
+	<figcaption>Vi åt take-away-mat och sedan blev det en somrig jordgubbstårta (eller glass för den som föredrog det). Vädret var på sitt bästa humör och vi kunde sitta ute hela kvällen.</figcaption>
 </figure>
 
 <figure>

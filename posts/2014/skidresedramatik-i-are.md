@@ -44,7 +44,7 @@ Vi hade ju visserligen redan firat Åke, men när vi sedan vaknade på måndagen
 	<figcaption>I paketen hittade han ett Angry Birds-gosedjur, som fick namnet "Bomben", samt en massa magnetbokstäver som han kan fästa på t.ex. kylskåpet. Det är roligt att skriva tunnelbanestationer...</figcaption>
 </figure>
 
-Vi hyrde nästan all utrustning, precis som förra året. På söndagen hade vi hämtat allt och burit hem det, men nu på morgonen skulle vi klä på oss allt för första gången. Det gick rätt bra, och humöret var gott! Det här året började skidskolan tidigare, redan klockan 9.15, så vi fick vara lite rappa på morgonen.<br><br>
+Vi hyrde nästan all utrustning, precis som förra året. På söndagen hade vi hämtat allt och burit hem det, men nu på morgonen skulle vi klä på oss allt för första gången. Det gick rätt bra, och humöret var gott! Det här året började skidskolan tidigare, redan klockan 9.15, så vi fick vara lite rappa på morgonen.
 
 <figure>
 	<img src="../../../../img/A%CC%8Areresan-PERK4489.jpg">

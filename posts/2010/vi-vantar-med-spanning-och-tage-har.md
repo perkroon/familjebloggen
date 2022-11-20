@@ -15,7 +15,7 @@ Det är förvånansvärt påfrestande att gå över tiden även om det bara är 
 <br><br>
 
 Jag hade också hoppats på att bebisen skulle komma när min mamma var här i stan. Hon hade tagit ledigt från jobbet och tänkte vara här hela förra veckan dels för att ta hand om Tage när vi var på BB och dels för att få se den lilla nyfödingen, det som är det bästa hon vet. När mormor hade dött tog hon tåget upp hit och vi hade 2 mysiga dagar i vintriga soliga Stockholm, bl a var vi på Thielska Galleriet på Djurgården, något som verkligen kan rekommenderas för de som ej varit där. Den här veckan var hon tyvärr tvungen att vara hemma och jobba igen.
-<br><br>
+
 
 <figure>
     <img src="../../../img/2010/03/Tage+fyller+2+%C3%A5r-_MG_0149.jpg">

@@ -12,7 +12,7 @@ originalUrl: https://nejtupp.blogspot.com/2011/04/skansen.html
  </figure>
 
  Förra helgen var mormor här på ett dygns blixtvisit och vi passade då på att göra årets första Skansenbesök. Folk brukar klaga på att våren är sen. Själv är jag mycket medveten om att någon vår kan man definitivt inte förvänta sig den 2 april. Det kändes snarare som november. Men vi bylsade på oss de tjockaste vinterkläderna vi hade för att klara en heldag ute på Skansen, och det blev en riktigt rolig dag. Förutom mormor så var kusinerna Ingrid och Tore med, och Johanna & Johan och Filip & Sarah.
- <br><br>
+ 
 
 <figure>
 	<img src="../../../img/2011/04/Skansen och sen hem-_MG_8327.jpg">

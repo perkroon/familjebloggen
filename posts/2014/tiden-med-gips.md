@@ -11,7 +11,7 @@ Utvecklingen under Åkes tid med gipset var intressant att följa. Till en börj
 <br><br>
 
 Efter en tid så började han hasa fram på golvet, baklänges. Han sköt ifrån med det friska benet och tog sig mellan vardagsrummet och köket. Han började också resa sig upp och stå, utan att stödja på gipset.
-<br><br>
+
 
 <figure>
 	<img src="../../../../img/Hemma+med+gipsat+ben-PERK4846.jpg">

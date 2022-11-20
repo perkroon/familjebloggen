@@ -8,7 +8,7 @@ originalUrl: https://nejtupp.blogspot.com/2013/02/utflykt-till-munchenbryggeriet
 ---
 
 Idag sken solen och vi ville gå ut på förmiddagen. Mamman jobbar jour den här helgen och behövde vila inför nattens långa pass, så vad kunde passa bättre än en liten utflykt? Jag undrade om pojkarna ville se några gigantiska istappar som finns borta vid mitt kontor, och det nappade de på.
-<br><br>
+
 
 <figure>
 	<img src="../../../../img/Utflykt+till+Mu%CC%88nchenbryggeriet-PERK1555.jpg">

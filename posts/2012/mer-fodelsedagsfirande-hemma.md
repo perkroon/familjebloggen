@@ -11,7 +11,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2012/04/mer-fodelsedagsfirande-hemma.html
 ---
 
-Dagen efter att vi kommit hem ifrån Alperna var det dags att fira pojkarna en gång till. Den här gången var det farmor, farfar och faster Jenny som gratulerade.<br>
+Dagen efter att vi kommit hem ifrån Alperna var det dags att fira pojkarna en gång till. Den här gången var det farmor, farfar och faster Jenny som gratulerade.
 
 <figure>
 	<img src="../../../../img/Fo%CC%88delsedagskalas+hemma-_MG_2044.jpg">
@@ -41,4 +41,6 @@ Dagen efter att vi kommit hem ifrån Alperna var det dags att fira pojkarna en g
 <figure>
 	<img src="../../../../img/Fo%CC%88delsedagskalas+hemma-_MG_2094.jpg">
 	<figcaption>Farfar hjälpte Tage att sätta ihop legomodellerna han fick i födelsedagspresent.</figcaption>
-</figure>Tack för all uppvaktning! Nu dröjer det ett helt år innan nästa gång grabbarna fyller år.
+</figure>
+
+Tack för all uppvaktning! Nu dröjer det ett helt år innan nästa gång grabbarna fyller år.

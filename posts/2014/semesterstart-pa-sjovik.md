@@ -16,12 +16,12 @@ Vi brukar påminna oss om att vi har tur som har vänner med fint lantställe i 
 
 <figure>
 	<img src="../../../../img/Sjo%CC%88vik-PERK9320.jpg">
-	<figcaption>Vi hade sol och värme hela tiden under vårt besök, <br>det var med nöd och näppe vi klarade att sitta ute och äta på grund av hettan.</figcaption>
+	<figcaption>Vi hade sol och värme hela tiden under vårt besök, det var med nöd och näppe vi klarade att sitta ute och äta på grund av hettan.</figcaption>
 </figure>
 
 <figure>
 	<img src="../../../../img/Sjo%CC%88vik-PERK9340.jpg">
-	<figcaption>Nils och Harrys morfar hade snickrat ihop en flotte under ett besök och vi passade på <br>att ge oss av ut på äventyr. En udde en bit bort fick bli vårt mål. </figcaption>
+	<figcaption>Nils och Harrys morfar hade snickrat ihop en flotte under ett besök och vi passade på att ge oss av ut på äventyr. En udde en bit bort fick bli vårt mål. </figcaption>
 </figure>
 
 <figure>
@@ -42,7 +42,9 @@ Vi brukar påminna oss om att vi har tur som har vänner med fint lantställe i 
 <figure>
 	<img src="../../../../img/Sjo%CC%88vik-PERK9382.jpg">
 	<figcaption>Vad viskar de om?</figcaption>
-</figure>Det blev en hel del fotboll spelad på gräsmattan den här gången, VM-finalen låg bara någon dag bort i tiden. Åke gjorde hela tiden inkast och mest fokuserade var nog Tage och Nils.<br><br>
+</figure>
+
+Det blev en hel del fotboll spelad på gräsmattan den här gången, VM-finalen låg bara någon dag bort i tiden. Åke gjorde hela tiden inkast och mest fokuserade var nog Tage och Nils.
 
 <figure>
 	<img src="../../../../img/Sjo%CC%88vik-PERK9419.jpg">

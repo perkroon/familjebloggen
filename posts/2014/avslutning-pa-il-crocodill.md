@@ -7,7 +7,7 @@ layout: layouts/post.njk
 originalUrl: https://nejtupp.blogspot.com/2014/11/avslutning-pa-il-crocodill.html
 ---
 
-Avslutningen på förskolan brukar hållas på eller i direkt anslutning till förskolans lokaler, men det här året hölls det på gräsmattorna i Tantolunden. Det fanns ett bra skäl till det: de skulle iscensätta programmet "Labyrint" som gått på Barnkanalen under året och skapa en stor labyrint som barnen skulle ta sig igenom utan att "bli slajmade av roboten Taurus". Vi föräldrar fick titta på.</div>
+Avslutningen på förskolan brukar hållas på eller i direkt anslutning till förskolans lokaler, men det här året hölls det på gräsmattorna i Tantolunden. Det fanns ett bra skäl till det: de skulle iscensätta programmet "Labyrint" som gått på Barnkanalen under året och skapa en stor labyrint som barnen skulle ta sig igenom utan att "bli slajmade av roboten Taurus". Vi föräldrar fick titta på.
 
 <figure>
 	<img src="../../../../img/Avslutning%2BIl%2BCrocodill-PERK7960.jpg">
@@ -17,7 +17,7 @@ Avslutningen på förskolan brukar hållas på eller i direkt anslutning till f�
 <figure>
 	<img src="../../../../img/Avslutning%2BIl%2BCrocodill-PERK7961.jpg">
 	<figcaption>Taurus på väg!</figcaption>
-</figure><br>
+</figure>
 
 <figure>
 	<img src="../../../../img/Avslutning%2BIl%2BCrocodill-PERK7975.jpg">
@@ -27,7 +27,9 @@ Avslutningen på förskolan brukar hållas på eller i direkt anslutning till f�
 <figure>
 	<img src="../../../../img/Avslutning%2BIl%2BCrocodill-PERK7977.jpg">
 	<figcaption>Närbild på Taurus, som barnen hade stor respekt för.</figcaption>
-</figure>Det här var en lite speciell förskoleavslutning för oss, eftersom det var den sista för Tage och hans jämnåriga. Nu kommer Tage, Ruben, Lydia, Ellie och Alma att gå skilda vägar. Lite sorgligt, men samtidigt är vi stolta över hur stor Tage blivit.<br><br>
+</figure>
+
+Det här var en lite speciell förskoleavslutning för oss, eftersom det var den sista för Tage och hans jämnåriga. Nu kommer Tage, Ruben, Lydia, Ellie och Alma att gå skilda vägar. Lite sorgligt, men samtidigt är vi stolta över hur stor Tage blivit.
 
 <figure>
 	<img src="../../../../img/Avslutning%2BIl%2BCrocodill-PERK7991.jpg">

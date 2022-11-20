@@ -2,15 +2,19 @@
 title: Vi går under Riddarfjärden
 date: 2015-04-02
 tags: 	
+author: Pelle
+layout: layouts/post.njk
 originalUrl:	https://nejtupp.blogspot.com/2015/04/vi-gar-under-riddarfjarden.html
 ---
 
-<div dir="ltr" style="text-align: left;" trbidi="on">Söndagen den 29 mars hade Trafikverket visning av Citybanans sträckning under Riddarfjärden. Besökare var välkomna att titta och promenera under vattnet från Södermalm till Riddarholmen. Tage var krasslig hemma, men Åke och jag passade på att sticka dit.
+Söndagen den 29 mars hade Trafikverket visning av Citybanans sträckning under Riddarfjärden. Besökare var välkomna att titta och promenera under vattnet från Södermalm till Riddarholmen. Tage var krasslig hemma, men Åke och jag passade på att sticka dit.
 
 <figure>
 	<img src="../../../../img/Citybanan-PERK3079.jpg">
 	<figcaption>Först tunnelbanan till Slussen.</figcaption>
-</figure>Naivt trodde jag att eftersom det var så dåligt väder, kallt, blåsigt och regnigt, så skulle det inte vara så lång kö. Men det stämde inte alls: kön sträckte sig 200 meter längs Söder Mälarstrand, sedan runt ett kvarter upp mot Hornsgatan till, sedan vände den ut mot bron till Riddarholmen. Halva vägen till Riddarholmen gick kön när vi kom dit! Men vi ställde oss sist och sedan rörde sig kön konstant framåt.<br><br><br>
+</figure>
+
+Naivt trodde jag att eftersom det var så dåligt väder, kallt, blåsigt och regnigt, så skulle det inte vara så lång kö. Men det stämde inte alls: kön sträckte sig 200 meter längs Söder Mälarstrand, sedan runt ett kvarter upp mot Hornsgatan till, sedan vände den ut mot bron till Riddarholmen. Halva vägen till Riddarholmen gick kön när vi kom dit! Men vi ställde oss sist och sedan rörde sig kön konstant framåt.
 
 <figure>
 	<img src="../../../../img/Citybanan-PERK3097.jpg">
@@ -20,15 +24,16 @@ originalUrl:	https://nejtupp.blogspot.com/2015/04/vi-gar-under-riddarfjarden.htm
 <figure>
 	<img src="../../../../img/Citybanan-PERK3100.jpg">
 	<figcaption>Här kunde vi se tillbaka på de som stod längre bak i kön.</figcaption>
-</figure><br>
+</figure>
 
 <figure>
-	<img src="../../../../img/Citybanan-PERK3095.jpg"></td></tr><tr><td class="tr-caption" style="font-size: 12.8000001907349px;"><i>Kön når Söder Mälarstrand. 250 meter kvar ungefär, när man kom runt hörnet!<br></figcaption>
+	<img src="../../../../img/Citybanan-PERK3095.jpg">
+	<figcaption>Kön når Söder Mälarstrand. 250 meter kvar ungefär, när man kom runt hörnet!</figcaption>
 </figure>
 
 <figure>
 	<img src="../../../../img/Citybanan-PERK3107.jpg">
-	<figcaption>Åke köade så tappert och var ständigt på gott humör. Han började frysa <br>när vi hade 15 meter kvar, men då var vi ju nästan framme.</figcaption>
+	<figcaption>Åke köade så tappert och var ständigt på gott humör. Han började frysa när vi hade 15 meter kvar, men då var vi ju nästan framme.</figcaption>
 </figure>
 
 <figure>
@@ -45,8 +50,6 @@ originalUrl:	https://nejtupp.blogspot.com/2015/04/vi-gar-under-riddarfjarden.htm
 	<img src="../../../../img/Citybanan-PERK3143.jpg">
 	<figcaption>Citybanan, söderut, tunneln mot Södra Station.</figcaption>
 </figure>
-
-<br>
 
 <figure>
 	<img src="../../../../img/Citybanan-PERK3144.jpg">
@@ -70,7 +73,7 @@ originalUrl:	https://nejtupp.blogspot.com/2015/04/vi-gar-under-riddarfjarden.htm
 
 <figure>
 	<img src="../../../../img/Citybanan-PERK3176.jpg">
-	<figcaption>Här hade vi nått fram till det blå ljuset som spelade över väggarna <br>med hjälp av projektorer. De hade också några fuskfönster som visade<br>fiskar och ubåtar utanför tunneln. Åke tyckte det var läskigt här, vilket<br>syns tydligt på hans ögon i bilden, så vi skyndade oss vidare.</figcaption>
+	<figcaption>Här hade vi nått fram till det blå ljuset som spelade över väggarna med hjälp av projektorer. De hade också några fuskfönster som visade fiskar och ubåtar utanför tunneln. Åke tyckte det var läskigt här, vilket syns tydligt på hans ögon i bilden, så vi skyndade oss vidare.</figcaption>
 </figure>
 
 <figure>

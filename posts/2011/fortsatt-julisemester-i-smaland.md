@@ -20,7 +20,7 @@ Tyvärr finns det ingen riktigt bra tågförbindelse mellan Halmstad och Växjö
 <br><br>
 
 I Småland var vi mestadels på tomten kring farmor och farfars hus. Där kunde vi leka med vatten i form av vattenslangar och vattenspridare, äta ärtor och vinbär, åka flakmoped, hälsa på grannens hund Sudden, leka i sandlådan, spela boll med mera. Men vi gjorde också en del utflykter. En klassisk sådan är till svampskogen. Tage "älskar kantareller", så det ville vi gärna hitta. På Pappans egna svampställe lyckade vi hitta rätt många (kanske fem liter?), även om de var ganska små och behövde stå lite mer på tillväxt. Tage visste precis hur man gjorde, även om det var ett år sedan han plockade senast. Kanske var han lite tystare den här gången, förra året pratade han oavbrutet hela utflykten.
-<br><br>
+
 
 <figure>
 	<img src="../../../img/2011/07/Pyrtet+-+Svampplockning-_MG_1315.jpg">
@@ -35,7 +35,9 @@ I Småland var vi mestadels på tomten kring farmor och farfars hus. Där kunde 
 <figure>
 	<img src="../../../img/2011/07/Pyrtet+-+Svampplockning-_MG_1327.jpg">
 	<figcaption>Mamman och Tage väljer ut några kantareller som får följa med hem.</figcaption>
-</figure>Hemma kring huset hittade Åke några egna favoriter. En sådan var fårfällen i vardagsrummet. Den var så mjuk och skön! Han lade sig ofta platt ner på fällen och bara njöt. Ett annat nöje var grannens katt, Tom. Den har börjat komma och gå hos farmor och farfar som om den bodde i huset. Visst var den lite reserverad i början när den upptäckte att det fanns två barn i närheten, men snart släppte rädslan och den lät sig bli klappad. Tage var inte så jätteintresserad, men Åke släppte allt annat när katten visade sig.
+</figure>
+
+Hemma kring huset hittade Åke några egna favoriter. En sådan var fårfällen i vardagsrummet. Den var så mjuk och skön! Han lade sig ofta platt ner på fällen och bara njöt. Ett annat nöje var grannens katt, Tom. Den har börjat komma och gå hos farmor och farfar som om den bodde i huset. Visst var den lite reserverad i början när den upptäckte att det fanns två barn i närheten, men snart släppte rädslan och den lät sig bli klappad. Tage var inte så jätteintresserad, men Åke släppte allt annat när katten visade sig.
 
 <figure>
 	<img src="../../../img/2011/07/Pyrtet+-+Blandat-_MG_1334.jpg">
@@ -48,7 +50,7 @@ I Småland var vi mestadels på tomten kring farmor och farfars hus. Där kunde 
 </figure>
 
 En dag fick vi besök från Halmstad: mormor och morfar kom och hälsade på. De kom susande i en lånad sportbil, men eftersom Mamman hade givit dem en vägbeskrivning som inte var till den närmaste eller enklaste vägen, utan i stället till den vackraste, så blev det lite förvirrat innan de hittade hela vägen fram. När de klev ur bilen öppnade sig himlen och ett kraftigt skyfall hälsade dem välkomna till det småländska höglandet. Efter lunch upphörde dock regnet och vi kunde ta en längre promenad och titta på omgivningarna. Pappan guidade dem sedan runt i Braås och vi drack kaffe och åt kakor och smultrontårta på verandan.
-<br><br>
+
 
 <figure>
 	<img src="../../../img/2011/07/Pyrtet+-+Blandat-_MG_1350.jpg">

@@ -15,7 +15,7 @@ Dagen innan lucia, en fredag, var det julkonsert på Åkes förskola. Det hette 
 </figure>
 
 <figure>
-	<img src="../../../../img/Lucia%2Bpa%CC%8A%2BIl%2BCrocodill-PERK8802.jpg" height="228">
+	<img src="../../../../img/Lucia%2Bpa%CC%8A%2BIl%2BCrocodill-PERK8802.jpg">
 	<figcaption>Åke var väldigt fokuserad i år och en av stöttepelarna i gruppen. Iallafall i mina ögon.</figcaption>
 </figure>
 
@@ -29,9 +29,7 @@ Dagen innan lucia, en fredag, var det julkonsert på Åkes förskola. Det hette 
 	<figcaption>Bjussar Åke på en del av sin pepparkaka månne?</i> </figcaption>
 </figure>
 
-
-
 <figure>
 	<img src="../../../../img/Lucia%2Bpa%CC%8A%2BIl%2BCrocodill-PERK8823.jpg">
-	<figcaption>Efteråt sprang Åke omkring med några andra barn på klipporna i parken. <br>De var dock hala av is och det var ren tur att ingen gjorde sig illa.</figcaption>
+	<figcaption>Efteråt sprang Åke omkring med några andra barn på klipporna i parken. De var dock hala av is och det var ren tur att ingen gjorde sig illa.</figcaption>
 </figure>

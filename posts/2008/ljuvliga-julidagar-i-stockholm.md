@@ -15,7 +15,7 @@ Imorgon bär det av ner till mormor och morfar i Halmstad. Här kommer några bi
 
 <figure>
 	<img src="../../../img/2008/07/HosKarin%26PG+019.jpg">
-	<figcaption>Tage och P-G har man-to-man-talk.<br>Jag och Tage åkte ut till Karins och P-G&apos;s mysiga sommarstuga i Stavsnäs och sov över.
+	<figcaption>Tage och P-G har man-to-man-talk. <br>Jag och Tage åkte ut till Karins och P-G&apos;s mysiga sommarstuga i Stavsnäs och sov över.
     </figcaption>
 </figure>
 <figure>

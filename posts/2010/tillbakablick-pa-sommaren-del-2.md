@@ -8,7 +8,7 @@ originalUrl: https://nejtupp.blogspot.com/2010/09/tillbakablick-pa-sommaren-del-
 ---
 
 **Vattenkrig i mormor och morfars trädgård i Halmstad**
-<br><br>
+
 
 <figure>
 	<img src="../../../img/2010/09/Vattenlek+i+Ebbehill-_MG_3211.jpg">

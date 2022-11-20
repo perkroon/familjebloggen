@@ -14,7 +14,7 @@ originalUrl: https://nejtupp.blogspot.com/2012/01/veckan-fore-dopparedan-i-halms
 	<figcaption>Vårt jullov startade en hel vecka före jul så då åkte vi ned till mormor och morfar i Halmstad. Där var julens förberedelser i full gång. En och annan fika blev det förstås.</i></span></figcaption>
 </figure>
 
-<div class="separator" style="clear: both; text-align: center;"><br>
+<div class="separator" style="clear: both; text-align: center;">
 
 <figure>
 	<img src="../../../img/2011/12/Innan+jul+pa%25CC%258A+Ebbehill-_MG_0321.jpg">
@@ -29,21 +29,26 @@ originalUrl: https://nejtupp.blogspot.com/2012/01/veckan-fore-dopparedan-i-halms
 <figure>
 	<img src="../../../img/2011/12/Innan+jul+pa%25CC%258A+Ebbehill-_MG_0324.jpg">
 	<figcaption>Julsångerna skulle spelas.</figcaption>
-</figure><table cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"> <img src="../../../img/2011/12/Innan+jul+pa%25CC%258A+Ebbehill-_MG_0368.jpg">
+</figure>
+
+<figure>
+	<img src="../../../img/2011/12/Innan+jul+pa%25CC%258A+Ebbehill-_MG_0368.jpg">
 	<figcaption>Den dansande julgranen hade fullt sjå.</figcaption>
-</figure><br>
+</figure><
 
 <figure>
 	<img src="../../../img/2011/12/Innan+jul+pa%25CC%258A+Ebbehill-_MG_0358.jpg">
 	<figcaption>Självklart fanns det också tid för en och annan sagostund med morbror Filip.</figcaption>
-</figure><br>
+</figure>
 
 <figure>
 	<img src="../../../img/2011/12/Innan+jul+pa%25CC%258A+Ebbehill-_MG_0348.jpg">
 	<figcaption>Och även en och annan lugn stund med favoritspelen Toca boca.</figcaption>
-</figure><br>
+</figure>
 
 <figure>
 	<img src="../../../img/2011/12/Innan+jul+pa%25CC%258A+Ebbehill-_MG_0356.jpg">
-	<figcaption>När vi hade varit borta några dagar började Åke sakna farfar så han satte sig till rätta,<br> tog upp fönstertermometern och ringde farfar. Trodde han i alla fall.</figcaption>
-</figure>Det var otroligt skönt att ha en hel ledig vecka innan självaste dopparedagen infann sig. Det ska vi komma ihåg till kommande år.<br>
+	<figcaption>När vi hade varit borta några dagar började Åke sakna farfar så han satte sig till rätta, tog upp fönstertermometern och ringde farfar. Trodde han i alla fall.</figcaption>
+</figure>
+
+Det var otroligt skönt att ha en hel ledig vecka innan självaste dopparedagen infann sig. Det ska vi komma ihåg till kommande år.

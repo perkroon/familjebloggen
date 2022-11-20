@@ -91,7 +91,7 @@ Det är vid den här tiden jag oftast börjar förbereda kvällens middag. Tage 
 
 <figure>
 	<img src="../../../img/2009/01/_MG_0392_1024pix.jpg">
-	<figcaption>Tage har hittat några ställen där det är roligt att<br>gömma sig. Ett av dem är här i köket, bredvid kylskåpet.</figcaption>
+	<figcaption>Tage har hittat några ställen där det är roligt att <br>gömma sig. Ett av dem är här i köket, bredvid kylskåpet.</figcaption>
 </figure>
 
 **18.30 Kvällsmat**

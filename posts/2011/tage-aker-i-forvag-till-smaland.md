@@ -14,7 +14,7 @@ I  normala fall skulle resan tagit tre timmar, plus en timme med bil, men  nu bl
 <br><br>
 
 Resten av barnfamiljen åkte ner till farmor  och farfar i Småland på lördagen, och fick träffa Tage igen efter två  dygn ifrån varandra. Vi fick fint väder och hade det kul med farmor och farfar innan vi åkte vidare till Öland på måndagen.
-<br><br>
+
 
 <figure>
 	<img src="../../../img/2011/06/Majsemester-_MG_9247.jpg">

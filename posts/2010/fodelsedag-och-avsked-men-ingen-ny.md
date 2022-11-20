@@ -8,7 +8,7 @@ originalUrl: https://nejtupp.blogspot.com/2010/03/fodelsedag-och-avsked-men-inge
 ---
 
 Idag var lill-pyret beräknad att komma men valde att stanna i magen ytterligare ett tag. Det var nog lika bra för dagen har varit tillräckligt händelserik ändå.
-<br><br>
+
 
 <figure>
 	<img src="../../../img/2010/03/Tage+fyller+2+%C3%A5r-_MG_0139.jpg">

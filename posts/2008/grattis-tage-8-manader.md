@@ -29,7 +29,7 @@ Efter badet mötte vi upp Anna och lilla Miriam som fyllde 3 månader idag, och 
 
 <figure>
 	<img src="../../../img/2008/10/Nov+2008+007.jpg">
-	<figcaption>Tage står mycket stadigt nu och går utmed möblerna.<br>Den här pallen skjuter han framför sig som en gåstol.</figcaption>
+	<figcaption>Tage står mycket stadigt nu och går utmed möblerna. <br>Den här pallen skjuter han framför sig som en gåstol.</figcaption>
 </figure>
 
 <div class="comments">

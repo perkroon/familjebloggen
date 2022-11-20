@@ -110,7 +110,7 @@ Det var heller inte svårt att hitta på saker för Åke, som inte alls var intr
 </figure>
 
 <figure>
-	<img src="../../../../img/A%CC%8Areresan-PERK2266.jpg" height="425">
+	<img src="../../../../img/A%CC%8Areresan-PERK2266.jpg">
 	<figcaption>Tage, Nils, Harry och Åke äter mellanmål.</figcaption>
 </figure>
 

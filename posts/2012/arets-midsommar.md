@@ -93,7 +93,7 @@ På kvällen lade jag barnen i Ebbelill, men lyckades ta mig in i festen igen ef
 	<figcaption></figcaption>
 </figure>
 
-På Midsommardagen, dagen efter festen, tog vi det ganska lugnt, men Åke och Pappan gjorde en kortare utflykt i Aleskogen där vi bland annat hittade en koja och en snigel. Tage och Mamman gick till simstadion igen. På söndagen tog vi tåget tillbaka till Stockholm igen, både Åke och Mamman sov riktigt gott på sträckan mellan Göteborg och Stockholm. En härlig midsommar 2012!<br><br>
+På Midsommardagen, dagen efter festen, tog vi det ganska lugnt, men Åke och Pappan gjorde en kortare utflykt i Aleskogen där vi bland annat hittade en koja och en snigel. Tage och Mamman gick till simstadion igen. På söndagen tog vi tåget tillbaka till Stockholm igen, både Åke och Mamman sov riktigt gott på sträckan mellan Göteborg och Stockholm. En härlig midsommar 2012!
 
 <figure>
 	<img src="../../../../img/Midsommar+pa%CC%8A+Ebbehill_17.jpg">

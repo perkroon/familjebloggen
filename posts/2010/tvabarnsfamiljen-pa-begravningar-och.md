@@ -13,7 +13,7 @@ originalUrl: https://nejtupp.blogspot.com/2010/04/tvabarnsfamiljen-pa-begravning
 </figure>
 
 Flera veckor har passerat sedan senaste inlägget. Vi vänjer oss alltmer för varje dag att vara tvåbarnsfamilj och det går förvånansvärt bra. Dock har vi märkt att det definitivt blivit mindre tid över till sådana saker som att blogga, städa och fixa i lägenheten. Åke är nu 6 veckor gammal. De första två veckorna när vi var lediga tillsammans var ju som sagt underbara. De följande två veckorna var lite kaosartade vid de tillfällena då jag ensam skulle ta hand om både Tage och Åke, framför allt då jag skulle lämna och hämta Tage på förskolan med allt vad det innebär med tvåårstrots och övertalning om att ta på sig alla vinterplaggen, lämna leksakerna, tränga sig in i hissen och komma iväg, under tidspress och till ljudet av hjärtskärande spädbarnsskrik. Och ibland med en trasig hiss. Det gav helt klart ett ökat stresspåslag och jag funderade lite på hur sliten och slutkörd jag skulle bli om det alltid skulle vara så där. De senaste två veckorna har det dock gått riktigt bra och det handlar nog om att både jag och Tage har vant oss vid situationen. Framför allt har jag lärt mig hur Åke fungerar och insett att han faktiskt är hur lätt som helst, bara han är mätt och inte för varm. Så länge han förnöjsamt bara hänger med, medan Tage och jag sakta men säkert blir klara med vårt, så går det hela utan några problem alls. Det är skönt.
-<br><br>
+
 
 <figure>
 	<img src="../../../img/2010/04/P%C3%A5sk+i+Halmstad-_MG_1038.jpg">

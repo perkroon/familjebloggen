@@ -34,7 +34,7 @@ Vi fick se en lite blygare Åke än vi är van vid. Han ville helst att vi skull
 
 <figure>
 	<img src="../../../../img/Barnkalas+hos+Elsa+3+a%CC%8Ar-5C5C1026.jpg">
-	<figcaption>Efter tårta, bullar och kakor så blev det mer lek. Elsa gick omkring i högklackade skor och Åke sorterade mjukdjuren.<br>Han letade ganska mycket efter bilar, men hittade inga i det här hemmet.</figcaption>
+	<figcaption>Efter tårta, bullar och kakor så blev det mer lek. Elsa gick omkring i högklackade skor och Åke sorterade mjukdjuren. <br>Han letade ganska mycket efter bilar, men hittade inga i det här hemmet.</figcaption>
 </figure>
 
 <figure>

@@ -7,7 +7,7 @@ layout: layouts/post.njk
 originalUrl:	https://nejtupp.blogspot.com/2016/03/tage-och-axels-kalas-pa-langholmen.html
 ---
 
-Tage och Axel hade ett gemensamt kalas för sina klasskamrater. Vi bjöd in sent, bara en vecka innan kalaset, och en hel del var sjuka så det kom bara omkring 12 personer. Men det var ganska lagom. Vi hade länge hållit koll på väderprognosen inför dagen. Bara en vecka innan hade det varit snöblandat regn, blåst och allmänt blött, kallt och ruggigt, så när vi insåg att just kalasdagen skulle bli en av vårens första soliga och varma dagar var vi väldigt nöjda. Kalaset började kl. 14, vi började förbereda på plats kl. 13 och innan dess hade farmor och farfar hämtat Åke för andra aktiviteter.</div>
+Tage och Axel hade ett gemensamt kalas för sina klasskamrater. Vi bjöd in sent, bara en vecka innan kalaset, och en hel del var sjuka så det kom bara omkring 12 personer. Men det var ganska lagom. Vi hade länge hållit koll på väderprognosen inför dagen. Bara en vecka innan hade det varit snöblandat regn, blåst och allmänt blött, kallt och ruggigt, så när vi insåg att just kalasdagen skulle bli en av vårens första soliga och varma dagar var vi väldigt nöjda. Kalaset började kl. 14, vi började förbereda på plats kl. 13 och innan dess hade farmor och farfar hämtat Åke för andra aktiviteter.
 
 <figure>
 	<img src="../../../img/2016/03/Tage och Axels kalas-PERK1142.jpg">
@@ -31,7 +31,7 @@ Tage och Axel hade ett gemensamt kalas för sina klasskamrater. Vi bjöd in sent
 
 <figure>
 	<img src="../../../img/2016/03/Tage och Axels kalas-PERK1194.jpg">
-    <figcaption>Efter lekarna bjöd vi på fika. Det var cupcakes, chokladbollar, chokladsnittar, schackrutor och kanelbullar. <br>Till det serverades varm choklad eller festis att dricka.</figcaption>
+    <figcaption>Efter lekarna bjöd vi på fika. Det var cupcakes, chokladbollar, chokladsnittar, schackrutor och kanelbullar. Till det serverades varm choklad eller festis att dricka.</figcaption>
 </figure>
 
 <figure>
@@ -46,7 +46,7 @@ Tage och Axel hade ett gemensamt kalas för sina klasskamrater. Vi bjöd in sent
 
 <figure>
 	<img src="../../../img/2016/03/Tage och Axels kalas-PERK1233.jpg">
-    <figcaption>Efter fikat blev det skattjakt. Fyra siffror i en hemlig kod fick barnen leta ut med hjälp <br>av ledtrådar utspridda över ön. På papperslappar fick de instruktioner om hur<br> de skulle hitta till nästa ledtråd, men instruktionerna måste först sorteras i rätt ordning.</figcaption>
+    <figcaption>Efter fikat blev det skattjakt. Fyra siffror i en hemlig kod fick barnen leta ut med hjälp av ledtrådar utspridda över ön. På papperslappar fick de instruktioner om hur de skulle hitta till nästa ledtråd, men instruktionerna måste först sorteras i rätt ordning.</figcaption>
 </figure>
 
 <figure>
@@ -56,7 +56,7 @@ Tage och Axel hade ett gemensamt kalas för sina klasskamrater. Vi bjöd in sent
 
 <figure>
 	<img src="../../../img/2016/03/Tage och Axels kalas-PERK1291.jpg">
-    <figcaption>Det sista vi organiserade var en dragkamp mellan de vuxna och barnen. <br>Barnen vann – kanske för att jag var domare och fotograferade?</figcaption>
+    <figcaption>Det sista vi organiserade var en dragkamp mellan de vuxna och barnen. Barnen vann – kanske för att jag var domare och fotograferade?</figcaption>
 </figure>
 
 <figure>

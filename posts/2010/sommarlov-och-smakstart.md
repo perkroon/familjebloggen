@@ -15,7 +15,7 @@ Sedan första april har jag hämtat Tage från förskolan klockan 15 varje dag o
 
 
 <figure>
-	<img src="../../../img/2010/07/%C3%85kes+f%C3%B6rsta+smakm%C3%A5ltid-_MG_1588.jpg">
+	<img src="../../../img/2010/07/Åkes+första+smakmåltid-_MG_1588.jpg">
 	<figcaption>Det är inte så lätt att hålla sig ren och prydlig när det är allra första gången i livet man äter med sked.</figcaption>
 </figure>
 

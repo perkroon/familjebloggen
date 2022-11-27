@@ -30,7 +30,7 @@ Sista anhalten på vår semester blev underbara Öland. Först var vi där  sjä
 </figure>
 
 <figure>
-	<img src="/../../img/2010/09/Vid raukarna i Byrum-_MG_3989.jpg">
+	<img src="../../../img/2010/09/Vid raukarna i Byrum-_MG_3989.jpg">
 	<figcaption>Tage, Pappan och Blå Jungfrun.</figcaption>
 </figure>
 

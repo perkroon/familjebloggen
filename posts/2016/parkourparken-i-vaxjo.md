@@ -30,7 +30,7 @@ Vädret var ostadigt och vi behövde röra lite på oss, så vi lånade farmor o
 </figure>
 
 <figure>
-	<img src="../../../../img/raw_5.jpg">
+	<img src="../../../img/2016/08/raw_5.jpg">
     <figcaption>Jag fick också prova på. Fotograf: Tage.</figcaption>
 </figure>
 

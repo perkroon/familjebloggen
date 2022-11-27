@@ -47,35 +47,35 @@ Pelle ropade åt Sofia "Strunta i Tage, ring Josefine" (min syster som är barnm
 När de trevliga ambulansmännen kom kände jag en enorm lättnad och först då kände jag att det här kommer nog gå bra ändå. De försäkrade sig om att lillbebisen mådde OK och hjälpte mig sedan att med bebisen i famnen gå ut till hissen. Där nere väntade en bår som jag fick åka på ut i ambulansen. Pelle fick sitta fram i ambulansen. Innan vi åkte frågade en av ambulansmännen om vi hade någon bebismössa att sätta på den lille nyfödde för att bevara värmen men det kändes för omständligt att börja leta bland bebiskläderna i det läget så istället fick lille Åke på sig Pelles bruna keps. Det ska börjas i tid, tyckte ambulansmannen. När vi kom fram till Södra BB i ambulans med blåljus och en född bebis blev barnmorskan som tog emot (och som jag pratat med drygt en halvtimme tidigare) lite överrumplad för hon visste ju ingenting av vad som hade skett sedan samtalet. Men hon och den övriga personalen var fantastiskt lugna och proffsiga och vi kände oss otroligt väl omhändertagna alla tre. Vi fick komma in på ett av deras mysiga rum och där konstaterades att lille Åke mådde utmärkt och t.o.m. var godkänd i kroppstemperatur även om han låg precis på nedre acceptabla gränsen. Navelsträngen klipptes och lille Åke började ammas. Lugnet infann sig och allt kändes så fantastiskt.
 
 <figure>
-	<img src="../../../img/2010/03/S%C3%B6dra+BB-_MG_0163.jpg">
+	<img src="../../../img/2010/03/Södra+BB-_MG_0163.jpg">
 	<figcaption>Barnmorskan pysslar om lille Åke.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../img/2010/03/S%C3%B6dra+BB-_MG_0186.jpg">
+	<img src="../../../img/2010/03/Södra+BB-_MG_0186.jpg">
 	<figcaption>Liten och skrynklig – men stark.</figcaption>
 
 <figure>
-	<img src="../../../img/2010/03/S%C3%B6dra+BB-_MG_0168.jpg">
+	<img src="../../../img/2010/03/Södra+BB-_MG_0168.jpg">
 	<figcaption>Lill-Åke har bytt huvudbonad från Pappas stora keps till en av landstingets bebiskalsonger.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../img/2010/03/S%C3%B6dra+BB-_MG_0174.jpg">
+	<img src="../../../img/2010/03/Södra+BB-_MG_0174.jpg">
 	<figcaption>Friden har lagt sig.</figcaption>
 </figure>
 
 När personalen hade lämnat oss ringde vi Sofia för att höra att det var OK med henne. Hon var förstås också fortfarande klarvaken och uppe i varv. Hon mådde bra och Tage hade inte vaknat mer. Sofia berättade att hon i tumultet i väntan på ambulansen också ringt min mamma och pappa och sagt att jag fött en bebis i hallen så jag ringde upp dem också. De var också klarvakna och kunde inte sova och det kändes skönt att prata med dem också. Vi var ju fortfarande ganska mycket i chocktillstånd Pelle och jag. Pelle ringde även sina föräldrar som är på Nya Zeeland och berättade om den stora händelsen. Sedan somnade han och även lille Åke. Själv låg jag vaken nästan hela natten för jag var så uppe i varv och tankarna bara flög runt i huvudet. Men jag kände en oerhörd lycka. På morgonen låg vi bara och skrattade åt det galna händelseförloppet.
 
 <figure>
-	<img src="../../../img/2010/03/S%C3%B6dra+BB-_MG_0193.jpg">
+	<img src="../../../img/2010/03/Södra+BB-_MG_0193.jpg">
 	<figcaption>Äntligen är det morgon så att vi kunde ringa Sofia igen! Tage mådde bra enligt Sofia och satt glad och sjungande och åt sin frukost och verkade inte minnas något av nattens händelser.</figcaption>
 </figure>
 
 Dagarna efter har vi känt ett starkt behov av att gå igenom hela händelseförloppet om och om igen för att kunna smälta det. Härom kvällen träffade vi Sofia igen och gick igenom händelserna igen och det kändes väldigt bra. Vi insåg att vi hade olika starka minnen av olika saker och kunde tillsammans fylla i hela händelseförloppet. Tidpunkterna för de olika händelserna och framför allt själva födseln fick vi fram genom att kolla på telefonen när vi hade ringt de olika samtalen. Själv har jag en total minneslucka från det att jag kände att huvudet var ute tills jag kastade mig fram mot Pelles telefon för att prata med 112-telefonisten. Själva födseln kan jag alltså inte minnas. Det var nog helt enkelt FÖR chockartat.
 
 <figure>
-	<img src="../../../img/2010/03/S%C3%B6dra+BB-_MG_0199.jpg">
+	<img src="../../../img/2010/03/Södra+BB-_MG_0199.jpg">
 	<figcaption>Så fin var han, vår lille Åke.</figcaption>
 </figure>
 

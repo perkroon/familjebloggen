@@ -27,41 +27,41 @@ I mitten av maj tog vi som vi brukar en liten försommarsemester för att känna
 Efter två dagar i Pyrtet åkte Pelle, jag och Åke vidare till Österlen. I två nätter sov vi på hotell Tornväktaren i Ystad och på dagarna åkte vi runt och utforskade vackra Österlen. Det var första gången vi var iväg ensamma med Åke. Tage stannade kvar hos farmor, farfar och faster Jenny. Hittills hade vi bara haft barnvakt över en natt men den här gången blev det två nätter och tre dagar. Det var tydligen inga problem för Tage, han hade som alltid skoj i Pyrtet med farmor och farfar. Det var nog Pelle och jag som längtade mest.
 
 <figure>
-	<img src="../../../img/2010/06/%C3%96sterlen-_MG_0137.jpg">
+	<img src="../../../img/2010/06/Österlen-_MG_0137.jpg">
 	<figcaption>Åke trivs i bilbarnstolen. Bara han får ha sitt goselejon i närheten.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../img/2010/06/%C3%96sterlen-_MG_0064.jpg">
+	<img src="../../../img/2010/06/Österlen-_MG_0064.jpg">
 	<figcaption>På vägen ner mot Österlen stannade vi och besökte Wanås konstutställning. Här är Åke och jag i den fantastiska ladan - en upplevelse man ej bör missa.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../img/2010/06/%C3%96sterlen-_MG_0090.jpg">
+	<img src="../../../img/2010/06/Österlen-_MG_0090.jpg">
 	<figcaption>Disig morgon vid Ale stenar. </figcaption>
 </figure>
 
 <figure>
-	<img src="../../../img/2010/06/%C3%96sterlen-_MG_0083.jpg">
+	<img src="../../../img/2010/06/Österlen-_MG_0083.jpg">
 	<figcaption>Vid Ale stenars gröna sluttningar.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../img/2010/06/%C3%96sterlen-_MG_0149.jpg">
+	<img src="../../../img/2010/06/Österlen-_MG_0149.jpg">
 	<figcaption>Skogspromenad utanför Kivik.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../img/2010/06/%C3%96sterlen-_MG_0163.jpg">
+	<img src="../../../img/2010/06/Österlen-_MG_0163.jpg">
 	<figcaption>Kaffestund på Sågmöllans café vid kungagraven i Kivik.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../img/2010/06/%C3%96sterlen-_MG_0228.jpg">
+	<img src="../../../img/2010/06/Österlen-_MG_0228.jpg">
 	<figcaption>I Rörum hälsade vi på Linda, Matteo och Tages kompis Elvis och fikade i deras fantastiska trädgård.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../img/2010/06/%C3%96sterlen-_MG_0236.jpg">
+	<img src="../../../img/2010/06/Österlen-_MG_0236.jpg">
 	<figcaption>Fina Elvan!</figcaption>
 </figure>

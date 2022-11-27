@@ -11,7 +11,7 @@ Idag var lill-pyret beräknad att komma men valde att stanna i magen ytterligare
 
 
 <figure>
-	<img src="../../../img/2010/03/Tage+fyller+2+%C3%A5r-_MG_0139.jpg">
+	<img src="../../../img/2010/03/Tage+fyller+2+år-_MG_0139.jpg">
 </figure>
 
 Tage fyller 2 år! Som vanligt var det han som vaknade först av oss tre precis som han brukar vid 6.30-tiden. Vi hade förberett oss så så fort han började ropa på oss smög vi upp, tog med ett tänt ljus, en blomma och två paket och tågade sjungande in till honom. Han såg lite förvånad ut men vi har ju pratat mycket med honom om hans födelsedag och han är mycket väl bekant med &apos;Ja må han leva&apos; så han visste ju vad spektaklet handlade om. Han fick en bok om Bu och Bä och ett stort konstigt paket med en tripptrapp-stol i. Mycket förtjust klättrade han genast upp på stolen och beordrade oss att sitta på golvet bredvid och läsa den nya boken för honom. Stolen gjorde också succé både vid frukosten och efteråt när Tage insåg att han kunde flytta runt den i köket och använda den som stege för att nå spännande saker som han inte har nått lika lätt förut. Efter frukosten gick Pelle till jobbet och Tage och jag gick så småningom till Högalidslekparken där förskolelämningen sker varje dag. Som vanligt kom Tages kompis Frida glatt och ivrigt framspringande och ropade: -Nu kommer Tage, nu kommer Tage! Och Tage blev som vanligt alldeles överförtjust av att träffa henne. Det är så roligt att de tycker så mycket om varandra. Tage fick också stora kramar av förskolelärarna Åsa och Paulo som visste att han fyllde år idag.

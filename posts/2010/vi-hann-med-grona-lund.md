@@ -18,7 +18,7 @@ Söndagen den 19 september, på valdagen 2010, begav vi oss till Gröna Lund på
 </figure>
 
 <figure>
-	<img src="../../../img/2010/10/Gr%C3%B6na+Lund-_MG_4567.jpg">
+	<img src="../../../img/2010/10/Gröna+Lund-_MG_4567.jpg">
 	<figcaption>Tage åkte karusell med Mamman...</figcaption>
 </figure>
 
@@ -43,12 +43,12 @@ Söndagen den 19 september, på valdagen 2010, begav vi oss till Gröna Lund på
 </figure>
 
 <figure>
-	<img src="../../../img/2010/10/Gr%C3%B6na+Lund-_MG_4560.jpg">
+	<img src="../../../img/2010/10/Gröna+Lund-_MG_4560.jpg">
 	<figcaption>Det kittlade skönt i svängarna...</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../img/2010/10/Gr%C3%B6na+Lund-_MG_4553.jpg">
+	<img src="../../../img/2010/10/Gröna+Lund-_MG_4553.jpg">
 	<figcaption>... och samtidigt vill man hålla koll på de som står och tittar på.</figcaption>
 </figure>
 

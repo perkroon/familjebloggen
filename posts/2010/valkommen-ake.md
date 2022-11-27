@@ -31,7 +31,7 @@ Lördagen den 5 juni hölls Åkes första officiella fest, dvs hans  namngivning
 </figure>
 
 <figure>
-	<img src="../../../img/2010/06/%C3%85kes+namngivning-_MG_0501.jpg">
+	<img src="../../../img/2010/06/Åkes+namngivning-_MG_0501.jpg">
 	<figcaption>Så här såg det ut på gården uppe från vårt köksfönster.</figcaption>
 </figure>
 
@@ -56,13 +56,13 @@ Lördagen den 5 juni hölls Åkes första officiella fest, dvs hans  namngivning
 
 
 <figure>
-	<img src="../../../img/2010/06/%C3%85kes+namngivning-_MG_0526.jpg">
+	<img src="../../../img/2010/06/Åkes+namngivning-_MG_0526.jpg">
 	<figcaption>Vädret var soligt men eftersom  vår gård skuggas av vårt hus blev det lite kyligt framåt kvällen så då fortsatte vi festen inne i vårt soliga vardagsrum istället.</figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="../../../img/2010/06/%C3%85kes+namngivning-_MG_0540.jpg">
+	<img src="../../../img/2010/06/Åkes+namngivning-_MG_0540.jpg">
 	<figcaption>Åke i centrum, leker med sin nya leksak masken. Det var som sagt en härlig dag och vi vill passa på att tacka för hjälpen med kalasförberedelserna och barnpassning och ett särskilt tack till farmor för den fantastiska tårtan!<figcaption>
 </figure>

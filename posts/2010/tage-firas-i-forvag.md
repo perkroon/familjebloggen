@@ -9,18 +9,18 @@ originalUrl: https://nejtupp.blogspot.com/2010/03/tage-firas-i-forvag.html
 
 
 <figure>
-	<img src="../../../img/2010/03/Tages+2-%C3%A5rskalas-_MG_0097.jpg">
+	<img src="../../../img/2010/03/Tages+2-årskalas-_MG_0097.jpg">
 </figure>
 
 I lördags hade vi 2-årskalas för Tage. Han fyller inte år förrän den 4 mars men det kändes lämpligt att fira honom i förväg eftersom vi ju inte vet när vi kommer att vara på BB den närmaste veckan. Dessutom passade vi på att ha kalas när Tages farmor och farfar var i stan. Idag åkte de nämligen iväg på en månads långresa till Nya Zeeland och Australien. Till kalaset kom också Tages två kusiner Ingrid och Tore, alla mostrar och morbröder som bor i Stockholm, Ina och Tages fadder Ulrika. Tage fick flera jätteroliga böcker som vi redan har hunnit läsa tiotals gånger och en fin badanka som han badade med idag. Av farmor och farfar fick han en trehjuling. Han kan inte trampa riktigt själv ännu men i vår/sommar kommer det nog gå fint.
 
 <figure>
-	<img src="../../../img/2010/03/Tages+2-%C3%A5rskalas-_MG_0119.jpg">
+	<img src="../../../img/2010/03/Tages+2-årskalas-_MG_0119.jpg">
 	<figcaption>Moster Johanna fiskar efter något gott i fiskdammen.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../img/2010/03/Tages+2-%C3%A5rskalas-_MG_0113.jpg">
+	<img src="../../../img/2010/03/Tages+2-årskalas-_MG_0113.jpg">
 	<figcaption>Tage blev glad för russinpaketet och aprikoserna som låg i hans påse. Johan blev glad för han fick något som han tyckte var godare än russin. Ina är uppslukad av den roliga prutt-boken.</figcaption>
 </figure>
 

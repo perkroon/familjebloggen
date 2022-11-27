@@ -18,7 +18,7 @@ Jag hade också hoppats på att bebisen skulle komma när min mamma var här i s
 
 
 <figure>
-    <img src="../../../img/2010/03/Tage+fyller+2+%C3%A5r-_MG_0149.jpg">
+    <img src="../../../img/2010/03/Tage+fyller+2+år-_MG_0149.jpg">
 </figure>
 
 Igår när jag låg bredvid Tage vid nattningen hade han varit helt tyst i 10 minuter och jag trodde att han hade somnat. Då sa han plötsligt: "Farfar åker flygplan. Farmor åker flygplan också". Sen tänkte han några sekunder och sedan la han till: "Mormor åker tåget". Det är viktiga saker för honom som han ligger och funderar på vid nattkvisten.

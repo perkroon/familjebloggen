@@ -42,7 +42,7 @@ Vi kom ned till mormor och morfar på onsdagen och stannade till söndagen. Mids
 Det vackra vädret fortsatte efter midsommarafton och vi fick några sköna lata dagar innan vi reste hem. Vi hann ta en titt på Sofias kolonistuga, hänga på verandan, leka i trädgården, se på fotbolls-VM, äta grillat hos Josefines och en hel del annat.
 
 <figure>
-	<img src="../../../img/2010/07/S%C3%B6ndag+i+Halmstad-_MG_1261.jpg">
+	<img src="../../../img/2010/07/Söndag+i+Halmstad-_MG_1261.jpg">
 	<figcaption>Mamman och Tage har bänkat sig för att njuta av...</figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ Det vackra vädret fortsatte efter midsommarafton och vi fick några sköna lata
 </figure>
 
  <figure>
-	<img src="../../../img/2010/07/S%C3%B6ndag+i+Halmstad-_MG_1278.jpg">
+	<img src="../../../img/2010/07/Söndag+i+Halmstad-_MG_1278.jpg">
 	<figcaption>Morfar hittade ett par kvarglömda solglasögon på festen som han var väldigt nöjd med när vi strosade genom kolonistugeområdet på söndagen.</figcaption>
 </figure>
 

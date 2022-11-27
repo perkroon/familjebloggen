@@ -8,7 +8,7 @@ originalUrl: https://nejtupp.blogspot.com/2010/03/aterblick-bb-och-hemkomsten.ht
 ---
 
 <figure>
-	<img src="../../../img/2010/03/S%C3%B6dra+BB-_MG_0274.jpg">
+	<img src="../../../img/2010/03/Södra+BB-_MG_0274.jpg">
 	<figcaption>Släktingarna beundrar det nya gossebarnet.</figcaption>
 </figure>
 

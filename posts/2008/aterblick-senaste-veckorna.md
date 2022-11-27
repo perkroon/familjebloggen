@@ -30,12 +30,12 @@ Tage och Mamman har varit så busy senaste tiden så vi har inte hunnit blogga s
 </figure>
 	
 <figure>
-	<img src="../../../img/2008/06/Tagep%C3%A5utflykt1024.jpg">
+	<img src="../../../img/2008/06/Tagepåutflykt1024.jpg">
 	<figcaption>Utflykt på Djurgården med Mamma och Pappa.</figcaption>
 </figure>
 	
 <figure>
-	<img src="../../../img/2008/06/Tagep%C3%A5Oracle700.jpg">
+	<img src="../../../img/2008/06/TagepåOracle700.jpg">
 	<figcaption>Tage på besök på Pappans jobb: Oraclekontoret i Kista. Tage har också varit och besökt Mammans jobb Fittja Vårdcentral.</figcaption>
 </figure>
 	
@@ -45,12 +45,12 @@ Tage och Mamman har varit så busy senaste tiden så vi har inte hunnit blogga s
 </figure>
 	
 <figure>
-	<img src="../../../img/2008/06/Tagep%C3%A5bilresa700.jpg">
+	<img src="../../../img/2008/06/Tagepåbilresa700.jpg">
 	<figcaption>Tage på den långa bilresan: Stockholm - Fam Elinder i Linköping - Farmor, Farfar, Gammelmormor Gun m fl i Braås -  sysslingarna i Växjö - Gammelfarmor Elin i Tingsryd - sommarstället på norra Öland - och tillbaks till Stockholm.Tage var nöjd och glad hela tiden. Sov den mesta tiden när han inte tittade på goselefanten och myrsloksfilten eller busade med Mamman eller Pappan som satt bredvid.</figcaption>
 </figure>
 
 <figure>
-	<img src="../../../img/2008/06/Tage%C3%A4rglad700.jpg">
+	<img src="../../../img/2008/06/Tageärglad700.jpg">
 	<figcaption>Tage är så glad och tycker så mycket om sin kanin. Här ligger han och väntar på att hans välkomstparty ska dra igång. Det var en sån varm och fin dag så "den mörka kostymen" med vit body och fluga åkte inte på förrän gästerna anlänt.</figcaption>
 </figure>
 	

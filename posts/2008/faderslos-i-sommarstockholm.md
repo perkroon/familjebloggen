@@ -10,7 +10,7 @@ originalUrl: https://nejtupp.blogspot.com/2008/07/fadersls-i-sommarstockholm.htm
 Tage och jag får roa oss bäst vi kan utan Pelle. Och det gör vi.  Det är sånt underbart  sommarväder i stan och vi promenerar och hänger på utefik och gräsmattor hela dagarna. Det är så härligt att vara mammaledig! Häromkvällen fick jag höra att några vänner satt på Djurgården och hade picknick efter parkteatern. Klockan var tio på kvällen men det hindrade inte oss från att åka dit, lägga oss på en filt och dricka lite rödvin. Å vad det är underbart med ljusa sommarnätter. Dygnet känns oändligt. I november skulle man ju aldrig komma på tanken att ge sig ut på en utflykt så sent även om det var inomhus. På tunnelbanan hem vid ett-snåret fick jag en sträng kommentar av en Mr Bean-lik man iklädd ill-orange kostym. "Barnvagn så här dags?!" Ja, varför inte? Är det nån som kan vara ute sent så är det väl jag och Tage. Vi har inga måsten eller tidsramar att passa. Vi sover så länge vi vill på mornarna. Vi vänder på dygnet nu när pappa Pelle är borta. Det skulle inte morfar gilla..
 
 <figure>
-	 <img src="../../../img/2008/07/Djurg%C3%A5rdsf%C3%A4rjan700.jpg">
+	 <img src="../../../img/2008/07/Djurgårdsfärjan700.jpg">
 	<figcaption>Tage på Djurgårdsfärjan. "Mamma, vart skaa vi? Klockan är mycket."</figcaption>
 </figure>
 
